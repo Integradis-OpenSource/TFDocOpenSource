@@ -7,7 +7,10 @@
 
 **Docente:** Angel Augusto Velasquez Nuñez
 
-Ciclo 2023-02
+**Startup**: Integradis
+
+**Producto**: Greenhouse
+
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
@@ -16,6 +19,8 @@ Ciclo 2023-02
 |Galavis Du Bois, Alan Enrique|U202110223|
 |Seminario Garbin, Carlo Luca|U20211A475|
 |Soto Kong Requena, Andres Eduardo|U202116113|
+
+**Ciclo 2023-02**
 
 ## Registro de versiones del informe
 
