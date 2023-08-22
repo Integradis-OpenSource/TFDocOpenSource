@@ -121,7 +121,7 @@ Lorem ipsum dolor sit amet
 
 | Perfiles de los integrantes del equipo |        |
 | :--------| :--------: |
-| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo.|<img src="https://hackmd.io/_uploads/H1dUSaqhn.png" alt="Nicolas Espinoza" width="250px" />
+| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo. Soy competente en los lenguajes de programación C++, Python y Javascript. Además, tengo conocimiento de tecnologías ágiles y software de control de versiones.|<img src="https://hackmd.io/_uploads/H1dUSaqhn.png" alt="Nicolas Espinoza" width="250px" />
 | Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png)|
 Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y proponiendo soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y conocimientos adquiridos mediante mi aprendizaje autónomo.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
@@ -152,8 +152,54 @@ Lorem ipsum dolor sit amet
 ####     1.2. Estrategias y tácticas frente a competidores.
 Lorem ipsum dolor sit amet
 ### 2. **Entrevistas.**
+La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
 ####     2.1. Diseño de entrevistas.
-Lorem ipsum dolor sit amet
+_Preguntas dirigidas al personal técnico supervisor de las fábricas de champiñones._
+___
+- Preguntas principales:
+  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
+  2. ¿Cuanto tiempo de experiencia posees en la industria de producción de champiñones y que rol desempeñas en la fábrica?
+  3. ¿Qué actividades desempeñas dentro de la fábrica?
+  4. ¿Cómo interactúas con el equipo a tu cargo para asegurarte de que las operaciones en la fábrica sean eficientes y exitosas? ¿Qué estrategias utilizas para mantener un ambiente de trabajo colaborativo y motivador?
+  5. ¿Podrías proporcionar una descripción general del proceso de cultivo de champiñones?
+  6. ¿Cuál es el propósito principal de la pasteurización en el contexto del cultivo de champiñones?
+  7. ¿Cuáles son los procesos clave que supervisas durante el crecimiento de los champiñones?
+  8. ¿Qué factores son los más importantes a tomar en cuenta para un cultivo exitoso de los champiñones? (temperatura, humedad, iluminación, etc.)
+  9. ¿Podrías explicar a detalle como se realiza el registro de procesos de las naves para una producción óptima de champiñones? ¿Cómo se realiza en el proceso de pasteurización?
+  10. ¿Cómo evalúan la efectividad de la pasteurización? ¿Qué indicadores utilizan para medir el éxito del proceso?
+  11. ¿Cómo se comunica la información sobre el estado y el progreso del proceso de pasteurización con otros departamentos o equipos?
+  12. ¿Cuáles son los desafíos más comunes que enfrentan en la supervisión de las naves de champiñones? ¿Qué incovenientes son frecuentes al momento de recibir reportes?
+  13. ¿Cuáles son los desafíos más comunes que enfrentan durante el proceso de pasteurización de champiñones?
+  14. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? ¿Cuáles son los beneficios más importantes del uso de estas herramientas?
+  15. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información del proceso de pasteurización y de los procesos que supervisas?
+  16. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  17. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
+   
+- Preguntas complementarias:
+  1. ¿Cómo garantizan la calidad y la seguridad alimentaria de los champiñones cultivados en la fábrica?
+  2. ¿Qué tipo de capacitación y formación reciben los técnicos encargados de la supervisión? ¿Cuáles son las habilidades clave necesarias para este trabajo?
+
+_Preguntas dirigidas a los administradores de las fábricas de champiñones._
+___
+- Preguntas principales:
+  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
+  2. ¿Cuanto tiempo de experiencia posees en la industria de producción de champiñones y que rol desempeñas en la fábrica?
+  3. ¿Qué actividades desempeñas dentro de la fábrica?
+  4. ¿Cómo es el proceso de cultivo de champiñones en las naves?
+  5. ¿Cuáles son los procesos que supervisas personalmente en la fábrica?
+  6. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo tu administración?
+  7. ¿Cómo se registra la información proveniente de los procesos realizados durante el cultivo y la pasteurización?
+  8. Dentro de la fábrica, ¿Cuentan con algún tipo de análisis estadístico u otra manera de visualizar la producción dentro de la fábrica y su trayectoria a través del tiempo?
+  9. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? 
+  10. ¿Qué tecnologías se han considerado implementar para automatizar el registro de procesos dentro de la fábrica?
+  11. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información proveniente de la fábrica?
+  12. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  13. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
+    
+- Preguntas complementarias:
+  1. ¿Qué te inspira a trabajar en la administración de las naves de los champiñones?
+  2. ¿Cómo se lleva un registro del inventario de champiñones producido?
+  
 ####     2.2. Registro de entrevistas.
 Lorem ipsum dolor sit amet
 ####     2.3. Análisis de entrevistas.
