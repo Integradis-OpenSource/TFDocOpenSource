@@ -162,18 +162,21 @@ ___
   3. ¿Qué actividades desempeñas dentro de la fábrica?
   4. ¿Cómo interactúas con el equipo a tu cargo para asegurarte de que las operaciones en la fábrica sean eficientes y exitosas? ¿Qué estrategias utilizas para mantener un ambiente de trabajo colaborativo y motivador?
   5. ¿Podrías proporcionar una descripción general del proceso de cultivo de champiñones?
-  6. ¿Cuál es el propósito principal de la pasteurización en el contexto del cultivo de champiñones?
-  7. ¿Cuáles son los procesos clave que supervisas durante el crecimiento de los champiñones?
-  8. ¿Qué factores son los más importantes a tomar en cuenta para un cultivo exitoso de los champiñones? (temperatura, humedad, iluminación, etc.)
-  9. ¿Podrías explicar a detalle como se realiza el registro de procesos de las naves para una producción óptima de champiñones? ¿Cómo se realiza en el proceso de pasteurización?
-  10. ¿Cómo evalúan la efectividad de la pasteurización? ¿Qué indicadores utilizan para medir el éxito del proceso?
-  11. ¿Cómo se comunica la información sobre el estado y el progreso del proceso de pasteurización con otros departamentos o equipos?
-  12. ¿Cuáles son los desafíos más comunes que enfrentan en la supervisión de las naves de champiñones? ¿Qué incovenientes son frecuentes al momento de recibir reportes?
-  13. ¿Cuáles son los desafíos más comunes que enfrentan durante el proceso de pasteurización de champiñones?
-  14. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? ¿Cuáles son los beneficios más importantes del uso de estas herramientas?
-  15. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información del proceso de pasteurización y de los procesos que supervisas?
-  16. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
-  17. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
+  6. ¿Con que frecuencia registras los procesos de la fábrica?
+  7. ¿Consideras tedioso el registro de procesos? ¿Cómo consideras que podría agilizarse u optimizarse este proceso?
+  8. ¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al momento de reportar de los procesos de la fábrica? ¿Cómo intentaron solucionar estos inconvenientes?
+  9. ¿Cuál es el propósito principal de la pasteurización en el contexto del cultivo de champiñones?
+  10. ¿Cuáles son los procesos clave que supervisas durante el crecimiento de los champiñones?
+  11. ¿Qué factores son los más importantes a tomar en cuenta para un cultivo exitoso de los champiñones? (temperatura, humedad, iluminación, etc.)
+  12. ¿Podrías explicar a detalle como se realiza el registro de procesos de las naves para una producción óptima de champiñones? ¿Cómo se realiza en el proceso de pasteurización?
+  13. ¿Cómo evalúan la efectividad de la pasteurización? ¿Qué indicadores utilizan para medir el éxito del proceso?
+  14. ¿Cómo se comunica la información sobre el estado y el progreso del proceso de pasteurización con otros departamentos o equipos?
+  15. ¿Cuáles son los desafíos más comunes que enfrentan en la supervisión de las naves de champiñones? ¿Qué incovenientes son frecuentes al momento de recibir reportes?
+  16. ¿Cuáles son los desafíos más comunes que enfrentan durante el proceso de pasteurización de champiñones?
+  17. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? ¿Cuáles son los beneficios más importantes del uso de estas herramientas?
+  18. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información del proceso de pasteurización y de los procesos que supervisas?
+  19. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  20. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
    
 - Preguntas complementarias:
   1. ¿Cómo garantizan la calidad y la seguridad alimentaria de los champiñones cultivados en la fábrica?
@@ -187,14 +190,16 @@ ___
   3. ¿Qué actividades desempeñas dentro de la fábrica?
   4. ¿Cómo es el proceso de cultivo de champiñones en las naves?
   5. ¿Cuáles son los procesos que supervisas personalmente en la fábrica?
-  6. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo tu administración?
-  7. ¿Cómo se registra la información proveniente de los procesos realizados durante el cultivo y la pasteurización?
-  8. Dentro de la fábrica, ¿Cuentan con algún tipo de análisis estadístico u otra manera de visualizar la producción dentro de la fábrica y su trayectoria a través del tiempo?
-  9. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? 
-  10. ¿Qué tecnologías se han considerado implementar para automatizar el registro de procesos dentro de la fábrica?
-  11. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información proveniente de la fábrica?
-  12. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
-  13. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
+  6. ¿Con que frecuencia recibes un reporte relacionado con los procesos y el estado actual de la fábrica? ¿Para qué utilizas esta información?
+  7. ¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al momento de reportar de los procesos de la fábrica? ¿Cómo intentaron solucionar estos inconvenientes?
+  8. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo tu administración?
+  9. ¿Cómo se registra la información proveniente de los procesos realizados durante el cultivo y la pasteurización?
+  10. Dentro de la fábrica, ¿Cuentan con algún tipo de análisis estadístico u otra manera de visualizar la producción dentro de la fábrica y su trayectoria a través del tiempo?
+  11. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? 
+  12. ¿Qué tecnologías se han considerado implementar para automatizar el registro de procesos dentro de la fábrica?
+  13. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información proveniente de la fábrica?
+  14. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  15. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
     
 - Preguntas complementarias:
   1. ¿Qué te inspira a trabajar en la administración de las naves de los champiñones?
@@ -262,12 +267,18 @@ Lorem ipsum dolor sit amet
 ### 5. **Web Applications Prototyping.**
 Lorem ipsum dolor sit amet
 ### 6. **Domain-Driven Software Architecture.**
+El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
+Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
 ####     6.1. Software Architecture Context Diagram.
-Lorem ipsum dolor sit amet
+El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
+![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c8473a3e-070d-4c49-b453-ba7f924ef5ef)
 ####     6.2. Software Architecture Container Diagrams.
-Lorem ipsum dolor sit amet
+El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
+![Greenhouse_container_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/2e4d2f78-7a25-4401-8eb7-abadd3119ac6)
 ####     6.3. Software Architecture Components Diagrams.
-Lorem ipsum dolor sit amet
+El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+![Greenhouse_component_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ddb673c6-81f3-42d7-a6f9-0e2a22084822)
+
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 Lorem ipsum dolor sit amet
