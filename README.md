@@ -285,8 +285,9 @@ Lorem ipsum dolor sit amet
 ####     7.2. Class Dictionary.
 Lorem ipsum dolor sit amet
 ### 8. **Database Design.**
+Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-Lorem ipsum dolor sit amet
+![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a2c4c664-9dcc-43b1-ae47-a1c5045267af)
 
 
 
