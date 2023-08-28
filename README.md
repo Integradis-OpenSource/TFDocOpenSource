@@ -114,8 +114,13 @@
 ## Capítulo I: Introducción.
 
 ### 1. **Startup Profile.**
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ####     1.1. Descripción del startup
-Lorem ipsum dolor sit amet
+La startup que se presenta recibe como nombre “Integradis”. Esta se enfoca en ofrecer proyectos de software que ayuden a la optimización de procesos en entornos empresariales. Se cuenta con un equipo técnico capacitado en crear aplicaciones que aporten calidad de vida necesaria a las empresas productoras que cuentan con sistemas antiguos y propensos a fallos.
+
+Como misión de la startup se plantea “crear productos basados en la realidad que permitan una mejoría en el desarrollo de los procesos productivos”. Para ello, la startup enfoca sus esfuerzos en la identificación de problemas frecuentes de los trabajadores y en la búsqueda de sus soluciones mediante el uso del software.
+
+Por otro lado, la visión de la startup consiste en “ser la ayuda número uno de las empresas para la simplificación de procesos productivos en el Perú”. Se busca la confianza de las empresas para que las soluciones de la startup puedan formar parte de los distintos rubros de la industria de producción. A su vez, el equipo busca ser reconocido nacionalmente como un modelo de negocio sostenible y comprometido con brindar un servicio de calidad que satisfaga las necesidades de los usuarios.
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -140,7 +145,8 @@ Lorem ipsum dolor sit amet
 #####         **2.2.4.Lean UX Canvas.**
 Lorem ipsum dolor sit amet
 ### 3. **Segmentos objetivo.**
-Lorem ipsum dolor sit amet
+Para el presente trabajo se han considerado dos segmentos objetivos.
+- Técnicos supervisores de la fábrica de champiñones, encargados de las coordinaciones generales de procesos productivos
 
 
 
