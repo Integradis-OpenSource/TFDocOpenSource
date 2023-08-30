@@ -116,11 +116,17 @@
 ### 1. **Startup Profile.**
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ####     1.1. Descripción del startup
-La startup que se presenta recibe como nombre “Integradis”. Esta se enfoca en ofrecer proyectos de software que ayuden a la optimización de procesos en entornos empresariales. Se cuenta con un equipo técnico capacitado en crear aplicaciones que aporten calidad de vida necesaria a las empresas productoras que cuentan con sistemas antiguos y propensos a fallos.
+La startup, presentada con el nombre de “Integradis”,se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. Nuestra misión es revolucionar la forma en que las fábricas de champiñones monitorean, registran y optimizan sus procesos de producción a través de una aplicación web intuitiva y poderosa. 
 
-Como misión de la startup se plantea “crear productos basados en la realidad que permitan una mejoría en el desarrollo de los procesos productivos”. Para ello, la startup enfoca sus esfuerzos en la identificación de problemas frecuentes de los trabajadores y en la búsqueda de sus soluciones mediante el uso del software.
+Misión: Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
 
-Por otro lado, la visión de la startup consiste en “ser la ayuda número uno de las empresas para la simplificación de procesos productivos en el Perú”. Se busca la confianza de las empresas para que las soluciones de la startup puedan formar parte de los distintos rubros de la industria de producción. A su vez, el equipo busca ser reconocido nacionalmente como un modelo de negocio sostenible y comprometido con brindar un servicio de calidad que satisfaga las necesidades de los usuarios.
+Visión: GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. 
+Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
+
+##### Logotipo de la Startup:
+   
+##### Logotipo del servicio
+
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -134,7 +140,28 @@ Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingenierí
 
 ### 2. **Solution Profile.**
 ####     2.1. Antecedentes y Problemática
-Lorem ipsum dolor sit amet
+##### ¿Cuáles son las 5W?
+###### What (Qué)
+###### ¿Cuál es el problema?
+ El problema radica en la ausencia de una herramienta cuya capacidad sea proporcionar al personal técnico, de supervisión y administrativo, un registro digital de los procesos involucrados en el crecimiento y 
+ elaboración de cultivos de industrias champiñoneras en el Perú. A pesar del uso de sistemas manuales para el registro de procesos, es un sistema propenso a fallos relacionados con errores humanos y resultan 
+ difíciles de navegar cuando se necesitan registros puntuales.
+
+###### When (Cuando)
+###### ¿Cuándo sucede el problema?
+El dilema principal surge cuando se percibe la necesidad de entablar un análisis ágil y eficiente de la producción de cultivos en las industrias champiñoneras a partir de los factores ambientales y económicos dentro del contexto interno de la empresa. Asimismo, se comprende la escasez de innovación tecnológica (automatización) en el registro de cultivos.
+
+###### Where (Dónde)
+###### ¿A dónde se dirige?
+El servicio está direccionado a ser agente de solución hacia las fábricas que incorporan el sector industria champiñonera del Perú.
+
+###### ¿Dónde surge el problema?
+El problema se manifiesta durante el desarrollo de las fases transcurridas para el registro de cultivos en las industrias champiñoneras. Es así que se involucra tanto al área de producción, siembra, cocción y pasteurización.
+
+###### Who (Quién)
+###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+Los usuarios del sistema serían los técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras en Perú. El personal técnico utilizaría la aplicación para registrar y monitorear en tiempo real los datos de crecimiento, humedad, temperatura, y otros aspectos cruciales en la producción de champiñones. Por otro lado, los administradores emplearían la plataforma para acceder a información clave generada por los técnicos y, así, realizar un seguimiento más amplio de la producción. Los datos recopilados en la aplicación les permitirán tomar decisiones estratégicas informadas como la asignación de recursos, la programación de tareas y la identificación de áreas de mejora en la producción.
+
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
 Lorem ipsum dolor sit amet
