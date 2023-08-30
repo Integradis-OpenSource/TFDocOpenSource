@@ -219,7 +219,43 @@ Lorem ipsum dolor sit amet
 ####     3.1. User Personas.
 Lorem ipsum dolor sit amet
 ####     3.2. User Task Matrix.
-Lorem ipsum dolor sit amet
+
+* Luis Flores (Técnico Supervisor):
+
+| Tarea | Frequencia | Importancia |
+| -------- | -------- | -------- |
+| Monitorear los procesos     | Always  | High     |
+|Registrar temperatura del compost|Always|High |
+|Registrar temperatura del aire|Always|High|
+|Registrar CO2|Always|High|
+|Registrar Humedad|Always|High|
+|Registrar Setting|Always|High|
+|Comunicar los registros|Always|High|
+|Control de calidad|Always|High|
+|Pesado de insumos|Always|High|
+|Mezclado de insumos |Always|Medium|
+|Remojar la paja|Always|Medium|
+|Regado del compost|Always|Medium|
+|Regado de las naves|Always|Medium|
+|Traslados entre fases|Always|Medium|
+|Utilizar los grupos de WhatsApp|Always|Low|
+
+* Alvaro Morales (Administrador):
+
+| Tarea | Frequencia | Importancia |
+| -------- | -------- | -------- |
+| Verificar la producción     | Always     | High     |
+|Supervisar los registros|Always|High|
+|Pagos al personal|Always|High|
+|Comunicación con el personal|Always|High|
+|Utilizar los grupos de WhatsApp|Always|High|
+|Comprar insumos a proveedores|Often|High|
+|Seguimiento de fallos|Often|High|
+|Modificación de fórmulas |Sometimes|High|
+|Buscar registros antiguos|Sometimes|Medium|
+|Uso de gráficos estadísticos|Rarely|Medium|
+|Manejo de Excel de la producción|Rarely|Medium|
+
 ####     3.3. User Journey Mapping.
 Lorem ipsum dolor sit amet
 ####     3.4. Empathy Mapping.
