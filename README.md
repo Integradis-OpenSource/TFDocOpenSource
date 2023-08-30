@@ -11,6 +11,7 @@
 
 **Producto**: Greenhouse
 
+
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
@@ -118,9 +119,9 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 ####     1.1. Descripción del startup
 La startup que se presenta recibe como nombre “Integradis”. Esta se enfoca en ofrecer proyectos de software que ayuden a la optimización de procesos en entornos empresariales. Se cuenta con un equipo técnico capacitado en crear aplicaciones que aporten calidad de vida necesaria a las empresas productoras que cuentan con sistemas antiguos y propensos a fallos.
 
-Como misión de la startup se plantea “crear productos basados en la realidad que permitan una mejoría en el desarrollo de los procesos productivos”. Para ello, la startup enfoca sus esfuerzos en la identificación de problemas frecuentes de los trabajadores y en la búsqueda de sus soluciones mediante el uso del software.
+Como **misión** de la startup se plantea “crear productos basados en la realidad que permitan una mejoría en el desarrollo de los procesos productivos”. Para ello, la startup enfoca sus esfuerzos en la identificación de problemas frecuentes de los trabajadores y en la búsqueda de sus soluciones mediante el uso del software.
 
-Por otro lado, la visión de la startup consiste en “ser la ayuda número uno de las empresas para la simplificación de procesos productivos en el Perú”. Se busca la confianza de las empresas para que las soluciones de la startup puedan formar parte de los distintos rubros de la industria de producción. A su vez, el equipo busca ser reconocido nacionalmente como un modelo de negocio sostenible y comprometido con brindar un servicio de calidad que satisfaga las necesidades de los usuarios.
+Por otro lado, la **visión** de la startup consiste en “ser la ayuda número uno de las empresas para la simplificación de procesos productivos en el Perú”. Se busca la confianza de las empresas para que las soluciones de la startup puedan formar parte de los distintos rubros de la industria de producción. A su vez, el equipo busca ser reconocido nacionalmente como un modelo de negocio sostenible y comprometido con brindar un servicio de calidad que satisfaga las necesidades de los usuarios.
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -217,7 +218,8 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
-Lorem ipsum dolor sit amet
+![Luis Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
+![Alvaro Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
 ####     3.2. User Task Matrix.
 
 * Luis Flores (Técnico Supervisor):
