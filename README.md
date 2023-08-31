@@ -162,6 +162,10 @@ El problema se manifiesta durante el desarrollo de las fases transcurridas para 
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
 Los usuarios del sistema serían los técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras en Perú. El personal técnico utilizaría la aplicación para registrar y monitorear en tiempo real los datos de crecimiento, humedad, temperatura, y otros aspectos cruciales en la producción de champiñones. Por otro lado, los administradores emplearían la plataforma para acceder a información clave generada por los técnicos y, así, realizar un seguimiento más amplio de la producción. Los datos recopilados en la aplicación les permitirán tomar decisiones estratégicas informadas como la asignación de recursos, la programación de tareas y la identificación de áreas de mejora en la producción.
 
+###### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+La causa principal del problema es la dificultad de incluir un sistema digital a una industria manual ya establecida. Muchos trabajadores de las fábricas champiñoneras no manejan eficientemente los medios digitales, por consiguiente, la optimización del registro de procesos vía un software de gestión resultaría ser un cambio complicado y costoso de realizar para la empresa. 
+
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
 Lorem ipsum dolor sit amet
