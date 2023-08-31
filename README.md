@@ -281,7 +281,19 @@ https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
-Lorem ipsum dolor sit amet
+
+Técnico Supervisor:
+
+![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
+
+https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14
+
+Administrador:
+
+![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
+
+https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14
+
 ### 2. **User Stories.**
 Lorem ipsum dolor sit amet
 ### 3. **Impact Mapping.**
