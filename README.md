@@ -263,7 +263,20 @@ Lorem ipsum dolor sit amet
 ####     3.4. Empathy Mapping.
 Lorem ipsum dolor sit amet
 ####     3.5. As-is Scenario Mapping.
-Lorem ipsum dolor sit amet
+
+Técnico Supervisor:
+
+![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
+
+
+https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14
+
+Administrador:
+
+![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
+
+
+https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14
 
 
 ## Capítulo III: Requirements Specification
