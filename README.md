@@ -273,7 +273,23 @@ Lorem ipsum dolor sit amet
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
 ####     1.1. General Style Guidelines.
-Lorem ipsum dolor sit amet
+El diseño web es considerado como una sección importante para el proyecto, pues se deben considerar varios requisitos para tener un diseño agradable a nuestros clientes finales. De la misma forma, debe estar basado en la marca y lo que se busca transmitir como startup.
+Es por ello que para la elaboración de la guía de estilo decidimos basarnos en los siguientes elementos:
+**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
+**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios
+**Público Objetivo:** Técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras del Perú. 
+**Personalidad de la marca:** Greenhouse ofrece la capacidad de gestionar y visualizar información de manera remota a las empresas champiñoneras del Perú. Es por esto que se busca una personalidad sincera y transparente para los clientes que confían el registro de sus procesos en la aplicación.
+ 
+**Valores fundamentales:** 
+Confianza, lealtad, seguridad y Calidad, Productividad, e Independencia. 
+Debido a que nuestro público objetivo son principalmente empresas industriales, debemos mantener un tono formal y de respeto en el tono de comunicación y en el lenguaje aplicado. De esta forma nuestros clientes se sientan a gusto con nuestro servicio.
+Las palabras bandera que representan nuestra marca son: Organizado, Productivo, Seguro y Confiable.
+
+**Paleta de colores:**
+![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
+**Tamaño y tipo de letra:**
+![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
+
 ####     1.2. Web Style Guidelines.
 Lorem ipsum dolor sit amet
 ### 2. **Information Architecture.**
