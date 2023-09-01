@@ -263,8 +263,12 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
     **Cuando** se perciba una reducción del 50% en el margen de error de registro de datos de procesos productivos dentro de la plataforma.  
 
 #####         **2.2.4.Lean UX Canvas.**
-Lorem ipsum dolor sit amet
-### 3. **Segmentos objetivo.**
+A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
+
+![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
+**Fuente:** https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 
+
+### 3. **Segmento objetivo.**
 Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor que en el año 2021. Si bien el número de exportaciones fluctúa ser próspero, se requiere un proceso de automatización para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. Así mismo, en los próximos treinta años, la demanda de alimentos se incrementará en un 70 %. Ello implica mejoras en la  gestión y producción de alimentos. El uso de herramientas tecnológicas e incluso disciplinas como la inteligencia artificial pueden ayudar a cumplir este objetivo mediante la creación de granjas virtuales que permiten planificar las actividades agrícolas y monitorear la evolución de los cultivos a través del registro de procesos y factores meteorológicos, ambientales y de cultivos involucrados. La automatización reduciría las dificultades exclamadas por el personal de las agroempresas en cuanto al registro de datos en herramientas manuales.
 Finalmente, en relación a las principales empresas exportadoras de champiñones se comprenden a Novos Distribución y Exportación del Perú con un 52,5% de los envíos totales y un monto de US$ 387,5 mil; C & M Aromatic Group S.A.C., con unos envíos por valor de US$ 200,5 mil; Export Aromático S.A.C., con US$ 149,8 mil; y Andean Trading Corporation S.A.C, con US$ 172. Lo último entablaría una alta tasa de inversionistas y usuarios para la plataforma.
 
