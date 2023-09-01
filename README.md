@@ -166,28 +166,195 @@ Los usuarios del sistema serían los técnicos encargados de la supervisión de 
 ###### ¿Cuál es la causa del problema?
 La causa principal del problema es la dificultad de incluir un sistema digital a una industria manual ya establecida. Muchos trabajadores de las fábricas champiñoneras no manejan eficientemente los medios digitales, por consiguiente, la optimización del registro de procesos vía un software de gestión resultaría ser un cambio complicado y costoso de realizar para la empresa. 
 
+##### ¿Cuáles son las 2H?
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+El producto será empleado para el registro de cultivos de champiñones. A partir de ello, se segmenta este proceso en determinadas fases y se consignan los insumos o elementos esenciales, agrícolas o ambientales, en la aplicación web para propiciar la adecuada producción de los champiñones.
+
+###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
+Los técnicos y administradores acceden a la aplicación web a través de un navegador. La aplicación les permitirá registrar datos de producción en formularios digitales específicos para cada proceso, como la preparación del sustrato (compost), la siembra, el proceso del túnel, entre otros. Los datos se almacenan en una base de datos segura y se presentan en gráficos y tablas de entendimiento dinámico para el usuario.
+
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+El producto será empleado para el registro de cultivos de champiñones. A partir de ello, se segmenta este proceso en determinadas fases y se consignan los insumos o elementos esenciales, agrícolas o ambientales, en la aplicación web para propiciar la adecuada producción de los champiñones.
+
+###### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor más que en el año 2021. Si bien el número de exportaciones aparenta ser próspero, se requiere un proceso de automatización adecuado para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. De acuerdo con The Yield Lab (2019), el reto para las startups de la industria agrícola es alcanzar soluciones para la producción de alimentos de una forma más sustentable y eficiente debido al incremento de la demanda en Latinoamérica. Es ahí que se ve implicada Greenhouse como alternativa de solución.
+
+###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
+El sistema puede ser utilizado por múltiples técnicos, supervisores y administradores que incorporan al personal de las fábricas champiñoneras. No hay un límite específico en cuanto al número de usuarios. Sin embargo, se establece una estimación de un 35% de usuarios beneficiarios dentro de este sector.
+
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
-Lorem ipsum dolor sit amet
+###### **Problem Statement:** 
+El propósito de GreenHouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
+
+El problema está presente al momento de realizar el registro de características en constante desarrollo durante el proceso de crecimiento de champiñones. Esta ineficiencia del registro y la dependencia del personal técnico y de supervisión hacia métodos manuales, como registros en papel y hojas de cálculo digitales conlleva a un aumento significativo en el margen de error. En primer lugar, se percibe un incremento en la cantidad de errores dentro del ingreso de datos de manera manual que incluyen omisiones, errores de transcripción y falta de consistencia en la información, relevante para la gestión de las fases posteriores de cultivo.
+
+Hemos observado que los prejuicios hacia la calidad del monitoreo productivo de los cultivos de champiñones es un derivado principal del problema previo. La falta de precisión en la recopilación y supervisión de datos altera la capacidad de tomar decisiones informadas en tiempo real lo que repercute en la eficiencia de la producción. En adición a ello, esta ausencia de confiabilidad en los datos resulta en impactos negativos dentro de la certificación de calidad, la trazabilidad y, en última instancia, la competitividad de la industria champiñonera peruana en los mercados nacionales e internacionales.
+
+¿Cómo podríamos monitorear de forma automatizada la información proveniente de los procesos productivos que implican los cultivos de champiñones sin generar pérdidas de datos relevantes?
+
 #####         **2.2.2.Lean UX Assumptions.**
-Lorem ipsum dolor sit amet
+###### **Business Assumptions:**
+1.  **Creemos que nuestros usuarios necesitan** una forma más eficiente de registrar y  monitorear los procesos productivos implicados en el cultivo industrial de champiñones.
+2.  **Estas necesidades se pueden satisfacer** con el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a los datos registrados por el personal técnico y administrativo de las fábricas champiñoneras del Perú.
+3.  **Nuestros clientes iniciales serán** los supervisores y administradores de las fábricas champiñoneras que dispongan de aparatos tecnológicos (computadoras, tablets o teléfonos móviles).
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** registrar los insumos relevantes involucrados en cada fase productiva dentro del cultivo de champiñones y visualizar los datos registrados a lo largo del tiempo.
+5.  **El cliente también va a obtener** diversos beneficios adicionales como visualizar gráficos estadísticos dentro de la aplicación con datos actuales e históricos.
+6.  **Vamos a obtener la mayoría de los clientes mediante** publicidad en línea y campañas de retención en las fábricas del sector productivo de champiñones en el Perú.
+7.  **Vamos a obtener ingresos mediante** el modelo de suscripción con diferentes niveles para el uso de la aplicación por parte de las empresas.
+8.  **Nuestra competencia en el mercado serán** las plataformas propias de agroempresas direccionadas al monitoreo o control de cultivos agrícolas.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que la plataforma incluye el registro de procesos productivos de cultivos a partir de la segmentación de fases involucradas en el desarrollo exclusivamente de la industria de champiñones.
+10.  **El mayor riesgo del servicio es** que el segmento objetivo no se muestre dispuesto e interesado en automatizar los procesos productivos de cultivo. Las razones vendrían a ser de un contexto interno social: problemas de adaptación, pensamiento estático y manejo de herramientas tecnológicas.
+11.  **Lo resolveremos realizando** un diseño dinámico y llamativo de la plataforma. De igual forma, se realizará una revisión constante de la plataforma y actualizaciones en caso de inserción de funcionalidades adicionales o mejoras.
+
+###### **User Assumptions:**
+###### **¿Quién es el usuario?**   
+Los usuarios son, en primera parte, el personal técnico supervisor y administrativo que incorporan las fábricas champiñoneras del Perú. Sin embargo, si la plataforma tiene éxito en este primer sector, se plantea extender para la implementación de toda la industria agrícola. En cuestión, sería adaptar la segmentación de fases al proceso productivo de la agroempresa.
+
+###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+Un problema, que enfrenta actualmente la aplicación, radica en la ausencia de la identificación automática de etapas de crecimiento involucradas dentro de los cultivos de champiñones. En ese sentido, los técnicos supervisores deben realizar dicha especificación de manera manual, es decir, cuando un cultivo debe ser trasladado de una fase de búnker a una fase de túnel y, posteriormente, a la fase de germinación.
+
+###### **¿Qué características son importantes?**
+Las características más importantes de la plataforma son: el registro y monitoreo de las fases productivas e insumos involucradas en los cultivos de champiñones, las cuales parten desde la siembra, la recolección, la producción, la administración, entre otros. Así mismo, se automatiza el análisis efectivo de datos históricos y actualizados a tiempo real, es así que se evitan pérdidas financieras y se trazan proyecciones como prósperas agroempresas dentro del mercado.
+
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+El producto encaja en la mejora de la gestión de procesos para el cultivo de champiñones lo que culmina en la eficiencia operativa, la rentabilidad y disminución de costos.
+
+###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+El servicio será utilizado por el segmento objetivo cuando surja la necesidad de registrar la información relevante involucrada en los procesos de producción de champiñones o en el análisis de datos históricos para la trazabilidad de metas a largo plazo como agroempresa. Es así que se evalúan los costos operativos actuales, la demanda de exportaciones y se toman decisiones a futuro dentro del mercado.
+
+###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe entablar y maximizar la conexión entre todo el personal de la fábrica, sin generar retrasos ni deficiencia comunicativa. El diseño debe ser llamativo, capaz de captar la atención del segmento objetivo y otorgar una experiencia acogedora. Finalmente, el comportamiento se direcciona a los términos de privacidad y seguridad de datos personales de los usuarios así como de la agroempresa.
+   
 #####         **2.2.3.Lean UX Hypothesis Statements.**
-Lorem ipsum dolor sit amet
+* **Hypothesis Statement 01:**
+    
+    **Creemos que** los técnicos supervisores y administradores de las fábricas champiñoneras estarán dispuestos a adoptar la aplicación para llevar un registro digital de los procesos productivos involucrados en el cultivo de champiñones.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** la tasa de adopción de la aplicación en los usuarios objetivo se encuentre alrededor del 80% dentro del primer trimestre de lanzamiento.
+  
+* **Hypothesis Statement 02:**
+    
+    **Creemos que** la aplicación fomentará una mejor comunicación y colaboración entre los técnicos supervisores y administradores al proporcionar una plataforma que exponga información resumida de los últimos procesos dentro de la fábrica.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** se perciba un aumento del 30% en la frecuencia de interacciones entre los diferentes equipos/segmentos del personal a través de la plataforma.
+
+* **Hypothesis Statement 03:**
+    
+    **Creemos que** la disponibilidad de datos en tiempo real y análisis históricos a través de la aplicación web permitirá a los administradores tomar decisiones más informadas y estratégicas sobre la asignación de recursos y mejoras en la producción.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos un 70% de las decisiones claves, tomadas por los administradores, se basan en análisis proporcionados por la aplicación web.
+
+* **Hypothesis Statement 04:**
+    
+    **Creemos que** la aplicación web mejorará la calidad de los datos de producción al reducir errores en los datos de entrada y registros inconsistentes en comparación con métodos manuales.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** se perciba una reducción del 50% en el margen de error de registro de datos de procesos productivos dentro de la plataforma.  
+
 #####         **2.2.4.Lean UX Canvas.**
 Lorem ipsum dolor sit amet
 ### 3. **Segmentos objetivo.**
-Para el presente trabajo se han considerado dos segmentos objetivos.
-- Técnicos supervisores de la fábrica de champiñones, encargados de las coordinaciones generales de procesos productivos
+Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor que en el año 2021. Si bien el número de exportaciones fluctúa ser próspero, se requiere un proceso de automatización para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. Así mismo, en los próximos treinta años, la demanda de alimentos se incrementará en un 70 %. Ello implica mejoras en la  gestión y producción de alimentos. El uso de herramientas tecnológicas e incluso disciplinas como la inteligencia artificial pueden ayudar a cumplir este objetivo mediante la creación de granjas virtuales que permiten planificar las actividades agrícolas y monitorear la evolución de los cultivos a través del registro de procesos y factores meteorológicos, ambientales y de cultivos involucrados. La automatización reduciría las dificultades exclamadas por el personal de las agroempresas en cuanto al registro de datos en herramientas manuales.
+Finalmente, en relación a las principales empresas exportadoras de champiñones se comprenden a Novos Distribución y Exportación del Perú con un 52,5% de los envíos totales y un monto de US$ 387,5 mil; C & M Aromatic Group S.A.C., con unos envíos por valor de US$ 200,5 mil; Export Aromático S.A.C., con US$ 149,8 mil; y Andean Trading Corporation S.A.C, con US$ 172. Lo último entablaría una alta tasa de inversionistas y usuarios para la plataforma.
+
+#### 3.1 **Stakeholders:**
+* **Stakelholder Internos:** Equipo Integradis y resto de integrantes del equipo de desarrollo
+* **Stakelholder Externos:** Personal técnico supervisor y administrador de las industrias enfocadas en el cultivo de champiñones, estudiantes y/o profesionales en carreras involucradas en agronomía, gerencia de agroempresas comerciales.
 
 
 
 ## Capítulo II: Requirements Elicitation & Analysis
-
 ### 1. **Competidores.**
 ####     1.1. Análisis competitivo.
 Lorem ipsum dolor sit amet
 ####     1.2. Estrategias y tácticas frente a competidores.
-Lorem ipsum dolor sit amet
+En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
+
+**Afrontando las fortalezas de nuestros competidores:**
+* Gestión de costos por cada actividad agrícola involucrada en diferentes tipo de cultivo
+* Adecuada supervisión para el personal técnico a través de una vista satelital que muestra a tiempo real una mejor percepción de los campos agrícolas
+* Cálculos estables basados en herramientas de Microsoft
+* Permite trabajar con contratos, aplicaciones, liquidaciones, operaciones empresariales, de logística y de inventarios.
+
+**Comprendemos que nuestras fortalezas son:**
+* Comunicación flexible entre el personal supervisor y administrativo de las plantas agrícolas
+* Registro y monitoreo eficiente de los procesos productivos de los cultivos de champiñones
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+**Estrategias**
+* Brindar al cliente un enfoque logístico de los registros realizados dentro de la plataforma.
+
+**Tácticas**
+* Incluir herramientas avanzadas de análisis de costos, perceptibles a la vista y comprensibles como gráficos, informes y comparaciones históricas
+
+
+**Afrontando las debilidades de nuestros competidores:**
+* Errores en la recepción de información para la creación de cuenta del usuario (interfaz).
+* Errores en el formulario de registro de información para entrar en contacto con la empresa
+* Algunas plataformas web aún no se internacionalizaron ni insertaron al  mercado norteamericano.
+
+**Comprendemos que nuestras debilidades son:**
+* Desconocimiento del sector agrícola y productivo del cultivo de champiñones
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+**Estrategias**
+* Mantener constantes actualizaciones y verificación de errores dentro de la plataforma.
+
+**Tácticas**
+* Implementar un agente de soporte en donde el usuario registre alguna falla de la plataforma
+* Realizar constantes actualizaciones de las funcionalidades dentro de la plataforma en paralelo con los procesos productivos dentro de las fases de cultivo de los champiñones
+* Proporcionar tutoriales para el uso de la aplicación web como herramienta de interacción para nuestros usuarios.
+
+**Afrontando las oportunidades de nuestros competidores:**
+* Implementación de una interfaz agradable y visual para el usuario
+* Administración y planificación visual del departamento de producción de cultivos
+* Combina inteligencia artificial e IoT para mitigar el cambio climático y gestionar cultivos agrícolas
+  
+**Comprendemos que nuestras oportunidades son:**
+* Mejorar las funcionalidades deficientes de nuestros competidores en el mercado
+* Baja presencia de competidores en el mercado
+* Alta demanda en exportaciones peruanas de cultivos de champiñones hacia el exterior.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+**Estrategias**
+* Desarrollar la interfaz de la plataforma en base a una experiencia de usuario acogedora y sostenible
+
+**Tácticas**
+* Aplicar los conceptos de psicología del color para la selección y diseño de la interfaz de usuario de la plataforma.
+* Aplicar pruebas de usabilidad y recolección de comentarios para garantizar la atracción hacia la plataforma.
+* Implementar una sección de información al usuario sobre  el impacto ambiental y mitigación al cambio climático
+
+**Afrontando las amenazas de nuestros competidores:**
+* La interfaz no puede centralizarse en el desarrollo de procesos productivos para solo un tipo de cultivos. Es decir, la interfaz ha sido creada de forma generalizada.
+* Bajas demandas al no contar con una aplicación móvil
+* Dilema del cambio climático en continuo agudizamiento
+
+**Comprendemos que nuestras amenazas son:**
+* Inflación e inestabilidad económica del Perú
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+**Estrategias**
+* Potenciar las funcionalidades de la plataforma web
+
+**Tácticas**
+* Mantener actualizaciones continuas de la plataforma y agilizar la atención al registro de errores por los usuarios
+* Desarrollar webinars para destacar la facilidad de planificación y administración visual para optimizar operaciones que ofrece nuestra plataforma (demostraciones prácticas)
+
 ### 2. **Entrevistas.**
 La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
 ####     2.1. Diseño de entrevistas.
