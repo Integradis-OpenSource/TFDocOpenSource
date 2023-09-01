@@ -124,9 +124,9 @@ Visión: GreenHouse se direcciona a ser la plataforma más destacada dentro del 
 Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
 
 ##### Logotipo de la Startup:
-   
+![logotipo_start](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/e6a54426-ae3c-4f8f-a684-a6bfcc53ee35)
 ##### Logotipo del servicio
-
+![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -272,7 +272,7 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 * **Stakelholder Internos:** Equipo Integradis y resto de integrantes del equipo de desarrollo
 * **Stakelholder Externos:** Personal técnico supervisor y administrador de las industrias enfocadas en el cultivo de champiñones, estudiantes y/o profesionales en carreras involucradas en agronomía, gerencia de agroempresas comerciales.
 
-
+![Stakeholders Externos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/b28e7264-8fe6-4da1-9275-59a114145d72)
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 1. **Competidores.**
