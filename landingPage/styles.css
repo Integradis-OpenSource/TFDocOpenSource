@@ -1,0 +1,112 @@
+/*================================================
+0. Configuration
+================================================*/
+
+:root {
+    --primary-green: #4D6443;
+    --primary-white:#E1E8EC;
+    --gray-1: #D9D9D9;
+    --gray-2:#8E8E8E;
+    --gray-3:#4D4D4D;
+    --black: #282828;
+    --white: #FFFFFF;
+    --secondary-brown: #B07D50;
+    --secondary-green-1: #4A845B;
+    --secondary-green-2:#5B7051;
+    --secondary-beige:#CBB99D;
+    --font-primary: nunito;
+    --heading-1-size: 52px;
+    --heading-2-size: 36px;
+    --heading-3-size: 24px;
+    --heading-4-size: 18px;
+    --large-text-bold-size: 24px;
+    --large-text-regular-size: 24px;
+    --medium-text-bold-size: 18px;
+    --medium-text-regular-size: 18px;
+    --normal-text-bold-size: 16px;
+    --normal-text-regular-size: 16px;
+    --small-text-bold-size: 14px;
+    --small-text-regular-size: 14px;
+}
+
+body {
+    margin: 0;
+    font-family: var(--font-primary);
+    font-size: var(--medium-text-regular-size);
+}
+
+header{
+    background-color: var(--primary-green);
+    color: var(--primary-white);
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header a {
+    text-decoration: none;
+    color: var(--primary-white);
+    margin: 0 30px;
+}
+
+.navbar-left{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left a {
+    margin-right: 10px;
+}
+
+.navbar-right {
+    margin-left: auto;
+}
+
+.header-margin {
+    padding: 17px 42px;
+    margin: 10px;
+}
+
+.logo {
+    display: flex;
+    font-size: var(--medium-text-bold-size);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logo a {
+    margin: 0 6px;
+}
+
+.logo img {
+    height: 50px;
+}
+
+button{
+    border: 0; /*anchura, estilo y color borde*/
+    font: inherit;
+    cursor: pointer;
+}
+
+.button-secondary{
+    padding: 15px 50px; /*espacio alrededor texto*/
+    background-color: var(--primary-white); /*color botón*/
+    color: var(--primary-green); /*color texto*/
+    border-radius: 50px; /*bordes redondos*/
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.float-on-hover {
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+  
+.float-on-hover:hover, .float-on-hover:focus, .float-on-hover:active {
+    transform: translateY(-3px);
+}
