@@ -29,6 +29,7 @@
 |:-------:|:----------:|:---------------------------------------------:|:--------------------:|
 |1.0|15/08/2023|Commetant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 
+
 ## Contenido
 
 1. **Capítulo I: Introducción.**
@@ -259,7 +260,19 @@ Lorem ipsum dolor sit amet
 |Manejo de Excel de la producción|Rarely|Medium|
 
 ####     3.3. User Journey Mapping.
-Lorem ipsum dolor sit amet
+
+Técnico Supervisor:
+
+![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
+
+https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy
+
+Administrador:
+
+![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
+
+https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
+
 ####     3.4. Empathy Mapping.
 
 Técnico Supervisor:
