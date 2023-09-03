@@ -323,7 +323,12 @@ https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14
 ### 2. **User Stories.**
 Lorem ipsum dolor sit amet
 ### 3. **Impact Mapping.**
-Lorem ipsum dolor sit amet
+
+![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
+
+
+https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
+
 ### 4. **Product Backlog.**
 Lorem ipsum dolor sit amet
 
