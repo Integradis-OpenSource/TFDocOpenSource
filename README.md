@@ -11,6 +11,7 @@
 
 **Producto**: Greenhouse
 
+
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
@@ -27,6 +28,7 @@
 | Versión |Fecha|Autor|Descripción de modificación |
 |:-------:|:----------:|:---------------------------------------------:|:--------------------:|
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
+
 
 ## Contenido
 
@@ -127,6 +129,7 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 ![logotipo_start](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/e6a54426-ae3c-4f8f-a684-a6bfcc53ee35)
 ##### Logotipo del servicio
 ![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
+
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -420,29 +423,190 @@ ___
   2. ¿Cómo se lleva un registro del inventario de champiñones producido?
   
 ####     2.2. Registro de entrevistas.
-Lorem ipsum dolor sit amet
+
+**Entrevista a técnicos supervisores**
+
+|Entevistado 1|Elías Almenara|
+|-|-|
+|Edad|52|
+|Distrito|Chilca|
+|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5dc0fcff-afad-4a5d-b767-a5c03963c1e0">|Cuenta con 17 años trabajando en plantas de cultivo de champiñones, actualmente es el técnico de producción en Perú Agro. Las funciones que desempeña son las relacionadas al proceso de las naves. Tiene un conocimiento muy claro del proceso y todo lo que este involucra como lo son los tiempos, condiciones de temperatura, CO2, Humedad. Trabaja en el turno de día y realiza un registro cada 4 horas. Se evidencia que no es una persona muy familiarizada con el entorno digital puesto que ciertas preguntas relacionadas al tema le costaban comprenderlas. No considera tedioso el tener que hacer los registros manualmente pero si considera que el proceso se podría agilizar mediante la implementación de una aplicación web. |
+|Timing: 0:07-15:15 |URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=O84h23&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjcuMDR9fQ%3D%3D)|
+
+|Entevistado 2|Kevin Urbano|
+|-|-|
+|Edad|32|
+|Distrito|Chilca|
+|<img width="1293" alt="Screenshot 2023-08-27 at 12 11 33 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/23a5a75c-c964-4f2b-8ec4-239a862c664b">|Cuenta con 2 años y 3 meses trabajando en plantas de cultivo de champiñones, actualmente es el técnico de pasteurización y búnker en Perú Agro. Las funciones que desempeña son las relacionadas a los proceso previos a las naves, como lo son los bunkers y la pasteurización. Comenta que las cantidades para las mezclas se manejan con un excel del encargado. Trabaja en el turno de día y realiza un registro cada hora u hora y media. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que todo estaría en la computadora. Comenta la posibilidad de añadir el seguimiento de las mejores naves|
+|Timing: 15:16-27:45|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=gW7L3K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjkxNi4zN319)|
+
+|Entevistado 3|Danny Martinez|
+|-|-|
+|Edad|33|
+|Distrito|Chilca|
+|<img width="1287" alt="Screenshot 2023-08-27 at 12 29 47 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/607c0533-4415-4dd0-997c-38efb3fefb77">|El entrevistado posee un año y seis meses trabajando en la planta de cultivo de champiñones, y, actualmente está encargado de la coordinación general de los procesos productivos, ventas, cosecha. Se encarga de que todos los procesos se cumplan a cabalidad. Menciona que el registro de temperatura es diario y en algunas áreas se manejan por horas. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que es a tiempo real de manera digital a diferencia de por escrito. Menciona la posibilidad de implementar una base de datos. Considera que el uso de la aplicación tendría como mayor problema capacitar al personal.
+|Timing: 27:45-35:46|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=6oRCHi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE2NjYuNH19)|
+
+**Entrevista a administradores**
+
+|Entevistado 1|Frank Alexander Du Bois Luna|
+|-|-|
+|Edad|42|
+|Distrito|Miraflores|
+|<img width="1293" alt="Screenshot 2023-08-27 at 1 43 50 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0f3fab5e-3c0c-4eb6-81d1-cb16452b6916">|Cuenta con 5 años en el rubro, con una trayectoria previa en la industria de la construcción. Actualmente se encarga principalmente de labores administrativas dentro de la fábrica. Posee profundos conocimientos de todas las etapas de producción, y comenta que para realizar champiñones se requiere de un estricto control. Con respecto al sistema de registro, el entrevistado señala que documentar manualmente los procesos puede resultar complicado debido a la potencial acumulación de errores con el tiempo. Uno de los problemas que encuentra es que en caso de equivocación, ninguno de los técnicos asume la responsabilidad de sus actos. Adicionalmente, asegura apoyarse de una hoja de cálculo en Excel para tener una trazabilidad de las producción diaria de cada nave. Desde su perspectiva, la facilidad de uso es un aspecto muy importante que la aplicación debe cumplir. 
+|Timing: 35:54-59:29|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=F4cCyp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIxNTQuMDN9fQ%3D%3D)|
+
+|Entevistado 2|Rosalyn Perez Clemente|
+|-|-|
+|Edad|41|
+|Distrito|Chilca|
+|<img width="1299" alt="Screenshot 2023-08-27 at 1 32 49 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9a54b9c5-35a4-44ca-ab5a-d77a6415a6e3">|Trabaja en la planta de cultivo de champiñones desde agosto de 2018 y actualmente ocupa una posición en el área administrativa. Se encarga de la gestión de pagos, trámites y la administración de documentación relacionada con las operaciones internas. Lleva la documentanción de los registros de los procesos y las producciones por naves. Rosalyn recibe informes de registros en un promedio de cinco ocasiones mensuales, lo cual concuerda con la frecuencia de las siembras realizadas en ese periodo específico. Sin embargo, sugiere que existe la posibilidad de enfrentar retrasos en la entrega de la documentación,  un aspecto que podría afectar la capacidad de toma de decisiones oportunas por parte de la empresa. Opina que una aplicación sería de utilidad para agilizar la comunicación, y que el mayor incoveniente de esta misma sería la necesidad de proporcionar capacitación adecuada al personal, con el objetivo de garantizar un uso efectivo de la aplicación.
+|Timing: 59:30-1:03:30|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=LqataW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuOTF9fQ%3D%3D)|
+
+|Entevistado 3|Julio Victor Du Bois Yabar|
+|-|-|
+|Edad|77|
+|Distrito|San Borja|
+|<img width="1295" alt="Screenshot 2023-08-28 at 1 57 27 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6ce2a3-1ff3-4f84-b424-5eebfaeb59b8">|Gerente de la fábrica de champiñones de la marca Campo Alegre. Lleva 5 años en el cargo y se encarga principalmente de la parte financiera, estructural. Recibe a menudo reportes y hace las anotaciones y correciones correspondientes según el caso. Comenta que recibe los reportes por teléfono y tiene una constancia del registro a mano. Cuenta con los conocimientos técnicos referentes al cultivo de champiñones adquiridos a través de los años de experiencia. Menciona que aún no cuentan con la tecnología necesaria en la mayoría de procesos, y que buscan la integración de esta misma. |
+|Timing: 1:03:31-1:22:35|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=qop9GL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM4MTEuMzN9fQ%3D%3D)|
+
+
 ####     2.3. Análisis de entrevistas.
-Lorem ipsum dolor sit amet
+
+##### Análisis del segmento de técnicos supervisores
+
+En primer lugar, el 100% de los entrevistados tiene una edad superior a 30 años, de los cuáles el 66% se encuentra entre los 30 y 40 años de edad. Asímismo, Un 66% de los entrevistados considera un proceso tedioso el tener que realizar los registros, puesto que pueden estar ocupados con otra tarea y tienen que ir a cumplir con esta labor. Además, el 66% de los entrevistados nos habló del grupo de WhatsApp además de los registros que llevan manualmente, en el cuál comunican los registros de forma que los administradores y demás técnicos pueden tener conocimiento de los procesos. A su vez, el 100% cuenta con más de año y medio de experiencia en la planta de champiñones, de los cuáles el 66% cuenta con más de 5 años de experiencia. De igual manera, el 100% de los entrevistados mencionan que los registros se hacen diarios y cada uno ellos maneja diferentes horas según su área. Por otra parte, la totalidad de los entrevistas afirman que han habido errores en el registro de los datos, ya sea que alguien se olvidó de hacerlo (principalmente en el turno noche mencionan) o que al hacer el registro puede haber un fallo al trasladar los datos al papel. Igualmente, el 66% considera que un problema sería la capacitación del personal, a lo cuál podemos añadir que un 33% parecía costarle entender las preguntas y la solución propuesta. Finalmente el 100% de los entrevistados considera que hacer el seguimineto al proceso del champiñón y registrarlo es clave para lograr un producto de calidad y poder aplicar una mejora continúa.
+
+##### Análisis del segmento de administradores
+
+En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayores mientras que el resto es mayor de ronda los 40 años. A su vez, todos los entrevistados trabajan en la champiñonera desde su apertura hace 5 años. De igual forma, el 100% menciona que el registro se realiza en papel y que esté luego es archivado por si se necesitan en un futuro, además mencionan que tienen un grupo de WhatsApp como un canal no ofocial dónde también se comparten los registros. Asímismo, el 66% de los entrevistados cuenta con los conocimientos técnicos del proceso productivo del champiñón, mientras que el 33% se dedica únicamente a actividades administrativas. Por parte, el 66% comenta que para recibir ciertos registros pueden haber demoras debido a que aún no los tienen en la oficina o que se tiene que buscar entre todos los registros archivados. Además, el 100% menciona que la tecnología se utiliza principalmente en las máquinas de mediciones y que para la comunicación y registro de los datos únicamente se cuenta con los registros manuales en papel y un grupo de WhatsApp. Por otro lado, el 33% de los entrevistas maneja un excel como herramienta tecnológica que utiliza para el control de inventarios y tener una trazabilidad de la producción. También, en su totalidad consideran que implementar una aplicación para registrar las mediociones y optimizar otros proceso agilizaría el trabajo y sería útil para tener una visión más general del proceso productivo y en que aspectos mejorar. Finalmente, todos los entrevistados consideran que el mayor problema sería la capacitación de los trabajadores para utilizar nuevas herramientas tecnológicas.
+
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
-Lorem ipsum dolor sit amet
+![Luis Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
+![Alvaro Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
 ####     3.2. User Task Matrix.
-Lorem ipsum dolor sit amet
+
+Se presentan los el User Task Matrix que contiene las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
+
+* Luis Flores (Técnico Supervisor):
+
+| Tarea | Frequencia | Importancia |
+| -------- | -------- | -------- |
+| Monitorear los procesos     | Always  | High     |
+|Registrar temperatura del compost|Always|High |
+|Registrar temperatura del aire|Always|High|
+|Registrar CO2|Always|High|
+|Registrar Humedad|Always|High|
+|Registrar Setting|Always|High|
+|Comunicar los registros|Always|High|
+|Control de calidad|Always|High|
+|Pesado de insumos|Always|High|
+|Mezclado de insumos |Always|Medium|
+|Remojar la paja|Always|Medium|
+|Regado del compost|Always|Medium|
+|Regado de las naves|Always|Medium|
+|Traslados entre fases|Always|Medium|
+|Utilizar los grupos de WhatsApp|Always|Low|
+
+* Alvaro Morales (Administrador):
+
+| Tarea | Frequencia | Importancia |
+| -------- | -------- | -------- |
+| Verificar la producción     | Always     | High     |
+|Supervisar los registros|Always|High|
+|Pagos al personal|Always|High|
+|Comunicación con el personal|Always|High|
+|Utilizar los grupos de WhatsApp|Always|High|
+|Comprar insumos a proveedores|Often|High|
+|Seguimiento de fallos|Often|High|
+|Modificación de fórmulas |Sometimes|High|
+|Buscar registros antiguos|Sometimes|Medium|
+|Uso de gráficos estadísticos|Rarely|Medium|
+|Manejo de Excel de la producción|Rarely|Medium|
+
+**Explicación de los User Task Matrix:**
+
+Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores. Debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros, hacer sus tareas todo de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa como verificar o supervisar los registros y producción, o estar en constante comunicación con el personal. Mientras que tienen otras tareas que son de menor importancia y que realizan esporádicamente, las cuáles están relacionadas principalmente al proceso de mejora contínua en la producción.
+
 ####     3.3. User Journey Mapping.
-Lorem ipsum dolor sit amet
+
+En la presente sección se ilustra el end-to-end journey de Greenhouse para ambos segmentos tanto el de Técnicos Supervisores como el de Administradores, desde el momento en el que el cliente adquiere conocimiento de la aplicación, pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
+
+Técnico Supervisor:
+
+![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy)
+
+Administrador:
+
+![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
+
 ####     3.4. Empathy Mapping.
-Lorem ipsum dolor sit amet
+
+Técnico Supervisor:
+
+![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr)
+
+Administrador:
+
+![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
+
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
+
 ####     3.5. As-is Scenario Mapping.
-Lorem ipsum dolor sit amet
+
+Para la realizar el As-is Scenario Mapping el equipo de realizó todo el needfinding para así tener una mayor dominio sobre el negocio y poder determinar la situación actual en una planta champiñonera. De modo que podamos conocer las diferentes phases que corresponden para cada segmento objetivo y así tener un mejor conocimiento del flujo de trabajo.
+
+Técnico Supervisor:
+
+![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
+
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14)
+
+Administrador:
+
+![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
+
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
 
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
-Lorem ipsum dolor sit amet
+
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. De modo que podamos comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
+
+Técnico Supervisor:
+
+![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14)
+
+Administrador:
+
+![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
+
 ### 2. **User Stories.**
 Lorem ipsum dolor sit amet
 ### 3. **Impact Mapping.**
-Lorem ipsum dolor sit amet
+
+En la presente sección se presenta el impact map para de Greenhouse elaborado con UXPresia. Identificando los buisiness goals con los criterios SMART, los actores que son los User Persona realizados previamente, los impacts, los derivables y los User Stories con el formato correspondientes.
+
+![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
+
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
+
 ### 4. **Product Backlog.**
 Lorem ipsum dolor sit amet
 
