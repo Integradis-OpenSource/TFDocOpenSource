@@ -889,7 +889,7 @@ Lorem ipsum dolor sit amet
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
+![Database_Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ba8b36ef-2bec-4265-8345-e63a8ed5fb82)
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment
