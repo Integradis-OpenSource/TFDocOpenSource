@@ -870,13 +870,20 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
 ####     6.1. Software Architecture Context Diagram.
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
-![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
-####     6.2. Software Architecture Container Diagrams.
+![System Context Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/50172890-b164-431e-8e0d-feaec38465cf)
+####     6.2. Software Architecture Container Diagram.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![Greenhouse_container_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Container_Diagram.png?raw=true)
+![System Container Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a4972d2f-0e9c-4343-aeaa-89b9e78c8da9)
 ####     6.3. Software Architecture Components Diagrams.
-El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
-![Greenhouse_components_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Components_Diagram.png?raw=true)
+Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+##### Log-In Bounded Context
+![Log-In Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/adcdefc4-7df1-4e11-aeba-b05b870f3bd7)
+##### Organization Bounded Context
+![Organization Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7781084a-c53a-4ba5-b612-f7a04f534078)
+##### Payment Bounded Context
+![Payment Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c7348146-b2fd-4a35-bb53-9d5241b05567)
+##### Harvesting Bounded Context
+![Harvesting Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5466a9c0-714f-4592-b987-1ffed2680501)
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 Lorem ipsum dolor sit amet
