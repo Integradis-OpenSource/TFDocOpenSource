@@ -278,6 +278,8 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 ![Alvaro Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
 ####     3.2. User Task Matrix.
 
+Se presentan los el User Task Matrix que contiene las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
+
 * Luis Flores (Técnico Supervisor):
 
 | Tarea | Frequencia | Importancia |
@@ -314,19 +316,25 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 |Uso de gráficos estadísticos|Rarely|Medium|
 |Manejo de Excel de la producción|Rarely|Medium|
 
+**Explicación de los User Task Matrix:**
+
+Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores. Debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros, hacer sus tareas todo de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa como verificar o supervisar los registros y producción, o estar en constante comunicación con el personal. Mientras que tienen otras tareas que son de menor importancia y que realizan esporádicamente, las cuáles están relacionadas principalmente al proceso de mejora contínua en la producción.
+
 ####     3.3. User Journey Mapping.
+
+En la presente sección se ilustra el end-to-end journey de Greenhouse para ambos segmentos tanto el de Técnicos Supervisores como el de Administradores, desde el momento en el que el cliente adquiere conocimiento de la aplicación, pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 Técnico Supervisor:
 
 ![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy)
 
 Administrador:
 
 ![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
 
 ####     3.4. Empathy Mapping.
 
@@ -334,46 +342,50 @@ Técnico Supervisor:
 
 ![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr)
 
 Administrador:
 
 ![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
 
 
-https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
 
 ####     3.5. As-is Scenario Mapping.
+
+Para la realizar el As-is Scenario Mapping el equipo de realizó todo el needfinding para así tener una mayor dominio sobre el negocio y poder determinar la situación actual en una planta champiñonera. De modo que podamos conocer las diferentes phases que corresponden para cada segmento objetivo y así tener un mejor conocimiento del flujo de trabajo.
 
 Técnico Supervisor:
 
 ![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
 
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14)
 
 Administrador:
 
 ![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
 
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
 
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
 
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. De modo que podamos comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
+
 Técnico Supervisor:
 
 ![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14)
 
 Administrador:
 
 ![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
 
 ### 2. **User Stories.**
 Lorem ipsum dolor sit amet
