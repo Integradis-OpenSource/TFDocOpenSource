@@ -391,10 +391,12 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 Lorem ipsum dolor sit amet
 ### 3. **Impact Mapping.**
 
+En la presente sección se presenta el impact map para de Greenhouse elaborado con UXPresia. Identificando los buisiness goals con los criterios SMART, los actores que son los User Persona realizados previamente, los impacts, los derivables y los User Stories con el formato correspondientes.
+
 ![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
 
 
-https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
 
 ### 4. **Product Backlog.**
 Lorem ipsum dolor sit amet
