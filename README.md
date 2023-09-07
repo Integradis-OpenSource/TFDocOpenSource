@@ -596,14 +596,14 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |EP01|Contacto|**Como** visitante de la landing page **Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación Greenhouse **Para** dar a conocer mis dudas e inquietudes relacionadas con el producto|No corresponde|No corresponde|
 |EP02|Información relacionada con la aplicación|**Como** visitante de la landing page **Quiero** contar con secciones específicas que detallen los beneficios que obtendré a través del uso de la aplicación Greenhouse **Para** tener un alcance sobre el propósito del producto|No corresponde|No corresponde|
 |EP03|Establecer vínculo entre la landing page y la aplicación|**Como** visitante de la landing page **Quiero** contar con componentes que me redirijan a secciones específicas de la aplicación **Para** comenzar a disfrutar de los beneficios y funcionalidades que Greenhouse ofrece |No corresponde|No corresponde|
-|US01|Llenar formulario|**Como** visitante de la landing page **Quiero** poder llenar un formulario con mis datos personales **Para** contactar con la startup creadora de la aplicacion|**Escenario 1: Ingresar datos correctamente** <br> **Dado que** el visitante cuenta con una dirección email válida y teléfono <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** podrá mandar un mensaje a la startup creadora de la aplicación. <br><br> **Escenario 2: Ingresar datos erróneos** <br> **Dado que** el visitante no cuenta con una dirección email válida u omite llenar información en alguna casilla <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** las casillas con datos erróneos o faltantes se mostrarán en rojo y no se enviará el mensaje.|EP01|
-|US02|Enlaces relacionados|**Como** visitante de la landing page **Quiero** acceder a las redes sociales de Integradis **Para** contactar por medios de comunicación más oficiales con la startup|**Escenario 1: Redireccionar al usuario a redes sociales** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún ícono de red social en el apartado de "contactos" <br> **Entonces** será enviado por un hipervínculo al perfil de la startup en la red social que haya elegido.|EP01|
+|US01|Contacto-Llenar formulario|**Como** visitante de la landing page **Quiero** poder llenar un formulario con mis datos personales **Para** contactar con la startup creadora de la aplicacion|**Escenario 1: Ingresar datos correctamente** <br> **Dado que** el visitante cuenta con una dirección email válida y teléfono <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** podrá mandar un mensaje a la startup creadora de la aplicación. <br><br> **Escenario 2: Ingresar datos erróneos** <br> **Dado que** el visitante no cuenta con una dirección email válida u omite llenar información en alguna casilla <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** las casillas con datos erróneos o faltantes se mostrarán en rojo y no se enviará el mensaje.|EP01|
+|US02|Contacto-Enlaces relacionados|**Como** visitante de la landing page **Quiero** acceder a las redes sociales de Integradis **Para** contactar por medios de comunicación más oficiales con la startup|**Escenario 1: Redireccionar al usuario a redes sociales** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún ícono de red social en el apartado de "contactos" <br> **Entonces** será enviado por un hipervínculo al perfil de la startup en la red social que haya elegido.|EP01|
 |US03|Preguntas frecuentes|**Como** visitante de la landing page **Quiero** abrir las pestañas con las preguntas frecuentes de la aplicación **Para** resolver mis consultas antes de inscribirme y elegir una membresía.|**Escenario 1: Ver respuestas a preguntas frecuentes** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún menú desplegable del apartado de "preguntas frecuentes" <br> **Entonces** el menú se abrirá y se podrá visualizar la pregunta seleccionada.|EP02|
-|US04|Navegación vía el menú superior|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú superior **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia.|**Escenario 1: Navegar a través de las diferentes secciones de la landing page**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú superior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
-|US05|Descripción de la aplicación|**Como** visitante de la landing page **Quiero** poder visualizar más información de la aplicación Greenhouse **Para** conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo.|**Escenario 1: Usuario desea conocer más información sobre la aplicación** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click al botón de "leer más" ubicado en el apartado de "conocer más" <br> **Entonces** se abrirá una página adicional con información detallada de la aplicación Greenhouse.|EP02|
-|US06|Navegación vía el menú al pie de la landing page|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|**Escenario 1: Navegar a través de la landing page** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú inferior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
+|US04|Sección "Header"|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú superior **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia.|**Escenario 1: Navegar a través de las diferentes secciones de la landing page**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú superior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
+|US05|Sección "Learn"|**Como** visitante de la landing page **Quiero** poder visualizar más información de la aplicación Greenhouse **Para** conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo.|**Escenario 1: Usuario desea conocer más información sobre la aplicación** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click al botón de "leer más" ubicado en el apartado de "conocer más" <br> **Entonces** se abrirá una página adicional con información detallada de la aplicación Greenhouse.|EP02|
+|US06|Sección "Footer"|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|**Escenario 1: Navegar a través de la landing page** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú inferior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
 |US07|Acceso a la creación de cuenta en la aplicación web|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa para el uso de la aplicación en los procesos.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas.|EP03|
-|US08|Elección de plan de membresía para crear una cuenta en la aplicación web|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa en la aplicación bajo el plan de membresía elegido.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en cualquiera de los planes de membresía mostrados en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas bajo el formato de membresía seleccionado.|EP03|
+|US08|Sección "Plans"|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa en la aplicación bajo el plan de membresía elegido.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en cualquiera de los planes de membresía mostrados en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas bajo el formato de membresía seleccionado.|EP03|
 
 
 #### Web Application User Stories
@@ -769,19 +769,104 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 |-|-|-|
 |Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
 #####         **2.1.2. Sprint Backlog 1.**
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
+![Imagenes/Trello Sprint 1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Trello%20Sprint%201.png)
+
+Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308ea03c7f900a33150458/sprint
+
+|Sprint 1||||||||
+|-|-|-|-|-|-|-|-|
+|User Story||WorkItem / Task|
+|Id|Title|Id|Title|Description|Estimation(Hours)|Assigned To|Status(To-do/In-Process/To-Review/Done)|
+|US01|Contacto-Llenar Fromulario|UT01|Editar cajas de texto|Permitir al usuario interactuar con las cajas de texto|1|Carlo Seminario|Done|
+|US02|Enlaces relacionados|UT02|Enlaces de contacto|Añadir funcionalidad a los enlaces de la seccion contacto|1|Carlo Seminario|To-do|
+|US03|Preguntas frecuentes|UT03|Funcionalidad "desplegar y contraer pregunta"|Añadir la funcionalidad de desplegar y contraer la respuesta a la pregunta|2|Alan Galavis|Done|
+|US04|Sección "Header"|UT04|Interaccion barra de navegación|Permitir a los usuarios interactuar con la barra de navegación|1|Andrés Soto|Done|
+|US04|Sección "Header"|UT05|Funcionalidad "Sticky"|Añadir la funcionalidad para que la barra de navegación se desplace junto a la vista del usuario|2|Andrés Soto|In-process|
+|US05|Sección "Learn"|UT06|boton "Read more"|Añadir boton para desplegar texto restante|1|Nicolas Espinoza|Done|
+|US05|Sección "Learn"|UT07|Ampliar texto|Permitir ampliar texto al interactuar con boton "Read more"|1|Nicolas Espinoza|In-process|
+|US06|Sección "Footer"|UT08|Funcionalidad botones y links|Permitir al usuario interactuar con los botones y links|1|Jessica Commetant|In-process|
+|US07|Acceso a la creación de cuenta de la aplicación web|UT09|Crear cuenta|Desplegar menu de creación de cuenta al interactuar con boton de creación de cuenta|1|Andrés Soto|To-do|
+|US08|Sección "Plans"|UT10|Mostrar planes|Mostrar los planes establecidos y sus descripciones|1|Carlo Seminario|In-process|
 #####         **2.1.3. Development Evidence for Sprint Review.**
-Lorem ipsum dolor sit amet
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/docs|ea62a6|chore:added header|chore:added header|02/09/2023|
+||LandingPage/docs|85a1098|chore:added language option and dropdown menu|chore:added language option and dropdown menu|04/09/2023|
+||LandingPage/docs|6aeeaeb|feature: added language change option|feature: added language change option|04/09/2023|
+||LandingPage/docs|b8311b2|feat(hero): added section hero|feat(hero): added section hero|06/09/2023|
+||LandingPage/docs|c0f8827|feat(values): Added startup and application values|feat(values): Added startup and application values|06/09/2023|
+||LandingPage/docs|1cf12f1|fix: directories organization|fix: directories organization|07/09/2023|
+||LandingPage/docs|1c0ac72|chore: added all images|chore: added all images|07/09/2023|
+||LandingPage/docs|38f1b0d|chore: modifying hero section to use bootstrap|chore: modifying hero section to use bootstrap|07/09/2023|
+||LandingPage/docs|6da2c84|feat(benefits): added section Our Benefits|feat(benefits): added section Our Benefits|07/09/2023|
+||LandingPage/docs|27c202c|feat: added FAQ and Visions|feat: added FAQ and Visions|07/09/2023|
+||LandingPage/docs|44ad7df|feat(prices): added pricing section|feat(prices): added pricing section|07/09/2023|
+||LandingPage/docs|44572ce|feat(contact): added section contact with about|feat(contact): added section contact with about|07/09/2023|
+||LandingPage/docs|50ccd1d|feat: added footer|feat: added footer|07/09/2023|
+||LandingPage/docs|11e4bbb|feat:added collaborators section|feat:added collaborators section|07/09/2023|
+||LandingPage/docs|ed0a933|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
+||LandingPage/docs|d70bf9c|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
+||LandingPage/docs|6debdb3|chore: updated organization for deployment|chore: updated organization for deployment|07/09/2023|
+||LandingPage/docs|ecbe71d|fix(collaborators): fix positing on html file|fix(collaborators): fix positing on html file|07/09/2023|
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
-Lorem ipsum dolor sit amet
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/Features|7387d5e|chore: added aceptance test|chore: added aceptance test|07/09/2023|
 #####         **2.1.5. Execution Evidence for Sprint Review.**
-Lorem ipsum dolor sit amet
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
+
+1. Sección planes
+
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+
+    ![Imagenes/Planes_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Planes_evidencia_sprint_1.png)
+
+2. Sección contacto
+
+    En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+
+    ![Imagenes/contacto_evidencia_sprnt_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/contacto_evidencia_sprnt_1.png)
+
+3. Sección FAQ
+
+    En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+
+    ![Imagenes/FAQ_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/FAQ_evidencia_sprint_1.png)
+
 #####         **2.1.6. Services Documentation Evidence for Sprint Review.**
-Lorem ipsum dolor sit amet
+
+Para esta primero sprint no fue contemplada la evidencia de documentación de los servicios.
+
 #####         **2.1.7. Software Deployment Evidence for Sprint Review.**
-Lorem ipsum dolor sit amet
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+![Imagenes/evidence_landing_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_1.png)
+
+![Imagenes/evidence_landing_2.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_2.png)
+
+![Imagenes/evidence_landing_3.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_3.png)
+
+![Imagenes/evidence_landing_4.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_4.png)
+
+![Imagenes/evidence_landing_5.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_5.png)
+
 #####         **2.1.8. Team Collaboration Insights during Sprint.**
-Lorem ipsum dolor sit amet
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Implementación de la sección header de la landing page|
+|Galavis Du Bois, Alan Enrique|Implementación de la sección FAQ y valores de la empresa|
+|Seminario Garvín, Carlo Luca|Implementación de la sección hero, benefits y contact|
+|Espinoza Rodriguez, Nicolas Antonio|Implementación de la sección learn|
+|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección footer y colaboradores|
+
+![Imagenes/evidencia_grupal_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_grupal_github_sprint_1.png)
+
+![Imagenes/evidencia_individual_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_individual_github_sprint_1.png)
 
 
 
