@@ -1265,14 +1265,14 @@ Class StockRecord
 
 | Atribute | Type | Description |
 | -------- | -------- | -------- |
-| hayQty     | int    |   Quanity of hay on stock  |
-| cornQty     | int    |  Quanity of corn on stock    |
-| guanoQty     | int    |  Quanity of guano on stock  |
-| cottonCakeQty|int |Quanity of cotton cake on stock  |
-| soybeanQty| int  |Quanity of soy bean on stock      |
-| gypsumQty     | int | Quanity of gypsum on stock |
-| ureaQty  | int | Quanity of urea on stock     |
-| sulphateQty     | int | Quanity of sulphate on stock|
+| hayQty     | int    |   Quantity of hay on stock  |
+| cornQty     | int    |  Quantity of corn on stock    |
+| guanoQty     | int    |  Quantity of guano on stock  |
+| cottonCakeQty|int |Quantity of cotton cake on stock  |
+| soybeanQty| int  |Quatnity of soy bean on stock      |
+| gypsumQty     | int | Quantity of gypsum on stock |
+| ureaQty  | int | Quantity of urea on stock     |
+| sulphateQty     | int | Quantity of sulphate on stock|
 
 Class PreparationArea
 
@@ -1411,7 +1411,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 ![GitHub Pages](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Github_pages.png?raw=true)
 
-Enlace para acceder a la [landing page](https://discord.com/channels/@me/970014116070707260/1149532358110871592)
+Enlace para acceder a la [landing page](https://integradis-opensource.github.io/LandingPage/)
 
 
 ### 2. Landing Page, Services & Applications Implementation.
