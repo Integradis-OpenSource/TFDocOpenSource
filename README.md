@@ -644,9 +644,20 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 #### Technical User Stories
 
-|Technical story ID|Título|Descripción|Criterios de aceptación|
-|-|-|-|-|
-|TS01||||
+|Technical story ID|Título|Descripción|
+|-|-|-|
+|TS01|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva organización mediante una API <br> **Para** visualizar las organizaciones afiliadas a nuestra aplicación|
+|TS02|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de una organización mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS03|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a un nuevo usario mediante una API <br> **Para** visualizar los usuarios afiliados a nuestra aplicación|
+|TS04|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de un usuario mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS05|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar la información de pago de las organizaciones mediante una API <br> **Para** contar con la información para pagos futuros|
+|TS06|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de pago de las organizacionesde mediante una API <br> **Para**  recibir los pagos en la aplicación cuando sea solicite.|
+|TS08|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los usuarios por sus roles mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS09|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las organizaciones por sus membresías mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS10|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva cosecha mediante una API <br> **Para** mantener el registro de las cosechas|
+|TS11|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las cosechas mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS12|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los cultivos por cada fase mediante una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS13|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
 
 
 ### 3. **Impact Mapping.**
