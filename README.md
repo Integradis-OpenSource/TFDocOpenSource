@@ -677,24 +677,40 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
 ####     1.1. General Style Guidelines.
-El diseño web es considerado como una sección importante para el proyecto, pues se deben considerar varios requisitos para tener un diseño agradable a nuestros clientes finales. De la misma forma, debe estar basado en la marca y lo que se busca transmitir como startup.
-Es por ello que para la elaboración de la guía de estilo decidimos basarnos en los siguientes elementos:
+Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
+
+**Branding:**
+
+**Brand Overview:**
+
+La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. 
 
 **Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
 
-**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios
-**Público Objetivo:** Técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras del Perú.
+**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
 
-**Personalidad de la marca:** Greenhouse ofrece la capacidad de gestionar y visualizar información de manera remota a las empresas champiñoneras del Perú. Es por esto que se busca una personalidad sincera y transparente para los clientes que confían el registro de sus procesos en la aplicación.
- 
-**Valores fundamentales:** 
-Confianza, lealtad, seguridad y Calidad, Productividad, e Independencia. 
-Debido a que nuestro público objetivo son principalmente empresas industriales, debemos mantener un tono formal y de respeto en el tono de comunicación y en el lenguaje aplicado. De esta forma nuestros clientes se sientan a gusto con nuestro servicio.
-Las palabras bandera que representan nuestra marca son: Organizado, Productivo, Seguro y Confiable.
+![logotipo_start](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/ed2c7bc7-691e-4adc-a282-9ce82222b1b4) 
 
-##### Paleta de colores:
+**Brand Name:**
+
+El nombre de la propuesta de solución es GreenHouse. La idea surge de la unión de dos palabras traducidas como “Casa Verde”, con un significado más complejo “Invernadero”. Este aspecto se relaciona con el dilema que busca solventar la plataforma y el rubro al que direcciona (la agronomía). En ese sentido, la aplicación se centraliza en la creación de un sistema para automatizar el registro de cultivos en las industrias champiñoneras del Perú.
+
+![logotipo_servicio](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/5a31b0ea-105f-49c4-8dd0-dd0e0af32c38) 
+
+**Colores:**
+
+Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color, se destinó al color verde como tonalidad principal de la paleta cromática en la implementación de la plataforma. El verde simboliza balance, crecimiento y prestigio, uno de los alcances de la startup. Por otra parte, el pigmento verde se asocia con la agronomía, el rubro al que se direcciona la plataforma; y, al concepto de armonía, lo cual se busca ofrecer al usuario dentro de la interacción en el servicio. Como tonalidades secundarias se tienen a: variedades cromáticas del color marrón, negro y plomo.
+
 ![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
-##### Tipografía empleada:
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz. En relación al proyecto, el tipo de letra seleccionado fue “Nunito” en estilos Medium y Normal para mayor legitilidad. De igual forma, se resalta la organización en cuatro niveles para los elementos del modelado web (body y heading): 
+* Heading 01: Presenta un tamaño de 52px.
+* Heading 02: Presenta un tamaño de 36px.
+* Heading 03: Presenta un tamaño de 24px.
+* Heading 04: Presenta un tamaño de 18px.
+
 ![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 
 ####     1.2. Web Style Guidelines.
