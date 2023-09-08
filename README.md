@@ -32,6 +32,10 @@
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
 
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|-|-|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia|**Andrés Soto** TB1: Se tuvieron que realizar reuniones para organizar la disposición del trabajo a cada integrante del equipo, de tal manera que se puedan optimizar tiempos|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**Andrés Soto** TB1: Se realizaron "commits" bajo el lenguaje convencional de commit o "convetional commits" de tal manera que se tuviera una organización al momento de presentar los avances|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
 
 ## Contenido
 
