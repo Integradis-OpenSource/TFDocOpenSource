@@ -751,7 +751,6 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ##### Landing Page para Mobile Web Browser
 ![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
 
-
 ####     3.2. Landing Page Mock-up.
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
@@ -772,18 +771,99 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ####     4.1. Web Applications Wireframes.
 Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
 ##### Web Application para Desktop Web Browser
+###### Iniciar sesión
+![WebApp_Desktop_Wireframe_EN_Login](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Log_In_Wireframe_EN.png?raw=true)
+###### Crear cuenta
+![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Registrar_Empresa_Wireframe_EN.png?raw=true)
+###### Elegir plan de pago
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+###### Pasarela de pagos
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+###### Mi perfil
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+###### Perfil de trabajador (Vista administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de técnico supervisor)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+###### Panel de control (Dashboard)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+###### Reportes estadísticos
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
 ###### Crear cultivo
 ![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+###### Elegir plan de pago
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+###### Pasarela de pagos
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+###### Mi perfil
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+###### Perfil de trabajador
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de técnico supervisor)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+###### Panel de control (Dashboard)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+###### Reportes estadísticos
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+###### Cultivos en progreso
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+###### Crear cultivo
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
 ###### Fases 0, 1, 2, 3 y 4
 ![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Empty_Wireframe_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
 ###### Finalizar cultivo
-![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+###### Histórico de cultivos
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
+
+##### Web Application para Mobile Web Browser
+###### Panel de control (Dashboard)
+![Wireframe_WebApp_Mobile_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_panel_control.png?raw=true)
+###### Registrar proceso
+![Wireframe_WebApp_Mobile_EN_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_registro_procesos.png?raw=true)
+###### Fase 0
+![Wireframe_WebApp_Mobile_EN_Fase0](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+###### Fase 1
+![Wireframe_WebApp_Mobile_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+###### Fase 2
+![Wireframe_WebApp_Mobile_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_2.png?raw=true)
+###### Fase 3
+![Wireframe_WebApp_Mobile_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_3.png?raw=true)
+###### Fase 4.1
+![Wireframe_WebApp_Mobile_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.1.png?raw=true)
+###### Fase 4.2
+![Wireframe_WebApp_Mobile_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.2.png?raw=true)
+###### Fase 4.3
+![Wireframe_WebApp_Mobile_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.3.png?raw=true)
+###### Fase 4.4
+![Wireframe_WebApp_Mobile_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.4.png?raw=true)
+###### Finalizar fase
+![Wireframe_WebApp_Mobile_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_finalizar_fases.png?raw=true)
 
 ####     4.2. Web Applications Wireflow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Registrar empresa
+User persona: Administradores y Técnicos supervisores.
+![WebApp_Desktop_Wireflow_Crear_Cuenta](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Registrar_Empresa_EN.png?raw=true)
+
+##### User Goal: Iniciar sesión
+User persona: Administradores y Técnicos supervisores.
+![WebApp_Desktop_Wireflow_Iniciar_Sesion](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Log_In_EN.png?raw=true)
+
+##### User Goal: Navegar por el dashboard
+User persona: Administradores.
+![WebApp_Desktop_Wireflow_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Dashboard.png?raw=true)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
@@ -793,10 +873,35 @@ User persona: Técnicos supervisores.
 User persona: Técnicos supervisores.
 ![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
 
+##### User Goal: Ver registro pasado
+User persona: Administradores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png?raw=true)
+
 
 ####     4.3. Web Applications Mock-ups.
 Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
 ##### Web Application para Desktop Web Browser
+###### Iniciar sesión
+![WebApp_Desktop_Wireframe_EN_Login](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Log_In_EN.png?raw=true)
+###### Crear cuenta
+![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Registrar_Empresa_EN.png?raw=true)
+###### Elegir plan de pago
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_EN.png?raw=true)
+###### Pasarela de pagos
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_EN.png?raw=true)
+###### Mi perfil
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_EN.png?raw=true)
+###### Perfil de trabajador (Vista administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_EN.png?raw=true)
+###### Mi empresa (Vista de administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_EN.png?raw=true)
+###### Mi empresa (Vista de técnico supervisor)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_EN.png?raw=true)
+###### Panel de control (Dashboard)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_EN.png?raw=true)
+###### Reportes estadísticos
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_EN.png?raw=true)
 ###### Crear cultivo
 ![WebApp_Desktop_Mockup_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_EN.png?raw=true)
 ![WebApp_Desktop_Mockup_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN.png?raw=true)
@@ -842,50 +947,103 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp__Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_EN.png?raw=true)
 ###### Finalizar cultivo
 ![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Finalizar_Cultivo.png?raw=true)
+###### Histórico de cultivos
+![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_EN.png?raw=true)
 
 ##### Web Application para Mobile Web Browser
+###### Panel de control (Dashboard)
+![WebApp_Mobile_Mockup_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_panel_control.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Registrar_Proceso](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_registro_procesos.jpg?raw=true)
+###### Fase 1
+![WebApp_Mobile_Mockup_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_1.png?raw=true)
+###### Fase 2
+![WebApp_Mobile_Mockup_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_2.png?raw=true)
+###### Fase 3
+![WebApp_Mobile_Mockup_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_3.png?raw=true)
+###### Fase 4.1
+![WebApp_Mobile_Mockup_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.1.png?raw=true)
+###### Fase 4.2
+![WebApp_Mobile_Mockup_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.2.png?raw=true)
+###### Fase 4.3
+![WebApp_Mobile_Mockup_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.3.png?raw=true)
+###### Fase 4.4
+![WebApp_Mobile_Mockup_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.4.png?raw=true)
+###### Finalizar fases
+![WebApp_Mobile_Mockup_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_finalizar_fases.png?raw=true)
 
 
 ####     4.4. Web Applications User Flow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
 
+##### User Goal: Registrar empresa
+User persona: Administradores.
+
+Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
+![User_Flow_Registrarse](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Registrarse.png?raw=true)
+
+##### User Goal: Iniciar sesión
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
+![User_Flow_LogIn](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_LogIn.png?raw=true)
+
+##### User Goal: Ver perfil
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
+![User_Flow_Ver_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Perfil.png?raw=true)
+
+##### User Goal: Ver empresa
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard. 
+![User_Flow_Ver_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Empresa.png?raw=true)
+
+##### User Goal: Navegar a través del dashboard
+User persona: Administradores.
+
+Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+![User_Flow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Dashboard.png?raw=true)
+
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
 
 Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Nuevo_Cultivo.png?raw=true)
+![User_Flow_Nuevo_Cultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Nuevo_Cultivo.png?raw=true)
 
 ##### User Goal: Documentar Fase 0
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_0.png?raw=true)
+![User_Flow_Fase_0](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_0.png?raw=true)
 
 ##### User Goal: Documentar Fase 1
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_1.png?raw=true)
+![User_Flow_Fase_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_1.png?raw=true)
 
 ##### User Goal: Documentar Fase 2
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_2.png?raw=true)
+![User_Flow_Fase_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_2.png?raw=true)
 
 ##### User Goal: Documentar Fase 3
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_3.png?raw=true)
+![User_Flow_Fase_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_3.png?raw=true)
 
 ##### User Goal: Documentar Fase 4
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
+![User_Flow_Fase_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
 
 ### 5. **Web Applications Prototyping.**
+
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
 1. **Claridad y Facilidad:** El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la visualización de reportes estadísticos.
@@ -894,9 +1052,12 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
-#### Desktop Web Browser Prototyping
+![Web_Applications_Prototyping](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Web_Applications_Prototyping.png?raw=true)
 
-#### Mobile Web Browser Prototyping
+Enlace para acceder al video de explicación del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/Ed0o47tYWx1Aq8iCPDuzPnoBpgV_bDWctRdBohtmb2l6_A?e=VkRyxf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Enlace para acceder al [Flujo](https://www.figma.com/proto/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&node-id=590-3628&t=E4kYs117hZdZqKLE-1&scaling=scale-down&page-id=115%3A172&starting-point-node-id=590%3A3628)
+
 
 ### 6. **Domain-Driven Software Architecture.**
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
@@ -936,19 +1097,42 @@ Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por
 ### 1. Software Configuration Management.
 ####     1.1. Software Development Environment Configuration.
 
-**Software Deployment**
-1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+**Requirements Management**
+1. [Trello](https://trello.com/es): Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+**Product UX/UI Design**
+1. [Figma](https://www.figma.com/login): Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+2. [Lucidchart](https://www.lucidchart.com/): Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
 
-**Software Documentation**
-1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web.
+**Software Testing**
+1. [Gherkin](https://cucumber.io/docs/gherkin/): Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. 
+
+**Software Development**
+1. [Visual Studio Code](https://code.visualstudio.com/): Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+2. [HTML5](https://www.w3schools.com/html/html5_syntax.asp): HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+3. [CSS](https://google.github.io/styleguide/htmlcssguide.html): Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
+4. [C#](https://learn.microsoft.com/es-es/dotnet/csharp/): Es un lenguaje de programación orientado a componentes, orientado a objetos, que parte de la famillia de lenguajes C. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación.
+
+**Software Deployment**
+1. [Git](https://git-scm.com/): Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+
+**Software Documentation and Project Management**
+1. [Github](https://github.com/): Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. 
 
 ####     1.2. Source Code Management.
 El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
 
 **Repositorio de GitHub:**
-Enlace para acceder al [repositorio](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
+Enlace para acceder a la [organización en GitHub](https://github.com/upc-pre-202302-si730-sw51-integradis)
+Enlace para acceder al repositorio del [Landing Page](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage)
+Enlace para acceder al repositorio del [Frontend Web
+Application](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
 
-**Estructura de Ramas:**
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
 
 2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
@@ -968,24 +1152,23 @@ Para los mensajes de los commits realizados, se utilizará la especificación Co
  `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
 ####     1.3. Source Code Style Guide & Conventions.
-**HTML:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
 
 1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
 2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
 3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
 4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
 
-**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Entre las prácticas empleadas se mencionan:
+**CSS:** Entre las prácticas empleadas se mencionan:
 
 1. Los nombres de las clases deben de ser breves y autodescriptivos.
 2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
 3. Evitar especificar la unidad de medida luego de usar el valor 0.
 4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
 
-**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima.
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
 
 ####     1.4. Software Deployment Configuration.
-
 **Landing page deployment:**
 
 Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
@@ -996,6 +1179,11 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
 5. Especificar la carpeta "docs" como la fuente de la página.
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![GitHub Pages](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Github_pages.png?raw=true)
+
+Enlace para acceder a la [landing page](https://discord.com/channels/@me/970014116070707260/1149532358110871592)
+
 
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
