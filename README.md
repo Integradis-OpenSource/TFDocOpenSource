@@ -999,7 +999,7 @@ Los diagramas de componentes muestra una vista de las relaciones de los componen
 
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
-Lorem ipsum dolor sit amet
+![Class Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/657a4afb-5b56-4c51-9d28-3dfbe32e6e30)
 
 
 ####     7.2. Class Dictionary.
