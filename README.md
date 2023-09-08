@@ -1204,7 +1204,15 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 
 ## Bibliografía
-Lorem ipsum dolor sit amet
+>Agro Perú. (2023). Perú exportó 850 toneladas de hongo seco por USD 7.1 millones. AGROPERÚ Informa. https://www.agroperu.pe/peru-exporto-850-toneladas-de-hongo-seco-por-usd-7-1-millones/#:~:text=Per%C3%BA%20export%C3%B3%20850%20toneladas%20de%20hongo%20seco%20por%20USD%207.1%20millones,-2%20de%20marzo&text=En%20el%202022%2C%20Per%C3%BA%20export%C3%B3,que%20el%202021%2C%20inform%C3%B3%20FreshFruit [Consulta: 6 de septiembre 2023].
+
+>Agraria.pe Agencia Agraria de Noticias. (s. f.).  EXPORTACIONES DE HONGOS CRECEN 1,7 mil% https://www.agraria.pe/noticias/exportaciones-de-hongos-crecen-17-mil--775 [Consulta: 6 de septiembre 2023].
+
+>Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre 2023].
+
+>ESAN. (s. f.). Tecnología, la clave para el impulso de la agricultura peruana 4.0 | Conexión. https://www.esan.edu.pe/conexion-esan/tecnologia-la-clave-para-el-impulso-de-la-agricultura-peruana-4-0 [Consulta: 6 de septiembre 2023].
+
+>Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 6 de septiembre]
 
 
 ## Anexos
