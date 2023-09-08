@@ -1003,8 +1003,131 @@ Lorem ipsum dolor sit amet
 
 
 ####     7.2. Class Dictionary.
-Lorem ipsum dolor sit amet
 
+Class User
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for a user |
+| name| String | Name of a user|
+| lastname|String| Lastname of a user|
+| password| String| Password of the user account|
+| email| String| Email related to the user account|
+|hasAdmin|bool| Verifies if the user is and administrator|
+
+Class Organization
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     |  int    | Unique code for an organization |
+| name| String| Name of the organization|
+| business_name| String| Business name of the organization|
+| RUC|String | RUC that corresponds to the organization|
+| employeeList|array[User] | List of the employees of the organization|
+| membership|MembershipType| Type of membership of the organization|
+| associatedCard|PaymentCard | Payment card that is associated with the payments|
+|instance| Organization| Instance of the same class|
+
+Class PaymentCard
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for a payment card |
+| cardNumber| String| Payment card number|
+| expirementDate| String| Experiment date of the payment card |
+| securityCode| int | Security code of the payment card number|
+
+Class Observation
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int | Unique code for an observation |
+| content| string| Content of the observation|
+| author| User| User that is author of the observation|
+
+Class MushroomHarvest
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+|id|int|Unique code for MushroomHarvest|
+|startDate|String| Date that the harvest starts|
+|publishedDate|String| Date that the report was published|
+|publishedHour|String| Hour that the report was published|
+|observation|Observation|Additional comments for the reports|
+|phases|String|Phase that the harvest is at the moment|
+|author|User| User that is author of the report|
+
+Class NotificationManager
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| notification | Notification |  Notification sended to a author|
+| author| User| User that receives the notification|
+
+Class Notification
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for notifications    |
+|issues| String| Issue for which is the notifications is senden|
+| content| String| Content of the notification|
+| date| String| Date when the notification is sended|
+
+Class StockRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| hayQty     | int    |   Quanity of hay on stock  |
+| cornQty     | int    |  Quanity of corn on stock    |
+| guanoQty     | int    |  Quanity of guano on stock  |
+| cottonCakeQty|int |Quanity of cotton cake on stock  |
+| soybeanQty| int  |Quanity of soy bean on stock      |
+| gypsumQty     | int | Quanity of gypsum on stock |
+| ureaQty  | int | Quanity of urea on stock     |
+| sulphateQty     | int | Quanity of sulphate on stock|
+
+Class PreparationArea
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| time     | String     | Date that the report was mande on the preparation area    |
+|activity|String| Activity made during the preparation area|
+|temperature|float| Temparature during the preparation area|
+
+Class BunkerRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| thermocuplaOne | int |Temperature registered with thermocupla number 1|
+| thermocuplaTwo | int|Temperature registered with thermocupla number 2|
+| thermocuplaThree  | int|Temperature registered with thermocupla number 3|
+| averageThermocupla | double |Average temprature registered with thermocupla  |
+| frequency | int| Motor frequency registered at the bunker |
+
+Class TunnelRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| thermocuplaOne | int |Temperature registered with thermocupla number 1|
+| thermocuplaTwo | int|Temperature registered with thermocupla number 2|
+| thermocuplaThree  | int|Temperature registered with thermocupla number 3|
+| averageThermocupla | double |Average temprature registered with thermocupla  |
+| roomTemperature| double| Room temperature at the Tunnel |
+| frequency     | int     | Motor frequency registered at the tunnel |
+| freshAir| int| Fresh air record at the tunnel|
+| recirculation| int| Recirculation record at the tunnel|
+| comment| String| Section to add comments if necessary|
+
+Class GrowRoomRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| growRoom     | int     | Number used to identify the grow room     |
+|airTemperature| double| Air temperature that is registered at the grow room|
+|compostTemperature| String| Compost temperature that is registered at the grow room|
+|carbonDioxide| int| Carbon Dioxide that is registered at the grow room|
+|airHydrogen|int| Air Hydrogen that is registered at the grow room|
+|setting| double| Configuration of the grow room |
 
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
