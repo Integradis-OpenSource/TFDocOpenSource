@@ -1431,7 +1431,7 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
-![Imagenes/Trello Sprint 1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Trello%20Sprint%201.png)
+![Imagenes/Trello Sprint 1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Trello%20Sprint%201.png?raw=true)
 
 Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308ea03c7f900a33150458/sprint
 
@@ -1484,19 +1484,19 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 
     En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
 
-    ![Imagenes/Planes_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Planes_evidencia_sprint_1.png)
+    ![Imagenes/Planes_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Planes_evidencia_sprint_1.png?raw=true)
 
 2. Sección contacto
 
     En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
 
-    ![Imagenes/contacto_evidencia_sprnt_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/contacto_evidencia_sprnt_1.png)
+    ![Imagenes/contacto_evidencia_sprnt_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/contacto_evidencia_sprnt_1.png?raw=true)
 
 3. Sección FAQ
 
     En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
 
-    ![Imagenes/FAQ_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/FAQ_evidencia_sprint_1.png)
+    ![Imagenes/FAQ_evidencia_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/FAQ_evidencia_sprint_1.png?raw=true)
 
 #####         **2.1.6. Services Documentation Evidence for Sprint Review.**
 
@@ -1506,15 +1506,15 @@ Para esta primero sprint no fue contemplada la evidencia de documentación de lo
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
 
-![Imagenes/evidence_landing_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_1.png)
+![Imagenes/evidence_landing_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_1.png?raw=true)
 
-![Imagenes/evidence_landing_2.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_2.png)
+![Imagenes/evidence_landing_2.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_2.png?raw=true)
 
-![Imagenes/evidence_landing_3.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_3.png)
+![Imagenes/evidence_landing_3.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_3.png?raw=true)
 
-![Imagenes/evidence_landing_4.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_4.png)
+![Imagenes/evidence_landing_4.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_4.png?raw=true)
 
-![Imagenes/evidence_landing_5.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_5.png)
+![Imagenes/evidence_landing_5.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidence_landing_5.png?raw=true)
 
 #####         **2.1.8. Team Collaboration Insights during Sprint.**
 |Alumno|Actividad|
@@ -1525,9 +1525,9 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 |Espinoza Rodriguez, Nicolas Antonio|Implementación de la sección learn|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección footer y colaboradores|
 
-![Imagenes/evidencia_grupal_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_grupal_github_sprint_1.png)
+![Imagenes/evidencia_grupal_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_grupal_github_sprint_1.png?raw=true)
 
-![Imagenes/evidencia_individual_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_individual_github_sprint_1.png)
+![Imagenes/evidencia_individual_github_sprint_1.png](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/evidencia_individual_github_sprint_1.png?raw=true)
 
 
 
