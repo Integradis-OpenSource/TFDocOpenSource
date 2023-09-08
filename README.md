@@ -1153,8 +1153,19 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 
 ## Conclusiones y recomendaciones
-Lorem ipsum dolor sit amet
 
+1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
+2. La mayoría de las aplicaciones en el mercado dirigidas al segmento objetivo presenta deficiencias dentro del registro de información sobre cultivos en las industrias champiñoneras.
+3. Las repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
+4. El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados al dilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
+5. Los artefactos del Needfinding son necesarios para lograr una aproximación concreta y veraz con el público objetivo.
+6. El desarrollo del Style Guidelines nos ayuda a mantener la consistencia y presentación de contenido en la plataforma. Es fundamental para establecer la identidad coherente y sólida del startup.
+7. El desarrollo de los User Stories y del Product Backlog, prioriza las características de la solución software para que el equipo de desarrollo sepa que hay que entregar primero.
+8. El planteamiento de los Wireframes estableció bases sólidas para el desarrollo de la plataforma interactiva. Enfocó los detalles visuales antes de la codificación lo que resultó en un producto más eficaz y atractivo para el usuario.
+9. Los sprints son necesarios para avanzar de forma continua y ordenada. Es bueno tener un límite de user story points para no sobrecargar de tareas al equipo y poder desarrollar de manera correcta el Landing Page.
+10. La creación del Sprint 1, fue una excelente forma de integrar los user stories priorizables para el primer entregable. Esto se debe a que cada integrante participó del desarrollo del Landing Page dentro del repositorio colaborativo y se realizaron reuniones respectivas para el feedback grupal.
+11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
+12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 
 ## Bibliografía
 Lorem ipsum dolor sit amet
