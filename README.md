@@ -31,6 +31,14 @@
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
+|1.3|25/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user personas, impact mapping, as-is y to-be|
+|1.4|26/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user stories, product backlog|
+|1.5|28/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de prototipos de wireframes y mockups|
+|1.6|31/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de style guidelines e information architecture|
+|1.7|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
+|1.8|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Registro de evidencias del Sprint 1|
+|1.9|04/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Rediseño de mockups. Elaboración de wireflows y user-flows|
+|1.10|07/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de software configuration management y conclusiones|
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
@@ -1417,7 +1425,7 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 |Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
 |-|-|-|
-|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|19|19|
 #####         **2.1.2. Sprint Backlog 1.**
 
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
