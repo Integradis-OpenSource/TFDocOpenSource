@@ -1110,7 +1110,7 @@ Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por
 1. [Visual Studio Code](https://code.visualstudio.com/): Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
 2. [HTML5](https://www.w3schools.com/html/html5_syntax.asp): HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 3. [CSS](https://google.github.io/styleguide/htmlcssguide.html): Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
-4. [C#](https://learn.microsoft.com/es-es/dotnet/csharp/): Es un lenguaje de programación orientado a componentes, orientado a objetos, que parte de la famillia de lenguajes C. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación.
+4. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript): Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación.
 
 **Software Deployment**
 1. [Git](https://git-scm.com/): Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
@@ -1122,10 +1122,10 @@ Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por
 El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
 
 **Repositorio de GitHub:**
-Enlace para acceder a la [organización en GitHub](https://github.com/upc-pre-202302-si730-sw51-integradis)
-Enlace para acceder al repositorio del [Landing Page](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage)
+Enlace para acceder a la [organización en GitHub](https://github.com/Integradis-OpenSource)
+Enlace para acceder al repositorio del [Landing Page](https://github.com/Integradis-OpenSource/LandingPage)
 Enlace para acceder al repositorio del [Frontend Web
-Application](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
+Application](https://github.com/Integradis-OpenSource/TFDocOpenSource)
 
 **Flujo de trabajo GitFlow:**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
