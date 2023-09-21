@@ -1,15 +1,21 @@
-# Informe TB1
-**Universidad Peruana de Ciencias Aplicadas**
+<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-**Ingeniería de Software**
+<img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=50%"/>
 
-**Desarrollo de Aplicaciones Open Source - SW51**
+<h5 style="text-align: center"> Ingeniería de Software </h5>
 
-**Docente:** Angel Augusto Velasquez Nuñez
+<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - SW51 </h5>
 
-**Startup**: Integradis
+<h5 style="text-align: center"> Docente: Angel Augusto Velasquez Nuñez </h5>
 
-**Producto**: Greenhouse
+<h5 style="text-align: center"> Startup: Integradis </h5>
+
+<h5 style="text-align: center"> Producto: Greenhouse </h5>
 
 
 ## Team members:
@@ -21,7 +27,7 @@
 |Seminario Garbin, Carlo Luca|U20211A475|
 |Soto Kong Requena, Andres Eduardo|U202116113|
 
-**Ciclo 2023-02**
+<h5 style="text-align: center"> Ciclo 2023-02 </h5>
 
 ## Registro de versiones del informe
 
