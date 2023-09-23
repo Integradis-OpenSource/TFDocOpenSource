@@ -1552,7 +1552,56 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 ![evidencia_individual_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/6446f195-3716-4573-aab6-e3721c2e19eb)
 
+####     2.2. Sprint 2
+#####         **2.2.1. Sprint Planning 2.**
+Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #2 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto. Adicionalmente elaborar una aplicación web atractiva y funcional para cumplir con las espectativas del cliente
 
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
+
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
+|-|-|-|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
+#####         **2.2.2. Sprint Backlog 2.**
+En el segundo sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
+
+
+|Sprint 2||||||||
+|-|-|-|-|-|-|-|-|
+|User Story||WorkItem / Task|
+|Id|Title|Id|Title|Description|Estimation(Hours)|Assigned To|Status(To-do/In-Process/To-Review/Done)|
+
+
+#####         **2.2.3. Development Evidence for Sprint Review.**
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+#####         **2.2.4. Testing Suite Evidence for Sprint Review.**
+Para la entrega del Sprint 2 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+#####         **2.2.5. Execution Evidence for Sprint Review.**
+En el sprint 2 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
+
+#####         **2.2.6. Services Documentation Evidence for Sprint Review.**
+
+Para esta segundo sprint no fue contemplada la evidencia de documentación de los servicios.
+
+#####         **2.2.7. Software Deployment Evidence for Sprint Review.**
+
+Para la entrega del Sprint número 2, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+
+#####         **2.2.8. Team Collaboration Insights during Sprint.**
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo||
+|Galavis Du Bois, Alan Enrique||
+|Seminario Garvín, Carlo Luca||
+|Espinoza Rodriguez, Nicolas Antonio||
+|Comettant Rubiños, Jessica Elizabeth||
 
 ## Conclusiones y recomendaciones
 
