@@ -45,7 +45,61 @@ width=50%"/>
 |1.8|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Registro de evidencias del Sprint 1|
 |1.9|04/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Rediseño de mockups. Elaboración de wireflows y user-flows|
 |1.10|07/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de software configuration management y conclusiones|
+|1.11|22/09/2023|Espinoza|Redacción de Collaboration Insights|
 
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: https://integradis-opensource.github.io/LandingPage/
+
+####TB1
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.|
+|Alan Galavis|Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog|
+|Carlo Seminario|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+|Jessica Comettant|Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones.|
+|Andres Soto|General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.|
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
+
+**Project Collaboration Insights**
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
+
+Los integrantes son:
+
+* Alan Galavis (trabajosUPC-AlanGalavis)
+* Nicolás Espinoza (EspinozaNaer)
+* Carlo Seminario (CarloLSG)
+* Jessica Comettant (Mei0202)
+* Andrés Soto (asotito231)
+
+![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
+![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
+![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
+![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
+
+En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
+
+![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+Se explican las ramas más prominentes:
+
+**main**: Es representada por el color negro. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+**develop**: Es representada por el color azul. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+**feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
+**feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
+
+El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe. 
+
+![Commit_Timeline](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/062a8d50-d5d4-4467-8c87-3363decc22eb)
+**TP**
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
