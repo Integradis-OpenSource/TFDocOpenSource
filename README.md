@@ -859,25 +859,25 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
 ##### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
+![Landing_Page_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/bfaa93a2-8ff6-4156-af0b-315abcac5698)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
+![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ab8157c4-73b6-4979-9612-309894563550)
 
 ####     3.2. Landing Page Mock-up.
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
+![Landing_Page_ES_Mockup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ad842b7-864f-451e-9512-6d8f4c72a3a3)
 
 ###### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup_Mobile.png?raw=true)
+![Landing_Page_ES_Mockup_Mobile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/99cadded-da53-41af-9c38-8212f305a677)
 
 ##### Landing page en inglés
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup.png?raw=true)
+![Landing_Page_EN_Mockup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c0a9f0ae-aa14-496c-ae6d-1db7fa742e53)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
+![Landing_Page_EN_Mockup_Mobile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9ff9ee0a-5b57-4411-a3c8-f3fda929e34d)
 
 
 ### 4. **Web Applications UX/UI Design.**
