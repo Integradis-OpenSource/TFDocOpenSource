@@ -368,10 +368,236 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 ####     1.1. Análisis competitivo:
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
-![vista_analisis](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/6848f634-37c6-4496-81db-36d7d7cffd90) 
-**Visualización:** https://docs.google.com/spreadsheets/d/1Hn_evhnXSpAuNpxrVHCGnnAEhjVeSZmi/edit?usp=sharing&ouid=112038083029343506182&rtpof=true&sd=true 
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+       body {
+            font-family:"Zizou Slab Light";
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+        ul{
+            text-align: justify;
+            padding: 10px 25px 10px 25px;
+        }
+        img {
+            width: 100px; 
+            height: auto; 
+            display: block;
+            margin: auto;
+            margin-top: 4px;
+        }
+        .sub{
+            font-weight: bold;
+        }
+        th{
+                background-color: #f2f2f2;
+        }
+        h1, h3 {
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table >
+        <tr>
+           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
+            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
+        </tr>
+        <!-- Filas restantes (13 filas) -->
+        <tr>
+            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
+                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
+                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL</td>
+            <td rowspan="2" class="sub">Overview</td>
+            <td> GreenHouse <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
+            <td>Agroptima <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
+            <td>Agrio Software<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>
+            <td>AgrioBit <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/168e05dc-b992-4707-86bb-7dba446d5eac"> </td> 
+        </tr>
+        <tr>
+            <td>Plataforma direccionada al registro y monitoreo de procesos productivos involucrados en los cultivos de las industrias de champiñones
+                La plataforma permite la visibilidad de registro de datos históricos y actuales para un análisis exhaustivo lo que culmina en la toma de decisiones conscientes para las agroempresas
+                Muestra alarmas o notificaciones cuando se muestran parámetros meteorológicos, ambientales o de cultivo fuera del rango normal.</td>
+            <td>Es un software de gestión agrícola ágil e intuitivo para el control y registro de explotaciones agrarias</td>
+            <td>Plataforma web dirigida a empresas que comercializan y procesan patatas, cebollas y hortalizas integrales.</td>
+            <td>Plataforma para las empresas de agronegocios que buscan una gestión empresarial de agricultura y 
+                ganadería inteligente en la nube, que combina datos agropecuarios y financieros en un mismo lugar.</td>      
+        </tr>
+        <tr>
+            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Permite el registro de procesos productivos a partir de fases involucradas en la gestión de cultivos de champiñones</td>
+            <td>
+                <ul>
+                    <li>Se adapta a cualquier tipo de sector agrícola (cultivo)</li>
+                    <li>Muestra una precisión de los cultivos desde una vista satelital</li>
+                    <li>Conecta a la administración, la gerencia y el técnico cultivo de la agroempresa</li>
+                    <li>La aplicación móvil puede trabajar sin hacer uso de conexión inalámbrica</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Integra software de Microsoft Dynamics y Microsoft Azure (software cloud)</li>
+                    <li>Puede acceder a todas las herramientas de la pila de Microsoft 365</li>
+                    <li>Ofrece almacenamiento de datos propio en la plataforma</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Combina datos agropecuarios y financieros en un mismo lugar</li>
+                    <li>Permite trabajar con contratos, aplicaciones, liquidaciones, operaciones empresariales, de logística y de inventarios.</li>
+                    <li>Muestra disponibilidad en Microsoft AppSource y PlayStore</li>
+                </ul>                
+            </td>      
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
+            <td class="sub" >Mercado Objetivo</td>
+            <td>
+                <ul>
+                    <li>Personal técnico supervisor de las fábricas champiñoneras del Perú</li>
+                    <li>Personal administrativo de las empresas champiñoneras del Perú.</li>
+                </ul>  
+            </td>
+            <td>Personal de gerencia, administración y técnico cultivo pertenecientes a las agroempresas</td>
+            <td>Dirigido a empresas que comercializan y procesan patatas, cebollas y hortalizas integrales</td>
+            <td>Empresas de agronegocios que buscan una gestión empresarial de agricultura y ganadería inteligente en la nube</td>
+        </tr>
+        <tr>
+            <td class="sub">Estrategias de Marketing</td>
+            <td>
+                <ul>
+                    <li>Colaboración con expertos en agronomía y agroempresas para respaldar la eficacia del sistema</li>
+                    <li>Ofrecer una prueba gratuita a los usuarios (estrategias de retención)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Prueba gratuita de 15 días (estrategia de retención)</li>
+                    <li>Inserción de videos tutoriales</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Establecer en un espacio dentro de la página, las empresas que ya han implementado el uso de la plataforma.</li>
+                    <li>Entablar vínculos a los canales de comunicación personales de la startup.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Colocar de forma estratégica en la página los logros alcanzados por la empresa y los clientes que ya han implementado este software.</li>
+                    <li>Ofrecer espacios publicitarios en redes sociales.</li>
+                </ul>
+            </td>
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
+            <td class="sub">Productos & Servicios</td>
+            <td>Plataforma web para el registro y monitoreo de procesos productivos involucrados en los cultivos de la industria champiñonera</td>
+            <td>Software de gestión agrícola y registro de campos, personal, productos, clientes</td>
+            <td>Plataforma web de control agrícola direccionada a agroempresas enfocadas en cultivos de hortalizas</td>
+            <td>Plataforma que desarrolla soluciones a medida para que cooperativas, bancos, gobierno, proveedores, 
+                fabricantes de agroinsumos y comunidades agrícolas puedan brindarles a sus clientes o asociados
+                 tecnología mediante sólo una herramienta de innovación. <br>
+                La aplicación permite tener cosechas más productivas, sustentables y con un manejo adecuado 
+                para la preservación del medio ambiente.</td>
+        </tr>
+        <tr>
+            <td class="sub">Precios & Costos</td>
+            <td>Venta de espacios publicitarios dentro de la plataforma
+                Suscripción gratuita por un rango de 15 días, luego el costo será proporcional al tamaño de la agroempresa. 
+                Si la agroempresa registra de entre 100 a 500 usuarios, se considera un monto de $6.75 por usuario; de 500 a más, 
+                el costo oscila en $4.45.</td>
+            <td>Prueba de 15 días, luego los costos se clasifican en tres planes: plan Basic, 
+                plan Pro y plan Premium, en dependencia de las funcionalidades que se desean adquirir.</td>
+            <td>A tratar en mutuo acuerdo con la agroempresa</td>
+            <td>A tratar en acuerdo con la empresa agropecuaria	</td>
+        </tr>
+        <tr>
+            <td class="sub">Canales de distribución (web/móvil)</td>
+            <td>El servicio, de forma momentánea, se brindará en plataforma web</td>
+            <td>Dispone de plataforma web y aplicación móvil</td>
+            <td>Solo plataforma web</td>
+            <td>Plataforma web y aplicación móvil</td>        
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
+            <td class="sub">Fortalezas</td>
+            <td>Comunicación flexible entre el personal supervisor y administrativo de las plantas agrícolas
+                Registro y monitoreo eficiente de los procesos productivos de los cultivos de champiñones</td>
+            <td> 
+                <ul>
+                    <li>Brinda control de ingresos y egresos de cada actividad agrícola involucrada en el tipo de cultivo (gestión de costos)</li>
+                    <li>La vista satelital muestra a tiempo real una mejor percepción de los campos agrícolas, lo que garantiza una adecuada supervisión para el personal técnico</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Portal ágil para consumidores y productores</li>
+                    <li>Cálculos estables basados en herramientas de Microsoft</li>
+                    <li>Muestra proyecciones generales a partir de los cálculos registrados</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Planifica en base a la simulación de escenarios productivos</li>
+                    <li>Combina datos agropecuarios y financieros en un mismo lugar</li>
+                    <li>Reduce riesgos e impacto ambiental</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="sub">Debilidades</td>
+            <td>Desconocimiento del sector agrícola y productivo del cultivo de champiñones</td>
+            <td>Errores en la recepción de información para la creación de cuenta del usuario (interfaz).</td>
+            <td>Solo se encuentra disponible en países de Europa, aún no se ha internacionalizado ni intentó lanzarse al mercado norteamericano.</td>
+            <td>Errores en el formulario de registro de información para entrar en contacto con la empresa</td>  
+        </tr>
+        <tr>
+            <td class="sub">Oportunidades</td>
+            <td>
+                <ul>
+                    <li>Mejora de las funcionalidades deficientes de nuestros competidores en el mercado</li>
+                    <li>Baja presencia de competidores en el mercado</li>
+                    <li>Alta demanda en exportaciones peruanas de cultivos de champiñones hacia el exterior</li>
+                </ul>
+            </td>
+            <td>Implementación de una interfaz agradable y visual para el usuario</td>
+            <td>Administración y planificación visual del departamento de producción de cultivos</td>
+            <td>Combina inteligencia artificial e IoT para mitigar el cambio climático y gestionar cultivos agrícolas</td> 
+        </tr>
+        <tr>
+            <td class="sub">Amenazas</td>
+            <td>Inflación e inestabilidad económica del Perú</td>
+            <td>La interfaz no puede centralizarse en el desarrollo de procesos 
+                productivos para solo un tipo de cultivos. Es decir, la interfaz ha sido creada de forma generalizada.</td>
+            <td>Bajas demandas al ser una startup reciente y no contar con una aplicación móvil</td>
+            <td>Dilema del cambio climático en continuo agudizamiento</td>          
+        </tr>
+    </table>
+</body>
+</html>
 
-**Descarga:** [Integradis_Analisis_Competitivo.xlsx](https://github.com/Integradis-OpenSource/TFDocOpenSource/files/12501907/Integradis_Analisis_Competitivo.xlsx) 
 
 ####     1.2. Estrategias y tácticas frente a competidores.
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
