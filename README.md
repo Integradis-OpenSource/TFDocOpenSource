@@ -1915,6 +1915,24 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 ![evidencia_individual_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/6446f195-3716-4573-aab6-e3721c2e19eb)
 
+<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
