@@ -106,98 +106,96 @@ El proceso del trabajo parcial
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br>TB1: <br> En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: <br> En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación.<br> **Andrés Soto** TB1: Se realizaron "commits" bajo el lenguaje convencional de commit o "conventional commits" de tal manera que se tuviera una organización al momento de presentar los avances <br> **Carlo Luca Seminario** TB1:  Se implementó el uso de conventional commits de modo que logremos una mejor documentación de nuestros avances tanto en el documento como en el código. <br> **Alan Enrique Galavis Du Bois** TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> **Jessica Comettant** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. |Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: <br> Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: <br> En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> **Andrés Soto** TB1: Se tuvieron que realizar reuniones para organizar la disposición del trabajo a cada integrante del equipo, de tal manera que se puedan optimizar tiempo.  **Carlo Luca Seminario** TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> **Alan Enrique Galavis Du Bois** TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> **Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br> TB1: <br> En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: <br> En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación.<br> **Andrés Soto** TB1: <br>  Se realizaron "commits" bajo el lenguaje convencional de commit o "conventional commits" de tal manera que se tuviera una organización al momento de presentar los avances <br> **Carlo Luca Seminario** <br>  TB1: <br>   Se implementó el uso de conventional commits de modo que logremos una mejor documentación de nuestros avances tanto en el documento como en el código. <br> **Alan Galavis** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> TP: <br> Mejoré la precisión de los criterios de aceptación con el objetivo de que los demás miembros del equipo y las partes interesadas puedan comprenderlas con facilidad. Adicionalmente, me apoyé de la herramienta Trello para transcribir las user stories y tasks previamente redactadas en el documento, para que de esta manera, los stakeholders y developers puedan observar el progreso de elaboración de las funcionalidades del proyecto. <br> **Jessica Comettant** <br> TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. |Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: <br> Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: <br> En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> **Andrés Soto** TB1: Se tuvieron que realizar reuniones para organizar la disposición del trabajo a cada integrante del equipo, de tal manera que se puedan optimizar tiempo.  **Carlo Luca Seminario** TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> **Alan Galavis** TB1: <br> Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> TP: <br> Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. <br>**Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
 
 
 ## Contenido
+1. [**Capítulo I: Introducción.**](#1.) <br>
+1.1. [Startup Profile.](#1.1.) <br>
+1.1.1. [Descripción del startup.](#1.1.1.)<br>
+1.1.2.[Perfiles de los integrantes del equipo.](#1.1.2.)<br>
+1.2. [Solution Profile.](#1.2.)<br>
+1.2.1. [Antecedentes y Problemática.](#1.2.1.)<br>
+1.2.2. [Lean UX Process.](#1.2.2.)<br>
+1.2.3. [Lean UX Problem Statements.](#1.2.3.)<br>
+1.2.4. [Lean UX Assumptions.](#1.2.4.)<br>
+1.2.5. [Lean UX Hypothesis Statements.](#1.2.5.)<br>
+1.2.6. [Lean UX Canvas.](#1.2.5.)<br>
+1.3. [Segmentos objetivo.](#1.2.6.)<br>
+2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
+2.1. [Competidores.](#2.1.)<br>
+2.1.1. [Análisis competitivo.](#2.1.1.)<br>
+2.1.2. [Estrategias y tácticas frente a competidores.](#2.1.2.)<br>
+2.2. [Entrevistas.](#2.2.)<br>
+2.2.1. [Diseño de entrevistas.](#2.2.1.)<br>
+2.2.2. [Registro de entrevistas.](#2.2.2.)<br>
+2.2.3. [Análisis de entrevistas.](#2.2.3.)<br>
+2.3. [Needfinding.](#2.3.)<br>
+2.3.1. [User Personas.](#2.3.1.)<br>
+2.3.2. [User Task Matrix.](#2.3.2.)<br>
+2.3.3. [User Journey Mapping.](#2.3.3.)<br>
+2.3.4. [Empathy Mapping.](#2.3.4.)<br>
+2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
+3. [**Capítulo III: Requirements Specification.**](#3.)<br>
+4.1. [To-Be Scenario Mapping.](#3.1.)<br>
+4.2. [User Stories.](#3.2.)<br>
+4.3. [Impact Mapping.](#3.3.)<br>
+4.4. [Product Backlog.](#3.4.)<br>
+4. [**Capítulo IV: Product Design.**](#4.)<br>
+4.1. [Style Guidelines.](#4.1.)<br>
+4.1.1. [General Style Guidelines.](#4.1.1.)<br>
+4.1.2. [Web Style Guidelines.](#4.1.2.)<br>
+4.2. [Information Architecture.](#4.2.)<br>
+4.2.1. [Organization Systems.](#4.2.1.)<br>
+4.2.2. [Labeling Systems.](#4.2.2.)<br>
+4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
+4.2.4. [Searching Systems.](#4.2.4.)<br>
+4.2.5. [Navigation Systems.](#4.2.5.)<br>
+4.3. [Landing Page UI Design.](#4.3.)<br>
+4.3.1. [Landing Page Wireframe.](#4.3.1.)<br>
+4.3.2. [Landing Page Mock-up.](#4.3.2.)<br>
+4.4. [Web Applications UX/UI Design.](#4.4.)<br>
+4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
+4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
+4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
+4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
+4.5. [Web Applications Prototyping.](#4.5.)<br>
+4.6. [Domain-Driven Software Architecture.](#4.6.)<br>
+4.6.1. [Software Architecture Context Diagram.](#4.6.1.)<br>
+4.6.2. [Software Architecture Container Diagrams.](#4.6.2.)<br>
+4.6.3. [Software Architecture Components Diagrams.](#4.6.3.)<br>
+4.7. [Software Object-Oriented Design.](#4.7.)<br>
+4.7.1. [Class Diagrams.](#4.7.1.)<br>
+4.7.2. [Class Dictionary.](#4.7.2.)<br>
+4.8. [Database Design.](#4.8.)<br>
+4.8.1. [Database Diagram.](#4.8.1.)<br>
+5. [**Capítulo V: Product Implementation, Validation & Deployment.**](#5.)<br>
+5.1. [Software Configuration Management.](#5.1.)<br>
+5.1.1. [Software Development Environment Configuration.](#5.1.1.)<br>
+5.1.2. [Source Code Management.](#5.1.2.)<br>
+5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.)<br>
+5.1.4. [Software Deployment Configuration.](#5.1.4.)<br>
+5.2. [Landing Page, Services & Applications Implementation.](#5.2.)<br>
+5.2.1. [Sprint 1.](#5.2.1.)<br>
+5.2.1.1. [Sprint Planning 1.](#5.2.1.1.)<br>
+5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.)<br>
+5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.)<br>
+5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.)<br>
+5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.)<br>
+5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
+5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
+5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+6. [**Conclusiones.**](6.)<br>
+7. [**Bibliografía.**](7.)<br>
+8. [**Anexos.**](8.)<br>
 
-1. **Capítulo I: Introducción.**
-    1. Startup Profile.
-        1. Descripción del startup.
-        2. Perfiles de los integrantes del equipo.
-    2. Solution Profile.
-        1. Antecedentes y Problemática.
-        2. Lean UX Process.
-            1. Lean UX Problem Statements.
-            2. Lean UX Assumptions.
-            3. Lean UX Hypothesis Statements.
-            4. Lean UX Canvas.
-    3. Segmentos objetivo.
-2. **Capítulo II: Requirements Elicitation & Analysis.**
-    1. Competidores.
-        1. Análisis competitivo.
-        2. Estrategias y tácticas frente a competidores.
-    2. Entrevistas.
-        1. Diseño de entrevistas.
-        2. Registro de entrevistas.
-        3. Análisis de entrevistas.
-    3. Needfinding.
-        1. User Personas.
-        2. User Task Matrix.
-        3. User Journey Mapping.
-        4. Empathy Mapping.
-        5. As-is Scenario Mapping.
-4. **Capítulo III: Requirements Specification.**
-    1. To-Be Scenario Mapping.
-    2. User Stories.
-    3. Impact Mapping.
-    4. Product Backlog.
-9. **Capítulo IV: Product Design.**
-    1. Style Guidelines.
-        1. General Style Guidelines.
-        2. Web Style Guidelines.
-    2. Information Architecture.
-        1. Organization Systems.
-        2. Labeling Systems.
-        3. SEO Tags and Meta Tags
-        4. Searching Systems.
-        5. Navigation Systems.
-    3. Landing Page UI Design.
-        1. Landing Page Wireframe.
-        2. Landing Page Mock-up.
-    4. Web Applications UX/UI Design.
-        1. Web Applications Wireframes.
-        2. Web Applications Wireflow Diagrams.
-        3. Web Applications Mock-ups.
-        4. Web Applications User Flow Diagrams.
-    5. Web Applications Prototyping.
-    6. Domain-Driven Software Architecture.
-        1. Software Architecture Context Diagram.
-        2. Software Architecture Container Diagrams.
-        3. Software Architecture Components Diagrams.
-    7. Software Object-Oriented Design.
-        1. Class Diagrams.
-        2. Class Dictionary.
-    8. Database Design.
-        1. Database Diagram.
-11. **Capítulo V: Product Implementation, Validation & Deployment.**
-    1. Software Configuration Management.
-        1. Software Development Environment Configuration.
-        2. Source Code Management.
-        3. Source Code Style Guide & Conventions.
-        4. Software Deployment Configuration.
-    2. Landing Page, Services & Applications Implementation.
-        1. Sprint 1
-            1. Sprint Planning 1.
-            2. Sprint Backlog 1.
-            3. Development Evidence for Sprint Review.
-            4. Testing Suite Evidence for Sprint Review.
-            5. Execution Evidence for Sprint Review.
-            6. Services Documentation Evidence for Sprint Review.
-            7. Software Deployment Evidence for Sprint Review.
-            8. Team Collaboration Insights during Sprint.
-12. **Conclusiones.**
-13. **Bibliografía.**
-14. **Anexos.**
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
-
-
-## Capítulo I: Introducción.
-
-### 1. **Startup Profile.**
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
-####     1.1. Descripción del startup
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
 La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. Nuestra misión es revolucionar la forma en que las fábricas de champiñones monitorean, registran y optimizan sus procesos de producción a través de una aplicación web intuitiva y poderosa. 
 
 **Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
@@ -210,8 +208,7 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 ##### Logotipo del servicio
 ![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
 
-
-####     1.2. Perfiles de los integrantes del equipo
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
 ||Perfiles de los integrantes del equipo|
 | :--------| :--------: |
@@ -221,10 +218,9 @@ Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmen
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
 Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 19 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el quinto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://hackmd.io/_uploads/HkXOtvkCh.png)
 
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
-### 2. **Solution Profile.**
-####     2.1. Antecedentes y Problemática
-##### ¿Cuáles son las 5W?
 ###### What (Qué)
 ###### ¿Cuál es el problema?
  El problema radica en la ausencia de una herramienta cuya capacidad sea proporcionar al personal técnico, de supervisión y administrativo, un registro digital de los procesos involucrados en el crecimiento y 
@@ -269,8 +265,9 @@ Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de cha
 ###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
 El sistema puede ser utilizado por múltiples técnicos, supervisores y administradores que incorporan al personal de las fábricas champiñoneras. No hay un límite específico en cuanto al número de usuarios. Sin embargo, se establece una estimación de un 35% de usuarios beneficiarios dentro de este sector.
 
-####     2.2. Lean UX Process
-#####         **2.2.1.Lean UX Problem Statements.**
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+
 ###### **Problem Statement:** 
 El propósito de Greenhouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
 
@@ -280,7 +277,8 @@ Hemos observado que los prejuicios hacia la calidad del monitoreo productivo de 
 
 ¿Cómo podríamos monitorear de forma automatizada la información proveniente de los procesos productivos que implican los cultivos de champiñones sin generar pérdidas de datos relevantes?
 
-#####         **2.2.2.Lean UX Assumptions.**
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
 ###### **Business Assumptions:**
 1.  **Creemos que nuestros usuarios necesitan** una forma más eficiente de registrar y  monitorear los procesos productivos implicados en el cultivo industrial de champiñones.
 2.  **Estas necesidades se pueden satisfacer** con el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a los datos registrados por el personal técnico y administrativo de las fábricas champiñoneras del Perú.
@@ -312,8 +310,9 @@ El servicio será utilizado por el segmento objetivo cuando surja la necesidad d
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe entablar y maximizar la conexión entre todo el personal de la fábrica, sin generar retrasos ni deficiencia comunicativa. El diseño debe ser llamativo, capaz de captar la atención del segmento objetivo y otorgar una experiencia acogedora. Finalmente, el comportamiento se direcciona a los términos de privacidad y seguridad de datos personales de los usuarios así como de la agroempresa.
-   
-#####         **2.2.3.Lean UX Hypothesis Statements.**
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
 * **Hypothesis Statement 01:**
     
     **Creemos que** los técnicos supervisores y administradores de las fábricas champiñoneras estarán dispuestos a adoptar la aplicación para llevar un registro digital de los procesos productivos involucrados en el cultivo de champiñones.
@@ -346,26 +345,33 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
     
     **Cuando** se perciba una reducción del 50% en el margen de error de registro de datos de procesos productivos dentro de la plataforma.  
 
-#####         **2.2.4.Lean UX Canvas.**
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
+
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
 ![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
 
 Enlace para acceder al [Canvas](https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 )
 
-### 3. **Segmento objetivo.**
+<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
+
 Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor que en el año 2021. Si bien el número de exportaciones fluctúa ser próspero, se requiere un proceso de automatización para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. Así mismo, en los próximos treinta años, la demanda de alimentos se incrementará en un 70 %. Ello implica mejoras en la  gestión y producción de alimentos. El uso de herramientas tecnológicas e incluso disciplinas como la inteligencia artificial pueden ayudar a cumplir este objetivo mediante la creación de granjas virtuales que permiten planificar las actividades agrícolas y monitorear la evolución de los cultivos a través del registro de procesos y factores meteorológicos, ambientales y de cultivos involucrados. La automatización reduciría las dificultades exclamadas por el personal de las agroempresas en cuanto al registro de datos en herramientas manuales.
 Finalmente, en relación a las principales empresas exportadoras de champiñones se comprenden a Novos Distribución y Exportación del Perú con un 52,5% de los envíos totales y un monto de US$ 387,5 mil; C & M Aromatic Group S.A.C., con unos envíos por valor de US$ 200,5 mil; Export Aromático S.A.C., con US$ 149,8 mil; y Andean Trading Corporation S.A.C, con US$ 172. Lo último entablaría una alta tasa de inversionistas y usuarios para la plataforma.
 
-#### 3.1 **Stakeholders:**
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
+
 * **Stakelholder Internos:** Equipo Integradis y resto de integrantes del equipo de desarrollo
 * **Stakelholder Externos:** Personal técnico supervisor y administrador de las industrias enfocadas en el cultivo de champiñones, estudiantes y/o profesionales en carreras involucradas en agronomía, gerencia de agroempresas comerciales.
 
 ![Stakeholders Externos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/b28e7264-8fe6-4da1-9275-59a114145d72)
 
-## Capítulo II: Requirements Elicitation & Analysis
-### 1. **Competidores.**
-####     1.1. Análisis competitivo:
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
 <html>
@@ -598,8 +604,8 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 </body>
 </html>
 
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
-####     1.2. Estrategias y tácticas frente a competidores.
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
 
 **Afrontando las fortalezas de nuestros competidores:**
@@ -676,9 +682,12 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 * Mantener actualizaciones continuas de la plataforma y agilizar la atención al registro de errores por los usuarios
 * Desarrollar webinars para destacar la facilidad de planificación y administración visual para optimizar operaciones que ofrece nuestra plataforma (demostraciones prácticas)
 
-### 2. **Entrevistas.**
+<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
+
 La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
-####     2.1. Diseño de entrevistas.
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
+
 _Preguntas dirigidas al personal técnico supervisor de las fábricas de champiñones._
 ___
 - Preguntas principales:
@@ -729,7 +738,8 @@ ___
 - Preguntas complementarias:
   1. ¿Qué le inspira a trabajar en la administración de las naves de los champiñones?
   2. ¿Cómo se lleva un registro del inventario de champiñones producido?
-####     2.2. Registro de entrevistas.
+
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
 
 **Entrevista a técnicos supervisores**
 
@@ -777,7 +787,7 @@ ___
 |<img width="1295" alt="Screenshot 2023-08-28 at 1 57 27 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6ce2a3-1ff3-4f84-b424-5eebfaeb59b8">|Gerente de la fábrica de champiñones de la marca Campo Alegre. Lleva 5 años en el cargo y se encarga principalmente de la parte financiera, estructural. Recibe a menudo reportes y hace las anotaciones y correciones correspondientes según el caso. Comenta que recibe los reportes por teléfono y tiene una constancia del registro a mano. Cuenta con los conocimientos técnicos referentes al cultivo de champiñones adquiridos a través de los años de experiencia. Menciona que aún no cuentan con la tecnología necesaria en la mayoría de procesos, y que buscan la integración de esta misma. |
 |Timing: 1:03:31-1:22:35|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=qop9GL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM4MTEuMzN9fQ%3D%3D)|
 
-####     2.3. Análisis de entrevistas.
+<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
 ##### Análisis del segmento de técnicos supervisores
 
@@ -787,13 +797,20 @@ En primer lugar, el 100% de los entrevistados tiene una edad superior a 30 años
 
 En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayores mientras que el resto es mayor de ronda los 40 años. A su vez, todos los entrevistados trabajan en la champiñonera desde su apertura hace 5 años. De igual forma, el 100% menciona que el registro se realiza en papel y que esté luego es archivado por si se necesitan en un futuro, además mencionan que tienen un grupo de WhatsApp como un canal no ofocial dónde también se comparten los registros. Asímismo, el 66% de los entrevistados cuenta con los conocimientos técnicos del proceso productivo del champiñón, mientras que el 33% se dedica únicamente a actividades administrativas. Por parte, el 66% comenta que para recibir ciertos registros pueden haber demoras debido a que aún no los tienen en la oficina o que se tiene que buscar entre todos los registros archivados. Además, el 100% menciona que la tecnología se utiliza principalmente en las máquinas de mediciones y que para la comunicación y registro de los datos únicamente se cuenta con los registros manuales en papel y un grupo de WhatsApp. Por otro lado, el 33% de los entrevistas maneja un excel como herramienta tecnológica que utiliza para el control de inventarios y tener una trazabilidad de la producción. También, en su totalidad consideran que implementar una aplicación para registrar las mediociones y optimizar otros proceso agilizaría el trabajo y sería útil para tener una visión más general del proceso productivo y en que aspectos mejorar. Finalmente, todos los entrevistados consideran que el mayor problema sería la capacitación de los trabajadores para utilizar nuevas herramientas tecnológicas.
 
-### 3. **Needfinding.**
-####     3.1. User Personas.
+<div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
+
+* User persona técnico supervisor
 
 ![Luis_Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
+
+* User persona administrador
+
 ![Alvaro_Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
 
-####     3.2. User Task Matrix.
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
 
 * **Luis Flores (Técnico Supervisor):**
@@ -835,7 +852,8 @@ Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas
 
 Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros y hacer sus tareas de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa tales como verificar o supervisar los registros de la producción y estar en constante comunicación con el personal. Por otro lado, cuentan también con otras tareas que son de menor importancia y que realizan esporádicamente, dichas tareas están relacionadas principalmente al proceso de mejora continua en la producción.
 
-####     3.3. User Journey Mapping.
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+
 En la presente sección se ilustra el _end-to-end_ journey de la aplicación Greenhouse para los segmentos objetivos, Técnicos Supervisores y Administradores. El User Journey Mapping empieza desde el momento en el que el cliente adquiere conocimiento de la aplicación pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 Técnico Supervisor:
@@ -850,7 +868,8 @@ Administrador:
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
 
-####     3.4. Empathy Mapping.
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
 * Técnico Supervisor:
 
@@ -865,7 +884,8 @@ Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
 
-####     3.5. As-is Scenario Mapping.
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
+
 Para la realizar el As-is Scenario Mapping el equipo realizó el proceso de needfinding para así tener una mayor dominio sobre el negocio y poder determinar la situación actual de las plantas champiñoneras. Este proceso permitió conocer las diferentes fases que corresponden para cada uno de los segmentos objetivo y así tener un mejor conocimiento del flujo de trabajo.
 
 * Técnico Supervisor:
@@ -882,9 +902,9 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
 
+<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
-## Capítulo III: Requirements Specification
-### 1. **To-Be Scenario Mapping.**
+<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 
 Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. El objetivo del presente artefacto es comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
 
@@ -900,7 +920,8 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
 
-### 2. **User Stories.**
+<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+
 Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
 #### Landing Page User Stories
 
@@ -962,15 +983,14 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |TS12|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los cultivos por cada fase mediante una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
 |TS13|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
 
-
-### 3. **Impact Mapping.**
+<div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
 
 ![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
 
-### 4. **Product Backlog.**
+<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|-|:-:|
@@ -996,9 +1016,10 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 |20|US02|Enlaces relacionados|Como visitante de la landing page Quiero acceder a las redes sociales de Integradis Para contactar por medios de comunicación más oficiales con la startup|1|
 |21|US06|Navegación vía el menú al pie de la landing page|Como visitante de la landing page Quiero navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación Para desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|1|
 
-## Capítulo IV: Product Design
-### 1. **Style Guidelines.**
-####     1.1. General Style Guidelines.
+<div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
+
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
 
 Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
 
@@ -1036,7 +1057,8 @@ La tipografía establece jerarquía entre los diversos grupos de contenido de la
 
 ![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 
-####     1.2. Web Style Guidelines.
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
+
 El enfoque de "Greenhouse" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
 ##### Tarjetas:
 Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
@@ -1076,11 +1098,13 @@ Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco
 ##### Pantallas Emergentes:
 Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 
+<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
 
-### 2. **Information Architecture.**
 Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
 Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
-####     2.1. Organization Systems.
+
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+
 La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los empleados y las empresas que los representan. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul claro que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
 
 El proceso núcleo de negocio de las fases de cultivo utiliza una **organización secuencial** de la información. El elemento "mat-timeline" de Angular Material guía al usuario a través del cultivo de champiñones, muestra los insumos necesarios para iniciar un cultivo, las actividades en el patio, búnker, túnel y el proceso de crecimiento de incubación, cobertura, inducción y cosecha. El usuario técnico supervisor puede visualizar los cultivos en la fase en la que se encuentran y dar por finalizadas las fases para continuar con la siguiente. El contenido de los procesos está categorizado de forma **cronológica**, es importante para los técnicos supervisores mantener un registro de los cultivos que llevan más tiempo en producción. Estos últimos cultivos tienen requisitos específicos y diferentes a los cultivos que apenas empiezan a ser producidos.
@@ -1090,11 +1114,14 @@ Para el panel de control, es necesario ofrecer al cliente una vista general de l
 Para las pantallas de listado de empleados dentro de la empresa, su categorización será de tipo **alfabético** en base a los nombres completos de los empleados. El propósito de esta categorización es dar a los administradores una vista que sea similar a los registros presenciales con los que ya cuentan en medios físicos.
 
 Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. Los administradores verán como pantalla principal el panel de control de la aplicación web. En cambio, los técnicos supervisores serán recibidos con la pantalla de registro de procesos de cultivos.
-####     2.2. Labeling Systems.
+
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+
 Los encabezados se encuentran presentes en las pantallas que no forman parte del proceso principal de la aplicación. Cada uno resume de forma adecuada al usuario todo el contenido de la vista actual.
 Además de imágenes, las secciones del panel de control están asociadas con labels que informan al usuario del contenido que puede visualizar si accede a estas secciones. Es por esta razón, además, que todas las tarjetas presentadas en esta vista cuentan con sus respectivos títulos.
 En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de procesos.
-####     2.3. SEO Tags and Meta Tags.
+
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
 
 Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
 
@@ -1131,22 +1158,28 @@ Se utiliza para registrar la información del autor de la página web y la propi
     <meta name="author" content="Integradis"/>
 
     <meta name="copyright" content="Copyright Integradis team" />
-    
-####     2.4. Searching Systems.
-Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por las empresas que lo utilizan. Los usuarios podrán buscar los cultivos registrados por su fecha de registro y la fase en la que se encuentran. Asimismo, podrán filtrar en base a fecha, fase y autor del registro de cultivos en el histórico general de los cultivos realizados. Adicionalmente, la funcionalidad de búsqueda estará también presente en la visualización de los empleados de la empresa. 
-####     2.5. Navigation Systems.
+
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
+
+Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por las empresas que lo utilizan. Los usuarios podrán buscar los cultivos registrados por su fecha de registro y la fase en la que se encuentran. Asimismo, podrán filtrar en base a fecha, fase y autor del registro de cultivos en el histórico general de los cultivos realizados. Adicionalmente, la funcionalidad de búsqueda estará también presente en la visualización de los empleados de la empresa.
+
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
+
 Los sistemas de navegación principales de la Landing Page son los menús de navegación superior e inferior. El sistema de labeling desplaza a los usuarios a las secciones que desean visualizar dentro de la página. En el caso no se haga uso de estos enlaces, el usuario verá la página de forma descendente.
 En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones enumeradas y presentes arriba de los registros de cada una de las fases. Los usuarios podrán saltar de una fase a otra o seguir un camino secuencial. Los botones, de igual manera, representan la apertura, confirmación o finalización de un registro y permiten el seguimiento del proceso en una nueva pantalla.
 
-### 3. **Landing Page UI Design.**
-####     3.1. Landing Page Wireframe.
+<div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
+
+<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
+
 ##### Landing Page para Desktop Web Browser
 ![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
 
 ##### Landing Page para Mobile Web Browser
 ![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
 
-####     3.2. Landing Page Mock-up.
+<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
+
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
 ![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
@@ -1162,8 +1195,10 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
 
 
-### 4. **Web Applications UX/UI Design.**
-####     4.1. Web Applications Wireframes.
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
+
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes.</h4></div>
+
 Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
 ##### Web Application para Desktop Web Browser
 ###### Iniciar sesión
@@ -1247,7 +1282,8 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ###### Finalizar fase
 ![Wireframe_WebApp_Mobile_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_finalizar_fases.png?raw=true)
 
-####     4.2. Web Applications Wireflow Diagrams.
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
 
 ##### User Goal: Registrar empresa
@@ -1276,8 +1312,8 @@ User persona: Técnicos supervisores.
 User persona: Administradores.
 ![Wireflow_Ver_Registro_Pasado](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02887a4b-aec2-4798-ae27-79d7ba15e99a)
 
+<div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
 
-####     4.3. Web Applications Mock-ups.
 Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
 ##### Web Application para Desktop Web Browser
 ###### Iniciar sesión
@@ -1382,8 +1418,8 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ###### Finalizar fases
 ![Mockup_finalizar_fases](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/904cffe1-8c81-4556-bbef-910272815e47)
 
+<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
-####     4.4. Web Applications User Flow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
 
 ##### User Goal: Registrar empresa
@@ -1452,7 +1488,7 @@ User persona: Técnicos supervisores.
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
 ![User_Flow_Fase_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/e1b6d205-baa0-478a-ada4-4ffc16852b36)
 
-### 5. **Web Applications Prototyping.**
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
 
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
@@ -1468,18 +1504,24 @@ Enlace para acceder al video de explicación del [Web Applications Prototyping](
 
 Enlace para acceder al [Flujo](https://www.figma.com/proto/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&node-id=590-3628&t=E4kYs117hZdZqKLE-1&scaling=scale-down&page-id=115%3A172&starting-point-node-id=590%3A3628)
 
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
 
-### 6. **Domain-Driven Software Architecture.**
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
-####     6.1. Software Architecture Context Diagram.
+
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram.</h4></div>
+
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
 ![System Context Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/50172890-b164-431e-8e0d-feaec38465cf)
-####     6.2. Software Architecture Container Diagram.
+
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagram.</h4></div>
+
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
 
 ![System Container Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a4972d2f-0e9c-4343-aeaa-89b9e78c8da9)
-####     6.3. Software Architecture Components Diagrams.
+
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
+
 Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 ##### Log-In Bounded Context
 ![Log-In Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/adcdefc4-7df1-4e11-aeba-b05b870f3bd7)
@@ -1490,12 +1532,12 @@ Los diagramas de componentes muestra una vista de las relaciones de los componen
 ##### Harvesting Bounded Context
 ![Harvesting Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5466a9c0-714f-4592-b987-1ffed2680501)
 
-### 7. **Software Object-Oriented Design.**
-####     7.1. Class Diagrams.
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
+
 ![Class Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/657a4afb-5b56-4c51-9d28-3dfbe32e6e30)
 
-
-####     7.2. Class Dictionary.
+<div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
 
 Class User
 
@@ -1622,42 +1664,49 @@ Class GrowRoomRecord
 |airHydrogen|int| Air Hydrogen that is registered at the grow room|
 |setting| double| Configuration of the grow room |
 
-### 8. **Database Design.**
+<div id='4.8.'><h3> 4.8. Database Design.</h3></div>
+
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
-####     8.1. Database Diagram.
+
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
+
 ![Database_Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ba8b36ef-2bec-4265-8345-e63a8ed5fb82)
 
-## Capítulo V: Product Implementation, Validation & Deployment
-### 1. Software Configuration Management.
-####     1.1. Software Development Environment Configuration.
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
 
 **Requirements Management**
-1. [Trello](https://trello.com/es): Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia [https://trello.com/es](https://trello.com/es)
+
 **Product UX/UI Design**
-1. [Figma](https://www.figma.com/login): Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
-2. [Lucidchart](https://www.lucidchart.com/): Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. Ruta de referencia [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. Ruta de referencia [https://www.lucidchart.com/](https://www.lucidchart.com/)
 
 **Software Testing**
-1. [Gherkin](https://cucumber.io/docs/gherkin/): Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. 
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. Ruta de referencia [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
 
 **Software Development**
-1. [Visual Studio Code](https://code.visualstudio.com/): Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
-2. [HTML5](https://www.w3schools.com/html/html5_syntax.asp): HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
-3. [CSS](https://google.github.io/styleguide/htmlcssguide.html): Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
-4. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript): Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación.
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Ruta de referencia [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación. Ruta de referencia [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 **Software Deployment**
-1. [Git](https://git-scm.com/): Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
 
 **Software Documentation and Project Management**
-1. [Github](https://github.com/): Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. 
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. Ruta de referencia [https://github.com/](https://github.com/)
 
-####     1.2. Source Code Management.
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
 El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
 
 **Repositorio de GitHub:**
 Enlace para acceder a la [organización en GitHub](https://github.com/Integradis-OpenSource)
-Enlace para acceder al repositorio del [Landing Page](https://github.com/Integradis-OpenSource/LandingPage)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/Integradis-OpenSource/LandingPage)
 Enlace para acceder al repositorio del [Frontend Web
 Application](https://github.com/Integradis-OpenSource/TFDocOpenSource)
 
@@ -1685,7 +1734,8 @@ Para los mensajes de los commits realizados, se utilizará la especificación Co
 
  `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
-####     1.3. Source Code Style Guide & Conventions.
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
 **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
 
 1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
@@ -1702,7 +1752,8 @@ Para los mensajes de los commits realizados, se utilizará la especificación Co
 
 **Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
 
-####     1.4. Software Deployment Configuration.
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
 **Landing page deployment:**
 
 Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
@@ -1718,10 +1769,12 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 Enlace para acceder a la [landing page](https://integradis-opensource.github.io/LandingPage/)
 
+<div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
-### 2. Landing Page, Services & Applications Implementation.
-####     2.1. Sprint 1
-#####         **2.1.1. Sprint Planning 1.**
+<div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
 Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
 
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
@@ -1731,7 +1784,8 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 |Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
 |-|-|-|
 |Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|19|19|
-#####         **2.1.2. Sprint Backlog 1.**
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
@@ -1754,7 +1808,8 @@ Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308e
 |US07|Acceso a la creación de cuenta de la aplicación web|UT09|Crear cuenta|Desplegar menu de creación de cuenta al interactuar con boton de creación de cuenta|1|Andrés Soto|To-do|
 |US08|Sección "Plans"|UT10|Mostrar planes|Mostrar los planes establecidos y sus descripciones|1|Carlo Seminario|In-process|
 
-#####         **2.1.3. Development Evidence for Sprint Review.**
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 |https://github.com/Integradis-OpenSource/LandingPage|LandingPage/docs|ea62a6|chore:added header|chore:added header|02/09/2023|
@@ -1775,13 +1830,17 @@ Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308e
 ||LandingPage/docs|d70bf9c|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
 ||LandingPage/docs|6debdb3|chore: updated organization for deployment|chore: updated organization for deployment|07/09/2023|
 ||LandingPage/docs|ecbe71d|fix(collaborators): fix positing on html file|fix(collaborators): fix positing on html file|07/09/2023|
-#####         **2.1.4. Testing Suite Evidence for Sprint Review.**
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+
 Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 |https://github.com/Integradis-OpenSource/LandingPage|LandingPage/Features|7387d5e|chore: added aceptance test|chore: added aceptance test|07/09/2023|
-#####         **2.1.5. Execution Evidence for Sprint Review.**
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+
 En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
 
 1. Sección planes
@@ -1802,11 +1861,11 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 
     ![FAQ_evidencia_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/fa813024-cbf6-4a1a-9e2b-e7f4fbd1fa24)
 
-#####         **2.1.6. Services Documentation Evidence for Sprint Review.**
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
 Para esta primero sprint no fue contemplada la evidencia de documentación de los servicios.
 
-#####         **2.1.7. Software Deployment Evidence for Sprint Review.**
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
 
@@ -1820,8 +1879,8 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 ![evidence_landing_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/aac28476-8aca-4c65-9b0e-b7df9dedb35d)
 
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
-#####         **2.1.8. Team Collaboration Insights during Sprint.**
 |Alumno|Actividad|
 |-|-|
 |Soto Kong Requena, Andres Eduardo|Implementación de la sección header de la landing page|
@@ -1835,8 +1894,7 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ![evidencia_individual_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/6446f195-3716-4573-aab6-e3721c2e19eb)
 
 
-
-## Conclusiones y recomendaciones
+<div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
 1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
 2. La mayoría de las aplicaciones en el mercado dirigidas al segmento objetivo presenta deficiencias dentro del registro de información sobre cultivos en las industrias champiñoneras.
@@ -1851,7 +1909,9 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 
-## Bibliografía
+
+<div id='7.'><h2> 7. Bibliografía.</h2></div>
+
 >Agro Perú. (2023). Perú exportó 850 toneladas de hongo seco por USD 7.1 millones. AGROPERÚ Informa. https://www.agroperu.pe/peru-exporto-850-toneladas-de-hongo-seco-por-usd-7-1-millones/#:~:text=Per%C3%BA%20export%C3%B3%20850%20toneladas%20de%20hongo%20seco%20por%20USD%207.1%20millones,-2%20de%20marzo&text=En%20el%202022%2C%20Per%C3%BA%20export%C3%B3,que%20el%202021%2C%20inform%C3%B3%20FreshFruit [Consulta: 6 de septiembre 2023].
 
 >Agraria.pe Agencia Agraria de Noticias. (s. f.).  EXPORTACIONES DE HONGOS CRECEN 1,7 mil% https://www.agraria.pe/noticias/exportaciones-de-hongos-crecen-17-mil--775 [Consulta: 6 de septiembre 2023].
@@ -1862,6 +1922,6 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 >Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 6 de septiembre]
 
+<div id='8.'><h2> 8. Anexos.</h2></div>
 
-## Anexos
 - Video exposición TB1: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
