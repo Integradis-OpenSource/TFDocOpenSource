@@ -1776,6 +1776,57 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 Enlace para acceder a la [landing page](https://integradis-opensource.github.io/LandingPage/)
 
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+[Ingresar a Netlify](https://app.netlify.com/)
+
+Ingresar con tu cuenta de Github en la opción Sign Up with Github:
+
+<img width="1440" alt="Sing Up" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
+
+Brindar autorización a Netlify para Github.
+
+Una vez tienes una cuenta en Netlify es necesario nombrar a tu Team, en este caso lo nombramos Greenhouse.
+
+<img width="279" alt="Netlify Sidebar" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ac09ff3c-fd91-4101-b196-f8125994211f">
+
+Se ingresa a la sección Sites y se selecciona la opción Add new site y la sección Import an existing project.
+
+<img width="1106" alt="add new site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4a0840b9-3d1b-4918-8dde-cdb29db10ec8">
+
+<img width="263" alt="Import an existing project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/10a789e2-e897-4eb9-9ad9-12d8b931d251">
+
+Elegimos la opción de “Deploy with Github”. Se configuran el acceso al repositorio de la organización y luego se selecciona el repositorio sobre el cuál se va a realizar el deployment.
+
+<img width="1170" alt="deploy project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fbd4fb1a-f5b8-43e9-b32e-7ca2d9f4b6ee">
+
+<img width="463" alt="repository access" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/affdf629-fef9-40cb-ab9f-b529ce618a2a">
+
+<img width="841" alt="repositories" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b021fed9-9378-48f6-a139-04cd0b4694b9">
+
+A continuación se tiene que realizar la configuración para el despliegue. En esta se tiene que ingresar el Team de Netlify, y la branch del repositorio al cuál se le va a hacer deploy, en este caso master. Además se tienen que configurar los build settings, el base directory no se cambia porque es el root directory. El build command es npm run build para generar la carpeta dist, mientras que en el Publish directory se coloca el dist/greenhouse. Finalmente se selecciona la opción de deploy, la cuál es Deploy Greenhouse.
+
+<img width="826" alt="configuration" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2b7c6e75-193c-435a-bdf9-4918195ccc21">
+
+<img width="847" alt="build settings" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fc760bd0-44e7-4073-8a0b-001d757d036d">
+
+<img width="237" alt="deploy button" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/519fcf23-3a59-44c1-be97-64af61934adb">
+
+
+Luego esperas a que la página termine el deployment y en la ventana de sites va encontrarse la página publicada:
+
+<img width="1106" alt="published site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/514c1138-9018-4611-aee1-0a03a197ea12">
+
+Ingresas y cuentas con el enlace para ingresar al Front End Web Application, además que te da la opción de Site Configuration en dónde podrás cambiar el Site name de ser necesario.
+
+<img width="634" alt="site options" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/bf9e1d0b-dd3e-4da0-9e1c-45151635a3b8">
+
+De este modo ya se contaría con la página desplegada y al estar vinculada y con permisos en el repositorio de la organización cada vez que se realiza un commit a la branch correspondiente se va a actualizar el Front End Web Application sin necesidad de volver a hacer todos los pasos anteriores.
+
+Enlace para acceder [Front End Web Application](https://greenhouse-open.netlify.app/)
+
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
 <div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
