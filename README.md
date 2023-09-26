@@ -1935,14 +1935,123 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
 
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|34a02d1|feat: added hyperlinks to navbar and footer||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|cd032c7|fix: functionality of faq section||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|5a8a16a|feat(contact): added social media links||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|1ea640b|feat(contact): added contact information||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|49b943c|fix: display of contact, faq and footer section||11/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|54477cb|feat(navbar): implemented sticky position and fixed overlap||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|62095af|feat(navbar): implemented sticky position and fixed overlap||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|e5b037a|fix(benefits): fixed display||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|eb5f9dc|chore: code cleanup||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|849a64e|fix(pricing): display according to figma||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|b300832|fix: buttons||18/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7c594b9|chore: added needed dependencies.||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|57ea932|feat: added Greenhouse logo to project||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|eba032b|chore: Deleted favicon.ico||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|9793674|chore: Imported needed dependencies.||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|71c8f4f|feat(stepper): Added stepper component||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1fc3c3d|feat(button-primary): Added button-primary component||19/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|3835294|feat: added about the team and about the project sections||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|88596e0|feat(header): Added header first version||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|e206ebd|feat(information): added information component for the profile||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|68477df|feat(profile-information): added profile information with the complete view for a profile.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8c05139|feat(profile-information): deleted unused import Input and Output||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|fe00733|feat(toolbar): modified toolbar display and content||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|bf5f393|chore: added styles and font||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ab23a42|chore: added box style.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f53b17a|chore(profile-information): added style for Account||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f9cbc98|chore: added tailwind||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8d7edfd|feat(avatar): added avatar component.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4570a40|feat(main-content): added main-content and used tailwind for layout.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|43a6dc9|chore: import components||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3ee23b8|chore(server): added configuration files for fake api.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7d608b9|chore(service): added base class for service facade.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ee72434|chore: added http client module.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a10522d|chore(profile): renamed main-content to profile-content||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|6475482|chore(profile): added underline.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b3216f5|fix(toolbar): rebase the toolbar files location to shared directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|decdc5b|feat(dashboard): added dashboard card||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b928496|feat(dashboard): added dashboard content.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c5d9250|chore(dashboard): added dashboard content to app module.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|893ef53|chore(dashboard): added dashboard images.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|99b5556|feat(organization): added organization information component.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|44fd58c|feat(organization): added organization content component.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|87cef95|chore: created and moved components to shared directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a436dbe|chore: created and moved components to user directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a236bda|chore: created and moved components to organizations directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ae45fe0|feat(employees): added employees content.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|d6f426c|chore(organization): added employees of the organization.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|af7f5d8|chore: update declarations and imports.||21/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|bf6cb9f|feat: improved about the team section and added correct image for about the project||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8833657|feat(navbar): Improved navbar||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a62f23f|fix: Replaced externally referenced library for icons with local install||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b2dc67e|feat(routing): Added routing between dashboard and stepper||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1652ae09|feat(navbar): Added enterprise and profile icons||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7c3a4c3|feat(navbar): Added routing between navbar and profile||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|22e32c8|feat(process-table): added process-table component|feat(process-service): added process-entry service, feat(process-entry): added process-entry entity, chore(): added MatTable, MatForm modules|22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|2fc004d|feat(navbar): Added routing between navbar and organization||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f653b78|chore(button-primary): Moved location of button-primary component||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|11c8197|feat(process-table): Added process table to stepper||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|255fe9b|feat(dashboard): Improved dashboard layout||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|767d626|feat(process-log): Added process log component||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|591caa2|fix(organization): Fixed primary-font imported incorrectly||22/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|3a191b5|feat: added spanish html index and functional language menu||23/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|91b8622|fix: changed text in es_index.html to spanish||23/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|5ab45dc|fix(navbar): fixed language menu display||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|60d2101|pop-up component created||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|90606f0|event services created||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|16d40e8|feat<event-service>:Add EventService for object activation||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3a7aff1|feat:Add popup styles and functionality| Added styles for the popup container, body, and content. Created a popup component with visibility control. Updated popup content and appearance|23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|fc23e40|feat(communication.service): Implement CommunicationService for showing popups| Created a CommunicationService class. Added a Subject for triggering popup button clicks. Exposed an Observable for subscribing to popup button clicks. Implemented a method to trigger popup button clicks.|23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|dbe2c77|feat(popup-warning): Implement communication with COmmunicationSerive||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|51f1f37|feat(stepper-communication): Implement communication with stepper component and Communicacion service||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1c386f8|feat(popupnewcrop):Popupnewcrop added, path /popup-new-crop added too||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|77236d6|feat(popupnewcrop):Typescript added, activeObjectPopUpNewCrop in eventservice added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c56ddf2|HTML new crop component added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|99e030a|feat(popupcropfinished): popup-crop-finished added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|db65449|feat(popupcropfinished):Typescript added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c0c0e6f|feat(popupcropfinished):HTML added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|52df7a6|Css added,path in app router /popup-crop-finished||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|31de386|chore(process-table): json server get implemented for tables.||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f0c5858|feat(dialog): Added dialog for creating new record||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|07f860c|feat(dialog): Updated dialog for displaying recorded info||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c0e80d8|fix: Removed unused import OnInit||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|d8da734|feat(stepper): Added scroll on mobile view to records table||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4f7dd07|fix(stepper): Fixed button with incorrect padding||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b83cd76|feat(process-input-dialog-stock): added popup form for stock phase||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|56a1a47|feat: added popup form for every other phase||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|2646522|fix: Removed unused import OnInit||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3c6cfd2|chore(stock): Post data form the stock form into the stock table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|32900be|chore(preparation-area): Post data form the preparation-area form into the preparation-area table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|002edad|fix: Eliminate unused router input.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8d39ee5|fix(preparation-area): change the name of the service.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|857227b|chore(bunker): Post data form the bunker form into the bunker table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|481712b|chore(bunker): Post data form the tunnel form into the tunnel table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4523abf|chore(growRoom): Post data form the grow room phases form into its corresponding table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|5a8efce|chore(server): added id to json server so it works.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ce279ea|fix(server): deleted extra json-server||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|bf1bed0|Revert "fix(server): deleted extra json-server"||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|616bc09|fix(server): added db.json for MyJsonServer||24/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|b506dlc|chore: added links to the Greenhouse web app.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|5a0a033|chore(server): added MyJsonServer to basePath.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8dn7c75|chore: Connected popup components to main components||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|affc67b|chore: erased unnecessary variables||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|61c0b9e|fix: added _redirect file to solve page not found.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b786485|fix: update _redirects file to solve page not found.||25/09/2023|
+
+
 
 <div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
 Para la entrega del Sprint 2 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+
+
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 2 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
 
