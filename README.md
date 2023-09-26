@@ -2020,14 +2020,44 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
+     <tr>
+      <td>US09</td>
+      <td>Documentar fase Insumos</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>2</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Documentar fase Insumos</td>
+      <td>TK05</td>
+      <td>Tabla de la fase insumos</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
     <tr>
       <td>US09</td>
       <td>Documentar fase Insumos</td>
       <td>TK04</td>
-      <td>Generar  popup's de la fase insumos</td>
+      <td>Generar popup's para ingresar datos de la fase insumos</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Documentar fase Insumos</td>
+      <td>TK04</td>
+      <td>Mostrar popup's de advertencia de la fase insumos</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
     <tr>
