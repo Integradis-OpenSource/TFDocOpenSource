@@ -1909,7 +1909,7 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
-|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
+||||
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
 <table>
@@ -2147,25 +2147,17 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 |https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|61c0b9e|fix: added _redirect file to solve page not found.||25/09/2023|
 |https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b786485|fix: update _redirects file to solve page not found.||25/09/2023|
 
-
-
 <div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
-Para la entrega del Sprint 2 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
-En el sprint 2 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para esta segundo sprint no fue contemplada la evidencia de documentación de los servicios.
-
-<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>*
-
-Para la entrega del Sprint número 2, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
