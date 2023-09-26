@@ -1993,131 +1993,131 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
   <tr>
       <td>US01</td>
       <td>Contactar a la startup</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK01</td>
+      <td>Enlaces de contacto</td>
+      <td>Conectar los botones de social media con las respectivas paginas princinpales de cada red social</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US02</td>
       <td>Obtener información de la aplicación</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK02</td>
+      <td>Ver secciones de información sobre la aplicación</td>
+      <td>Mostrar al usuario diferentes secciones que expliquen el producto y sus beneficios</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US03</td>
       <td>Acceder a la aplicación desde la landing page</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK03</td>
+      <td>Conectar la landing page con la web application mediante hipervinculos</td>
+      <td>Permitir que el usuario pueda visitar la web application mediante el uso de hipervinculos en botones</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US09</td>
       <td>Documentar fase Insumos</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK04</td>
+      <td>Generar  popup's de la fase insumos</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US10</td>
       <td>Documentar fase Patio</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK05</td>
+      <td>Generar  popup's de la fase patio</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase patio</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US11</td>
       <td>Documentar fase Búnker</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK06</td>
+      <td>Generar  popup's de la fase búnker</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase búnker</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US12</td>
       <td>Documentar fase Túnel</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK07</td>
+      <td>Generar  popup's de la fase túnel</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase túnel</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US13</td>
       <td>Documentar fase Incubación</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK08</td>
+      <td>Generar  popup's de la fase incubación</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase incubación</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US14</td>
       <td>Documentar fase Cobertura</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK09</td>
+      <td>Generar  popup's de la fase cobertura</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase cobertura</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US15</td>
       <td>Documentar fase Inducción</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK10</td>
+      <td>Generar  popup's de la fase inducción</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase inducción</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US16</td>
       <td>Documentar fase Cosecha</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK11</td>
+      <td>Generar  popup's de la fase cosecha</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase cosecha</td>
       <td>5</td>
-      <td></td>
+      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US20</td>
       <td>Visualizar perfil de la empresa</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK14</td>
+      <td>Mostrar información del perfil empresa</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
       <td>2</td>
-      <td></td>
+      <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US21</td>
       <td>Visualizar perfil del usuario</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK16</td>
+      <td>Mostrar infromación del perfil usuario</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
       <td>2</td>
-      <td></td>
+      <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
   </tbody>
