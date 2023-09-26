@@ -1991,7 +1991,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
   </thead>
   <tbody>
   <tr>
-      <td>US01</td>
+      <th>US01</th>
       <td>Contactar a la startup</td>
       <td>TK01</td>
       <td>Enlaces de contacto</td>
@@ -2001,7 +2001,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US02</td>
+      <th>US02</th>
       <td>Obtener información de la aplicación</td>
       <td>TK02</td>
       <td>Ver secciones de información sobre la aplicación</td>
@@ -2011,7 +2011,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US03</td>
+      <th>US03</th>
       <td>Acceder a la aplicación desde la landing page</td>
       <td>TK03</td>
       <td>Conectar la landing page con la web application mediante hipervinculos</td>
@@ -2021,18 +2021,16 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
      <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
+      <th rowspan="4">US09</th>
+      <td rowspan="4">Documentar fase Insumos</td>
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>2</td>
+      <td>1</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
       <td>TK05</td>
       <td>Tabla de la fase insumos</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
@@ -2041,9 +2039,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
-      <td>TK04</td>
+      <td>TK06</td>
       <td>Generar popup's para ingresar datos de la fase insumos</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
       <td>2</td>
@@ -2051,89 +2047,255 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
-      <td>TK04</td>
+      <td>TK07</td>
       <td>Mostrar popup's de advertencia de la fase insumos</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
       <td>2</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
-    <tr>
-      <td>US10</td>
-      <td>Documentar fase Patio</td>
-      <td>TK05</td>
-      <td>Generar  popup's de la fase patio</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase patio</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+   <tr>
+      <th rowspan="4">US10</th>
+      <td rowspan="4">Documentar fase Patio</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US11</td>
-      <td>Documentar fase Búnker</td>
-      <td>TK06</td>
-      <td>Generar  popup's de la fase búnker</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase búnker</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Documentar fase Túnel</td>
-      <td>TK07</td>
-      <td>Generar  popup's de la fase túnel</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase túnel</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Documentar fase Incubación</td>
       <td>TK08</td>
-      <td>Generar  popup's de la fase incubación</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase incubación</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+      <td>Tabla de la fase Patio</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Patio</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US14</td>
-      <td>Documentar fase Cobertura</td>
       <td>TK09</td>
-      <td>Generar  popup's de la fase cobertura</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase cobertura</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+      <td>Generar popup's para ingresar datos de la fase Patio</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Patio</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US15</td>
-      <td>Documentar fase Inducción</td>
       <td>TK10</td>
-      <td>Generar  popup's de la fase inducción</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase inducción</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+      <td>Mostrar popup's de advertencia de la fase Patio</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Patio</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US16</td>
-      <td>Documentar fase Cosecha</td>
+      <th rowspan="4">US11</th>
+      <td rowspan="4">Documentar fase Búnker</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
       <td>TK11</td>
-      <td>Generar  popup's de la fase cosecha</td>
-      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase cosecha</td>
-      <td>5</td>
-      <td>Andrés Soto, Alan Galavis, Jessica Commetant, Nicolas Espinoza</td>
+      <td>Tabla de la fase Búnker</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Búnker</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Generar popup's para ingresar datos de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Búnker</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK13</td>
+      <td>Mostrar popup's de advertencia de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Búnker</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US12</th>
+      <td rowspan="4">Documentar fase Túnel</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Tabla de la fase Túnel</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Túnel</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK15</td>
+      <td>Generar popup's para ingresar datos de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Túnel</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Mostrar popup's de advertencia de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Túnel</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US13</th>
+      <td rowspan="4">Documentar fase Incubación</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK17</td>
+      <td>Tabla de la fase Incubación</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Incubación</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Generar popup's para ingresar datos de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Incubación</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK19</td>
+      <td>Mostrar popup's de advertencia de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Incubación</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US14</th>
+      <td rowspan="4">Documentar fase Cobertura</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK20</td>
+      <td>Tabla de la fase Cobertura</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cobertura</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK21</td>
+      <td>Generar popup's para ingresar datos de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cobertura</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK22</td>
+      <td>Mostrar popup's de advertencia de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cobertura</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US15</th>
+      <td rowspan="4">Documentar fase Inducción</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK23</td>
+      <td>Tabla de la fase Inducción</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Inducción</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK24</td>
+      <td>Generar popup's para ingresar datos de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Inducción</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK25</td>
+      <td>Mostrar popup's de advertencia de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Inducción</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US16</th>
+      <td rowspan="4">Documentar fase Cosecha</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK26</td>
+      <td>Tabla de la fase Cosecha</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cosecha</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK27</td>
+      <td>Generar popup's para ingresar datos de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cosecha</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK28</td>
+      <td>Mostrar popup's de advertencia de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cosecha</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US20</td>
       <td>Visualizar perfil de la empresa</td>
-      <td>TK14</td>
+      <td>TK29</td>
       <td>Mostrar información del perfil empresa</td>
       <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
       <td>2</td>
@@ -2141,7 +2303,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US21</td>
+      <td>US30</td>
       <td>Visualizar perfil del usuario</td>
       <td>TK16</td>
       <td>Mostrar infromación del perfil usuario</td>
