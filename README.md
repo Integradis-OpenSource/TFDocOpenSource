@@ -2293,8 +2293,8 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US20</td>
-      <td>Visualizar perfil de la empresa</td>
+      <th rowspan="2">US20</th>
+      <td rowspan="2">Visualizar perfil de la empresa</td>
       <td>TK29</td>
       <td>Mostrar información del perfil empresa</td>
       <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
@@ -2303,9 +2303,17 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>Done</td>
     </tr>
     <tr>
-      <td>US30</td>
+      <td>TK30</td>
+      <td>Mostrar usuarios de la empresa</td>
+      <td>Mostrar usuarios trabajadores vinculados a la empres </td>
+      <td>2</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
       <td>Visualizar perfil del usuario</td>
-      <td>TK16</td>
+      <td>TK31</td>
       <td>Mostrar infromación del perfil usuario</td>
       <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
       <td>2</td>
