@@ -1794,26 +1794,132 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
-En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
 
 ![Trello Sprint 1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/ae574662-9296-473d-8180-0d0fd877fa4b)
 
 Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308ea03c7f900a33150458/sprint
 
-|Sprint 1||||||||
-|-|-|-|-|-|-|-|-|
-|User Story||WorkItem / Task|
-|Id|Title|Id|Title|Description|Estimation(Hours)|Assigned To|Status(To-do/In-Process/To-Review/Done)|
-|US01|Contacto-Llenar Fromulario|UT01|Editar cajas de texto|Permitir al usuario interactuar con las cajas de texto|1|Carlo Seminario|Done|
-|US02|Enlaces relacionados|UT02|Enlaces de contacto|Añadir funcionalidad a los enlaces de la seccion contacto|1|Carlo Seminario|To-do|
-|US03|Preguntas frecuentes|UT03|Funcionalidad "desplegar y contraer pregunta"|Añadir la funcionalidad de desplegar y contraer la respuesta a la pregunta|2|Alan Galavis|Done|
-|US04|Sección "Header"|UT04|Interaccion barra de navegación|Permitir a los usuarios interactuar con la barra de navegación|1|Andrés Soto|Done|
-|US04|Sección "Header"|UT05|Funcionalidad "Sticky"|Añadir la funcionalidad para que la barra de navegación se desplace junto a la vista del usuario|2|Andrés Soto|In-process|
-|US05|Sección "Learn"|UT06|boton "Read more"|Añadir boton para desplegar texto restante|1|Nicolas Espinoza|Done|
-|US05|Sección "Learn"|UT07|Ampliar texto|Permitir ampliar texto al interactuar con boton "Read more"|1|Nicolas Espinoza|In-process|
-|US06|Sección "Footer"|UT08|Funcionalidad botones y links|Permitir al usuario interactuar con los botones y links|1|Jessica Commetant|In-process|
-|US07|Acceso a la creación de cuenta de la aplicación web|UT09|Crear cuenta|Desplegar menu de creación de cuenta al interactuar con boton de creación de cuenta|1|Andrés Soto|To-do|
-|US08|Sección "Plans"|UT10|Mostrar planes|Mostrar los planes establecidos y sus descripciones|1|Carlo Seminario|In-process|
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Contacto-Llenar Formulario</td>
+            <td>UT01</td>
+            <td>Editar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Enlaces relacionados</td>
+            <td>UT02</td>
+            <td>Enlaces de contacto</td>
+            <td>Añadir funcionalidad a los enlaces de la sección contacto</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Preguntas frecuentes</td>
+            <td>UT03</td>
+            <td>Funcionalidad "desplegar y contraer pregunta"</td>
+            <td>Añadir la funcionalidad de desplegar y contraer la respuesta a la pregunta</td>
+            <td>2</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sección "Header"</td>
+            <td>UT04</td>
+            <td>Interacción barra de navegación</td>
+            <td>Permitir a los usuarios interactuar con la barra de navegación</td>
+            <td>1</td>
+            <td>Andrés Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sección "Header"</td>
+            <td>UT05</td>
+            <td>Funcionalidad "Sticky"</td>
+            <td>Añadir la funcionalidad para que la barra de navegación se desplace junto a la vista del usuario</td>
+            <td>2</td>
+            <td>Andrés Soto</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Sección "Learn"</td>
+            <td>UT06</td>
+            <td>botón "Read more"</td>
+            <td>Añadir botón para desplegar texto restante</td>
+            <td>1</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Sección "Learn"</td>
+            <td>UT07</td>
+            <td>Ampliar texto</td>
+            <td>Permitir ampliar texto al interactuar con botón "Read more"</td>
+            <td>1</td>
+            <td>Nicolas Espinoza</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Sección "Footer"</td>
+            <td>UT08</td>
+            <td>Funcionalidad botones y links</td>
+            <td>Permitir al usuario interactuar con los botones y links</td>
+            <td>1</td>
+            <td>Jessica Commetant</td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Acceso a la creación de cuenta de la aplicación web</td>
+            <td>UT09</td>
+            <td>Crear cuenta</td>
+            <td>Desplegar menú de creación de cuenta al interactuar con botón de creación de cuenta</td>
+            <td>1</td>
+            <td>Andrés Soto</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Sección "Plans"</td>
+            <td>UT10</td>
+            <td>Mostrar planes</td>
+            <td>Mostrar los planes establecidos y sus descripciones</td>
+            <td>1</td>
+            <td>Carlo Seminario</td>
+            <td>In-process</td>
+        </tr>
+    </table>
 
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
 
@@ -1885,6 +1991,8 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ![evidence_landing_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/35092a52-5cd8-40fe-a2c1-675929729c54)
 
 ![evidence_landing_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/aac28476-8aca-4c65-9b0e-b7df9dedb35d)
+
+Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
@@ -2242,5 +2350,7 @@ Landing Page Responsive Español:
 >Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 6 de septiembre]
 
 <div id='8.'><h2> 8. Anexos.</h2></div>
+
+- Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
 
 - Video exposición TB1: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
