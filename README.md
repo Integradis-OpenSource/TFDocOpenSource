@@ -1845,7 +1845,7 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
-En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
 ![Trello Sprint 1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/ae574662-9296-473d-8180-0d0fd877fa4b)
 
@@ -1954,6 +1954,8 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 <div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
+El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
+
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
 |2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
@@ -1961,8 +1963,10 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
 |Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
+
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
+En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
 
 ![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
 
