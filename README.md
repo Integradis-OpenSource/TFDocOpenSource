@@ -966,16 +966,14 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |US25|Cambiar datos personales|**Como** técnico supervisor / administrador **Quiero** cambiar los datos asociados a mi perfil **Para** actualizar la información|**Escenario 1: Cambiar contraseña** <br> **Dado que** el usuario quiera cambiar su contraseña <br> **Cuando** ingrese la nueva contraseña, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio <br> **Entonces** la nueva clave será guardada y la información actualizada |EP10|
 |TS01|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** registrar a una nueva organización mediante una API  **Para** visualizar las organizaciones afiliadas a nuestra aplicación|
 |TS02|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de una organización mediante una API  **Para** mostrarla en la aplicación cuando se solicite.|
-|TS03|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** registrar a un nuevo usario mediante una API  **Para** visualizar los usuarios afiliados a nuestra aplicación|
-|TS04|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de un usuario mediante una API  **Para** mostrarla en la aplicación cuando se solicite.|
-|TS05|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse**Quiero** registrar la información de pago de las organizaciones mediante una API  **Para** contar con la información para pagos futuros|
-|TS06|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de pago de las organizacionesde mediante una API  **Para**  recibir los pagos en la aplicación cuando sea solicite.|
-|TS08|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
-|TS09|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
-|TS10|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** registrar a una nueva cosecha mediante una API **Para** mantener el registro de las cosechas|
-|TS11|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las cosechas mediante una API **Para** mostrarla en la aplicación cuando se solicite.|
-|TS12|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de los cultivos por cada fase mediante una API  **Para** mostrarla en la aplicación cuando sea solicite.|
-|TS13|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS03|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse**Quiero** registrar la información de pago de las organizaciones mediante una API  **Para** contar con la información para pagos futuros|
+|TS04|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de pago de las organizacionesde mediante una API  **Para**  recibir los pagos en la aplicación cuando sea solicite.|
+|TS05|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS06|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS07|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** registrar a una nueva cosecha mediante una API **Para** mantener el registro de las cosechas|
+|TS08|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las cosechas mediante una API **Para** mostrarla en la aplicación cuando se solicite.|
+|TS09|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de los cultivos por cada fase mediante una API  **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS10|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API **Para** mostrarla en la aplicación cuando sea solicite.|
 
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
@@ -1904,7 +1902,6 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 <div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
-Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #2 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto. Adicionalmente elaborar una aplicación web atractiva y funcional para cumplir con las espectativas del cliente
 
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
@@ -1912,15 +1909,133 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
-|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
+||||
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
-En el segundo sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
-
-|Sprint 2||||||||
-|-|-|-|-|-|-|-|-|
-|User Story||WorkItem / Task|
-|Id|Title|Id|Title|Description|Estimation(Hours)|Assigned To|Status(To-do/In-Process/To-Review/Done)|
+<table>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US09</td>
+      <td>Documentar fase Insumos</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Documentar fase Patio</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Documentar fase Búnker</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Documentar fase Túnel</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Documentar fase Incubación</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Documentar fase Cobertura</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Documentar fase Inducción</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Documentar fase Cosecha</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Visualizar perfil de la empresa</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Visualizar perfil del usuario</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
@@ -2032,10 +2147,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
 |https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|61c0b9e|fix: added _redirect file to solve page not found.||25/09/2023|
 |https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b786485|fix: update _redirects file to solve page not found.||25/09/2023|
 
-
-
 <div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
-Para la entrega del Sprint 2 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
@@ -2055,11 +2167,7 @@ Landing Page Responsive Español:
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para esta segundo sprint no fue contemplada la evidencia de documentación de los servicios.
-
-<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>*
-
-Para la entrega del Sprint número 2, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
