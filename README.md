@@ -1912,6 +1912,11 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ||||
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
+
+Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+
 <table>
   <thead>
     <tr>
@@ -1934,6 +1939,36 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>US01</td>
+      <td>Contactar a la startup</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Obtener información de la aplicación</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Acceder a la aplicación desde la landing page</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
     <tr>
       <td>US09</td>
       <td>Documentar fase Insumos</td>
