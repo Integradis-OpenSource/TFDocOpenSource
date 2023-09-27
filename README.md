@@ -1673,7 +1673,7 @@ Los diagramas de componentes muestra una vista de las relaciones de los componen
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
 
-![Class Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/657a4afb-5b56-4c51-9d28-3dfbe32e6e30)
+![Clase UML](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b036b2b8-2b4c-481e-9e3c-211cd152f1f4)
 
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
 
