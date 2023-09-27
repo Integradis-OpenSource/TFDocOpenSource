@@ -2741,6 +2741,12 @@ Para el sprint 2 únicamente se planificó que el sprint abarcaría únicamente 
 | /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
 | /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
 
+|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
+|-|-|-|-|-|-|
+|Integradis-OpenSource|feature/fake-api|3ee23b8c86ceaa1b172fecedc22159ab86d701ce|chore(server): added configuration files for fake api.||21/09/2023|
+|Integradis-OpenSource|feature/fake-api|7d608b9d26a9c1cb56e07b1824a720ff9a9c84da|added base class for service facade.||21/09/2023|
+|Integradis-OpenSource|feature/fake-api|ee7243490b50b7b874c5aac4aee8cc241038546f|chore: added http client module.||21/09/2023|
+
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
@@ -2863,3 +2869,5 @@ Repositorio Web Application:
 - Enlace para acceder a la aplicación desplegada: [https://greenhouse-open.netlify.app/dashboard](https://greenhouse-open.netlify.app/dashboard)
 
 - Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Video exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
