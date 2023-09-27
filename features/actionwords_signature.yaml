@@ -1,0 +1,179 @@
+---
+- name: el visitante tenga una consulta o comentario relacionado con la aplicación
+  uid: 2465e907-8527-4ad2-81c6-6951a5f9f4e4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: redacte un mensaje y adjunte una dirección de correo electronico para contactar
+    a los desarrolladores
+  uid: 29460178-0d8e-45b3-913d-00bfa7403e21
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema remitirá la consulta a los desarrolladores
+  uid: ff0be0cc-70b5-4f80-8511-2352eda89679
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el visitante se encuentre dentro de la landing page
+  uid: 3ffd668b-51de-4b1c-b731-08069cbb7d05
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: navegue a través de las diversas secciones
+  uid: c8739c34-b92e-4b62-8982-126906869a11
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: podrá encontrar información clara y concisa que me permita entender de inmediato
+    el propósito principal del software
+  uid: c52391df-9a03-4d30-af07-5e33e83a295e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el usuario desee comenzar a utilizar la aplicación
+  uid: 649b5062-4a59-404a-bd24-d4d022a91fe2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese a la landing page y seleccione la opción que permite el acceso al
+    software elaborado
+  uid: 35521810-1588-4df9-b040-5395f3e0a8ed
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: deberá ser redirigido a la página desplegada
+  uid: 42fa30aa-a348-433a-a1be-e4972d91ee54
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese a la landing page y seleccione la opción que permite el acceso al
+    software elaborado y ocurra un error en el proceso de redirección o el servidor
+    de la aplicación no responde
+  uid: 8f0ef8cf-ddf3-4e32-ac88-7ca0ca7db031
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el usuario deberá obtener un mensaje de error generado
+  uid: 9c881d6e-51ec-4443-9a6c-4630f6e097ed
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico o supervisor le corresponda realizar un registro preiódico durante
+    la fase 0
+  uid: 30e1a520-7c1e-41ef-b1b3-4301b78d717d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese la información asociada a los insumos a utilizar
+  uid: ecba0ea2-a7d6-4555-a4cd-719012eac84e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema guardará el reporte en la base de datos
+  uid: e1cd1040-1db3-47f2-8dcb-fa1c867da1d8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico durante
+    la fase 0
+  uid: 84d22e46-998c-467b-9b89-dd08fbef8cc2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: no ingrese toda la información obligatoria solicitada dentro de un registro
+  uid: 92bc3aac-7ec3-43e6-9a9d-ba3667c9beb9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema rechazará la operación y solicitará completar campos restantes
+  uid: ca6df1b6-5e56-49db-90a3-57904ec799c1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un tecnico supervisor le corresponde realizar un registro periódico sobre
+    mezcla de insumos durante la fase de "p1"
+  uid: 04d7ff8d-d9b8-424c-a385-b3f835677ebd
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese las actividades realizadas en el patio
+  uid: 887bd4c2-3bb9-4607-b206-c75823c3caa6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la mezcla de insumos durante la fase "p1"
+  uid: f036ad55-3f18-41cf-8a80-c7fdfde96e9d
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema rechazará la operación y solicitará completar los campos restantes
+  uid: b257e59a-9c50-47e0-972c-40dde88d656b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la colección del compost durante la fase "p1"
+  uid: dd61ed59-7bc1-436c-85d9-85af9e1da6a1
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese la infromación asociada al estado del compost en cocción dentro del
+    búnker
+  uid: 0f099ffb-1ace-40a9-baf2-cc187a034cde
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la cocción del compost durante la fase "p1"
+  uid: fa8015cb-58b7-4d44-8bf6-e12b513eb817
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la pasteurización, enfriamiento y acondicionamiento del compost durante la fase
+    de "p1"
+  uid: 66bab903-9dd2-41dc-9902-ecad7653dc72
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese la información asociada al estado del compost dentro del túnel de
+    pasteurización
+  uid: ad7f29bb-0d63-4269-a93a-2ba85ba1f8c6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la incubación del champiñón durante la fase "p1"
+  uid: 1dda947c-df67-475d-bd8d-eda12d9ff1ea
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese la información asociada al estado actual del cultivo dentro de las
+    naves
+  uid: b61cdd1d-bed6-4d66-8fc3-176ecbce167f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    la cobertura del micelio durante la fase "p1"
+  uid: 84b03d82-0aa2-41e4-a8e4-34ca09713322
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    el micelio inducido durante la fase "p1"
+  uid: 0c7aac01-2c57-4cba-9798-d62966ab8c33
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
+    el estado final del cultivo de champiñones durante la fase "p1"
+  uid: 4b684de3-79ca-4f69-9642-dbecae654d23
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el usuario desee visualizar la información y estructura de la empresa
+  uid: 3cd0d3c9-5f13-47f7-af21-0271210b7276
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese al perfil de la misma
+  uid: b94f8f98-139d-4813-9e28-7f16abb5732c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: obtendrá una lista con los datos de la empresa y los empleados registrados
+  uid: cad743b5-332c-405f-9ff8-89862d04f632
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el usuario desee visualizar la información de un empleado
+  uid: f4848f2b-8bf7-4882-9e0f-8f90d44f42ad
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese al perfil del mismo
+  uid: e0488ace-b3cc-48ff-8236-dc4e3f144deb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el obtendrá los datos de relevancia, tales como nombre, rol, empresa a la
+    cual pertenece, etc.
+  uid: c27b1f72-e83c-4849-980b-85cb305d76b9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
