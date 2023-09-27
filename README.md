@@ -332,6 +332,17 @@ El servicio será utilizado por el segmento objetivo cuando surja la necesidad d
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe entablar y maximizar la conexión entre todo el personal de la fábrica, sin generar retrasos ni deficiencia comunicativa. El diseño debe ser llamativo, capaz de captar la atención del segmento objetivo y otorgar una experiencia acogedora. Finalmente, el comportamiento se direcciona a los términos de privacidad y seguridad de datos personales de los usuarios así como de la agroempresa.
 
+###### **Feature Assumptions:**
+
+**Creemos que** la aplicación debe contar con una interfaz de usuario intuitiva y fácil de usar que permitirá a los técnicos supervisores y administradores adoptarla sin dificultad.
+
+**Creemos que** el programa debe de proporcionar notificaciones y alertas personalizables que mantendrán a los usuarios informados de manera oportuna sobre los eventos y procesos críticos en la fábrica champiñonera.
+
+**Creemos que** la aplicación debe de tener la capacidad de integrarse con los sistemas de gestión de recursos y producción existentes en la fábrica, lo que facilitará la recopilación y análisis de datos en tiempo real.
+
+**Creemos que** el programa debe de incluir herramientas de generación de informes y gráficos que permitirán a los usuarios visualizar fácilmente los datos de producción y tomar decisiones basadas en información visualmente clara.
+
+
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
@@ -1814,7 +1825,7 @@ Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
 
-![Database_Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ba8b36ef-2bec-4265-8345-e63a8ed5fb82)
+![Database_Diagram](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Database_Diagram.png)
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
