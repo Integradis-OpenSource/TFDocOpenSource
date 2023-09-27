@@ -1968,7 +1968,7 @@ El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolv
 
 En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
 
 Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
 
@@ -2330,6 +2330,8 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 |https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|34a02d1|feat: added hyperlinks to navbar and footer||10/09/2023|
@@ -2441,32 +2443,136 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/TFDocOpenSource|TFDocOpenSource/main|11f65de|chore: uploaded acceptance test for user stories||26/09/2023|
 
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-Landing Page Ingles:
-
-![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
-
-Landing Page Responsive Ingles:
-
-![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
-
-Landing Page Español:
-
-![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
-
-Landing Page Responsive Español:
-
-![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
-
+- US01:
+![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
+- US02:
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
+![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
+- US03:
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+- US09:
+![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
+![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
+- US10:
+![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
+![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
+- US11:
+![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
+![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
+- US12:
+![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
+![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
+- US13:
+![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
+![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
+- US14:
+![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
+![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
+- US15:
+![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
+![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
+- US16:
+![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
+![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
+- US20:
+![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
+- US21:
+![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+![deployment_landing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3e406d58-1bf4-486a-897f-a2e64616902d)
+
+- Capturas de pantalla landing page:
+
+![Landing_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/59a49cb5-e22d-471d-98f3-fbf506e2425a)
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
+![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
+![Landing_5](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06d27957-9a1e-4c0e-a5d6-7162015771fb)
+![Landing_6](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/617ba3b1-c0f5-48bb-9adc-029ae12d51ab)
+![Landing_7](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e3b2c196-e66c-4e34-b840-b3de0b8e9396)
+![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
+![Landing_9](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5f457c37-0579-4306-b211-d17e6f1ae5c3)
+![Landing_10](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e5294dea-9692-4abb-abbd-1093e3099571)
+![Landing_11](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2936a5ed-e39e-488d-b1b0-c521c421ab8f)
+
+Web Application:
+
+Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+
+![deployment_web_app](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/abf4d6b0-e86d-4cdd-a7d3-44a77461ced0)
+
+- Capturas de pantalla de web application:
+
+![dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5b83b93e-1353-4a98-9753-17dfeb7af3b5)
+![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
+![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
+![start_harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1e7d1fec-08f6-4551-83d4-83c7ac82595c)
+![start_harvest_popup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f1d60045-1265-4091-9273-4e50aa382dd0)
+![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
+![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
+![stock_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5bf549e5-1d3c-4cbb-8099-6a09b403c6c4)
+![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
+![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
+![preparation_area_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a323393d-6fb4-4163-8355-21fd3f155f64)
+![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
+![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
+![bunker_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dba83376-705b-439f-93b8-18603793f654)
+![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
+![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
+![tunel_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/81b190f5-fc0a-4727-a37b-d5c57e308583)
+![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
+![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
+![incubation_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b0fadc01-f363-4a7a-91ee-3a0a3bb3f990)
+![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
+![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
+![casing_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/64199433-4a15-4562-bbf7-bd2aed06f021)
+![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
+![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
+![induction_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/04698ac6-0e7c-44ee-8b5b-1a9082dae683)
+![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
+![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
+![harvest_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/373540e4-3675-4567-a090-62b44b716b93)
+![finish_crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/912e0a08-2d6a-4065-868d-fadc24afba34)
+
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing 
+page. Elaborar componente header y componente popups de la web application para datos de la tabla|
+|Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
+|Seminario Garvín, Carlo Luca|. Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing 
+page con aplicación|
+|Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
+|Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
+
+Repositorio Landing:
+
+![evidencia_grupal_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9fee1c78-fa0d-45b5-b8eb-301fe418ed9c)
+
+![evidencia_indidual_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ade1b9ff-9af8-45a2-a12b-a307d85367a1)
+
+Repositorio Web Application:
+
+![evidencia_grupal_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ba00f6fd-ae26-43d3-bdb3-82c6667ee1f5)
+
+![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
