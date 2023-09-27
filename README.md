@@ -1345,23 +1345,28 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 
 ##### User Goal: Registrar empresa
 User persona: Administradores y Técnicos supervisores.
+Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
 ![Wireflow_Registrar_Empresa_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7d5bd3fe-e6de-4a9a-871d-ac14d21866c6)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
+Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
 ![Wireflow_Log_In_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/db2b4887-915e-40d7-be69-4c488e02eaa1)
 
 ##### User Goal: Navegar por el dashboard
 User persona: Administradores.
+Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
 ![Wireflow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/0778d869-ccb6-46d2-85ae-28a5be693a54)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
+Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
 ![Wireflow_Nuevo_Cultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/1389c5d2-bfdc-4a50-83df-7c43c16bc0d9)
 
 
 ##### User Goal: Registrar procesos
 User persona: Técnicos supervisores.
+Explicación del flujo: En primer lugar, el usuario debe de elegir un cultivo activo de la lista presente en la sección "Process Log". A continuación, deberá ingresar oprimir el botón situado en la parte inferior del stepper que indica "Crear nuevo registro". Una vez oprimido, se desplegará un "dialog" con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria. Cabe destacar que el presente flujo sienta las bases de el registro de procesos en cada una de las 8 fases existentes.
 ![Wireflow_Fase](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ce055cdd-50e0-467d-be9c-ed6819e40463)
 
 
@@ -1502,30 +1507,39 @@ Una vez que el usuario oprima el botón “Completar fase” dentro de la últim
 
 ##### Web Application para Mobile Web Browser
 ###### Panel de control (Dashboard)
+El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
 ![Mockup_panel_control](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c2bb4f1a-14dc-4637-9d7d-80f4b6919b3e)
 ![Mockup_registro_procesos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79702904-32ac-4b0a-b9d0-d0fa7c745de6)
 
 ###### Fase 1
+En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d421a792-21af-4a4f-94f4-672f2ca480cd)
 
 ###### Fase 2
+En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/81d43e7e-fcbb-4b59-bb1e-5cbf68792c8b)
 ###### Fase 3
+En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/e28d453f-925d-4578-8ebf-fd209456fc89)
 
 ###### Fase 4.1
+La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_4.1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4cc74c89-2f8c-45c0-8527-9a2336b8d56a)
 
 ###### Fase 4.2
+La siguiente imagen corresponde a la vista de la “Fase 4.2”, también denominada como “Fase Cobertura”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_4.2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ae7e1472-a2c3-4144-ad54-499027690cf1)
 
 ###### Fase 4.3
+La siguiente imagen corresponde a la vista de la “Fase 4.3”, también denominada como “Fase Inducción”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_4.3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/432aee51-80f2-4fc6-90b2-0046486e8071)
 
 ###### Fase 4.4
+La siguiente imagen corresponde a la vista de la “Fase 4.4”, también denominada como “Fase Cosecha”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
 ![Mockup_fase_4.4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f61dc816-600f-4ef9-ba09-77a83a84375e)
 
 ###### Finalizar fases
+Una vez que el usuario oprima el botón “Completar fase” dentro de la última etapa del cultivo de champiñones (En este caso, la fase 4.4), se visualizará la siguient ventana emergente, la cual anuncia al usuario que el cultivo ha finalizado y ha sido archivado en el histórico de cultivos.
 ![Mockup_finalizar_fases](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/904cffe1-8c81-4556-bbef-910272815e47)
 
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
