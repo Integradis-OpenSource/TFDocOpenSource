@@ -1924,6 +1924,57 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 Enlace para acceder a la [landing page](https://integradis-opensource.github.io/LandingPage/)
 
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+[Ingresar a Netlify](https://app.netlify.com/)
+
+Ingresar con tu cuenta de Github en la opción Sign Up with Github:
+
+<img width="1440" alt="Sing Up" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
+
+Brindar autorización a Netlify para Github.
+
+Una vez tienes una cuenta en Netlify es necesario nombrar a tu Team, en este caso lo nombramos Greenhouse.
+
+<img width="279" alt="Netlify Sidebar" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ac09ff3c-fd91-4101-b196-f8125994211f">
+
+Se ingresa a la sección Sites y se selecciona la opción Add new site y la sección Import an existing project.
+
+<img width="1106" alt="add new site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4a0840b9-3d1b-4918-8dde-cdb29db10ec8">
+
+<img width="263" alt="Import an existing project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/10a789e2-e897-4eb9-9ad9-12d8b931d251">
+
+Elegimos la opción de “Deploy with Github”. Se configuran el acceso al repositorio de la organización y luego se selecciona el repositorio sobre el cuál se va a realizar el deployment.
+
+<img width="1170" alt="deploy project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fbd4fb1a-f5b8-43e9-b32e-7ca2d9f4b6ee">
+
+<img width="463" alt="repository access" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/affdf629-fef9-40cb-ab9f-b529ce618a2a">
+
+<img width="841" alt="repositories" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b021fed9-9378-48f6-a139-04cd0b4694b9">
+
+A continuación se tiene que realizar la configuración para el despliegue. En esta se tiene que ingresar el Team de Netlify, y la branch del repositorio al cuál se le va a hacer deploy, en este caso master. Además se tienen que configurar los build settings, el base directory no se cambia porque es el root directory. El build command es npm run build para generar la carpeta dist, mientras que en el Publish directory se coloca el dist/greenhouse. Finalmente se selecciona la opción de deploy, la cuál es Deploy Greenhouse.
+
+<img width="826" alt="configuration" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2b7c6e75-193c-435a-bdf9-4918195ccc21">
+
+<img width="847" alt="build settings" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fc760bd0-44e7-4073-8a0b-001d757d036d">
+
+<img width="237" alt="deploy button" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/519fcf23-3a59-44c1-be97-64af61934adb">
+
+
+Luego esperas a que la página termine el deployment y en la ventana de sites va encontrarse la página publicada:
+
+<img width="1106" alt="published site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/514c1138-9018-4611-aee1-0a03a197ea12">
+
+Ingresas y cuentas con el enlace para ingresar al Front End Web Application, además que te da la opción de Site Configuration en dónde podrás cambiar el Site name de ser necesario.
+
+<img width="634" alt="site options" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/bf9e1d0b-dd3e-4da0-9e1c-45151635a3b8">
+
+De este modo ya se contaría con la página desplegada y al estar vinculada y con permisos en el repositorio de la organización cada vez que se realiza un commit a la branch correspondiente se va a actualizar el Front End Web Application sin necesidad de volver a hacer todos los pasos anteriores.
+
+Enlace para acceder [Front End Web Application](https://greenhouse-open.netlify.app/)
+
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
 <div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
@@ -1942,7 +1993,9 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
+
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
 
 ![Trello Sprint 1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/ae574662-9296-473d-8180-0d0fd877fa4b)
 
@@ -2159,17 +2212,21 @@ Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integr
 <div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
+El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
+
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
 |2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
 
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
-||||
+|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
+
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
+En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
 
 Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
 
@@ -2196,133 +2253,333 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
   </thead>
   <tbody>
   <tr>
-      <td>US01</td>
+      <th>US01</th>
       <td>Contactar a la startup</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK01</td>
+      <td>Enlaces de contacto</td>
+      <td>Conectar los botones de social media con las respectivas paginas princinpales de cada red social</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US02</td>
+      <th>US02</th>
       <td>Obtener información de la aplicación</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK02</td>
+      <td>Ver secciones de información sobre la aplicación</td>
+      <td>Mostrar al usuario diferentes secciones que expliquen el producto y sus beneficios</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US03</td>
+      <th>US03</th>
       <td>Acceder a la aplicación desde la landing page</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK03</td>
+      <td>Conectar la landing page con la web application mediante hipervinculos</td>
+      <td>Permitir que el usuario pueda visitar la web application mediante el uso de hipervinculos en botones</td>
       <td>1</td>
-      <td></td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <th rowspan="4">US09</th>
+      <td rowspan="4">Documentar fase Insumos</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Documentar fase Patio</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Documentar fase Búnker</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Documentar fase Túnel</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Documentar fase Incubación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Documentar fase Cobertura</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US15</td>
-      <td>Documentar fase Inducción</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US16</td>
-      <td>Documentar fase Cosecha</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US20</td>
-      <td>Visualizar perfil de la empresa</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK05</td>
+      <td>Tabla de la fase insumos</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
       <td>2</td>
-      <td></td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK06</td>
+      <td>Generar popup's para ingresar datos de la fase insumos</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK07</td>
+      <td>Mostrar popup's de advertencia de la fase insumos</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US10</th>
+      <td rowspan="4">Documentar fase Patio</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK08</td>
+      <td>Tabla de la fase Patio</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Patio</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK09</td>
+      <td>Generar popup's para ingresar datos de la fase Patio</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Patio</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK10</td>
+      <td>Mostrar popup's de advertencia de la fase Patio</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Patio</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US11</th>
+      <td rowspan="4">Documentar fase Búnker</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Tabla de la fase Búnker</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Búnker</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Generar popup's para ingresar datos de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Búnker</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK13</td>
+      <td>Mostrar popup's de advertencia de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Búnker</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US12</th>
+      <td rowspan="4">Documentar fase Túnel</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Tabla de la fase Túnel</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Túnel</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK15</td>
+      <td>Generar popup's para ingresar datos de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Túnel</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Mostrar popup's de advertencia de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Túnel</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US13</th>
+      <td rowspan="4">Documentar fase Incubación</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK17</td>
+      <td>Tabla de la fase Incubación</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Incubación</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Generar popup's para ingresar datos de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Incubación</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK19</td>
+      <td>Mostrar popup's de advertencia de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Incubación</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US14</th>
+      <td rowspan="4">Documentar fase Cobertura</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK20</td>
+      <td>Tabla de la fase Cobertura</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cobertura</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK21</td>
+      <td>Generar popup's para ingresar datos de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cobertura</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK22</td>
+      <td>Mostrar popup's de advertencia de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cobertura</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US15</th>
+      <td rowspan="4">Documentar fase Inducción</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK23</td>
+      <td>Tabla de la fase Inducción</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Inducción</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK24</td>
+      <td>Generar popup's para ingresar datos de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Inducción</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK25</td>
+      <td>Mostrar popup's de advertencia de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Inducción</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US16</th>
+      <td rowspan="4">Documentar fase Cosecha</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>1</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK26</td>
+      <td>Tabla de la fase Cosecha</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cosecha</td>
+      <td>2</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK27</td>
+      <td>Generar popup's para ingresar datos de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cosecha</td>
+      <td>2</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK28</td>
+      <td>Mostrar popup's de advertencia de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cosecha</td>
+      <td>2</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US20</th>
+      <td rowspan="2">Visualizar perfil de la empresa</td>
+      <td>TK29</td>
+      <td>Mostrar información del perfil empresa</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
+      <td>2</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK30</td>
+      <td>Mostrar usuarios de la empresa</td>
+      <td>Mostrar usuarios trabajadores vinculados a la empres </td>
+      <td>2</td>
+      <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>US21</td>
       <td>Visualizar perfil del usuario</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>TK31</td>
+      <td>Mostrar infromación del perfil usuario</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
       <td>2</td>
-      <td></td>
+      <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
   </tbody>
@@ -2330,6 +2587,8 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
@@ -2442,32 +2701,147 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/TFDocOpenSource|TFDocOpenSource/main|11f65de|chore: uploaded acceptance test for user stories||26/09/2023|
 
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-Landing Page Ingles:
-
-![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
-
-Landing Page Responsive Ingles:
-
-![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
-
-Landing Page Español:
-
-![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
-
-Landing Page Responsive Español:
-
-![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
-
+- US01:
+![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
+- US02:
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
+![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
+- US03:
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+- US09:
+![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
+![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
+- US10:
+![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
+![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
+- US11:
+![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
+![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
+- US12:
+![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
+![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
+- US13:
+![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
+![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
+- US14:
+![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
+![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
+- US15:
+![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
+![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
+- US16:
+![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
+![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
+- US20:
+![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
+- US21:
+![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 2 únicamente se planificó que el sprint abarcaría únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse).
+
+| Endpoint | Details |
+| - | - | 
+| /stock| Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+| /preparation_area | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area| | 
+| /bunker  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker | 
+| /tunnel  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel| 
+| /grow_room_record?processType=Incubation | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase incubation del grow room| 
+| /grow_room_record?processType=Casing | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase casing del grow room| 
+| /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
+| /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
 
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+![deployment_landing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3e406d58-1bf4-486a-897f-a2e64616902d)
+
+- Capturas de pantalla landing page:
+
+![Landing_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/59a49cb5-e22d-471d-98f3-fbf506e2425a)
+![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
+![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
+![Landing_5](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06d27957-9a1e-4c0e-a5d6-7162015771fb)
+![Landing_6](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/617ba3b1-c0f5-48bb-9adc-029ae12d51ab)
+![Landing_7](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e3b2c196-e66c-4e34-b840-b3de0b8e9396)
+![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
+![Landing_9](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5f457c37-0579-4306-b211-d17e6f1ae5c3)
+![Landing_10](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e5294dea-9692-4abb-abbd-1093e3099571)
+![Landing_11](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2936a5ed-e39e-488d-b1b0-c521c421ab8f)
+
+Web Application:
+
+Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+
+![deployment_web_app](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/abf4d6b0-e86d-4cdd-a7d3-44a77461ced0)
+
+- Capturas de pantalla de web application:
+
+![dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5b83b93e-1353-4a98-9753-17dfeb7af3b5)
+![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
+![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
+![start_harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1e7d1fec-08f6-4551-83d4-83c7ac82595c)
+![start_harvest_popup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f1d60045-1265-4091-9273-4e50aa382dd0)
+![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
+![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
+![stock_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5bf549e5-1d3c-4cbb-8099-6a09b403c6c4)
+![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
+![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
+![preparation_area_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a323393d-6fb4-4163-8355-21fd3f155f64)
+![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
+![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
+![bunker_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dba83376-705b-439f-93b8-18603793f654)
+![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
+![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
+![tunel_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/81b190f5-fc0a-4727-a37b-d5c57e308583)
+![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
+![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
+![incubation_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b0fadc01-f363-4a7a-91ee-3a0a3bb3f990)
+![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
+![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
+![casing_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/64199433-4a15-4562-bbf7-bd2aed06f021)
+![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
+![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
+![induction_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/04698ac6-0e7c-44ee-8b5b-1a9082dae683)
+![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
+![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
+![harvest_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/373540e4-3675-4567-a090-62b44b716b93)
+![finish_crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/912e0a08-2d6a-4065-868d-fadc24afba34)
+
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla|
+|Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
+|Seminario Garvín, Carlo Luca|Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing  page con aplicación|
+|Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
+|Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
+
+Repositorio Landing:
+
+![evidencia_grupal_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9fee1c78-fa0d-45b5-b8eb-301fe418ed9c)
+
+![evidencia_indidual_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ade1b9ff-9af8-45a2-a12b-a307d85367a1)
+
+Repositorio Web Application:
+
+![evidencia_grupal_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ba00f6fd-ae26-43d3-bdb3-82c6667ee1f5)
+
+![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
