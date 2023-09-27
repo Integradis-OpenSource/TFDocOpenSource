@@ -2556,8 +2556,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 |-|-|
 |Soto Kong Requena, Andres Eduardo|Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla|
 |Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
-|Seminario Garvín, Carlo Luca|. Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing 
-page con aplicación|
+|Seminario Garvín, Carlo Luca|Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing  page con aplicación|
 |Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
 |Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
 
