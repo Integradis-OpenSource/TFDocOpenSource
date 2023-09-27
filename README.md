@@ -2260,7 +2260,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK01</td>
       <td>Enlaces de contacto</td>
       <td>Conectar los botones de social media con las respectivas paginas princinpales de cada red social</td>
-      <td>1</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2270,7 +2270,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK02</td>
       <td>Ver secciones de información sobre la aplicación</td>
       <td>Mostrar al usuario diferentes secciones que expliquen el producto y sus beneficios</td>
-      <td>1</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2280,7 +2280,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK03</td>
       <td>Conectar la landing page con la web application mediante hipervinculos</td>
       <td>Permitir que el usuario pueda visitar la web application mediante el uso de hipervinculos en botones</td>
-      <td>1</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2290,7 +2290,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2298,7 +2298,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK05</td>
       <td>Tabla de la fase insumos</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2306,7 +2306,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK06</td>
       <td>Generar popup's para ingresar datos de la fase insumos</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2314,7 +2314,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK07</td>
       <td>Mostrar popup's de advertencia de la fase insumos</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2324,7 +2324,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2332,7 +2332,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK08</td>
       <td>Tabla de la fase Patio</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Patio</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2340,7 +2340,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK09</td>
       <td>Generar popup's para ingresar datos de la fase Patio</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Patio</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2348,7 +2348,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK10</td>
       <td>Mostrar popup's de advertencia de la fase Patio</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Patio</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2358,7 +2358,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2366,7 +2366,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK11</td>
       <td>Tabla de la fase Búnker</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Búnker</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2374,7 +2374,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK12</td>
       <td>Generar popup's para ingresar datos de la fase Búnker</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Búnker</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2382,7 +2382,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK13</td>
       <td>Mostrar popup's de advertencia de la fase Búnker</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Búnker</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2392,7 +2392,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2400,7 +2400,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK14</td>
       <td>Tabla de la fase Túnel</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Túnel</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2408,7 +2408,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK15</td>
       <td>Generar popup's para ingresar datos de la fase Túnel</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Túnel</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2416,7 +2416,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK16</td>
       <td>Mostrar popup's de advertencia de la fase Túnel</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Túnel</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2426,7 +2426,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2434,7 +2434,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK17</td>
       <td>Tabla de la fase Incubación</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Incubación</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2442,7 +2442,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK18</td>
       <td>Generar popup's para ingresar datos de la fase Incubación</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Incubación</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2450,7 +2450,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK19</td>
       <td>Mostrar popup's de advertencia de la fase Incubación</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Incubación</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2460,7 +2460,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2468,7 +2468,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK20</td>
       <td>Tabla de la fase Cobertura</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cobertura</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2476,7 +2476,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK21</td>
       <td>Generar popup's para ingresar datos de la fase Cobertura</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cobertura</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2484,7 +2484,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK22</td>
       <td>Mostrar popup's de advertencia de la fase Cobertura</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cobertura</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2494,7 +2494,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2502,7 +2502,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK23</td>
       <td>Tabla de la fase Inducción</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Inducción</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2510,7 +2510,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK24</td>
       <td>Generar popup's para ingresar datos de la fase Inducción</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Inducción</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2518,7 +2518,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK25</td>
       <td>Mostrar popup's de advertencia de la fase Inducción</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Inducción</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2528,7 +2528,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK04</td>
       <td>Cambiar de fase</td>
       <td>Permitir al usuario cambiar de fase mediante un boton.</td>
-      <td>1</td>
+      <td>4</td>
       <td>Alan Galavis</td>
       <td>Done</td>
     </tr>
@@ -2536,7 +2536,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK26</td>
       <td>Tabla de la fase Cosecha</td>
       <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cosecha</td>
-      <td>2</td>
+      <td>4</td>
       <td>Nicolas Espinoza</td>
       <td>Done</td>
     </tr>
@@ -2544,7 +2544,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK27</td>
       <td>Generar popup's para ingresar datos de la fase Cosecha</td>
       <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cosecha</td>
-      <td>2</td>
+      <td>4</td>
       <td>Andrés Soto</td>
       <td>Done</td>
     </tr>
@@ -2552,7 +2552,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK28</td>
       <td>Mostrar popup's de advertencia de la fase Cosecha</td>
       <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cosecha</td>
-      <td>2</td>
+      <td>4</td>
       <td>Jessica Commettant</td>
       <td>Done</td>
     </tr>
@@ -2562,7 +2562,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK29</td>
       <td>Mostrar información del perfil empresa</td>
       <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
-      <td>2</td>
+      <td>4</td>
       <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
@@ -2570,7 +2570,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK30</td>
       <td>Mostrar usuarios de la empresa</td>
       <td>Mostrar usuarios trabajadores vinculados a la empres </td>
-      <td>2</td>
+      <td>4</td>
       <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
@@ -2580,7 +2580,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
       <td>TK31</td>
       <td>Mostrar infromación del perfil usuario</td>
       <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
-      <td>2</td>
+      <td>4</td>
       <td>Carlo Seminario</td>
       <td>Done</td>
     </tr>
