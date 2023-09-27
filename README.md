@@ -835,11 +835,11 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 
 * User persona técnico supervisor
 
-![Luis_Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
+![Luis Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/26d04525-f4db-4bab-9cfa-65e42eae4674)
 
 * User persona administrador
 
-![Alvaro_Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
+![Alvaro Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/74b9b30e-24aa-4103-b2ce-c2ca20b52f09)
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
