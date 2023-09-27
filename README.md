@@ -2554,8 +2554,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 
 |Alumno|Actividad|
 |-|-|
-|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing 
-page. Elaborar componente header y componente popups de la web application para datos de la tabla|
+|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla|
 |Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
 |Seminario Garvín, Carlo Luca|. Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing 
 page con aplicación|
