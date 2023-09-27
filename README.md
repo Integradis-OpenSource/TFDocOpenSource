@@ -847,40 +847,21 @@ Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas
 
 * **Luis Flores (Técnico Supervisor):**
 
-| Tarea | Frequencia | Importancia |
-| - | - | - |
-|Monitorear los procesos| Always  | High     |
-|Registrar temperatura del compost|Always|High |
-|Registrar temperatura del aire|Always|High|
-|Registrar CO2|Always|High|
-|Registrar Humedad|Always|High|
-|Registrar Setting|Always|High|
-|Comunicar los registros|Always|High|
-|Control de calidad|Always|High|
-|Pesado de insumos|Always|High|
-|Mezclado de insumos |Always|Medium|
-|Remojar la paja|Always|Medium|
-|Regado del compost|Always|Medium|
-|Regado de las naves|Always|Medium|
-|Traslados entre fases|Always|Medium|
-|Utilizar los grupos de WhatsApp|Always|Low|
-
-* **Alvaro Morales (Administrador):**
-
-| Tarea | Frequencia | Importancia |
-| -------- | -------- | -------- |
-| Verificar la producción     | Always     | High     |
-|Supervisar los registros|Always|High|
-|Pagos al personal|Always|High|
-|Comunicación con el personal|Always|High|
-|Utilizar los grupos de WhatsApp|Always|High|
-|Comprar insumos a proveedores|Often|High|
-|Seguimiento de fallos|Often|High|
-|Modificación de fórmulas |Sometimes|High|
-|Buscar registros antiguos|Sometimes|Medium|
-|Uso de gráficos estadísticos|Rarely|Medium|
-|Manejo de Excel de la producción|Rarely|Medium|
-
+<table> <tr> <th></th> <td colspan="2">Técnico Supervisor</td> <td colspan="2">Administrador</td> </tr> <tr> <td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> <td>Monitorear los procesos</td> <td>Always </td> <td>High</td> <td>Often</td> <td>Medium</td> </tr> <tr> 
+<td>Utilizar los grupos de WhatsApp</td> <td>Always</td> <td>Medium</td> <td>Always</td> <td>High</td> </tr> <tr>
+<td>Supervisar los registros</td> <td>Sometimes</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr>
+<td>Registrar temperatura del compost</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> <td>Registrar temperatura del aire</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> <td>Registrar CO2</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> <td>Registrar Humedad</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> <td>Registrar Setting</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr>  
+<td>Control de calidad</td> <td>Always</td> <td>High</td> <td>Sometimes</td> <td>High</td> </tr> <tr> <td>Pesado de insumos</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr> <td>Mezclado de insumos</td> <td>Always</td> <td>Medium</td> <td>Never</td> <td>Low</td> </tr> <tr>
+<td>Remojar la paja</td> <td>Always</td> <td>Medium</td> <td>Never</td> <td>Low</td> </tr> <tr>
+<td>Regado del compost</td> <td>Always</td> <td>Medium</td> <td>Never</td> <td>Low</td> </tr> <tr>
+<td>Regado de las naves</td> <td>Always</td> <td>Medium</td> <td>Never</td> <td>Low</td> </tr> <tr>
+<td>Traslados entre fases</td> <td>Always</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr>
+<td>Comprar insumos a proveedores</td> <td>Never</td> <td>High</td> <td>Often</td> <td>High</td> </tr> <tr>
+<td>Seguimiento de fallos</td> <td>Sometimes</td> <td>Medium</td> <td>Often</td> <td>High</td> </tr> <tr>
+<td>Modificación de fórmulas</td> <td>Never</td> <td>High</td> <td>Sometimes</td> <td>High</td> </tr> <tr>
+<td>Uso de gráficos estadísticos</td> <td>Always</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr><tr>
+<td>Manejo de Excel de la producción</td> <td>Rarely</td> <td>Medium</td> <td>Often</td> <td>High</td> </tr> <tr>
+<td>Buscar registros antiguos</td> <td>Rarely</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> </table>
 
 Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros y hacer sus tareas de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa tales como verificar o supervisar los registros de la producción y estar en constante comunicación con el personal. Por otro lado, cuentan también con otras tareas que son de menor importancia y que realizan esporádicamente, dichas tareas están relacionadas principalmente al proceso de mejora continua en la producción.
 
