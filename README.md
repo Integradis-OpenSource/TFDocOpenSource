@@ -232,6 +232,11 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
 5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+5.3. [Validation Interviews.](#5.3.)<br>
+5.3.1.[Diseño de Entrevistas.](#5.3.1.)<br>
+5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
+5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
+
 6. [**Conclusiones.**](6.)<br>
 7. [**Bibliografía.**](7.)<br>
 8. [**Anexos.**](8.)<br>
@@ -2860,6 +2865,673 @@ Repositorio Web Application:
 ![evidencia_grupal_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ba00f6fd-ae26-43d3-bdb3-82c6667ee1f5)
 
 ![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
+
+<div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
+
+<div id='5.3.1.'><h5> 5.3.1. Diseño de Entrevistas.</h5></div>
+
+<div id='5.3.2.'><h5> 5.3.2. Registro de Entrevistas.</h5></div>
+
+<div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+
+##
+## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
+## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web GreenHouse.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+## <a name="_8g2881ripgs6"></a>**TAREAS A EVALUAR:**
+1. Desktop landing page
+   1. Información y descripción de la aplicación y sus funcionalidades
+   1. Visualización de planes de pago y precio de la aplicación
+   1. Header y footer apropiado para la landing page
+   1. Interacción del landing page con la aplicación
+1. <a name="_hlk149241366"></a>Web Application
+   1. Inicio de sesión con usuario existente
+   1. Indicadores claros de progreso o estado del proceso 
+   1. Iconografía comprensible y consistente con el mundo real
+   1. Mensajes de error que reflejen el registro de datos incorrectos
+   1. Acciones de retroceso dentro de la aplicación
+   1. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+   1. Evaluar existencia de patrones de diseño o navegación 
+   1. Elementos de la interfaz de usuario consistentes
+   1. Pestañas de navegación dentro de la aplicación
+   1. Botones interactivos y de uso intuitivo
+   1. Búsqueda de procesos y cultivos con registro previo
+   1. Navegación y orientación dentro de la aplicación
+   1. Apertura y visualización de cultivos registrados
+   1. Visualización de perfil de usuario
+   1. Visualización del perfil de la empresa
+   1. Mensajes que orienten al usuario sobre el estado del sistema
+   1. Cambio de idioma de la aplicación
+   1. Estética general de la interfaz atractiva y agradable visualmente.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+   1. Redes sociales asociadas al startup
+   1. Política de privacidad y condiciones de uso
+1. Web Application
+   1. Registro de nuevo usuario
+   1. Modificación y eliminación de procesos o cultivos registrados
+   1. Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+   1. Documentación y exportación de registros
+   1. Flexibilidad de uso a través de atajos por teclado 
+   1. Acceso a recursos de ayuda dentro de la aplicación
+   1. Política de privacidad y condiciones de uso
+   
+## <a name="_r3fgs33jfsg1"></a>**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :-: | :-: |
+|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+<a name="_7ymimqm5hxs5"></a>**TABLA RESUMEN:**
+
+**Desktop landing page**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto.|2|Usability: Coincidencia entre el sistema y el mundo real|
+|2|Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.|4|Usability: Control y libertad del usuario|
+|3|Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión|3|Usability: Coincidencia entre el sistema y el mundo real|
+|4|La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.|2|Usability: Diseño estético y minimalista|
+|5|La información relacionada con el start up y utilidad del producto es inexacta e insuficiente|3|Inclusive Design: Diseño Centrado en el Usuario|
+|6|Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción|3|Information Arquitecture: Jerarquía de Información|
+|7|El formulario de Contacto no muestra funcionalidad|4|Usability: Visibilidad del estado del sistema|
+|8|Tamaño inapropiado de botones “Start” del landing|2|Usability: Consistencia y estándares|
+|9|Espaciado inadecuado entre las secciones de la barra de navegación|1|Information Arquitecture: Jerarquía de información|
+|10|La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.|2|Information Arquitecture: Organaización y Estructura|
+|11|La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas|2|Usability: Estética y diseño minimalista|
+|12|La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.|1|Usability: Visibilidad del estado del sistema|
+|13|El título “About the team” no muestra internacionalización (cambio de idioma al inglés)|1|Usability: Flexibilidad y eficiencia de uso|
+
+<br>
+
+**PROBLEMA #01:** La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto:
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** La ubicación de la sección "About the Team" por encima del producto en un landing page puede ser problemática desde una perspectiva de arquitectura de la información y usabilidad. Por lo general, en un landing page, se espera que la información más relevante y crucial para los usuarios, como la descripción del producto o servicio, esté ubicada en la parte superior de la página. La sección "About the Team" generalmente no es la información más relevante para los visitantes que llegan a la página en busca de información sobre el producto o servicio.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2109a95d-e921-497a-a792-497d7a7a579c)
+
+**Recomendación:** Para mejorar la usabilidad y la eficacia de la página, se recomienda reorganizar la página de manera que la información principal del producto esté en la parte superior y sea lo primero que los visitantes perciban. Luego, la información sobre el equipo podría estar ubicada más abajo en la página o en una sección separada. 
+
+<br>
+
+**Problema #02:** Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.
+
+**Escala de Severidad:** 04
+
+**Heurística relacionada:** Usability - Control y libertad del usuario
+
+**Descripción del problema:** Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han cometido un error.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2b7820e4-26b8-4633-9627-1095bd20898c)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.
+
+<br>
+
+**Problema #03:** Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** Cuando un usuario hace clic en un botón con etiqueta "Start", se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1ab2ebfd-3693-4422-91ff-e51fb6911991)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones "Start", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta "Start" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Start".
+
+<br>
+
+**PROBLEMA #04:** La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.
+
+**Escala de severidad:** 02
+
+**Principios violados:**
+
+**Heurística**: Usabilidad-Diseño estético y minimalista
+
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+**Information Arquitecture:** Jerarquía de la información
+
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+**Descripción del problema:** 
+
+El problema identificado es que en la sección "Benefits" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas, y si se ve opacada por la iconografía, la comunicación efectiva de estos beneficios se ve comprometida.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b17080a8-b107-4f06-a37a-a02e4291cf31)
+
+**Recomendación:**
+
+Para mejorar la página, se recomienda ajustar el equilibrio entre la iconografía y el contenido informativo en la sección "Benefits" de manera que la información relevante sea la que más destaque:
+
+- Utilizar tamaños de fuente más grandes o colores llamativos.
+- Utiliza la iconografía de manera complementaria para ilustrar visualmente los beneficios, pero no permitas que supere o eclipse la información escrita.
+- Realiza pruebas de usuario para obtener retroalimentación directa sobre la percepción de la sección "Benefits".
+
+<br>
+
+**Problema #05:** La información relacionada con el start up y utilidad del producto es inexacta e insuficiente
+
+**Escala de severidad:** 03
+
+**Principio Violado:** Inclusive Design: Diseño Centrado en el Usuario
+
+El diseño centrado en el usuario implica satisfacer las necesidades y expectativas del usuario. La información inexacta e insuficiente no cumple con este principio, ya que no aborda las necesidades del usuario de comprender y utilizar el producto de manera efectiva.
+
+**Descripción del problema:** 
+
+El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/d98ce6ef-c81b-41d0-82c8-c8ded2bf92c3)
+
+**Recomendación:**
+
+Para resolver este problema, se recomienda lo siguiente:
+
+- Verificar y corregir cualquier inexactitud en la información relacionada con el inicio y la utilidad del producto. 
+- Proporciona información más detallada y completa sobre el inicio y la utilidad del producto. 
+
+<br>
+
+**Problema #06:** Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción
+
+**Escala de severidad:** 03
+
+**Principio violado:** Information Arquitecture: Jerarquía de información: 
+
+La falta de información precisa sobre las funcionalidades de los planes de suscripción sugiere una deficiente jerarquía de información. Es probable que la información relevante no esté organizada de manera efectiva, lo que dificulta su acceso por parte de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el sitio web. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/6880c712-6ef3-4ab3-82ed-fe95f67f7ecd)
+
+**Recomendación:**
+
+- Estructurar la información sobre los planes de suscripción de manera lógica y organizada. Utilizar una jerarquía clara para destacar las funcionalidades de cada plan 
+- Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva.
+- Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.
+
+<br>
+
+**Problema #07:** El formulario de Contacto no muestra funcionalidad
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability- Visibilidad del estado del sistema:
+
+La falta de funcionalidad en el formulario de contacto va en contra de esta heurística. Los usuarios esperan que los elementos interactivos, como un formulario de contacto, les proporcionen retroalimentación sobre su estado. La ausencia de funcionalidad o la falta de respuesta por parte del formulario puede dejar a los usuarios en la incertidumbre sobre si el formulario está funcionando o si su mensaje se envió correctamente.
+
+**Descripción del problema:**
+
+El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 007](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/69c593b5-a7fd-4938-94ce-c00d905e20d0)
+
+**Recomendación:**
+
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+
+<br>
+
+**Problema #08:**  Tamaño inapropiado de botones “Start” del landing
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability- Consistencia y estándares
+
+El tamaño inapropiado y excesivamente amplio de los botones "Start" viola el principio de consistencia y estándares. Los usuarios esperan que los botones tengan un tamaño razonable y estén en línea con las convenciones de diseño comunes. Cuando un elemento es demasiado grande, puede romper la consistencia visual y dificultar la identificación de su función.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 008](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f6c92277-2b1c-4684-b81e-f1b35882c112)
+
+**Recomendación:**
+
+La corrección de este problema implica ajustar el tamaño de los botones "Start" para que sean más apropiados y estén en línea con las expectativas de los usuarios y las convenciones de diseño, lo que mejorará la experiencia de usuario en términos de usabilidad y diseño. 
+
+<br>
+
+**Problema #09:**  Espaciado inadecuado entre las secciones de la barra de navegación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Information Arquitecture – Jerarquía de Información
+
+El espaciado inadecuado entre las secciones de la barra de navegación puede afectar la jerarquía de información al no proporcionar una clara separación entre las secciones. Esto dificulta la identificación y la navegación de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 009](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/e009f6ff-0e63-4aa0-857e-a0404adf955f)
+
+**Recomendación:**
+
+Para abordar el problema del espaciado inadecuado entre las secciones de la barra de navegación desde una perspectiva de arquitectura de la información, se recomienda ajustar el espaciado para proporcionar una separación clara entre las secciones y mejorar la jerarquía de la información. Esto permitirá a los usuarios identificar y navegar de manera más eficiente entre las opciones. Además, es importante asegurar una organización lógica de las secciones y realizar pruebas de usuario para evaluar la eficacia de los cambios y recopilar retroalimentación directa de los usuarios. Estas medidas mejorarán la experiencia de usuario y la usabilidad de la barra de navegación.
+
+<br>
+
+**Problema #10:** La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Information Arquitecture – Organización y Estructura
+
+El tamaño impreciso de la sección que contiene la misión, visión y valores de la aplicación afecta la organización y la estructura de la información en la página. Es esencial que esta sección se presente de manera clara y equilibrada en relación con el resto del contenido.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el tamaño impreciso de la sección que integra la misión, visión y valores en la página web. El tamaño inadecuado de esta sección afecta negativamente la organización y presentación de la información, lo que puede llevar a una experiencia de usuario confusa o desequilibrada
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 010](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/889f733c-3ae5-4371-9d4d-9fd1a15cf5ff)
+
+**Recomendación:**
+
+Para abordar el problema del tamaño impreciso de la sección que integra la misión, visión y valores de la aplicación, se recomienda ajustar el tamaño de esta sección para que sea proporcionado y equilibrado en relación con el resto del contenido. Esto asegurará una organización coherente de la información y permitirá a los usuarios acceder y comprender la misión, visión y valores de la aplicación de manera más efectiva. Además, se deben mantener prácticas de diseño y arquitectura de la información coherentes en toda la página.
+
+<br>
+
+**Problema #11:** La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Estética y diseño minimalista
+
+La estética y el diseño minimalista son importantes para una buena usabilidad. El hecho de que las imágenes sobresalgan de las tarjetas podría violar la heurística de "Estética y diseño minimalista" al crear una apariencia visual confusa y poco organizada
+
+**Descripción del problema:**
+
+El problema identificado se refiere al hecho de que la iconografía e imágenes en las secciones "About the team" y "Benefits" sobresalen del margen de las tarjetas en la página web. Esta superposición afecta negativamente la presentación de la información al crear una apariencia visual desordenada y poco organizada.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 011](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/320c9a4f-9d12-4cc5-b4fd-1162d0bce838)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda ajustar la presentación de estas imágenes para que se ajusten adecuadamente al margen de las tarjetas, evitando la superposición. Esto mejorará la organización y la apariencia visual de la información, garantizando una experiencia más limpia y comprensible para los usuarios. Además, es esencial mantener un diseño limpio y organizado en toda la página, siguiendo principios de estética y diseño minimalista.
+
+<br>
+
+**Problema #12:**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Visibilidad del estado del sistema
+
+La falta de interacción en la sección "Contact" al redireccionar el correo con Gmail afecta la visibilidad del estado del sistema. Los usuarios esperan que al hacer clic en un enlace o botón, ocurra una acción que les proporcione retroalimentación visual para indicar que la acción se ha completado con éxito.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la falta de interacción en la sección "Contact" ubicada en el footer de la página web. En particular, al hacer clic en esta sección, no se activa ninguna acción de redirección al correo del startup con Gmail, lo que impide a los usuarios contactar al startup de manera efectiva. La carencia de interacción y la ausencia de retroalimentación visual indicativa de que la acción se ha completado con éxito dificultan la usabilidad de la página en términos de acceso al correo de contacto.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 012](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/22b7e954-10ae-45f5-aee8-223e25351328)
+
+**Recomendación:**
+
+Para solucionar el problema de la falta de interacción en la sección "Contact" en el footer, se recomienda agregar funcionalidad de redirección al correo del startup con Gmail al hacer clic en esta sección. Además, es fundamental proporcionar indicadores visuales claros que confirmen el éxito de la acción de contacto. Esta mejora no solo facilitará a los usuarios la comunicación con el startup, sino que también brindará una experiencia más efectiva y satisfactoria en términos de usabilidad
+
+<br>
+
+**Problema #13:**  El título “About the team” no muestra internacionalización (cambio de idioma al inglés)
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La ausencia de la opción de cambiar el idioma al inglés en el título "About the team" puede dificultar la flexibilidad y la eficiencia de uso para usuarios que prefieren o necesitan el inglés como idioma de navegación.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de internacionalización en el título "About the team," lo que implica que no existe una opción para cambiar el idioma al inglés en esta sección de la página web o la aplicación
+
+La falta de internacionalización no cumple con las necesidades de usuarios multilingües y no ofrece flexibilidad en la navegación, lo que puede resultar en una experiencia de usuario menos efectiva y satisfactoria en términos de accesibilidad a la información en diferentes idiomas.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 013](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/966afe1c-886b-4fcd-ae50-3e108d927539)
+
+Recomendación:
+
+Para abordar el problema de falta de internacionalización en el título "About the team," se recomienda incorporar una opción de cambio de idioma al inglés en esta sección y, en general, en toda la página. Esto permitirá a los usuarios acceder a la información en su idioma preferido y mejorar la flexibilidad de uso
+
+<br>
+
+**WEB APPLICATION:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación|1|Usability- Estética y diseño minimalista|
+|2|Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario|3|<p>Usability - Flexibilidad y eficiencia de uso /</p><p>Usability – Prevenir errores</p>|
+|3|El botón “Invitar trabajadores” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.|2|Usability- Consistencia y estándares|
+|4|El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.|3|Usability – Control y Libertad del usuario|
+|5|Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.|3|Usability – Control y Libertad del usuario|
+|6|Incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos|4|Usability – Flexibilidad y eficiencia de uso|
+|7|Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa|1|Usability- Estética y diseño minimalista/ Consistencia y estándares|
+|8|Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.|3|Usability-Prevención de errores|
+|9|Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Trabajadores”|2|Usability: Visibilidad del estado del sistema|
+|10|Permiso para el registro de cultivos y procesos en todas las fases, aún si el rol del técnico no involucra la introducción de datos en todas las fases del proceso|3|Usability- Consistencia y estándares|
+|11|Incapacidad para modificar o eliminar la información de lo cultivos procesos previamente registrados.|4|Usability-Prevención de errores|
+|12|Ausencia de un indicador que señale la cantidad de miembros de una empresa en el formulario de “Registrar Empresa”|1|Usability: Visibilidad del estado del sistema|
+|13|Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores|3|Usability – Flexibilidad y eficiencia de uso|
+|14|Sección “Trabajadores” sobresaliente dentro de la vista de perfil de empresa|1|Usability- Estética y diseño minimalista|
+|15|Incapacidad para retornar a una fase anterior luego de haber dado “END PHASE”|2||
+
+<br>
+
+**Problema #01:**  Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Estética y diseño minimalista
+
+La heurística de "Estética y diseño minimalista" se ve afectada por el espaciado inadecuado, ya que puede crear una apariencia visual desordenada y poco organizada, lo que dificulta la comprensión y la estética general de la página.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación. El espacio insuficiente o desigual entre estos elementos afecta la presentación visual de la información y crea una apariencia desordenada, lo que puede dificultar la identificación y comprensión de ambos elementos. Este problema puede afectar negativamente la estética general de la aplicación y dificultar la interacción del usuario con estos componentes.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 014](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bcff52c8-6bef-4228-91bb-7a3de03c2d06)
+
+**Recomendación:**
+
+Para resolver el problema, se recomienda ajustar el espaciado de manera que sea adecuado y consistente. Esto mejorará la presentación general y la estética a través d un diseño limpio. 
+
+<br>
+
+**Problema #02:**  Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario
+
+**Escala de severidad:** 03
+
+Principio violado:
+
+Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar la gestión de sus perfiles y cuentas.
+
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 015](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/c75c4b93-48de-4b03-8c31-6f5779001aa4)
+
+**Recomendación:**
+
+Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz. De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas, evitando así eliminaciones accidentales.
+
+<br>
+
+**Problema #03:**  El botón “Invitar trabajadores” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+La heurística "Consistencia y estándares" se ve comprometida, ya que los usuarios pueden esperar que un botón con esta etiqueta realice una acción específica (generar un enlace de invitación) según las convenciones y estándares comunes en aplicaciones similares.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 016](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bd458bb0-89be-43f2-a575-ba31ddbdc338)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda que este botón sea programado de manera que sea capaz de generar el enlace de invitación correspondiente cuando se hace clic en él. Además, es fundamental proporcionar retroalimentación visual inmediata, como mostrar el enlace de invitación generado o un mensaje de confirmación, para indicar que la acción se ha completado con éxito.
+
+<br>
+
+**Problema #04:**  El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La falta de control y libertad del usuario es evidente en este problema, ya que el usuario se ve forzado a regresar al formulario de inicio de sesión al salir de cualquier sección principal del dashboard, sin la opción de elegir continuar en la aplicación o regresar a una sección anterior.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 017](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2a5751d4-b169-45fb-9477-d0b2ebda73de)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda brindar a los usuarios un mayor control y libertad sobre su navegación. Esto implica ofrecer una opción clara y fácil de entender que permita a los usuarios decidir si desean regresar al formulario de inicio de sesión o continuar en la aplicación después de salir de una sección principal. Ello se puede realizar a través de la inserción de un botón “return”. La realización de pruebas de usuario será esencial para validar estas mejoras y garantizar que los usuarios puedan tomar decisiones informadas sobre su navegación.
+
+<br>
+
+**Problema #05:**  Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad limita su control y libertad en la navegación. Los usuarios pueden sentirse atrapados en una sección sin una forma clara de volver al dashboard.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad mientras están dentro de una de las secciones principales del dashboard de la aplicación. Esta carencia limita la libertad y el control del usuario en su navegación, lo que puede resultar en una experiencia frustrante y poco eficiente.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 018](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1c0c4f59-c430-4274-a831-e1e265aadc50)
+
+**Recomendación:**
+
+Para abordar este problema, se recomienda incorporar un componente de navegación claramente visible en todas las secciones principales del dashboard. Este componente, como un botón de regreso al dashboard, proporcionará a los usuarios una forma eficiente de cambiar entre diferentes funcionalidades,
+
+<br>
+
+**Problema #06:**  Incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de exportar el historial afecta la "Flexibilidad y eficiencia de uso". Los usuarios pueden requerir estos datos para diferentes propósitos, y la falta de funcionalidad para exportarlos ralentiza la eficiencia de uso.
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 019](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/39e522fa-e932-4392-963e-7556967ffdce)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar una función de exportación que permita a los usuarios descargar esta información en un formato a elección del usuario. Esta función debe ser claramente visible y accesible en la interfaz de usuario, facilitando a los usuarios la exportación eficiente de sus datos.
+
+<br>
+
+**Problema #07:**  Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Consistencia y estándares/ Estética y diseño minimalista
+
+La confusión sobre qué componente despliega el perfil del usuario o de la empresa sugiere una violación de la heurística de "Diseño y coherencia estética". Los usuarios podrían esperar que los componentes sigan un diseño y una ubicación coherentes que indiquen claramente cuál es cuál
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 020](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f27eb8e1-6b57-472f-9074-5d71c0cceb52)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar elementos visuales claros que permitan a los usuarios identificar con precisión cada perfil. Esto podría incluir el uso de íconos distintos, colores diferenciados o etiquetas claras para cada perfil. En ese sentido, segmentar el header en “Mi perfil” y “Mi empresa”.
+
+<br>
+
+**Problema #08:** Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Prevención de errores
+
+La heurística "Prevención de errores" se ve afectada, ya que la falta de una funcionalidad de recuperación de contraseña puede aumentar la probabilidad de errores, como bloqueos de cuentas debido a contraseñas olvidadas.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la inexistencia de la funcionalidad "recuperar contraseña" dentro del formulario de inicio de sesión. Los usuarios que olviden su contraseña no tienen una forma clara de restablecerla, lo que puede resultar en bloqueos de cuentas y una experiencia frustrante.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 021](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/0059c9fc-2d04-4de6-83d1-0bb45fa234ad)
+
+**Recomendación:**
+
+Para abordar la inexistencia de la funcionalidad "recuperar contraseña" en el formulario de inicio de sesión, se recomienda incorporar una función claramente visible, como un enlace o botón de "¿Olvidaste tu contraseña?". Esta función guiará a los usuarios a través del proceso de recuperación de contraseña de manera eficiente y prevendrá bloqueos de cuentas debido a contraseñas olvidadas.
+
+<br>
+
+**Problema #09:** Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Trabajadores”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de funcionalidad de filtrado de búsqueda afecta esta heurística, ya que no proporciona a los usuarios una retroalimentación clara sobre el estado del sistema después de ingresar un nombre de trabajador y hacer clic en el botón de búsqueda. La falta de respuesta o resultados visibles hace que los usuarios no tengan información sobre el estado de su búsqueda.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de la funcionalidad de filtrado de búsqueda relacionada con "Buscar Trabajadores" en la aplicación. A pesar de contar con un botón de búsqueda y una caja de texto donde los usuarios pueden ingresar el nombre del trabajador que desean buscar, la funcionalidad de búsqueda no está habilitada o no funciona correctamente.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 022](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/fa274aff-092b-457c-8ae0-6d15458401cd)
+
+**Recomendación:**
+
+Para abordar la ausencia de funcionalidad en la búsqueda de trabajadores, se recomienda habilitar y asegurarse de que la función de búsqueda funcione de manera efectiva. Cuando los usuarios ingresen el nombre del trabajador y hagan clic en el botón de búsqueda, la aplicación debe proporcionar resultados relevantes o un mensaje informativo si no se encuentran resultados.
+
+<br>
+
+**Problema #10:** Permiso para el registro de cultivos y procesos en todas las fases, aún si el rol del técnico no involucra la introducción de datos en todas las fases del proceso
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+El problema se relaciona con esta heurística, ya que los usuarios técnicos supervisores deberían tener restricciones de acceso basadas en sus roles y responsabilidades. La falta de restricciones adecuadas afecta su capacidad para utilizar la aplicación de manera eficiente y acorde con sus funciones.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la concesión de permisos para el registro de cultivos y procesos en todas las fases, incluso si el rol del técnico supervisor no implica la introducción de datos en todas las fases del proceso. En otras palabras, los usuarios con el rol de técnico supervisor tienen acceso a todas las fases de registro de cultivos, a pesar de que su función se limita a una de las fases. Esta discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios crea una inconsistencia en la aplicación y puede llevar a la confusión, el uso ineficiente y la posibilidad de errores en el registro de datos.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 023](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/91832fa4-2ef3-477a-a23b-47115e2568f6)
+
+**Recomendación:**
+Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
+
+<br>
+
+**Problema #11:** Incapacidad para modificar o eliminar la información de lo cultivos procesos previamente registrados.
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad de modificar o eliminar información de cultivos y procesos previamente registrados afecta esta heurística, ya que los usuarios pueden cometer errores al ingresar información incorrecta o desear corregir datos erróneos. Además, la falta de una función de edición o eliminación puede llevar a una experiencia frustrante y la pérdida de datos valiosos.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de modificar o eliminar la información de los cultivos y procesos previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de los cultivos y procesos registrados.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 024](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/81826bf6-25a3-4f62-8448-7ad939f0a312)
+
+**Recomendación:**
+Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
+
+<br>
+
+**Problema #12:** Ausencia de un indicador para señalar la cantidad de miembros de una empresa en el formulario de “Registrar Empresa”
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de un indicador que indique la cantidad de miembros de la empresa en el formulario de "Registrar Empresa" afecta esta heurística. Los usuarios, en este caso, el administrador, no tienen una forma visible de comprender cuántos miembros se registrarán en la empresa, lo que genera falta de visibilidad sobre el estado actual del sistema.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de un indicador o campo de entrada que permita señalar la cantidad de miembros de una empresa en el formulario de "Registrar Empresa". El administrador que completa este formulario no tiene la capacidad de indicar cuántos miembros serán registrados en la empresa, lo que limita la visibilidad del estado del sistema en cuanto a la cantidad de miembros en la empresa. Esta falta de visibilidad puede generar confusión y dificultades en la gestión de la información relacionada con la empresa en el sistema.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 025](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b7509bfb-8b3d-4b13-9c91-18ce44e82352)
+
+**Recomendación:**
+Para abordar el problema, se recomienda la incorporación de un campo de entrada en el formulario que permita al administrador ingresar la cantidad de miembros que serán registrados en la empresa. Este campo debe ser claro y estar acompañado de una explicación que indique su propósito, garantizando así que el administrador pueda especificar la cantidad de miembros de manera precisa. Además, se debe implementar una validación para asegurarse de que el número de miembros ingresado sea coherente y preciso. 
+
+<br>
+
+**Problema #13:** Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel" a partir de los registros anteriores afecta esta heurística. Los usuarios pueden encontrar ineficiente tener que calcular manualmente la temperatura promedio cuando la aplicación podría hacerlo automáticamente a partir de los datos existentes. 
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de la aplicación para generar automáticamente la temperatura promedio en la fase "Túnel" a partir de los registros de temperaturas anteriores. Los usuarios deben calcular manualmente la temperatura promedio, lo que resulta en una tarea ineficiente y potencialmente propensa a errores. Esto afecta la eficiencia de uso de la aplicación, ya que los usuarios podrían realizar esta tarea de manera más eficiente si la aplicación automatizara el cálculo utilizando los datos existentes.
+
+**Recomendación:**
+Para abordar el problema, se recomienda implementar una función en la aplicación que automatice el cálculo de la temperatura promedio. Esto permitirá a los usuarios realizar la tarea de manera eficiente y sin la necesidad de realizar cálculos manuales. Además, se debe garantizar que la interfaz de usuario muestre claramente la temperatura promedio calculada y que se realicen controles para validar la precisión de los datos anteriores antes de realizar el cálculo automático. Ello puede ser implementado dentro de la tabla de cultivo registrado
+
+<br>
+
+**Problema #14:** Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Estética y diseño minimalista
+
+La sección "Trabajadores" que sobresale dentro de la vista de perfil de la empresa afecta esta heurística. Un diseño minimalista busca mantener la simplicidad y la armonía visual en la interfaz, evitando elementos que destaquen de manera discordante. 
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la sección "Trabajadores," presentada en forma de tarjeta (card), que sobresale de manera inapropiada dentro de la vista de perfil de la empresa. Esta disposición inadecuada de la información causa que la sección "Trabajadores" llame excesivamente la atención y desentone con el diseño general de la vista de perfil de la empresa, lo que afecta la estética y la armonía visual de la interfaz de usuario. Esto puede influir negativamente en la percepción estética de la aplicación y en la experiencia del usuario.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 026](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/28d3af8d-571d-4f0f-a1c6-73a00ef442ae)
+
+**Recomendación:**
+
+Para abordar el problema de la sección "Trabajadores" que sobresale inapropiadamente en la vista de perfil de la empresa, se recomienda rediseñar la presentación de esta sección de manera que se integre de forma armoniosa en la vista de perfil. Esto implica ajustar los márgenes del diseño de la tarjeta de "Trabajadores".
+
+<br>
+
+**Problema #15:** Incapacidad para retornar a una fase anterior luego de haber dado “END PHASE”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad para retornar a una fase anterior después de dar "END PHASE" afecta esta heurística. Los usuarios pueden considerar esto como un error, ya que es posible que deseen volver atrás o corregir una acción anterior.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de la aplicación para permitir a los usuarios retornar a una fase anterior después de haber dado "END PHASE" (finalizar fase). Esta limitación significa que una vez que un usuario ha finalizado una fase, no tiene la opción de regresar o corregir una acción anterior, lo que puede ser problemático si se comete un error o se necesita modificar el proceso. La falta de esta funcionalidad afecta la capacidad de los usuarios para recuperarse de acciones no deseadas y puede generar frustración al no poder revertir o modificar el flujo del proceso.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 027](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/ad77ef93-a783-49e1-a476-d64243ba2e8f)
+
+**Recomendación:**
+
+Para abordar el problema de la incapacidad para retornar a una fase anterior después de haber dado "END PHASE," se recomienda implementar una opción que permita a los usuarios revertir la acción y regresar a la fase anterior. Esta funcionalidad debería incluir una confirmación de acción para evitar retrocesos accidentales y proporcionar instrucciones claras sobre su uso. 
+
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
