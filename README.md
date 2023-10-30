@@ -2846,6 +2846,192 @@ Repositorio Web Application:
 
 ![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
 
+<div id='5.2.3.'><h4> 5.3.1. Sprint 3.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+
+El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolver errores de la aplicación web y realizar el back end de la web application.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-10-11</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:15 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alan Galavis</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Jessica Comettant, Nicolás Espinoza, Alan Galavis, Andrés Soto, Carlo Seminario
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                En el anterior sprint pudimos cumplir con la entrega de todos los user stories. La opinion del product owner con respecto al avance realizado hasta el entregable anterior fue satisfactoria.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                En el anterior sprint se pudo mejorar ciertos aspectos de eficiencia en algunos componentes. Asimismo, se puede mejorar el proyecto reestructurando algunos componentes.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                Desarrollar las interfaces relacionadas con la creación de cuentas, inicio de sesión y el perfil de usuario. Incluir tablas que exhiban los cultivos con registros recientes y los cultivos catalogados como concluidos. Mejorar la eficiencia en la creación de cultivos y el registro de procesos a través de componentes dinámicos.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                32
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                32
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog 3.</h5></div>
+
+En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+
+Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+
+
+
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+
+<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
+
+- US04:
+
+- US06:
+
+- US07:
+
+- US08:
+
+- US20:
+
+- US21:
+
+- US22:
+
+- US23:
+
+
+<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse).
+
+| Endpoint | Details |
+| - | - | 
+||| 
+
+|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+
+<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint. Asimismo, se desplego el back-end parcialmente completo, pues no se ha concluido.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+
+
+- Capturas de pantalla landing page:
+
+
+
+Web Application front-end:
+
+Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+
+
+
+- Capturas de pantalla de web application:
+
+Web Application back-end:
+
+.
+
+
+
+- Capturas de pantalla de web application:
+
+
+
+<div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Galavis Du Bois, Alan Enrique|Desarrollo del back end e internacionalización del front end|
+|Seminario Garvín, Carlo Luca|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Espinoza Rodriguez, Nicolas Antonio|Desarrollo del back end, y mejora de componentes del front end|
+|Comettant Rubiños, Jessica Elizabeth|Desarrollo del back end, y creación de nuevos de componentes del front end|
+
+Repositorio Landing:
+
+
+
+Repositorio Web Application:
+
+
+
+Repositorio Platform:
+
+
+
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
 1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
