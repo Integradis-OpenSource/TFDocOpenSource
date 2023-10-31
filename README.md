@@ -217,7 +217,7 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
 5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
 5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
-5.2.3. [Sprint 3.](#5.3.2.)<br>
+5.2.3. [Sprint 3.](#5.2.3.)<br>
 5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
 5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.)<br>
 5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.)<br>
@@ -2855,7 +2855,7 @@ Repositorio Web Application:
 
 ![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
 
-<div id='5.2.3.'><h4> 5.3.1. Sprint 3.</h4></div>
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
 
 El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolver errores de la aplicación web y realizar el back end de la web application.
