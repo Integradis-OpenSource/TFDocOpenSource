@@ -3026,7 +3026,8 @@ Repositorio Landing:
 
 Repositorio Web Application:
 
-
+![insight_1_open](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3f3b791f-1790-428e-b051-4b1314e0f956)
+![insight_2_open](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b084e5de-bafb-44ec-94a8-61735d98632a)
 
 Repositorio Platform:
 
