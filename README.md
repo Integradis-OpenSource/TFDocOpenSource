@@ -2958,21 +2958,17 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
 
 - US04:
-
+![open_register](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7c82518d-1a4d-422b-bfbd-a4291561e534)
 - US06:
-
+![open_login](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1a5b41ff-8f16-4f81-ad44-01335248e605)
 - US07:
-
+![open_process_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/033948f3-895a-4ac6-8235-2db7637ec008)
 - US08:
-
+![open_process](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6)
 - US20:
-
+![open_company](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/309a2c22-50cc-49ab-8820-a97e728c18c4)
 - US21:
-
-- US22:
-
-- US23:
-
+![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -3013,11 +3009,44 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 Web Application front-end:
 
-Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
-
+![open_deployment](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4c16b805-113c-4be6-bfc6-c406e829545d)
 
 - Capturas de pantalla de web application:
+
+![open_login](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1a5b41ff-8f16-4f81-ad44-01335248e605)
+![open_register](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7c82518d-1a4d-422b-bfbd-a4291561e534)
+![open_dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f812e91d-94f1-43df-b754-fa9967ea942f)
+![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
+![open_company](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/309a2c22-50cc-49ab-8820-a97e728c18c4)
+![open_process](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6)
+![open_process_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/033948f3-895a-4ac6-8235-2db7637ec008)
+![open_stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fbdef7bd-2179-4080-a717-16cf82b61346)
+![open_stock_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2645ec04-1f12-4a28-acf7-59477d89b774)
+![open_stock_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/01593b4f-c84a-4959-9200-8f3bbd6e29b5)
+![open_preparation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/00c29a01-470c-40a0-9853-4033b8906d8e)
+![open_preparation_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/56f34718-867c-4a7b-bf48-88a3c5070c6e)
+![open_preparation_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/09e2acea-2f2c-471f-a3c1-9f58c5f370b1)
+![open_bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ef03571e-7e88-4cb6-8be4-0f52211bc43b)
+![open_bunker_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a75dc280-39a1-4118-91b8-a6e808013f8c)
+![open_bunker_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c2095c6d-a345-4db6-8e40-248b8b0cf923)
+![open_tunnel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c4aa9ef8-1bfa-4b53-8530-a076e275f880)
+![open_tunnel_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/6a3fd374-1bc8-4b13-ba85-1011dd7d77c6)
+![open_tunnel_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/70261d71-53e7-4d8f-a694-8752cc47b366)
+![open_incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/eb479689-457e-43e9-a8ea-75be160232cb)
+![open_incubation_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/64995a3c-5d4c-4681-84ac-3389c6436a8e)
+![open_incubation_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ff4784c6-fa1d-49dc-8ccc-e16aa115300a)
+![open_casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1fb317ee-baf8-4210-a03d-e86bfe79dc87)
+![open_casing_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8294f6da-ddd7-4e12-ac30-95ec559af5de)
+![open_casing_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/046f26df-782d-4b2f-8eb4-89c11c557dff)
+![open_induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/93b5b741-be15-43e7-9d40-ba4ba1837794)
+![open_induction_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/caa50500-1286-4062-8919-02cf5d94e9b0)
+![open_induction_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a07dc436-da48-4032-bd40-75654a3b6111)
+![open_harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/6f7aa9b3-d157-49ea-a729-deeb795b4e6b)
+![open_harvest_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/987f8fc9-ac6f-4ed6-83c7-49958894e997)
+![open_harvest_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360)
+![open_complete](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee)
 
 Web Application back-end:
 
