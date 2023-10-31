@@ -2976,15 +2976,25 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse).
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service]()
+
+Json server:
+
+![JSON1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/20d29e81-bdfb-4e94-bd2d-a967451e2101)
+![JSON2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/09b755f8-ecc8-4f5b-89c9-1671560a44b0)
 
 | Endpoint | Details |
 | - | - | 
-||| 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
 
-|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
-|-|-|-|-|-|-|
-|||||||
+Web Service:
 
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
