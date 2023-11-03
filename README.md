@@ -1992,6 +1992,72 @@ Enlace para acceder [Front End Web Application](https://greenhouse-open.netlify.
 
 Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
 
+**Web Service Deployment**
+
+Base de Datos:
+
+Iniciar sesión en Amazon Web Services (AWS), del cuál utilizaremos 2 recursos RDS y EC2. En primer lugar, acceder a EC2, más específicamente a Security Groups que se encuentra en Network & Security.
+
+![Screenshot 2023-11-02 at 7 37 16 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/16dc8375-d63b-4e72-af60-4e1d8d6e75c4)
+
+Aquí crearemos un inbound rule para permitir el tráfico de datos como se muestra a continuación.
+![Screenshot 2023-11-01 at 4 06 39 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7e98f1e4-f74f-45b3-932c-c2a03ad8924c)
+
+![Screenshot 2023-11-01 at 4 06 47 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b24d5d4d-7955-4cce-aef7-b7228629b70f) 
+
+Una vez se tiene el inbound rule para asignar a la base de datos, vamos a crear la base de datos en este caso de MySQL, para ello se debe ingresar al service RDS con las siguientes configuraciones, en el cuál se selecciona el motor de base de datos y su versión.
+
+![Screenshot 2023-11-02 at 7 42 44 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/dde7ed7b-2e92-4fb1-8c65-42a150b20fea) 
+
+![Screenshot 2023-11-02 at 7 43 04 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d5e24040-1af6-4d80-b21b-c203625636e4) 
+
+Luego en la parte de settings se configura el nombre de la base de datos, el usuario y la contraseña, en ese orden.
+
+![Screenshot 2023-11-02 at 7 46 23 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0fa3b391-e6f3-4500-b614-1c7c4a62756c) 
+
+Luego las demás configuraciones se mantienen igual hasta llegar a la sección “Connectivity” se debe cambiar tanto el Public access a yes para asignarle una IP pública a la base de datos. Además de luego asignar el security group previamente creado en la opción Existing VPC security groups.
+
+![Screenshot 2023-11-02 at 7 49 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4670ec1a-0598-4fb2-aa8c-827c320bb9de)
+
+![Screenshot 2023-11-02 at 7 52 02 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/55d15169-915b-4d55-8928-1e1564751270)
+
+Terminada la configuración se da click en el botón de create database y se espera a que está tenga su status como available y con ello ya tenemos la información necesaria para configurar nuestro connection string. Ya contamos con tanto el usuario como la contraseña de lo que habíamos configurado previamente y dentro de nuestra base de datos se encuentran el endpoint y el puerto.
+
+![Screenshot 2023-11-02 at 7 58 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/79cc8dc6-5a3b-4f89-9f4d-d6f27e646324)
+ 
+
+Web service:
+Luego para el web service se utilizó Zeabur el cuál tienes que iniciar sesión con Github de modo que podamos obtener una integración continúa y cada vez que se haga un commit a la rama principal se hará un nuevo deployment de forma automática, por lo que igual que se hizo con Netlify para el front end web application se deberá brindar los permisos del repositorio a Zeabur. Una vez iniciada sesión en Zeabur va a tener un botón que dice create project y seleccione una región.
+![Screenshot 2023-11-02 at 8 20 59 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7fce4dec-c2d5-4af2-8223-629d806e805c) 
+
+![Screenshot 2023-11-02 at 8 22 21 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/f8f31a98-4a23-4f24-b1e6-51d0a1410de7) 
+
+Luego para lograr la integración continua se deberá ingresar a “add service” 
+![Screenshot 2023-11-02 at 8 23 31 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ad1b1264-2933-4c73-97b4-9670322b1c31) 
+
+Luego se selecciona el service type que en este caso será Git:
+![Screenshot 2023-11-02 at 8 26 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9f5ae221-0597-4ebc-8b69-1bcb87270c5e)
+Luego si ya se han concedido los permisos se selecciona el repositorio.
+
+![Screenshot 2023-11-02 at 8 28 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4b005bbb-b6eb-4fea-8091-23c91a993934) 
+
+Se selecciona la branch sobre la cuál se va a realizar el despliegue.
+
+![Screenshot 2023-11-02 at 8 29 54 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2823a7b5-7220-4efd-a44f-f930bfdc4769)
+
+El service se empezará a desplegar pero también es necesario ir a la sección de domains y se selecciona “Generate Domain” 
+
+![Screenshot 2023-11-02 at 8 30 11 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/00a35f86-0788-4450-b859-2539898aba84) 
+
+Finalmente se espera a que se realice el despliegue y se evidencia como está en ejecución y el dominio generado para acceder al despliegue.
+
+![Screenshot 2023-11-02 at 8 32 36 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/217953ba-0409-44b4-9543-b9656782e582)
+
+![Screenshot 2023-11-02 at 8 32 48 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/07c73026-c561-47f8-8bcb-47bf4b569f0d)
+
+Enlace para acceder al web service: [https://greenhouse.zeabur.app/swagger-ui/index.html](https://greenhouse.zeabur.app/swagger-ui/index.html)
+
+
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
 |1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
