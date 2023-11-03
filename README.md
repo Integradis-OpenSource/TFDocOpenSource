@@ -3565,13 +3565,16 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 ![open_harvest_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360)
 ![open_complete](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee)
 
-Web Application back-end:
+Web Services back-end:
 
-.
+Ultímo despligue del web service en Zeabur:
+![Screenshot 2023-11-03 at 1 32 50 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a)
+
+Base de Dato en AWS RDS:
+![Screenshot 2023-11-03 at 1 36 32 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/b6c2a18d-193c-4f06-a201-49902e948423)
 
 
-
-- Capturas de pantalla de web application:
+- Capturas de pantalla de web service:
 
 
 
