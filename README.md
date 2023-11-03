@@ -230,6 +230,7 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.3.1.[Diseño de Entrevistas.](#5.3.1.)<br>
 5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
 5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br>
 6. [**Conclusiones.**](6.)<br>
 7. [**Bibliografía.**](7.)<br>
 8. [**Anexos.**](8.)<br>
@@ -1991,6 +1992,72 @@ Enlace para acceder [Front End Web Application](https://greenhouse-open.netlify.
 
 Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
 
+**Web Service Deployment**
+
+Base de Datos:
+
+Iniciar sesión en Amazon Web Services (AWS), del cuál utilizaremos 2 recursos RDS y EC2. En primer lugar, acceder a EC2, más específicamente a Security Groups que se encuentra en Network & Security.
+
+![Screenshot 2023-11-02 at 7 37 16 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/16dc8375-d63b-4e72-af60-4e1d8d6e75c4)
+
+Aquí crearemos un inbound rule para permitir el tráfico de datos como se muestra a continuación.
+![Screenshot 2023-11-01 at 4 06 39 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7e98f1e4-f74f-45b3-932c-c2a03ad8924c)
+
+![Screenshot 2023-11-01 at 4 06 47 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b24d5d4d-7955-4cce-aef7-b7228629b70f) 
+
+Una vez se tiene el inbound rule para asignar a la base de datos, vamos a crear la base de datos en este caso de MySQL, para ello se debe ingresar al service RDS con las siguientes configuraciones, en el cuál se selecciona el motor de base de datos y su versión.
+
+![Screenshot 2023-11-02 at 7 42 44 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/dde7ed7b-2e92-4fb1-8c65-42a150b20fea) 
+
+![Screenshot 2023-11-02 at 7 43 04 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d5e24040-1af6-4d80-b21b-c203625636e4) 
+
+Luego en la parte de settings se configura el nombre de la base de datos, el usuario y la contraseña, en ese orden.
+
+![Screenshot 2023-11-02 at 7 46 23 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0fa3b391-e6f3-4500-b614-1c7c4a62756c) 
+
+Luego las demás configuraciones se mantienen igual hasta llegar a la sección “Connectivity” se debe cambiar tanto el Public access a yes para asignarle una IP pública a la base de datos. Además de luego asignar el security group previamente creado en la opción Existing VPC security groups.
+
+![Screenshot 2023-11-02 at 7 49 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4670ec1a-0598-4fb2-aa8c-827c320bb9de)
+
+![Screenshot 2023-11-02 at 7 52 02 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/55d15169-915b-4d55-8928-1e1564751270)
+
+Terminada la configuración se da click en el botón de create database y se espera a que está tenga su status como available y con ello ya tenemos la información necesaria para configurar nuestro connection string. Ya contamos con tanto el usuario como la contraseña de lo que habíamos configurado previamente y dentro de nuestra base de datos se encuentran el endpoint y el puerto.
+
+![Screenshot 2023-11-02 at 7 58 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/79cc8dc6-5a3b-4f89-9f4d-d6f27e646324)
+ 
+
+Web service:
+Luego para el web service se utilizó Zeabur el cuál tienes que iniciar sesión con Github de modo que podamos obtener una integración continúa y cada vez que se haga un commit a la rama principal se hará un nuevo deployment de forma automática, por lo que igual que se hizo con Netlify para el front end web application se deberá brindar los permisos del repositorio a Zeabur. Una vez iniciada sesión en Zeabur va a tener un botón que dice create project y seleccione una región.
+![Screenshot 2023-11-02 at 8 20 59 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7fce4dec-c2d5-4af2-8223-629d806e805c) 
+
+![Screenshot 2023-11-02 at 8 22 21 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/f8f31a98-4a23-4f24-b1e6-51d0a1410de7) 
+
+Luego para lograr la integración continua se deberá ingresar a “add service” 
+![Screenshot 2023-11-02 at 8 23 31 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ad1b1264-2933-4c73-97b4-9670322b1c31) 
+
+Luego se selecciona el service type que en este caso será Git:
+![Screenshot 2023-11-02 at 8 26 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9f5ae221-0597-4ebc-8b69-1bcb87270c5e)
+Luego si ya se han concedido los permisos se selecciona el repositorio.
+
+![Screenshot 2023-11-02 at 8 28 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4b005bbb-b6eb-4fea-8091-23c91a993934) 
+
+Se selecciona la branch sobre la cuál se va a realizar el despliegue.
+
+![Screenshot 2023-11-02 at 8 29 54 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2823a7b5-7220-4efd-a44f-f930bfdc4769)
+
+El service se empezará a desplegar pero también es necesario ir a la sección de domains y se selecciona “Generate Domain” 
+
+![Screenshot 2023-11-02 at 8 30 11 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/00a35f86-0788-4450-b859-2539898aba84) 
+
+Finalmente se espera a que se realice el despliegue y se evidencia como está en ejecución y el dominio generado para acceder al despliegue.
+
+![Screenshot 2023-11-02 at 8 32 36 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/217953ba-0409-44b4-9543-b9656782e582)
+
+![Screenshot 2023-11-02 at 8 32 48 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/07c73026-c561-47f8-8bcb-47bf4b569f0d)
+
+Enlace para acceder al web service: [https://greenhouse.zeabur.app/swagger-ui/index.html](https://greenhouse.zeabur.app/swagger-ui/index.html)
+
+
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
 |1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
@@ -3471,6 +3538,11 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 - US21:
 ![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
 
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+
+
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service]()
@@ -3654,10 +3726,14 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 ![open_harvest_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360)
 ![open_complete](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee)
 
-Web Application back-end:
+Web Services back-end:
 
 
+Ultímo despligue del web service en Zeabur:
+![Screenshot 2023-11-03 at 1 32 50 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a)
 
+Base de Dato en AWS RDS:
+![Screenshot 2023-11-03 at 1 36 32 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/b6c2a18d-193c-4f06-a201-49902e948423)
 
 
 - Capturas de pantalla de web application:
@@ -3789,7 +3865,6 @@ Entrevista de validación usuario administrador 03:
 | :-: | :- |
 |![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d)|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
 |Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
-
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
@@ -4451,7 +4526,15 @@ El problema identificado se refiere a la incapacidad de la aplicación para perm
 
 Para abordar el problema de la incapacidad para retornar a una fase anterior después de haber dado "END PHASE," se recomienda implementar una opción que permita a los usuarios revertir la acción y regresar a la fase anterior. Esta funcionalidad debería incluir una confirmación de acción para evitar retrocesos accidentales y proporcionar instrucciones claras sobre su uso. 
 
+<div id='5.4.'><h2> 5.4. Video About-The-Product.</h2></div>
 
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado.
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: [https://youtu.be/BMjgyGefraM](https://youtu.be/BMjgyGefraM)
+
+Enlace del video subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
@@ -4469,6 +4552,18 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario _carry over_ o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+
+<br>
+
+**Video About-The-Team**
+
+El video resume el proceso de trabajo realizado por el equipo. En este, los integrantes exponen las actividades que desempeñaron para alcanzar lo outcomes establecidos por el curso. Cabe destacar que los miembros del equipo destacan la comunicación oral y escrita como un método efectivo para transmitir ideas y enunciar el avance del proyecto.
+
+El video tiene una duración de 10:07 minutos. Desde el minuto 0:00 al 4:57 se evidencia una reunión de trabajo grupal, junto con voz en off del integrante Nicolás Espinoza explicando las actividades que realizamos. Seguidamente, desde el minuto 4:58 al 5:56 el integrante Carlo Seminario otorga su perspectiva relacionada con el avance del proyecto. Después, entre los minutos 5:56 al 6:47 el integrante Alan Galavis explica el outcome del curso y las actividades que le permitieron alcanzarlo. Del minuto 6:48 al 7:46, Andrés Soto realiza su aporte, y del 7:47 al 8:45 continúa Nicolás Espinoza. El video concluye con Jessica Commetant otorgando su testimonio relacionado con las competencias alcanzadas.
+
+Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 <div id='7.'><h2> 7. Bibliografía.</h2></div>
@@ -4489,6 +4584,16 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 
 - Enlace para acceder a la aplicación desplegada: [https://greenhouse-open.netlify.app/dashboard](https://greenhouse-open.netlify.app/dashboard)
 
+- Enlace para acceder al backend desplegado: [https://greenhouse.zeabur.app/swagger-ui/index.html#/](https://greenhouse.zeabur.app/swagger-ui/index.html#/)
+
 - Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 - Video exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+- Enlace para acceder al video About the product subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+- Enlace para acceder al video About the product subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]
