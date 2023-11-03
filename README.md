@@ -3389,7 +3389,63 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2ba7dd|feat(formula): added create formula command.||31/10/2023|
 |https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|14efbe4|feat(formula): added formula command service.||31/10/2023|
 |https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ba45879|feat(formula): added formula command resources and transform.||31/10/2023|
-|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform||||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a871a96|feat(preparation-area): added preparation area queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f16a8ac|feat(preparation-area): added preparation area query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7af64d|feat(preparation-area): added preparation area repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|70742ef|feat(preparation-area): added preparation area query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1c57fb4|feat(preparation-area): added preparation area resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4899eaf|feat(preparation-area): added preparation area controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b3055c|feat(preparation-area): added preparation area command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f1200b|feat(preparation-area): added preparation area command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|df9df18|feat(preparation-area): added preparation area command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|aa37b0c|feat(preparation-area): added preparation area command resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1257900|feat(Employee): added email and employee name value objects.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|837b2ae|chore(Employee): updated employee aggregate.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|79d5715|feat(Employee): added employee queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fb9ed01|feat(Employee): added employee query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fe105ba|feat(Employee): added employee repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|eeb106d|feat(Employee): added employee repository service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00dcca1|feat(Employee): added employee rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|02c794b|feat(Employee): added employee controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ddb9e57|feat(employee): added employee command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|42d42c2|feat(employee): added employee command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8af91ba|feat(employee): added employee command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a6a8049|feat(employee): added employee command rest resource and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8eb089e|feat(bunker): added bunker queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|443d93f|feat(bunker): added bunker repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|36d748c|feat(bunker): added bunker query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2d9e55|feat(bunker): added bunker query service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ad1d4f|feat(bunker): added bunker rest query resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c5f737|feat(bunker): added bunker controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fbea3ab|feat(bunker): added create bunker command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5ebb83a|feat(bunker): added bunker command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f5588ff|feat(bunker): added bunker command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2584610|feat(bunker): added bunker command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8656d7f|feat(grow-room): added grow room getAll query, service, repository and controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b0a4e4|feat(grow-room): added grow room post command to controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|96868d4|feat(tunnel): added tunnel queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8a3263c|feat(tunnel): added tunnel query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|54601e2|feat(tunnel): added tunnel repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|43b2c63|feat(tunnel): added tunnel query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|459e6e9|feat(tunnel): added tunnel rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a2365a4|feat(tunnel): added tunnel controller.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|40d4cc0|feat(tunnel): added create tunnel command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|34509bb|feat(tunnel): added tunnel command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9a1457|feat(tunnel): added tunnel command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7dac715|feat(tunnel): added create tunnel command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f1c7715|feat(company): added company queries, service, repository and controller initial get method||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c783b9|feat(company): added company command to create new company||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|532204b|feat(company): added company ACL to connect with crops bounded-context||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f11fcf|chore: added connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2648346|chore: updated connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a0c9e4d|chore: added @crossorigin(origins="*") to all controllers||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|db51564|chore: changed the data base connection to amazon RDS.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4a43145|feat: added CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0b7c510|feat: deleted CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|54eb5fb|feat: Added about the product video||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f442737|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b55bac8|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|cb5ca2e|feat: added video about the team.||2/11/2023|
 
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
@@ -3438,6 +3494,99 @@ Json server:
 Web Service:
 
 
+
+- Web service images
+
+- Web service commit details
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7213a6|chore: Added pluralize to project||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3998543|feat(crops): Added aggregates and entities to crops.||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fae2a06|chore(): added constructors to entity objects and added CropPhase enum||25/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6a359f8|feat: added springdoc openapi dependency||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9085a17|feat: added OpenApiConfiguration||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5f2d976|feat: added application properties.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f2d7e81|fix: moved the repositories directory.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8329c1a|feat(crops): domain layer of the crops bounded context of crop logic for the crop phases.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4d15a92|feat(crops): added CropNotFoundException.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|357ff1d|chore(crops): entity for each phase of the crop has its necessary constructor.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|30d7d16|feat(crops): added crop queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d8d37fe|feat(crops): added crop query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f254694|feat(crops): added crop repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5c76a24|feat(crops): added crop query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b0a9286|feat(crops): added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8f4083|feat(crops): added crop controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|86008f9|feat(crops): added create crop command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|cd806f2|feat(crops): added crop command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f40a39d|feat(crops): added crop command service implementation TODO external company service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6040b39|feat(crops): added added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6cf5262|feat(formula): added formula queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c6ab139|feat(formula): added formula query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4df9df9|feat(formula): added formula repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8ca3c4d|feat(formula): added formula query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|92d9cc4|feat(formula): added formula resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|723bb53|feat(formula): added formula controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2ba7dd|feat(formula): added create formula command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|14efbe4|feat(formula): added formula command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ba45879|feat(formula): added formula command resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a871a96|feat(preparation-area): added preparation area queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f16a8ac|feat(preparation-area): added preparation area query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7af64d|feat(preparation-area): added preparation area repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|70742ef|feat(preparation-area): added preparation area query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1c57fb4|feat(preparation-area): added preparation area resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4899eaf|feat(preparation-area): added preparation area controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b3055c|feat(preparation-area): added preparation area command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f1200b|feat(preparation-area): added preparation area command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|df9df18|feat(preparation-area): added preparation area command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|aa37b0c|feat(preparation-area): added preparation area command resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1257900|feat(Employee): added email and employee name value objects.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|837b2ae|chore(Employee): updated employee aggregate.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|79d5715|feat(Employee): added employee queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fb9ed01|feat(Employee): added employee query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fe105ba|feat(Employee): added employee repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|eeb106d|feat(Employee): added employee repository service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00dcca1|feat(Employee): added employee rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|02c794b|feat(Employee): added employee controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ddb9e57|feat(employee): added employee command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|42d42c2|feat(employee): added employee command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8af91ba|feat(employee): added employee command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a6a8049|feat(employee): added employee command rest resource and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8eb089e|feat(bunker): added bunker queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|443d93f|feat(bunker): added bunker repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|36d748c|feat(bunker): added bunker query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2d9e55|feat(bunker): added bunker query service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ad1d4f|feat(bunker): added bunker rest query resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c5f737|feat(bunker): added bunker controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fbea3ab|feat(bunker): added create bunker command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5ebb83a|feat(bunker): added bunker command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f5588ff|feat(bunker): added bunker command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2584610|feat(bunker): added bunker command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8656d7f|feat(grow-room): added grow room getAll query, service, repository and controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b0a4e4|feat(grow-room): added grow room post command to controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|96868d4|feat(tunnel): added tunnel queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8a3263c|feat(tunnel): added tunnel query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|54601e2|feat(tunnel): added tunnel repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|43b2c63|feat(tunnel): added tunnel query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|459e6e9|feat(tunnel): added tunnel rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a2365a4|feat(tunnel): added tunnel controller.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|40d4cc0|feat(tunnel): added create tunnel command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|34509bb|feat(tunnel): added tunnel command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9a1457|feat(tunnel): added tunnel command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7dac715|feat(tunnel): added create tunnel command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f1c7715|feat(company): added company queries, service, repository and controller initial get method||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c783b9|feat(company): added company command to create new company||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|532204b|feat(company): added company ACL to connect with crops bounded-context||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f11fcf|chore: added connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2648346|chore: updated connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a0c9e4d|chore: added @crossorigin(origins="*") to all controllers||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|db51564|chore: changed the data base connection to amazon RDS.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4a43145|feat: added CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0b7c510|feat: deleted CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f442737|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b55bac8|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+
+
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint. Asimismo, se desplego el back-end parcialmente completo, pues no se ha concluido.
@@ -3450,6 +3599,18 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 - Capturas de pantalla landing page:
 
+![1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ebd77824-5daf-4123-a501-c3ce549c830d)
+![2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b3175297-907d-496c-bd6a-1a43e39e0bd1)
+![3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/73626ab9-0884-40cc-a167-99988f37eb38)
+![4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/23a28e78-843f-4af9-86c1-1fee5a3bf995)
+![5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc)
+![6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7641c270-8818-4c1a-abb3-2c612816cefc)
+![7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e2ab2cd9-a0fc-4db7-9848-fa14db6f7ce6)
+![videos_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7ca15624-c3ae-412c-b844-5fdef23d8ef2)
+![9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e4b25aa3-eb8a-475f-9144-fd1e395c7876)
+![10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0545ec66-30c7-46db-81ac-2ee4e83ffd83)
+![11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/a8622e6a-9704-4925-8cbe-6d3f705f0e7e)
+![12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a)
 
 
 Web Application front-end:
@@ -3495,13 +3656,30 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 
 Web Application back-end:
 
-.
+
 
 
 
 - Capturas de pantalla de web application:
 
-
+![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
+![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
+![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
+![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
+![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
+![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
+![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
+![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
+![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
+![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
+![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
+![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
+![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
+![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
+![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
+![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
+![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
+![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
 
 <div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -3515,7 +3693,8 @@ Web Application back-end:
 
 Repositorio Landing:
 
-
+![insight_1_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b69c7b1b-2cef-41a3-b19e-6d4ace78f7c8)
+![insight_2_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/329b9e30-6ed8-444a-9c5d-6bf7879d6009)
 
 Repositorio Web Application:
 
@@ -3524,6 +3703,8 @@ Repositorio Web Application:
 
 Repositorio Platform:
 
+![insight_1_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291)
+![insight_2_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa)
 
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
