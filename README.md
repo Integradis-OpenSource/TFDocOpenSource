@@ -3545,7 +3545,7 @@ Enlace para visualizar el video de explicación de los logros del Sprint:
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service]()
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](https://greenhouse.zeabur.app/swagger-ui/index.html#/)
 
 Json server:
 
@@ -3565,9 +3565,138 @@ Json server:
 
 Web Service:
 
-
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="14">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+    </tbody>
+</table>
 
 - Web service images
+
+![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
+![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
+![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
+![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
+![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
+![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
+![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
+![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
+![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
+![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
+![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
+![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
+![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
+![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
+![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
+![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
+![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
+![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
 
 - Web service commit details
 
