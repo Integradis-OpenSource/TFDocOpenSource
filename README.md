@@ -3314,7 +3314,83 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|74930d4|fix: Fixed DDD of project||11/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|245b666|fix: Removed unused contents||11/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|789db78|feat(page-not-found): Added page not found component||12/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|e7a940c|feat(login): Added login component||12/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|e0a3476|feat(signup): Added signup component||15/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|5feb5be|feat(locales): Added localization to signup and login components||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8983c22|feat(locales): Added language selection component||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|90f0765|chore(locales): Added styles to dropdown language selector||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|2f1b649|feat:edit baseservice getuserbyid||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0722962|feat:add users dbjson||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9d1d719|feat(service-model)user model and user service||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|b27a32|feat(profile)refactor html and ts profile information component||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9141068|feat(businessdbjson)business dbjson added||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|36b9bb6|feat(organization)business model and service, edit organization information html and ts||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c91c73a|chore(profiles): Refactored "business" to "company"||21/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|2901307|chore(profiles): Updated company profile to support new db.json structure||21/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|01cba0f|feat(profiles): Added searchbar for employee||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8e2065|fix(stepper): added TA column to bunker and fixed undefined values.||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|b240707|fix(button-primary): Fixed button primary z-index||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f225675|feat(toolbar): Toolbar showcases user and company profile pictures and names||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|301b117|fix(company): Fixed css problem with employee searchbar||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|4996e26|fix(dashboard): Added internationalization to dashboard||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|4bdd704|chore(avatar): Deleted unnecessary avatar component||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|880e778|feat: created component "dashboard-table". Also created service "process-entries-dashboard-table" and model "process-entry-dashboard-table"||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|cdd096c|chore(process-table): made the component dynamic.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|cdf6f12|fix: header format of process table and comment some components that need to be added.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|29c98f7|feat(harvesting-in-progress): added crops in progress table||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c852a2|chore: Harvesting in progress redirects to the corresponding crop at its corresponding phase.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0e88e82|feat: created component "dashboard-table". Also created service "process-entries-dashboard-table" and model "process-entry-dashboard-table"||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|fd4429c|fix: stepper component changes step, clicking on the step label doesn't change anymore and added missing dashboard-table component.||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7213a6|chore: Added pluralize to project||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3998543|feat(crops): Added aggregates and entities to crops.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|95b123f|fix(stepper): fixed the stepper pop ups and the routing, refactored the stepper buttons into the process table component.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|1d608d3|chore: added patch method to base service.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c5df906|chore(process-table): added patch phase and status according to the next step.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|21253b0|feat(process-table): implemented dialog pop up for register data||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8c6aced|feat(process-table): implemented dialog pop up for register data||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|6a90708|feat(harvesting-in-progress): added paginator to crop in progress table.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f9d9829|feat(harvesting-in-progress): added sorting to harvesting-in-progress component||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|de7ab72|feat(harvesting-in-progress): added sorting to harvesting-in-progress component||25/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|07ae24f|fix(process-table): fixed stepper info regarding the crop id and date.||25/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fae2a06|chore(): added constructors to entity objects and added CropPhase enum||25/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|51a638f|fix(process-table): fixed the end phase endpoint to make tha patch correctly.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|1cf6b92|chore(process-table): the input of the process table are now functional and post operation works.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|7195e58|fix(process-table): starting a new crop shows record input and it generates the process-table after the first record.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|431570e|chore(process-table): create a new crop redirects to the correct route and a new crop is created.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|aed3f45|fix(process-table): fixed ending a crop needed to pass the phase label instead of message.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|319a904|feat(dashboard-table): fixed data display in table and added background color and fonts||27/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c2820|feat(fake-api): changed the endpoints of the fake-api from local server to My JSON Server||29/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6a359f8|feat: added springdoc openapi dependency||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9085a17|feat: added OpenApiConfiguration||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5f2d976|feat: added application properties.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f2d7e81|fix: moved the repositories directory.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8329c1a|feat(crops): domain layer of the crops bounded context of crop logic for the crop phases.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4d15a92|feat(crops): added CropNotFoundException.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|357ff1d|chore(crops): entity for each phase of the crop has its necessary constructor.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|30d7d16|feat(crops): added crop queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d8d37fe|feat(crops): added crop query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f254694|feat(crops): added crop repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5c76a24|feat(crops): added crop query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b0a9286|feat(crops): added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8f4083|feat(crops): added crop controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|86008f9|feat(crops): added create crop command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|cd806f2|feat(crops): added crop command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f40a39d|feat(crops): added crop command service implementation TODO external company service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6040b39|feat(crops): added added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6cf5262|feat(formula): added formula queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c6ab139|feat(formula): added formula query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4df9df9|feat(formula): added formula repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8ca3c4d|feat(formula): added formula query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|92d9cc4|feat(formula): added formula resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|723bb53|feat(formula): added formula controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2ba7dd|feat(formula): added create formula command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|14efbe4|feat(formula): added formula command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ba45879|feat(formula): added formula command resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform||||1/11/2023|
+
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
