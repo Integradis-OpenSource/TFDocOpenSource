@@ -2,135 +2,131 @@ package com.example;
 
 public class Actionwords {
 
-    public void elVisitanteTengaUnaConsultaOComentarioRelacionadoConLaAplicacion() {
+    public void queElUsuarioDeseeCrearUnaCuentaEnLaAplicacionGreenhouse() {
 
     }
 
-    public void redacteUnMensajeYAdjunteUnaDireccionDeCorreoElectronicoParaContactarALosDesarrolladores() {
+    public void ingreseLasCredencialesDeUnaCuentaInexistenteEnLaBaseDeDatosGreenhouseAndHayaIngresadoUnaContrasenaQueCumpleConTodosLosRequisitosDeSeguridadAndHayaAceptadoLosTerminosYCondicionesDeUso() {
 
     }
 
-    public void elSistemaRemitiraLaConsultaALosDesarrolladores() {
+    public void seProcederaConElCobroParaUsarLaAplicacion() {
 
     }
 
-    public void elVisitanteSeEncuentreDentroDeLaLandingPage() {
+    public void ingreseUnaDireccionDeCorreoElectronicoOContrasenaQueNoCumplenConLosRequisitosEspecificados() {
 
     }
 
-    public void navegueATravesDeLasDiversasSecciones() {
+    public void seLeDenegaraLaOperacion() {
 
     }
 
-    public void podraEncontrarInformacionClaraYConcisaQueMePermitaEntenderDeInmediatoElPropositoPrincipalDelSoftware() {
+    public void queElUsuarioDeseeAdquirirAlgunoDeLosPlanesDeSuscripcionALaAplicacion() {
 
     }
 
-    public void elUsuarioDeseeComenzarAUtilizarLaAplicacion() {
+    public void ingreseCorrectamenteLasCredencialesNecesariasParaEfectuarElPago() {
 
     }
 
-    public void ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaborado() {
+    public void elSistemaCrearaLaCuentaBajoElPlanElegido() {
 
     }
 
-    public void deberaSerRedirigidoALaPaginaDesplegada() {
+    public void ingreseAlgunaCredencialNecesariaParaEfectuarElPagoDeManeraIncorrecta() {
 
     }
 
-    public void ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaboradoYOcurraUnErrorEnElProcesoDeRedireccionOElServidorDeLaAplicacionNoResponde() {
+    public void elSistemaSolicitaraReingresarLaInformacion() {
 
     }
 
-    public void elUsuarioDeberaObtenerUnMensajeDeErrorGenerado() {
+    public void queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseeIniciarSesion() {
 
     }
 
-    public void aUnTecnicoOSupervisorLeCorrespondaRealizarUnRegistroPreiodicoDuranteLaFase0() {
+    public void ingreseLasCredencialesNecesariasCorrectamente() {
 
     }
 
-    public void ingreseLaInformacionAsociadaALosInsumosAUtilizar() {
+    public void elSistemaPermitiraElAccesoALaAplicacion() {
 
     }
 
-    public void elSistemaGuardaraElReporteEnLaBaseDeDatos() {
+    public void queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseaIniciarSesion() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoDuranteLaFase0() {
+    public void ingreseAlgunaCredencialDeManeraIncorrecta() {
 
     }
 
-    public void noIngreseTodaLaInformacionObligatoriaSolicitadaDentroDeUnRegistro() {
+    public void elSistemaDenegaraLaSolicitud() {
 
     }
 
-    public void elSistemaRechazaraLaOperacionYSolicitaraCompletarCamposRestantes() {
+    public void queElTecnicoSupervisorDeseaComenzarUnaNuevaSiembra() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondeRealizarUnRegistroPeriodicoSobreMezclaDeInsumosDuranteLaFaseDeP1(String p1) {
+    public void confirmeSuIntencion() {
 
     }
 
-    public void ingreseLasActividadesRealizadasEnElPatio() {
+    public void elIdYFechaDeCreacionDelCultivoSeranAlmacenadosEnLaBaseDeDatosDeLaAplicacion() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaMezclaDeInsumosDuranteLaFaseP1(String p1) {
+    public void queElTecnicoSupervisorHayaIntentadoCrearUnaNuevaSiembra() {
 
     }
 
-    public void elSistemaRechazaraLaOperacionYSolicitaraCompletarLosCamposRestantes() {
+    public void canceleLaOperacion() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaColeccionDelCompostDuranteLaFaseP1(String p1) {
+    public void elSistemaRevertiraLaOperacionYCancelaraLaCreacionDeUnNuevoCultivo() {
 
     }
 
-    public void ingreseLaInfromacionAsociadaAlEstadoDelCompostEnCoccionDentroDelBunker() {
+    public void queElTecnicoSupervisorHayaIntentadoComenzarUnaNuevaSiembra() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoccionDelCompostDuranteLaFaseP1(String p1) {
+    public void elSistemaEntreEnUnEstadoDeErrorQueImposibiliteLaCreacion() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaPasteurizacionEnfriamientoYAcondicionamientoDelCompostDuranteLaFaseDeP1(String p1) {
+    public void cancelaraLaOperacionEIndicaraElErrorGenerado() {
 
     }
 
-    public void ingreseLaInformacionAsociadaAlEstadoDelCompostDentroDelTunelDePasteurizacion() {
+    public void queElTecnicoSupervisorDeseaVisualizarUnaSiembraExistente() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaIncubacionDelChampinonDuranteLaFaseP1(String p1) {
+    public void accedaALaListaDeCultivosEnCurso() {
 
     }
 
-    public void ingreseLaInformacionAsociadaAlEstadoActualDelCultivoDentroDeLasNaves() {
+    public void elSistemaMostraraLaInformacionRegistradaParaElCultivoSeleccionado() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoberturaDelMicelioDuranteLaFaseP1(String p1) {
+    public void elSistemaEntreEnUnEstadoDeErrorAlIntentarVisualizarLaListaDeCultivosEnCurso() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElMicelioInducidoDuranteLaFaseP1(String p1) {
+    public void seIndicaraElErrorGeneradoYSeCancelaraLaOperacion() {
 
     }
 
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElEstadoFinalDelCultivoDeChampinonesDuranteLaFaseP1(String p1) {
+    public void queElUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa() {
 
     }
 
-    public void elUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa() {
-
-    }
-
-    public void ingreseAlPerfilDeLaMisma() {
+    public void ingreseAlPerfilDeLaEmpresa() {
 
     }
 
@@ -138,15 +134,219 @@ public class Actionwords {
 
     }
 
-    public void elUsuarioDeseeVisualizarLaInformacionDeUnEmpleado() {
+    public void queElUsuarioDeseeVisualizarLaInformacionDeUnEmpleado() {
 
     }
 
-    public void ingreseAlPerfilDelMismo() {
+    public void ingreseAlPerfilDelEmpleado() {
 
     }
 
-    public void elObtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc() {
+    public void obtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc() {
+
+    }
+
+    public void queElEndpointP1SeEncuentraDisponible(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P45(String p1, String p2, String p3, String p4) {
+
+    }
+
+    public void seRecibiraUnaRespuestaConElEstatus200AndSeIncluyeUnRecursoDeEmpleadoEnElContenidoDeLaRespuestaConLosValoresP1P2P3P45(String p1, String p2, String p3, String p4) {
+
+    }
+
+    public void queUnEmpleadoConEmailP1YaSeEncuentraAlmacenado(String p1) {
+
+    }
+
+    public void seRecibiraUnaRespuestaConElEstatus500AndSeIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(String p1) {
+
+    }
+
+    public void queUnaCompaniaConId8NoSeEncuentraAlmacenada() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P48(String p1, String p2, String p3, String p4) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConElValor5() {
+
+    }
+
+    public void seRecibiraUnaRespuestaConElEstatus200() {
+
+    }
+
+    public void seIncluyeUnRecursoDeCultivoEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeInicio15() {
+
+    }
+
+    public void queUnaCompaniaConId9NoSeEncuentraAlmacenada() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConElValor9() {
+
+    }
+
+    public void seRecibiraUnaRespuestaConElEstatus400() {
+
+    }
+
+    public void seIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(String p1) {
+
+    }
+
+    public void unaSolicitudDeGetEsEnviadaAlEndpoint() {
+
+    }
+
+    public void seIncluyeUnRecursoDeEmpleadosEnElContenidoDeLaRespuestaConLaListaDeTodosLosEmpleadosRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenEmpleadosRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnMensajeEnElContenidoDeLaRespuestaConElValorP1(String p1) {
+
+    }
+
+    public void seIncluyeUnRecursoDeCultivosEnElContenidoDeLaRespuestaConLaListaDeTodosLosCultivosRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseFormulaRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenRegistrosDeFormulasEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFasePreparationAreaRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenRegistrosDePreparationAreaEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseBunkerRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenRegistrosDeBunkerEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseTunnelRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenRegistrosDeTunnelEnLaBaseDeDatos() {
+
+    }
+
+    public void seIncluyeUnRecursoDeGrowRoomsEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLasFasesRelacionadasConGrowRoomRegistradosEnLaBaseDeDatos() {
+
+    }
+
+    public void queNoExistenRegistrosDeLasFasesDeGrowRoomEnLaBaseDeDatos() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores20015045030010025040020052() {
+
+    }
+
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro20015045030010025040020052() {
+
+    }
+
+    public void queUnCultivoConId7NoSeEncuentraAlmacenado() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores3005035020040015030010072() {
+
+    }
+
+    public void queUnEmpleadoConId10NoSeEncuentraAlmacenado() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores20015025020050015030050510() {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValoresP130P252(String p1, String p2) {
+
+    }
+
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistroP130P252(String p1, String p2) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValoresP130P272(String p1, String p2) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValoresP131P2510(String p1, String p2) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores5254814904986750P152(String p1) {
+
+    }
+
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5254814904986750P152(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores5244854844983350P172(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores5254864844986750P1510(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores5455435005133316503062P152(String p1) {
+
+    }
+
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5455435005133316503062P152(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores54349349751118503062P172(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores5455435005133330503062P1510(String p1) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P252(String p1, String p2) {
+
+    }
+
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro42202324219292200P1P252(String p1, String p2) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P272(String p1, String p2) {
+
+    }
+
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P2510(String p1, String p2) {
 
     }
 }
