@@ -230,6 +230,7 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.3.1.[Diseño de Entrevistas.](#5.3.1.)<br>
 5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
 5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br>
 6. [**Conclusiones.**](6.)<br>
 7. [**Bibliografía.**](7.)<br>
 8. [**Anexos.**](8.)<br>
@@ -3415,6 +3416,11 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 - US21:
 ![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
 
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+
+
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service]()
@@ -3608,7 +3614,6 @@ Entrevista de validación usuario administrador 03:
 | :-: | :- |
 |![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d)|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
 |Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
-
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
@@ -4270,7 +4275,15 @@ El problema identificado se refiere a la incapacidad de la aplicación para perm
 
 Para abordar el problema de la incapacidad para retornar a una fase anterior después de haber dado "END PHASE," se recomienda implementar una opción que permita a los usuarios revertir la acción y regresar a la fase anterior. Esta funcionalidad debería incluir una confirmación de acción para evitar retrocesos accidentales y proporcionar instrucciones claras sobre su uso. 
 
+<div id='5.4.'><h2> 5.4. Video About-The-Product.</h2></div>
 
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado.
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: [https://youtu.be/BMjgyGefraM](https://youtu.be/BMjgyGefraM)
+
+Enlace del video subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
@@ -4288,6 +4301,18 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario _carry over_ o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+
+<br>
+
+**Video About-The-Team**
+
+El video resume el proceso de trabajo realizado por el equipo. En este, los integrantes exponen las actividades que desempeñaron para alcanzar lo outcomes establecidos por el curso. Cabe destacar que los miembros del equipo destacan la comunicación oral y escrita como un método efectivo para transmitir ideas y enunciar el avance del proyecto.
+
+El video tiene una duración de 10:07 minutos. Desde el minuto 0:00 al 4:57 se evidencia una reunión de trabajo grupal, junto con voz en off del integrante Nicolás Espinoza explicando las actividades que realizamos. Seguidamente, desde el minuto 4:58 al 5:56 el integrante Carlo Seminario otorga su perspectiva relacionada con el avance del proyecto. Después, entre los minutos 5:56 al 6:47 el integrante Alan Galavis explica el outcome del curso y las actividades que le permitieron alcanzarlo. Del minuto 6:48 al 7:46, Andrés Soto realiza su aporte, y del 7:47 al 8:45 continúa Nicolás Espinoza. El video concluye con Jessica Commetant otorgando su testimonio relacionado con las competencias alcanzadas.
+
+Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 <div id='7.'><h2> 7. Bibliografía.</h2></div>
@@ -4308,6 +4333,16 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 
 - Enlace para acceder a la aplicación desplegada: [https://greenhouse-open.netlify.app/dashboard](https://greenhouse-open.netlify.app/dashboard)
 
+- Enlace para acceder al backend desplegado: [https://greenhouse.zeabur.app/swagger-ui/index.html#/](https://greenhouse.zeabur.app/swagger-ui/index.html#/)
+
 - Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 - Video exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+- Enlace para acceder al video About the product subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+- Enlace para acceder al video About the product subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]
