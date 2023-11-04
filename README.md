@@ -53,6 +53,10 @@ width=50%"/>
 |2.5|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
 |2.6|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
 |2.7|26/09/2023|Espinoza| Avance de conclusiones|
+|3.1|20/10/2023|Galavis|Elaboración de entrevistas de validación|
+|3.2|20/10/2023|Comettant|Elaboración de análisis según heurísticas|
+|3.3|1/11/2023|Galavis| Elaboración de video about the team y about the product|
+|3.4|1/11/2023|Comettant| Análisis de entrevistas de validación|
 
 ## Project Report Collaboration Insights
 
@@ -105,7 +109,7 @@ Los integrantes son:
 
 En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
 
-**TB1**
+**TP**
 
 ![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
 
@@ -127,8 +131,8 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación. <br> **Andrés Soto** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente. Asimismo, arreglo los user stories correspondientes al landing page, y los incluyo en el Trello <br> **Carlo Luca Seminario** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> **Alan Galavis** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> TP: Mejoré la precisión de los criterios de aceptación con el objetivo de que los demás miembros del equipo y las partes interesadas puedan comprenderlas con facilidad. Adicionalmente, me apoyé de la herramienta Trello para transcribir las user stories y tasks previamente redactadas en el documento, para que de esta manera, los stakeholders y developers puedan observar el progreso de elaboración de las funcionalidades del proyecto. <br> **Jessica Comettant** <br> TB1: El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. |Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> **Andrés Soto** <br> TB1: Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. De la mismas forma trabajo en el figma diseñando la landing page y su versión responsive al igual que la versión responsive de la aplicación web.<br> TP: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page<br>  **Carlo Luca Seminario** <br> TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br> **Alan Galavis** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> TP: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. <br>**Jessica Comettant** <br> TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación. <br> **Andrés Soto** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente. Asimismo, arreglo los user stories correspondientes al landing page, y los incluyo en el Trello <br> **Carlo Luca Seminario** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> TB2: Realicé commits para tanto la landing page, como el front end web application y web services, además de documentar el despliegue de los web services para contar endpoints para el siguiente sprint. <br> **Alan Galavis** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> TP: Mejoré la precisión de los criterios de aceptación con el objetivo de que los demás miembros del equipo y las partes interesadas puedan comprenderlas con facilidad. Adicionalmente, me apoyé de la herramienta Trello para transcribir las user stories y tasks previamente redactadas en el documento, para que de esta manera, los stakeholders y developers puedan observar el progreso de elaboración de las funcionalidades del proyecto. <br> TB2: Contribuí a redactar las instrucciones para desplegar el backend de la aplicación elaborada, es to con el objetivo de que futuros developers puedan comprender y replicar el despliegue por su cuenta. <br> **Jessica Comettant** <br> TB1: El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. |Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> **Andrés Soto** <br> TB1: Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. De la mismas forma trabajo en el figma diseñando la landing page y su versión responsive al igual que la versión responsive de la aplicación web.<br> TP: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page<br>  **Carlo Luca Seminario** <br> TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br>TB2: Realicé entrevistas de validación para presentar el avance del proyecto al público objetivo para así lograr una retroalimentación activa y poder priorizar los requisitos según lo indicado por el cliente. <br> **Alan Galavis** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> TP: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. <br> TB2: Realicé entrevistas de validación con los usuarios para conocer su experiencia relacionada con la aplicación, a través de la cual fue posible comunicar el estado de desarrollo actual del proyecto y se recibió retroalimentación relacionada con la satisfacción del cliente con la propuesta <br>**Jessica Comettant** <br> TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
 
 
 
@@ -226,6 +230,11 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
 5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
 5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+5.3. [Validation Interviews.](#5.3.)<br>
+5.3.1.[Diseño de Entrevistas.](#5.3.1.)<br>
+5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
+5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br>
 6. [**Conclusiones.**](6.)<br>
 7. [**Bibliografía.**](7.)<br>
 8. [**Anexos.**](8.)<br>
@@ -1987,6 +1996,72 @@ Enlace para acceder [Front End Web Application](https://greenhouse-open.netlify.
 
 Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
 
+**Web Service Deployment**
+
+Base de Datos:
+
+Iniciar sesión en Amazon Web Services (AWS), del cuál utilizaremos 2 recursos RDS y EC2. En primer lugar, acceder a EC2, más específicamente a Security Groups que se encuentra en Network & Security.
+
+![Screenshot 2023-11-02 at 7 37 16 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/16dc8375-d63b-4e72-af60-4e1d8d6e75c4)
+
+Aquí crearemos un inbound rule para permitir el tráfico de datos como se muestra a continuación.
+![Screenshot 2023-11-01 at 4 06 39 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7e98f1e4-f74f-45b3-932c-c2a03ad8924c)
+
+![Screenshot 2023-11-01 at 4 06 47 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b24d5d4d-7955-4cce-aef7-b7228629b70f) 
+
+Una vez se tiene el inbound rule para asignar a la base de datos, vamos a crear la base de datos en este caso de MySQL, para ello se debe ingresar al service RDS con las siguientes configuraciones, en el cuál se selecciona el motor de base de datos y su versión.
+
+![Screenshot 2023-11-02 at 7 42 44 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/dde7ed7b-2e92-4fb1-8c65-42a150b20fea) 
+
+![Screenshot 2023-11-02 at 7 43 04 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d5e24040-1af6-4d80-b21b-c203625636e4) 
+
+Luego en la parte de settings se configura el nombre de la base de datos, el usuario y la contraseña, en ese orden.
+
+![Screenshot 2023-11-02 at 7 46 23 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0fa3b391-e6f3-4500-b614-1c7c4a62756c) 
+
+Luego las demás configuraciones se mantienen igual hasta llegar a la sección “Connectivity” se debe cambiar tanto el Public access a yes para asignarle una IP pública a la base de datos. Además de luego asignar el security group previamente creado en la opción Existing VPC security groups.
+
+![Screenshot 2023-11-02 at 7 49 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4670ec1a-0598-4fb2-aa8c-827c320bb9de)
+
+![Screenshot 2023-11-02 at 7 52 02 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/55d15169-915b-4d55-8928-1e1564751270)
+
+Terminada la configuración se da click en el botón de create database y se espera a que está tenga su status como available y con ello ya tenemos la información necesaria para configurar nuestro connection string. Ya contamos con tanto el usuario como la contraseña de lo que habíamos configurado previamente y dentro de nuestra base de datos se encuentran el endpoint y el puerto.
+
+![Screenshot 2023-11-02 at 7 58 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/79cc8dc6-5a3b-4f89-9f4d-d6f27e646324)
+ 
+
+Web service:
+Luego para el web service se utilizó Zeabur el cuál tienes que iniciar sesión con Github de modo que podamos obtener una integración continúa y cada vez que se haga un commit a la rama principal se hará un nuevo deployment de forma automática, por lo que igual que se hizo con Netlify para el front end web application se deberá brindar los permisos del repositorio a Zeabur. Una vez iniciada sesión en Zeabur va a tener un botón que dice create project y seleccione una región.
+![Screenshot 2023-11-02 at 8 20 59 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7fce4dec-c2d5-4af2-8223-629d806e805c) 
+
+![Screenshot 2023-11-02 at 8 22 21 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/f8f31a98-4a23-4f24-b1e6-51d0a1410de7) 
+
+Luego para lograr la integración continua se deberá ingresar a “add service” 
+![Screenshot 2023-11-02 at 8 23 31 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ad1b1264-2933-4c73-97b4-9670322b1c31) 
+
+Luego se selecciona el service type que en este caso será Git:
+![Screenshot 2023-11-02 at 8 26 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9f5ae221-0597-4ebc-8b69-1bcb87270c5e)
+Luego si ya se han concedido los permisos se selecciona el repositorio.
+
+![Screenshot 2023-11-02 at 8 28 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4b005bbb-b6eb-4fea-8091-23c91a993934) 
+
+Se selecciona la branch sobre la cuál se va a realizar el despliegue.
+
+![Screenshot 2023-11-02 at 8 29 54 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2823a7b5-7220-4efd-a44f-f930bfdc4769)
+
+El service se empezará a desplegar pero también es necesario ir a la sección de domains y se selecciona “Generate Domain” 
+
+![Screenshot 2023-11-02 at 8 30 11 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/00a35f86-0788-4450-b859-2539898aba84) 
+
+Finalmente se espera a que se realice el despliegue y se evidencia como está en ejecución y el dominio generado para acceder al despliegue.
+
+![Screenshot 2023-11-02 at 8 32 36 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/217953ba-0409-44b4-9543-b9656782e582)
+
+![Screenshot 2023-11-02 at 8 32 48 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/07c73026-c561-47f8-8bcb-47bf4b569f0d)
+
+Enlace para acceder al web service: [https://greenhouse.zeabur.app/swagger-ui/index.html](https://greenhouse.zeabur.app/swagger-ui/index.html)
+
+
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
 |1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
@@ -2855,6 +2930,7 @@ Repositorio Web Application:
 
 ![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
 
+
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
 
@@ -2933,11 +3009,375 @@ El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolv
 
 En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+![Trello sprint 3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/412b0bb2-51ca-417c-8eda-57d1ae27472f)
 
 Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
 
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">TS01</td>
+            <td rowspan="3">Crear cuenta de empleado</td>
+            <td>TK13</td>
+            <td>Crear endpoint que permita ejecutar get employee</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK14</td>
+            <td>Validar correo</td>
+            <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK15</td>
+            <td>Validar id</td>
+            <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS03</td>
+            <td rowspan="2">Crear cultivo</td>
+            <td>TK16</td>
+            <td>Crear cultivo</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK17</td>
+            <td>Validar existencia de un cultivo con id de compañia</td>
+            <td>Recorrer la base de datos en busca de un id de una determinada compañia para verificar su existencia</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="15">TS04</td>
+            <td rowspan="15">Crear registro</td>
+            <td>TK18</td>
+            <td>Crear registro de la fase formula</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK19</td>
+            <td>Crear registro de la fase formula de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK20</td>
+            <td>Crear registro de fase Formula de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK21</td>
+            <td>Crear registro de fase Preparation Area</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK22</td>
+            <td>Crear registro de fase Preparation Area de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK23</td>
+            <td>Crear registro de fase Preparation Area de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK24</td>
+            <td>Crear registro de fase Bunker</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK25</td>
+            <td>Crear registro de fase Bunker de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK26</td>
+            <td>Crear registro de fase Bunker de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK27</td>
+            <td>Crear registro de fase Tunnel</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK28</td>
+            <td>Crear registro de fase Tunnel de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK29</td>
+            <td>Crear registro de fase Tunnel de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK30</td>
+            <td>Crear registro de fase Grow Room</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK31</td>
+            <td>Crear registro de fase Grow Room de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK32</td>
+            <td>Crear registro de fase Grow Room de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS06</td>
+            <td rowspan="2">Obtener datos de empleado</td>
+            <td>TK33</td>
+            <td>Obtener empleados</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK34</td>
+            <td>Obtener empleados sin ningún empleado registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS07</td>
+            <td rowspan="2">Obtener datos del cultivo</td>
+            <td>TK35</td>
+            <td>Obtener cultivos</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK36</td>
+            <td>Obtener cultivos sin ningún cultivo registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="17">TS08</td>
+            <td rowspan="17">Obtener datos de cada fase del cultivo</td>
+            <td>TK37</td>
+            <td>Obtener registros de fase formula</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK38</td>
+            <td>Obtener registros de fase formula sin ningún registro</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK39</td>
+            <td>Obtener registros de fase preparation area</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase preparation area en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+      <td>TK40</td>
+      <td>Obtener registros de fase preparation area sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK41</td>
+      <td>Obtener registros de fase bunker</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK42</td>
+      <td>Obtener registros de fase bunker sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK43</td>
+      <td>Obtener registros de fase tunnel</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK44</td>
+      <td>Obtener registros de fase tunnel sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK45</td>
+      <td>Obtener registros de las fases de grow room</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK46</td>
+      <td>Obtener registros de las fases de grow room sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+    <td>TK40</td>
+    <td>Obtener registros de fase preparation area sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+    <td>4</td>
+    <td>Alan Galavis</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK41</td>
+    <td>Obtener registros de fase bunker</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK42</td>
+    <td>Obtener registros de fase bunker sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK43</td>
+    <td>Obtener registros de fase tunnel</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK44</td>
+    <td>Obtener registros de fase tunnel sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK45</td>
+    <td>Obtener registros de las fases de grow room</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK46</td>
+    <td>Obtener registros de las fases de grow room sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
 
+  </thead>
+    </thead>
+</table>
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
 
@@ -2945,13 +3385,145 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|74930d4|fix: Fixed DDD of project||11/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|245b666|fix: Removed unused contents||11/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|789db78|feat(page-not-found): Added page not found component||12/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|e7a940c|feat(login): Added login component||12/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|e0a3476|feat(signup): Added signup component||15/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|5feb5be|feat(locales): Added localization to signup and login components||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8983c22|feat(locales): Added language selection component||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|90f0765|chore(locales): Added styles to dropdown language selector||17/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|2f1b649|feat:edit baseservice getuserbyid||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0722962|feat:add users dbjson||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9d1d719|feat(service-model)user model and user service||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|b27a32|feat(profile)refactor html and ts profile information component||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9141068|feat(businessdbjson)business dbjson added||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|36b9bb6|feat(organization)business model and service, edit organization information html and ts||19/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c91c73a|chore(profiles): Refactored "business" to "company"||21/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|2901307|chore(profiles): Updated company profile to support new db.json structure||21/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|01cba0f|feat(profiles): Added searchbar for employee||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8e2065|fix(stepper): added TA column to bunker and fixed undefined values.||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|b240707|fix(button-primary): Fixed button primary z-index||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f225675|feat(toolbar): Toolbar showcases user and company profile pictures and names||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|301b117|fix(company): Fixed css problem with employee searchbar||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|4996e26|fix(dashboard): Added internationalization to dashboard||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|4bdd704|chore(avatar): Deleted unnecessary avatar component||22/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|880e778|feat: created component "dashboard-table". Also created service "process-entries-dashboard-table" and model "process-entry-dashboard-table"||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|cdd096c|chore(process-table): made the component dynamic.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|cdf6f12|fix: header format of process table and comment some components that need to be added.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|29c98f7|feat(harvesting-in-progress): added crops in progress table||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c852a2|chore: Harvesting in progress redirects to the corresponding crop at its corresponding phase.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0e88e82|feat: created component "dashboard-table". Also created service "process-entries-dashboard-table" and model "process-entry-dashboard-table"||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|fd4429c|fix: stepper component changes step, clicking on the step label doesn't change anymore and added missing dashboard-table component.||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7213a6|chore: Added pluralize to project||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3998543|feat(crops): Added aggregates and entities to crops.||23/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|95b123f|fix(stepper): fixed the stepper pop ups and the routing, refactored the stepper buttons into the process table component.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|1d608d3|chore: added patch method to base service.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c5df906|chore(process-table): added patch phase and status according to the next step.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|21253b0|feat(process-table): implemented dialog pop up for register data||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8c6aced|feat(process-table): implemented dialog pop up for register data||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|6a90708|feat(harvesting-in-progress): added paginator to crop in progress table.||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f9d9829|feat(harvesting-in-progress): added sorting to harvesting-in-progress component||24/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|de7ab72|feat(harvesting-in-progress): added sorting to harvesting-in-progress component||25/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|07ae24f|fix(process-table): fixed stepper info regarding the crop id and date.||25/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fae2a06|chore(): added constructors to entity objects and added CropPhase enum||25/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|51a638f|fix(process-table): fixed the end phase endpoint to make tha patch correctly.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|1cf6b92|chore(process-table): the input of the process table are now functional and post operation works.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|7195e58|fix(process-table): starting a new crop shows record input and it generates the process-table after the first record.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|431570e|chore(process-table): create a new crop redirects to the correct route and a new crop is created.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|aed3f45|fix(process-table): fixed ending a crop needed to pass the phase label instead of message.||26/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|319a904|feat(dashboard-table): fixed data display in table and added background color and fonts||27/10/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|c2820|feat(fake-api): changed the endpoints of the fake-api from local server to My JSON Server||29/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6a359f8|feat: added springdoc openapi dependency||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9085a17|feat: added OpenApiConfiguration||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5f2d976|feat: added application properties.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f2d7e81|fix: moved the repositories directory.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8329c1a|feat(crops): domain layer of the crops bounded context of crop logic for the crop phases.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4d15a92|feat(crops): added CropNotFoundException.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|357ff1d|chore(crops): entity for each phase of the crop has its necessary constructor.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|30d7d16|feat(crops): added crop queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d8d37fe|feat(crops): added crop query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f254694|feat(crops): added crop repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5c76a24|feat(crops): added crop query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b0a9286|feat(crops): added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8f4083|feat(crops): added crop controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|86008f9|feat(crops): added create crop command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|cd806f2|feat(crops): added crop command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f40a39d|feat(crops): added crop command service implementation TODO external company service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6040b39|feat(crops): added added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6cf5262|feat(formula): added formula queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c6ab139|feat(formula): added formula query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4df9df9|feat(formula): added formula repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8ca3c4d|feat(formula): added formula query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|92d9cc4|feat(formula): added formula resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|723bb53|feat(formula): added formula controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2ba7dd|feat(formula): added create formula command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|14efbe4|feat(formula): added formula command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ba45879|feat(formula): added formula command resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a871a96|feat(preparation-area): added preparation area queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f16a8ac|feat(preparation-area): added preparation area query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7af64d|feat(preparation-area): added preparation area repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|70742ef|feat(preparation-area): added preparation area query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1c57fb4|feat(preparation-area): added preparation area resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4899eaf|feat(preparation-area): added preparation area controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b3055c|feat(preparation-area): added preparation area command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f1200b|feat(preparation-area): added preparation area command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|df9df18|feat(preparation-area): added preparation area command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|aa37b0c|feat(preparation-area): added preparation area command resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1257900|feat(Employee): added email and employee name value objects.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|837b2ae|chore(Employee): updated employee aggregate.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|79d5715|feat(Employee): added employee queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fb9ed01|feat(Employee): added employee query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fe105ba|feat(Employee): added employee repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|eeb106d|feat(Employee): added employee repository service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00dcca1|feat(Employee): added employee rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|02c794b|feat(Employee): added employee controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ddb9e57|feat(employee): added employee command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|42d42c2|feat(employee): added employee command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8af91ba|feat(employee): added employee command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a6a8049|feat(employee): added employee command rest resource and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8eb089e|feat(bunker): added bunker queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|443d93f|feat(bunker): added bunker repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|36d748c|feat(bunker): added bunker query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2d9e55|feat(bunker): added bunker query service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ad1d4f|feat(bunker): added bunker rest query resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c5f737|feat(bunker): added bunker controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fbea3ab|feat(bunker): added create bunker command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5ebb83a|feat(bunker): added bunker command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f5588ff|feat(bunker): added bunker command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2584610|feat(bunker): added bunker command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8656d7f|feat(grow-room): added grow room getAll query, service, repository and controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b0a4e4|feat(grow-room): added grow room post command to controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|96868d4|feat(tunnel): added tunnel queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8a3263c|feat(tunnel): added tunnel query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|54601e2|feat(tunnel): added tunnel repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|43b2c63|feat(tunnel): added tunnel query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|459e6e9|feat(tunnel): added tunnel rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a2365a4|feat(tunnel): added tunnel controller.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|40d4cc0|feat(tunnel): added create tunnel command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|34509bb|feat(tunnel): added tunnel command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9a1457|feat(tunnel): added tunnel command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7dac715|feat(tunnel): added create tunnel command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f1c7715|feat(company): added company queries, service, repository and controller initial get method||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c783b9|feat(company): added company command to create new company||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|532204b|feat(company): added company ACL to connect with crops bounded-context||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f11fcf|chore: added connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2648346|chore: updated connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a0c9e4d|chore: added @crossorigin(origins="*") to all controllers||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|db51564|chore: changed the data base connection to amazon RDS.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4a43145|feat: added CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0b7c510|feat: deleted CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|54eb5fb|feat: Added about the product video||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f442737|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b55bac8|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|cb5ca2e|feat: added video about the team.||2/11/2023|
+
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/Integradis-OpenSource/TFDocOpenSource|Integradis-OpenSource/TFDocOpenSource|df66a54|chore: uploaded acceptance test for user stories||02/11/2023|
 
 
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
@@ -2970,9 +3542,14 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 - US21:
 ![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
 
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+
+
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service]()
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](https://greenhouse.zeabur.app/swagger-ui/index.html#/)
 
 Json server:
 
@@ -2992,6 +3569,228 @@ Json server:
 
 Web Service:
 
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="14">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+    </tbody>
+</table>
+
+- Web service images
+
+![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
+![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
+![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
+![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
+![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
+![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
+![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
+![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
+![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
+![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
+![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
+![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
+![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
+![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
+![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
+![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
+![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
+![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
+
+- Web service commit details
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7213a6|chore: Added pluralize to project||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3998543|feat(crops): Added aggregates and entities to crops.||23/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fae2a06|chore(): added constructors to entity objects and added CropPhase enum||25/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6a359f8|feat: added springdoc openapi dependency||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9085a17|feat: added OpenApiConfiguration||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5f2d976|feat: added application properties.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f2d7e81|fix: moved the repositories directory.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8329c1a|feat(crops): domain layer of the crops bounded context of crop logic for the crop phases.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4d15a92|feat(crops): added CropNotFoundException.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|357ff1d|chore(crops): entity for each phase of the crop has its necessary constructor.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|30d7d16|feat(crops): added crop queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d8d37fe|feat(crops): added crop query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f254694|feat(crops): added crop repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5c76a24|feat(crops): added crop query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b0a9286|feat(crops): added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8f4083|feat(crops): added crop controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|86008f9|feat(crops): added create crop command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|cd806f2|feat(crops): added crop command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f40a39d|feat(crops): added crop command service implementation TODO external company service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6040b39|feat(crops): added added crop resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|6cf5262|feat(formula): added formula queries.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c6ab139|feat(formula): added formula query service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4df9df9|feat(formula): added formula repository.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8ca3c4d|feat(formula): added formula query implementation.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|92d9cc4|feat(formula): added formula resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|723bb53|feat(formula): added formula controller.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2ba7dd|feat(formula): added create formula command.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|14efbe4|feat(formula): added formula command service.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ba45879|feat(formula): added formula command resources and transform.||31/10/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a871a96|feat(preparation-area): added preparation area queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f16a8ac|feat(preparation-area): added preparation area query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f7af64d|feat(preparation-area): added preparation area repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|70742ef|feat(preparation-area): added preparation area query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1c57fb4|feat(preparation-area): added preparation area resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4899eaf|feat(preparation-area): added preparation area controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b3055c|feat(preparation-area): added preparation area command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f1200b|feat(preparation-area): added preparation area command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|df9df18|feat(preparation-area): added preparation area command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|aa37b0c|feat(preparation-area): added preparation area command resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1257900|feat(Employee): added email and employee name value objects.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|837b2ae|chore(Employee): updated employee aggregate.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|79d5715|feat(Employee): added employee queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fb9ed01|feat(Employee): added employee query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fe105ba|feat(Employee): added employee repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|eeb106d|feat(Employee): added employee repository service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00dcca1|feat(Employee): added employee rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|02c794b|feat(Employee): added employee controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|ddb9e57|feat(employee): added employee command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|42d42c2|feat(employee): added employee command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8af91ba|feat(employee): added employee command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a6a8049|feat(employee): added employee command rest resource and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8eb089e|feat(bunker): added bunker queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|443d93f|feat(bunker): added bunker repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|36d748c|feat(bunker): added bunker query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c2d9e55|feat(bunker): added bunker query service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ad1d4f|feat(bunker): added bunker rest query resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c5f737|feat(bunker): added bunker controller TODO commands.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|fbea3ab|feat(bunker): added create bunker command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|5ebb83a|feat(bunker): added bunker command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f5588ff|feat(bunker): added bunker command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2584610|feat(bunker): added bunker command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8656d7f|feat(grow-room): added grow room getAll query, service, repository and controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|3b0a4e4|feat(grow-room): added grow room post command to controller||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|96868d4|feat(tunnel): added tunnel queries.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8a3263c|feat(tunnel): added tunnel query service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|54601e2|feat(tunnel): added tunnel repository.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|43b2c63|feat(tunnel): added tunnel query implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|459e6e9|feat(tunnel): added tunnel rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a2365a4|feat(tunnel): added tunnel controller.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|40d4cc0|feat(tunnel): added create tunnel command.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|34509bb|feat(tunnel): added tunnel command service.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9a1457|feat(tunnel): added tunnel command service implementation.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7dac715|feat(tunnel): added create tunnel command rest resources and transform.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f1c7715|feat(company): added company queries, service, repository and controller initial get method||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7c783b9|feat(company): added company command to create new company||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|532204b|feat(company): added company ACL to connect with crops bounded-context||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9f11fcf|chore: added connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2648346|chore: updated connection string to online database.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a0c9e4d|chore: added @crossorigin(origins="*") to all controllers||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|db51564|chore: changed the data base connection to amazon RDS.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|4a43145|feat: added CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0b7c510|feat: deleted CorsConfiguration.||1/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f442737|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b55bac8|fix: fixed naming conventions for controllers, and update the endpoints.||2/11/2023|
+
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -3005,6 +3804,18 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 - Capturas de pantalla landing page:
 
+![1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ebd77824-5daf-4123-a501-c3ce549c830d)
+![2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b3175297-907d-496c-bd6a-1a43e39e0bd1)
+![3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/73626ab9-0884-40cc-a167-99988f37eb38)
+![4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/23a28e78-843f-4af9-86c1-1fee5a3bf995)
+![5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc)
+![6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7641c270-8818-4c1a-abb3-2c612816cefc)
+![7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e2ab2cd9-a0fc-4db7-9848-fa14db6f7ce6)
+![videos_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7ca15624-c3ae-412c-b844-5fdef23d8ef2)
+![9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e4b25aa3-eb8a-475f-9144-fd1e395c7876)
+![10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0545ec66-30c7-46db-81ac-2ee4e83ffd83)
+![11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/a8622e6a-9704-4925-8cbe-6d3f705f0e7e)
+![12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a)
 
 
 Web Application front-end:
@@ -3048,15 +3859,36 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 ![open_harvest_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360)
 ![open_complete](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee)
 
-Web Application back-end:
+Web Services back-end:
 
-.
 
+Ultímo despligue del web service en Zeabur:
+![Screenshot 2023-11-03 at 1 32 50 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a)
+
+Base de Dato en AWS RDS:
+![Screenshot 2023-11-03 at 1 36 32 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/b6c2a18d-193c-4f06-a201-49902e948423)
 
 
 - Capturas de pantalla de web application:
 
-
+![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
+![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
+![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
+![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
+![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
+![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
+![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
+![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
+![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
+![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
+![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
+![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
+![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
+![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
+![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
+![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
+![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
+![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
 
 <div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -3070,7 +3902,8 @@ Web Application back-end:
 
 Repositorio Landing:
 
-
+![insight_1_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b69c7b1b-2cef-41a3-b19e-6d4ace78f7c8)
+![insight_2_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/329b9e30-6ed8-444a-9c5d-6bf7879d6009)
 
 Repositorio Web Application:
 
@@ -3079,7 +3912,762 @@ Repositorio Web Application:
 
 Repositorio Platform:
 
+![insight_1_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291)
+![insight_2_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa)
 
+<div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos de champiñones en Perú. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los administradores y los técnicos supervisores. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también resuene con las dinámicas operativas y las expectativas del personal de planta. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
+<div id='5.3.1.'><h5> 5.3.1. Diseño de Entrevistas.</h5></div>
+
+Dentro de esta sección, se detalla los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la plataforma web cumpla con las exigencias reales de los usuarios en el sector de cultivo de champiñones. En continuidad, se procede a presentar los user goals mencionados:
+
+**User Goal: Iniciar sesión**
+
+User persona: Administradores y Técnicos supervisores. Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
+
+**User Goal: Navegar por el dashboard**
+
+User persona: Administradores. Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+
+**User Goal: Crear un nuevo cultivo**
+
+User persona: Técnicos supervisores. Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
+
+**User Goal: Registrar procesos**
+
+User persona: Técnicos supervisores. Explicación del flujo: En primer lugar, el usuario debe de elegir un cultivo activo de la lista presente en la sección "Process Log". A continuación, deberá ingresar oprimir el botón situado en la parte inferior del stepper que indica "Crear nuevo registro". Una vez oprimido, se desplegará un "dialog" con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria. Cabe destacar que el presente flujo sienta las bases de el registro de procesos en cada una de las 8 fases existentes.
+
+**User Goal: Ver perfil**
+
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
+
+**User Goal: Ver empresa**
+
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard.
+
+<div id='5.3.2.'><h5> 5.3.2. Registro de Entrevistas.</h5></div>
+
+**Primer segmento objetivo (Técnico supervisor):**
+
+Entrevista de validación usuario técnico supervisor 01:
+
+|**Entrevistado 01**|Carlos Castillo|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b53b1043-b204-47ef-bd52-e4190c7467e5)|<p>Durante la entrevista de validación, Carlos Castillo, en su rol de supervisor técnico, evaluó la aplicación web GreenHouse. Al inicio, destacó la elección de colores en el diseño de la interfaz. Luego procedió a examinar la facilidad de acceso y la presentación clara de la información esencial. Castillo también revisó la navegación intuitiva entre las diversas secciones, la sencillez del proceso de inicio de sesión, la posibilidad de cambiar el idioma, así como la creación y gestión de datos en tablas. Inspeccionó, igualmente, el acceso a los perfiles de usuario y empresa.</p><p></p><p>Las funcionalidades revisadas coinciden con los user goals identificados anteriormente. Castillo afirmó la efectividad de estos elementos, destacando la buena comprensión y presentación de los componentes de la aplicación. En conclusión, estableció que GreenHouse cumple con su propósito funcional y aborda de manera efectiva las cuestiones planteadas al principio.</p>|
+|Timing: 0:04 – 12:53|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=PARBMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc3NS45M319)|
+
+Entrevista de validación usuario técnico supervisor 02:
+
+|**Entrevistado 02**|Jean Carlos del Águila|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283)|<p>El entrevistador se presentó e inició la sesión con Jean Carlos del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
+|Timing: 12:54 – 24:44|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=XUb3TX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NzguNTN9fQ%3D%3D) |
+
+Entrevista de validación usuario técnico supervisor 03:
+
+|**Entrevistado 03**|Kevin|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/4948da55-f6d3-429c-b9ef-d02e9f3e3bae)|<p>Durante la entrevista técnica, Kevin examinó el panel de control de la aplicación, verificó el proceso de inicio de sesión y analizó la estructura del landing page para validar los user goals. Posteriormente, sugirió que se debería permitir la eliminación o edición de datos erróneos en el registro de cultivos, adaptándose a las distintas fases de producción.</p><p></p><p>Kevin también señaló la necesidad de mejorar la interfaz del perfil de usuario. Puntualizó que los supervisores técnicos carecen de las funciones para alterar la información o suprimir cuentas, competencias que corresponden exclusivamente a los administradores. Además, recomendó la asignación de permisos de edición en el registro de usuarios basándose en el rol específico que desempeñan en el proceso productivo.</p><p></p><p>Para concluir, Kevin destacó que la interfaz de usuario es intuitiva, simple y adaptativa. Confirmó que el diseño se mantiene consistente en la versión móvil de la aplicación.</p>|
+|Timing: 24:48 – 41:41|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=8Zj1Ea&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0ODQuODd9fQ%3D%3D)|
+
+**Segundo segmento objetivo ( administrador):**
+
+Entrevista de validación usuario administrador 01:
+
+|**Entrevistado 01**|Rosalie|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8f3eb4a9-355f-4d90-8dd0-299e04cd1e33)|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
+|Timing: 41:44 – 49:40|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=4AmhJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI1MDQuODh9fQ%3D%3D)|
+
+Entrevista de validación usuario administrador 02:
+
+|**Entrevistado 02**|Frank Du Bois|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/a5dacb61-b61e-45a2-ad6e-adbdbcf618f6)|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
+|Timing: 49:41 – 59:13|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=STEF2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI5ODQuNjV9fQ%3D%3D)|
+
+Entrevista de validación usuario administrador 03: 
+
+|**Entrevistado 03**|Julio Du Bois|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d)|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
+|Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
+
+<div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+
+##
+## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
+## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web GreenHouse.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+## <a name="_8g2881ripgs6"></a>**TAREAS A EVALUAR:**
+1. Desktop landing page
+   1. Información y descripción de la aplicación y sus funcionalidades
+   1. Visualización de planes de pago y precio de la aplicación
+   1. Header y footer apropiado para la landing page
+   1. Interacción del landing page con la aplicación
+1. <a name="_hlk149241366"></a>Web Application
+   1. Inicio de sesión con usuario existente
+   1. Indicadores claros de progreso o estado del proceso 
+   1. Iconografía comprensible y consistente con el mundo real
+   1. Mensajes de error que reflejen el registro de datos incorrectos
+   1. Acciones de retroceso dentro de la aplicación
+   1. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+   1. Evaluar existencia de patrones de diseño o navegación 
+   1. Elementos de la interfaz de usuario consistentes
+   1. Pestañas de navegación dentro de la aplicación
+   1. Botones interactivos y de uso intuitivo
+   1. Búsqueda de procesos y cultivos con registro previo
+   1. Navegación y orientación dentro de la aplicación
+   1. Apertura y visualización de cultivos registrados
+   1. Visualización de perfil de usuario
+   1. Visualización del perfil de la empresa
+   1. Mensajes que orienten al usuario sobre el estado del sistema
+   1. Cambio de idioma de la aplicación
+   1. Estética general de la interfaz atractiva y agradable visualmente.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+   1. Redes sociales asociadas al startup
+   1. Política de privacidad y condiciones de uso
+1. Web Application
+   1. Registro de nuevo usuario
+   1. Modificación y eliminación de procesos o cultivos registrados
+   1. Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+   1. Documentación y exportación de registros
+   1. Flexibilidad de uso a través de atajos por teclado 
+   1. Acceso a recursos de ayuda dentro de la aplicación
+   1. Política de privacidad y condiciones de uso
+
+## <a name="_r3fgs33jfsg1"></a>**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :-: | :-: |
+|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+<a name="_7ymimqm5hxs5"></a>**TABLA RESUMEN:**
+
+**Desktop landing page**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto.|2|Usability: Coincidencia entre el sistema y el mundo real|
+|2|Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.|4|Usability: Control y libertad del usuario|
+|3|Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión|3|Usability: Coincidencia entre el sistema y el mundo real|
+|4|La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.|2|Usability: Diseño estético y minimalista|
+|5|La información relacionada con el start up y utilidad del producto es inexacta e insuficiente|3|Inclusive Design: Diseño Centrado en el Usuario|
+|6|Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción|3|Information Arquitecture: Jerarquía de Información|
+|7|El formulario de Contacto no muestra funcionalidad|4|Usability: Visibilidad del estado del sistema|
+|8|Tamaño inapropiado de botones “Start” del landing|2|Usability: Consistencia y estándares|
+|9|Espaciado inadecuado entre las secciones de la barra de navegación|1|Information Arquitecture: Jerarquía de información|
+|10|La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.|2|Information Arquitecture: Organaización y Estructura|
+|11|La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas|2|Usability: Estética y diseño minimalista|
+|12|La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.|1|Usability: Visibilidad del estado del sistema|
+|13|El título “About the team” no muestra internacionalización (cambio de idioma al inglés)|1|Usability: Flexibilidad y eficiencia de uso|
+
+<br>
+
+**PROBLEMA #01:** La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto:
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** La ubicación de la sección "About the Team" por encima del producto en un landing page puede ser problemática desde una perspectiva de arquitectura de la información y usabilidad. Por lo general, en un landing page, se espera que la información más relevante y crucial para los usuarios, como la descripción del producto o servicio, esté ubicada en la parte superior de la página. La sección "About the Team" generalmente no es la información más relevante para los visitantes que llegan a la página en busca de información sobre el producto o servicio.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2109a95d-e921-497a-a792-497d7a7a579c)
+
+**Recomendación:** Para mejorar la usabilidad y la eficacia de la página, se recomienda reorganizar la página de manera que la información principal del producto esté en la parte superior y sea lo primero que los visitantes perciban. Luego, la información sobre el equipo podría estar ubicada más abajo en la página o en una sección separada. 
+
+<br>
+
+**Problema #02:** Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.
+
+**Escala de Severidad:** 04
+
+**Heurística relacionada:** Usability - Control y libertad del usuario
+
+**Descripción del problema:** Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han cometido un error.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2b7820e4-26b8-4633-9627-1095bd20898c)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.
+
+<br>
+
+**Problema #03:** Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** Cuando un usuario hace clic en un botón con etiqueta "Start", se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1ab2ebfd-3693-4422-91ff-e51fb6911991)
+
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones "Start", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta "Start" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Start".
+
+<br>
+
+**PROBLEMA #04:** La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.
+
+**Escala de severidad:** 02
+
+**Principios violados:**
+
+**Heurística**: Usabilidad-Diseño estético y minimalista
+
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+**Information Arquitecture:** Jerarquía de la información
+
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+**Descripción del problema:** 
+
+El problema identificado es que en la sección "Benefits" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas, y si se ve opacada por la iconografía, la comunicación efectiva de estos beneficios se ve comprometida.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b17080a8-b107-4f06-a37a-a02e4291cf31)
+
+**Recomendación:**
+
+Para mejorar la página, se recomienda ajustar el equilibrio entre la iconografía y el contenido informativo en la sección "Benefits" de manera que la información relevante sea la que más destaque:
+
+- Utilizar tamaños de fuente más grandes o colores llamativos.
+- Utiliza la iconografía de manera complementaria para ilustrar visualmente los beneficios, pero no permitas que supere o eclipse la información escrita.
+- Realiza pruebas de usuario para obtener retroalimentación directa sobre la percepción de la sección "Benefits".
+
+<br>
+
+**Problema #05:** La información relacionada con el start up y utilidad del producto es inexacta e insuficiente
+
+**Escala de severidad:** 03
+
+**Principio Violado:** Inclusive Design: Diseño Centrado en el Usuario
+
+El diseño centrado en el usuario implica satisfacer las necesidades y expectativas del usuario. La información inexacta e insuficiente no cumple con este principio, ya que no aborda las necesidades del usuario de comprender y utilizar el producto de manera efectiva.
+
+**Descripción del problema:** 
+
+El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/d98ce6ef-c81b-41d0-82c8-c8ded2bf92c3)
+
+**Recomendación:**
+
+Para resolver este problema, se recomienda lo siguiente:
+
+- Verificar y corregir cualquier inexactitud en la información relacionada con el inicio y la utilidad del producto. 
+- Proporciona información más detallada y completa sobre el inicio y la utilidad del producto. 
+
+<br>
+
+**Problema #06:** Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción
+
+**Escala de severidad:** 03
+
+**Principio violado:** Information Arquitecture: Jerarquía de información: 
+
+La falta de información precisa sobre las funcionalidades de los planes de suscripción sugiere una deficiente jerarquía de información. Es probable que la información relevante no esté organizada de manera efectiva, lo que dificulta su acceso por parte de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el sitio web. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/6880c712-6ef3-4ab3-82ed-fe95f67f7ecd)
+
+**Recomendación:**
+
+- Estructurar la información sobre los planes de suscripción de manera lógica y organizada. Utilizar una jerarquía clara para destacar las funcionalidades de cada plan 
+- Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva.
+- Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.
+
+<br>
+
+**Problema #07:** El formulario de Contacto no muestra funcionalidad
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability- Visibilidad del estado del sistema:
+
+La falta de funcionalidad en el formulario de contacto va en contra de esta heurística. Los usuarios esperan que los elementos interactivos, como un formulario de contacto, les proporcionen retroalimentación sobre su estado. La ausencia de funcionalidad o la falta de respuesta por parte del formulario puede dejar a los usuarios en la incertidumbre sobre si el formulario está funcionando o si su mensaje se envió correctamente.
+
+**Descripción del problema:**
+
+El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 007](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/69c593b5-a7fd-4938-94ce-c00d905e20d0)
+
+**Recomendación:**
+
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+
+<br>
+
+**Problema #08:**  Tamaño inapropiado de botones “Start” del landing
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability- Consistencia y estándares
+
+El tamaño inapropiado y excesivamente amplio de los botones "Start" viola el principio de consistencia y estándares. Los usuarios esperan que los botones tengan un tamaño razonable y estén en línea con las convenciones de diseño comunes. Cuando un elemento es demasiado grande, puede romper la consistencia visual y dificultar la identificación de su función.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 008](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f6c92277-2b1c-4684-b81e-f1b35882c112)
+
+**Recomendación:**
+
+La corrección de este problema implica ajustar el tamaño de los botones "Start" para que sean más apropiados y estén en línea con las expectativas de los usuarios y las convenciones de diseño, lo que mejorará la experiencia de usuario en términos de usabilidad y diseño. 
+
+<br>
+
+**Problema #09:**  Espaciado inadecuado entre las secciones de la barra de navegación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Information Arquitecture – Jerarquía de Información
+
+El espaciado inadecuado entre las secciones de la barra de navegación puede afectar la jerarquía de información al no proporcionar una clara separación entre las secciones. Esto dificulta la identificación y la navegación de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 009](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/e009f6ff-0e63-4aa0-857e-a0404adf955f)
+
+**Recomendación:**
+
+Para abordar el problema del espaciado inadecuado entre las secciones de la barra de navegación desde una perspectiva de arquitectura de la información, se recomienda ajustar el espaciado para proporcionar una separación clara entre las secciones y mejorar la jerarquía de la información. Esto permitirá a los usuarios identificar y navegar de manera más eficiente entre las opciones. Además, es importante asegurar una organización lógica de las secciones y realizar pruebas de usuario para evaluar la eficacia de los cambios y recopilar retroalimentación directa de los usuarios. Estas medidas mejorarán la experiencia de usuario y la usabilidad de la barra de navegación.
+
+<br>
+
+**Problema #10:** La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Information Arquitecture – Organización y Estructura
+
+El tamaño impreciso de la sección que contiene la misión, visión y valores de la aplicación afecta la organización y la estructura de la información en la página. Es esencial que esta sección se presente de manera clara y equilibrada en relación con el resto del contenido.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el tamaño impreciso de la sección que integra la misión, visión y valores en la página web. El tamaño inadecuado de esta sección afecta negativamente la organización y presentación de la información, lo que puede llevar a una experiencia de usuario confusa o desequilibrada
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 010](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/889f733c-3ae5-4371-9d4d-9fd1a15cf5ff)
+
+**Recomendación:**
+
+Para abordar el problema del tamaño impreciso de la sección que integra la misión, visión y valores de la aplicación, se recomienda ajustar el tamaño de esta sección para que sea proporcionado y equilibrado en relación con el resto del contenido. Esto asegurará una organización coherente de la información y permitirá a los usuarios acceder y comprender la misión, visión y valores de la aplicación de manera más efectiva. Además, se deben mantener prácticas de diseño y arquitectura de la información coherentes en toda la página.
+
+<br>
+
+**Problema #11:** La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Estética y diseño minimalista
+
+La estética y el diseño minimalista son importantes para una buena usabilidad. El hecho de que las imágenes sobresalgan de las tarjetas podría violar la heurística de "Estética y diseño minimalista" al crear una apariencia visual confusa y poco organizada
+
+**Descripción del problema:**
+
+El problema identificado se refiere al hecho de que la iconografía e imágenes en las secciones "About the team" y "Benefits" sobresalen del margen de las tarjetas en la página web. Esta superposición afecta negativamente la presentación de la información al crear una apariencia visual desordenada y poco organizada.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 011](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/320c9a4f-9d12-4cc5-b4fd-1162d0bce838)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda ajustar la presentación de estas imágenes para que se ajusten adecuadamente al margen de las tarjetas, evitando la superposición. Esto mejorará la organización y la apariencia visual de la información, garantizando una experiencia más limpia y comprensible para los usuarios. Además, es esencial mantener un diseño limpio y organizado en toda la página, siguiendo principios de estética y diseño minimalista.
+
+<br>
+
+**Problema #12:**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Visibilidad del estado del sistema
+
+La falta de interacción en la sección "Contact" al redireccionar el correo con Gmail afecta la visibilidad del estado del sistema. Los usuarios esperan que al hacer clic en un enlace o botón, ocurra una acción que les proporcione retroalimentación visual para indicar que la acción se ha completado con éxito.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la falta de interacción en la sección "Contact" ubicada en el footer de la página web. En particular, al hacer clic en esta sección, no se activa ninguna acción de redirección al correo del startup con Gmail, lo que impide a los usuarios contactar al startup de manera efectiva. La carencia de interacción y la ausencia de retroalimentación visual indicativa de que la acción se ha completado con éxito dificultan la usabilidad de la página en términos de acceso al correo de contacto.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 012](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/22b7e954-10ae-45f5-aee8-223e25351328)
+
+**Recomendación:**
+
+Para solucionar el problema de la falta de interacción en la sección "Contact" en el footer, se recomienda agregar funcionalidad de redirección al correo del startup con Gmail al hacer clic en esta sección. Además, es fundamental proporcionar indicadores visuales claros que confirmen el éxito de la acción de contacto. Esta mejora no solo facilitará a los usuarios la comunicación con el startup, sino que también brindará una experiencia más efectiva y satisfactoria en términos de usabilidad
+
+<br>
+
+**Problema #13:**  El título “About the team” no muestra internacionalización (cambio de idioma al inglés)
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La ausencia de la opción de cambiar el idioma al inglés en el título "About the team" puede dificultar la flexibilidad y la eficiencia de uso para usuarios que prefieren o necesitan el inglés como idioma de navegación.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de internacionalización en el título "About the team," lo que implica que no existe una opción para cambiar el idioma al inglés en esta sección de la página web o la aplicación
+
+La falta de internacionalización no cumple con las necesidades de usuarios multilingües y no ofrece flexibilidad en la navegación, lo que puede resultar en una experiencia de usuario menos efectiva y satisfactoria en términos de accesibilidad a la información en diferentes idiomas.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 013](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/966afe1c-886b-4fcd-ae50-3e108d927539)
+
+Recomendación:
+
+Para abordar el problema de falta de internacionalización en el título "About the team," se recomienda incorporar una opción de cambio de idioma al inglés en esta sección y, en general, en toda la página. Esto permitirá a los usuarios acceder a la información en su idioma preferido y mejorar la flexibilidad de uso
+
+<br>
+
+**WEB APPLICATION:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación|1|Usability- Estética y diseño minimalista|
+|2|Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario|3|<p>Usability - Flexibilidad y eficiencia de uso /</p><p>Usability – Prevenir errores</p>|
+|3|El botón “Invitar trabajadores” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.|2|Usability- Consistencia y estándares|
+|4|El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.|3|Usability – Control y Libertad del usuario|
+|5|Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.|3|Usability – Control y Libertad del usuario|
+|6|Incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos|4|Usability – Flexibilidad y eficiencia de uso|
+|7|Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa|1|Usability- Estética y diseño minimalista/ Consistencia y estándares|
+|8|Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.|3|Usability-Prevención de errores|
+|9|Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Trabajadores”|2|Usability: Visibilidad del estado del sistema|
+|10|Permiso para el registro de cultivos y procesos en todas las fases, aún si el rol del técnico no involucra la introducción de datos en todas las fases del proceso|3|Usability- Consistencia y estándares|
+|11|Incapacidad para modificar o eliminar la información de lo cultivos procesos previamente registrados.|4|Usability-Prevención de errores|
+|12|Ausencia de un indicador que señale la cantidad de miembros de una empresa en el formulario de “Registrar Empresa”|1|Usability: Visibilidad del estado del sistema|
+|13|Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores|3|Usability – Flexibilidad y eficiencia de uso|
+|14|Sección “Trabajadores” sobresaliente dentro de la vista de perfil de empresa|1|Usability- Estética y diseño minimalista|
+|15|Incapacidad para retornar a una fase anterior luego de haber dado “END PHASE”|2||
+
+<br>
+
+**Problema #01:**  Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Estética y diseño minimalista
+
+La heurística de "Estética y diseño minimalista" se ve afectada por el espaciado inadecuado, ya que puede crear una apariencia visual desordenada y poco organizada, lo que dificulta la comprensión y la estética general de la página.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación. El espacio insuficiente o desigual entre estos elementos afecta la presentación visual de la información y crea una apariencia desordenada, lo que puede dificultar la identificación y comprensión de ambos elementos. Este problema puede afectar negativamente la estética general de la aplicación y dificultar la interacción del usuario con estos componentes.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 014](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bcff52c8-6bef-4228-91bb-7a3de03c2d06)
+
+**Recomendación:**
+
+Para resolver el problema, se recomienda ajustar el espaciado de manera que sea adecuado y consistente. Esto mejorará la presentación general y la estética a través d un diseño limpio. 
+
+<br>
+
+**Problema #02:**  Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario
+
+**Escala de severidad:** 03
+
+Principio violado:
+
+Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar la gestión de sus perfiles y cuentas.
+
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 015](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/c75c4b93-48de-4b03-8c31-6f5779001aa4)
+
+**Recomendación:**
+
+Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz. De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas, evitando así eliminaciones accidentales.
+
+<br>
+
+**Problema #03:**  El botón “Invitar trabajadores” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+La heurística "Consistencia y estándares" se ve comprometida, ya que los usuarios pueden esperar que un botón con esta etiqueta realice una acción específica (generar un enlace de invitación) según las convenciones y estándares comunes en aplicaciones similares.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 016](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bd458bb0-89be-43f2-a575-ba31ddbdc338)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda que este botón sea programado de manera que sea capaz de generar el enlace de invitación correspondiente cuando se hace clic en él. Además, es fundamental proporcionar retroalimentación visual inmediata, como mostrar el enlace de invitación generado o un mensaje de confirmación, para indicar que la acción se ha completado con éxito.
+
+<br>
+
+**Problema #04:**  El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La falta de control y libertad del usuario es evidente en este problema, ya que el usuario se ve forzado a regresar al formulario de inicio de sesión al salir de cualquier sección principal del dashboard, sin la opción de elegir continuar en la aplicación o regresar a una sección anterior.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 017](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2a5751d4-b169-45fb-9477-d0b2ebda73de)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda brindar a los usuarios un mayor control y libertad sobre su navegación. Esto implica ofrecer una opción clara y fácil de entender que permita a los usuarios decidir si desean regresar al formulario de inicio de sesión o continuar en la aplicación después de salir de una sección principal. Ello se puede realizar a través de la inserción de un botón “return”. La realización de pruebas de usuario será esencial para validar estas mejoras y garantizar que los usuarios puedan tomar decisiones informadas sobre su navegación.
+
+<br>
+
+**Problema #05:**  Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad limita su control y libertad en la navegación. Los usuarios pueden sentirse atrapados en una sección sin una forma clara de volver al dashboard.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad mientras están dentro de una de las secciones principales del dashboard de la aplicación. Esta carencia limita la libertad y el control del usuario en su navegación, lo que puede resultar en una experiencia frustrante y poco eficiente.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 018](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1c0c4f59-c430-4274-a831-e1e265aadc50)
+
+**Recomendación:**
+
+Para abordar este problema, se recomienda incorporar un componente de navegación claramente visible en todas las secciones principales del dashboard. Este componente, como un botón de regreso al dashboard, proporcionará a los usuarios una forma eficiente de cambiar entre diferentes funcionalidades,
+
+<br>
+
+**Problema #06:**  Incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de exportar el historial afecta la "Flexibilidad y eficiencia de uso". Los usuarios pueden requerir estos datos para diferentes propósitos, y la falta de funcionalidad para exportarlos ralentiza la eficiencia de uso.
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 019](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/39e522fa-e932-4392-963e-7556967ffdce)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar una función de exportación que permita a los usuarios descargar esta información en un formato a elección del usuario. Esta función debe ser claramente visible y accesible en la interfaz de usuario, facilitando a los usuarios la exportación eficiente de sus datos.
+
+<br>
+
+**Problema #07:**  Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Consistencia y estándares/ Estética y diseño minimalista
+
+La confusión sobre qué componente despliega el perfil del usuario o de la empresa sugiere una violación de la heurística de "Diseño y coherencia estética". Los usuarios podrían esperar que los componentes sigan un diseño y una ubicación coherentes que indiquen claramente cuál es cuál
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 020](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f27eb8e1-6b57-472f-9074-5d71c0cceb52)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar elementos visuales claros que permitan a los usuarios identificar con precisión cada perfil. Esto podría incluir el uso de íconos distintos, colores diferenciados o etiquetas claras para cada perfil. En ese sentido, segmentar el header en “Mi perfil” y “Mi empresa”.
+
+<br>
+
+**Problema #08:** Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Prevención de errores
+
+La heurística "Prevención de errores" se ve afectada, ya que la falta de una funcionalidad de recuperación de contraseña puede aumentar la probabilidad de errores, como bloqueos de cuentas debido a contraseñas olvidadas.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la inexistencia de la funcionalidad "recuperar contraseña" dentro del formulario de inicio de sesión. Los usuarios que olviden su contraseña no tienen una forma clara de restablecerla, lo que puede resultar en bloqueos de cuentas y una experiencia frustrante.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 021](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/0059c9fc-2d04-4de6-83d1-0bb45fa234ad)
+
+**Recomendación:**
+
+Para abordar la inexistencia de la funcionalidad "recuperar contraseña" en el formulario de inicio de sesión, se recomienda incorporar una función claramente visible, como un enlace o botón de "¿Olvidaste tu contraseña?". Esta función guiará a los usuarios a través del proceso de recuperación de contraseña de manera eficiente y prevendrá bloqueos de cuentas debido a contraseñas olvidadas.
+
+<br>
+
+**Problema #09:** Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Trabajadores”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de funcionalidad de filtrado de búsqueda afecta esta heurística, ya que no proporciona a los usuarios una retroalimentación clara sobre el estado del sistema después de ingresar un nombre de trabajador y hacer clic en el botón de búsqueda. La falta de respuesta o resultados visibles hace que los usuarios no tengan información sobre el estado de su búsqueda.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de la funcionalidad de filtrado de búsqueda relacionada con "Buscar Trabajadores" en la aplicación. A pesar de contar con un botón de búsqueda y una caja de texto donde los usuarios pueden ingresar el nombre del trabajador que desean buscar, la funcionalidad de búsqueda no está habilitada o no funciona correctamente.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 022](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/fa274aff-092b-457c-8ae0-6d15458401cd)
+
+**Recomendación:**
+
+Para abordar la ausencia de funcionalidad en la búsqueda de trabajadores, se recomienda habilitar y asegurarse de que la función de búsqueda funcione de manera efectiva. Cuando los usuarios ingresen el nombre del trabajador y hagan clic en el botón de búsqueda, la aplicación debe proporcionar resultados relevantes o un mensaje informativo si no se encuentran resultados.
+
+<br>
+
+**Problema #10:** Permiso para el registro de cultivos y procesos en todas las fases, aún si el rol del técnico no involucra la introducción de datos en todas las fases del proceso
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+El problema se relaciona con esta heurística, ya que los usuarios técnicos supervisores deberían tener restricciones de acceso basadas en sus roles y responsabilidades. La falta de restricciones adecuadas afecta su capacidad para utilizar la aplicación de manera eficiente y acorde con sus funciones.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la concesión de permisos para el registro de cultivos y procesos en todas las fases, incluso si el rol del técnico supervisor no implica la introducción de datos en todas las fases del proceso. En otras palabras, los usuarios con el rol de técnico supervisor tienen acceso a todas las fases de registro de cultivos, a pesar de que su función se limita a una de las fases. Esta discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios crea una inconsistencia en la aplicación y puede llevar a la confusión, el uso ineficiente y la posibilidad de errores en el registro de datos.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 023](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/91832fa4-2ef3-477a-a23b-47115e2568f6)
+
+**Recomendación:**
+Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
+
+<br>
+
+**Problema #11:** Incapacidad para modificar o eliminar la información de lo cultivos procesos previamente registrados.
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad de modificar o eliminar información de cultivos y procesos previamente registrados afecta esta heurística, ya que los usuarios pueden cometer errores al ingresar información incorrecta o desear corregir datos erróneos. Además, la falta de una función de edición o eliminación puede llevar a una experiencia frustrante y la pérdida de datos valiosos.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de modificar o eliminar la información de los cultivos y procesos previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de los cultivos y procesos registrados.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 024](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/81826bf6-25a3-4f62-8448-7ad939f0a312)
+
+**Recomendación:**
+Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
+
+<br>
+
+**Problema #12:** Ausencia de un indicador para señalar la cantidad de miembros de una empresa en el formulario de “Registrar Empresa”
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de un indicador que indique la cantidad de miembros de la empresa en el formulario de "Registrar Empresa" afecta esta heurística. Los usuarios, en este caso, el administrador, no tienen una forma visible de comprender cuántos miembros se registrarán en la empresa, lo que genera falta de visibilidad sobre el estado actual del sistema.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de un indicador o campo de entrada que permita señalar la cantidad de miembros de una empresa en el formulario de "Registrar Empresa". El administrador que completa este formulario no tiene la capacidad de indicar cuántos miembros serán registrados en la empresa, lo que limita la visibilidad del estado del sistema en cuanto a la cantidad de miembros en la empresa. Esta falta de visibilidad puede generar confusión y dificultades en la gestión de la información relacionada con la empresa en el sistema.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 025](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b7509bfb-8b3d-4b13-9c91-18ce44e82352)
+
+**Recomendación:**
+Para abordar el problema, se recomienda la incorporación de un campo de entrada en el formulario que permita al administrador ingresar la cantidad de miembros que serán registrados en la empresa. Este campo debe ser claro y estar acompañado de una explicación que indique su propósito, garantizando así que el administrador pueda especificar la cantidad de miembros de manera precisa. Además, se debe implementar una validación para asegurarse de que el número de miembros ingresado sea coherente y preciso. 
+
+<br>
+
+**Problema #13:** Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel" a partir de los registros anteriores afecta esta heurística. Los usuarios pueden encontrar ineficiente tener que calcular manualmente la temperatura promedio cuando la aplicación podría hacerlo automáticamente a partir de los datos existentes. 
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de la aplicación para generar automáticamente la temperatura promedio en la fase "Túnel" a partir de los registros de temperaturas anteriores. Los usuarios deben calcular manualmente la temperatura promedio, lo que resulta en una tarea ineficiente y potencialmente propensa a errores. Esto afecta la eficiencia de uso de la aplicación, ya que los usuarios podrían realizar esta tarea de manera más eficiente si la aplicación automatizara el cálculo utilizando los datos existentes.
+
+**Recomendación:**
+Para abordar el problema, se recomienda implementar una función en la aplicación que automatice el cálculo de la temperatura promedio. Esto permitirá a los usuarios realizar la tarea de manera eficiente y sin la necesidad de realizar cálculos manuales. Además, se debe garantizar que la interfaz de usuario muestre claramente la temperatura promedio calculada y que se realicen controles para validar la precisión de los datos anteriores antes de realizar el cálculo automático. Ello puede ser implementado dentro de la tabla de cultivo registrado
+
+<br>
+
+**Problema #14:** Incapacidad de generar automáticamente la temperatura promedio en la fase "Túnel", a partir del registro de temperaturas anteriores
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Estética y diseño minimalista
+
+La sección "Trabajadores" que sobresale dentro de la vista de perfil de la empresa afecta esta heurística. Un diseño minimalista busca mantener la simplicidad y la armonía visual en la interfaz, evitando elementos que destaquen de manera discordante. 
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la sección "Trabajadores," presentada en forma de tarjeta (card), que sobresale de manera inapropiada dentro de la vista de perfil de la empresa. Esta disposición inadecuada de la información causa que la sección "Trabajadores" llame excesivamente la atención y desentone con el diseño general de la vista de perfil de la empresa, lo que afecta la estética y la armonía visual de la interfaz de usuario. Esto puede influir negativamente en la percepción estética de la aplicación y en la experiencia del usuario.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 026](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/28d3af8d-571d-4f0f-a1c6-73a00ef442ae)
+
+**Recomendación:**
+
+Para abordar el problema de la sección "Trabajadores" que sobresale inapropiadamente en la vista de perfil de la empresa, se recomienda rediseñar la presentación de esta sección de manera que se integre de forma armoniosa en la vista de perfil. Esto implica ajustar los márgenes del diseño de la tarjeta de "Trabajadores".
+
+<br>
+
+**Problema #15:** Incapacidad para retornar a una fase anterior luego de haber dado “END PHASE”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad para retornar a una fase anterior después de dar "END PHASE" afecta esta heurística. Los usuarios pueden considerar esto como un error, ya que es posible que deseen volver atrás o corregir una acción anterior.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de la aplicación para permitir a los usuarios retornar a una fase anterior después de haber dado "END PHASE" (finalizar fase). Esta limitación significa que una vez que un usuario ha finalizado una fase, no tiene la opción de regresar o corregir una acción anterior, lo que puede ser problemático si se comete un error o se necesita modificar el proceso. La falta de esta funcionalidad afecta la capacidad de los usuarios para recuperarse de acciones no deseadas y puede generar frustración al no poder revertir o modificar el flujo del proceso.
+
+![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 027](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/ad77ef93-a783-49e1-a476-d64243ba2e8f)
+
+**Recomendación:**
+
+Para abordar el problema de la incapacidad para retornar a una fase anterior después de haber dado "END PHASE," se recomienda implementar una opción que permita a los usuarios revertir la acción y regresar a la fase anterior. Esta funcionalidad debería incluir una confirmación de acción para evitar retrocesos accidentales y proporcionar instrucciones claras sobre su uso. 
+
+<div id='5.4.'><h2> 5.4. Video About-The-Product.</h2></div>
+
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado.
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: [https://youtu.be/BMjgyGefraM](https://youtu.be/BMjgyGefraM)
+
+Enlace del video subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 <div id='6.'><h2> 6. Conclusiones y recomendaciones.</h2></div>
 
@@ -3097,6 +4685,18 @@ Repositorio Platform:
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario _carry over_ o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+
+<br>
+
+**Video About-The-Team**
+
+El video resume el proceso de trabajo realizado por el equipo. En este, los integrantes exponen las actividades que desempeñaron para alcanzar lo outcomes establecidos por el curso. Cabe destacar que los miembros del equipo destacan la comunicación oral y escrita como un método efectivo para transmitir ideas y enunciar el avance del proyecto.
+
+El video tiene una duración de 10:07 minutos. Desde el minuto 0:00 al 4:57 se evidencia una reunión de trabajo grupal, junto con voz en off del integrante Nicolás Espinoza explicando las actividades que realizamos. Seguidamente, desde el minuto 4:58 al 5:56 el integrante Carlo Seminario otorga su perspectiva relacionada con el avance del proyecto. Después, entre los minutos 5:56 al 6:47 el integrante Alan Galavis explica el outcome del curso y las actividades que le permitieron alcanzarlo. Del minuto 6:48 al 7:46, Andrés Soto realiza su aporte, y del 7:47 al 8:45 continúa Nicolás Espinoza. El video concluye con Jessica Commetant otorgando su testimonio relacionado con las competencias alcanzadas.
+
+Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 <div id='7.'><h2> 7. Bibliografía.</h2></div>
@@ -3117,6 +4717,16 @@ Repositorio Platform:
 
 - Enlace para acceder a la aplicación desplegada: [https://greenhouse-open.netlify.app/dashboard](https://greenhouse-open.netlify.app/dashboard)
 
+- Enlace para acceder al backend desplegado: [https://greenhouse.zeabur.app/swagger-ui/index.html#/](https://greenhouse.zeabur.app/swagger-ui/index.html#/)
+
 - Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EXeQNeMOzANKtz1DFtvw204B26iXNMZpjCSWw0xnApDH7A?e=BOQE7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 - Video exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXANtUL8nr1HjOVWqPOJaocB5P5xzN7UoBixrikXtlcx0Q?e=rQYhfh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+- Enlace para acceder al video About the product subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+- Enlace para acceder al video About the product subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]
