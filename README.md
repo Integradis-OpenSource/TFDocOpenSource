@@ -1723,13 +1723,13 @@ El diagrama de contenedores muestra una vista de alto nivel de las relaciones en
 
 Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 ##### Log-In Bounded Context
-![Log-In Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/adcdefc4-7df1-4e11-aeba-b05b870f3bd7)
-##### Organization Bounded Context
-![Organization Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7781084a-c53a-4ba5-b612-f7a04f534078)
+![Log-In Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/cf9390bb-5d08-46fc-838d-f5bad7ea5788)
+##### Companies Bounded Context
+![Company Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/bbbc7988-8ac6-476d-bfcb-3e1368ecdf21)
 ##### Payment Bounded Context
-![Payment Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c7348146-b2fd-4a35-bb53-9d5241b05567)
-##### Harvesting Bounded Context
-![Harvesting Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5466a9c0-714f-4592-b987-1ffed2680501)
+![Payment Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/09e78bf5-7a79-48d9-94e3-5344876b4873)
+##### Crop Bounded Context
+![Crop Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/da03807e-194c-40ce-94c0-455030aa3ad0)
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
