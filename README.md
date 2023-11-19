@@ -3971,6 +3971,184 @@ Repositorio Platform:
 ![insight_1_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291)
 ![insight_2_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa)
 
+<div id='5.2.3.'><h4> 5.4.1. Sprint 4.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+
+El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-11-06</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alan Galavis</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Nicolás Espinoza, Alan Galavis, Andrés Soto, Carlo Seminario
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Elaborar la sección "Reportes estadísticos", conectar la aplicación con un API de terceros para enviar invitaciones por correo electrónico a los trabajadores, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+
+Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
+
+Link del Trello: 
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US19</td>
+        <td rowspan="1">Visualizar reportes estadísticos</td>
+        <td>TK47</td>
+        <td>Crear componente gráfico de líneas</td>
+        <td>Importar las dependencias necesarias para crear un componente gráfico de líneas que permita visualizar un reporte estadístico del estado actual de las naves</td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+    </tr>
+        <tr>
+        <td rowspan="1">US06</td>
+        <td rowspan="1">Iniciar sesión</td>
+        <td>TK48</td>
+        <td>Autenticar al usuario</td>
+        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2">US06</td>
+        <td rowspan="2">Iniciar sesión</td>
+        <td>TK49</td>
+        <td>Autenticar al usuario</td>
+        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TK50</td>
+        <td>Mostrar información correspondiente al usuario autenticado</td>
+        <td>Asegurar que el usuario que haya iniciado sesión visualice la información asociada a su cuenta</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+        <tr>
+        <td rowspan="2">TS10</td>
+        <td rowspan="2">Get crop</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    </tr>
+        <tr>
+        <td rowspan="2">TS11</td>
+        <td rowspan="2">Get crop by grow phase</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo a la fase en la que se encuentran</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la fase en la que se encuentre, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2">TS12</td>
+        <td rowspan="2">Get crop by user</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Nicolás Espinoza</td>
+        <td>Done</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos de champiñones en Perú. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los administradores y los técnicos supervisores. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también resuene con las dinámicas operativas y las expectativas del personal de planta. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
