@@ -4074,7 +4074,9 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
 
 Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
 
-Link del Trello: 
+<img alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284130167-7e4a95d0-1486-4cb0-8302-f780d774762b.png">
+
+Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c2188d8af1c2B931F0F/sprint-4
 
 <table>
     <thead>
@@ -4106,10 +4108,9 @@ Link del Trello:
         <td>4</td>
         <td>Alan Galavis</td>
         <td>Done</td>
-    </tr>
-        <tr>
-        <td rowspan="1">US06</td>
-        <td rowspan="1">Iniciar sesión</td>
+    <tr>
+        <td rowspan="2">US06</td>
+        <td rowspan="2">Iniciar sesión</td>
         <td>TK48</td>
         <td>Autenticar al usuario</td>
         <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
@@ -4118,17 +4119,7 @@ Link del Trello:
         <td>Done</td>
     </tr>
     <tr>
-        <td rowspan="2">US06</td>
-        <td rowspan="2">Iniciar sesión</td>
         <td>TK49</td>
-        <td>Autenticar al usuario</td>
-        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
-        <td>4</td>
-        <td>Andrés Soto</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>TK50</td>
         <td>Mostrar información correspondiente al usuario autenticado</td>
         <td>Asegurar que el usuario que haya iniciado sesión visualice la información asociada a su cuenta</td>
         <td>4</td>
@@ -4136,9 +4127,9 @@ Link del Trello:
         <td>Done</td>
     </tr>
         <tr>
-        <td rowspan="2">TS10</td>
-        <td rowspan="2">Get crop</td>
-        <td>TK51</td>
+        <td rowspan="1">TS10</td>
+        <td rowspan="1">Get crop</td>
+        <td>TK50</td>
         <td>Crear endpoint para obtener un cultivo</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico, al igual que toda la información asociada al mismo</td>
         <td>4</td>
@@ -4147,8 +4138,8 @@ Link del Trello:
     </tr>
     </tr>
         <tr>
-        <td rowspan="2">TS11</td>
-        <td rowspan="2">Get crop by grow phase</td>
+        <td rowspan="1">TS11</td>
+        <td rowspan="1">Get crop by grow phase</td>
         <td>TK51</td>
         <td>Crear endpoint para obtener un cultivo de acuerdo a la fase en la que se encuentran</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la fase en la que se encuentre, al igual que toda la información asociada al mismo</td>
@@ -4157,9 +4148,9 @@ Link del Trello:
         <td>Done</td>
     </tr>
     <tr>
-        <td rowspan="2">TS12</td>
-        <td rowspan="2">Get crop by user</td>
-        <td>TK51</td>
+        <td rowspan="1">TS12</td>
+        <td rowspan="1">Get crop by user</td>
+        <td>TK52</td>
         <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
         <td>4</td>
