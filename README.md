@@ -276,9 +276,9 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
 5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
 5.4. [Video About-the-Product](#5.4.)<br>
-6. [**Conclusiones.**](6.)<br>
-7. [**Bibliografía.**](7.)<br>
-8. [**Anexos.**](8.)<br>
+6. [**Conclusiones.**](#6.)<br>
+7. [**Bibliografía.**](#7.)<br>
+8. [**Anexos.**](#8.)<br>
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
@@ -1064,19 +1064,25 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 |20|US21|Visualizar perfil del usuario|**Como** técnico supervisor / administrador **Quiero** acceder al perfil de un usuario en específico **Para** ver la información asociada al trabajador seleccionado|2|
 |21|US04|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de mi fábrica|3|
 |22|US05|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta y comiencen a utilizar la aplicación Greenhouse|3|
-|23|US06|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|5|
-|24|US22|Eliminar trabajador|**Como** administrador **Quiero** eliminar a los trabajadores que ya no formen parte del equipo **Para** actualizar la estructura de la empresa|2|
-|25|US23|Eliminar cuenta de empresa|**Como** administrador **Quiero** eliminar la cuenta de mi empresa **Para** dejar de usar los servicios ofrecidos por Greenhouse|5|
-|26|TS01|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** registrar a una nueva organización mediante una API  **Para** visualizar las organizaciones afiliadas a nuestra aplicación|3|
-|27|TS02|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de una organización mediante una API  **Para** mostrarla en la aplicación cuando se solicite.|3|
-|28|TS03|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse**Quiero** registrar la información de pago de las organizaciones mediante una API  **Para** contar con la información para pagos futuros|3|
-|29|TS04|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de pago de las organizacionesde mediante una API  **Para**  recibir los pagos en la aplicación cuando sea solicite.|3|
-|30|TS05|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|31|TS06|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|32|TS07|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** registrar a una nueva cosecha mediante una API **Para** mantener el registro de las cosechas|5|
-|33|TS08|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las cosechas mediante una API **Para** mostrarla en la aplicación cuando se solicite.|5|
-|34|TS09|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de los cultivos por cada fase mediante una API  **Para** mostrarla en la aplicación cuando sea solicite.|5|
-|35|TS10|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API **Para** mostrarla en la aplicación cuando sea solicite.|5|
+|23|US06|Iniciar sesión|Como administrador / técnico supervisor Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación Greenhouse|5|
+|24|US22|Eliminar trabajador|Como administrador Quiero eliminar a los trabajadores que ya no formen parte del equipo Para actualizar la estructura de la empresa|2|
+|25|US23|Eliminar cuenta de empresa|Como administrador Quiero eliminar la cuenta de mi empresa Para dejar de usar los servicios ofrecidos por Greenhouse|5|
+|26|TS01|Post company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva organización mediante una API Para visualizar las organizaciones afiliadas a nuestra aplicación|3|
+|27|TS02|Get company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de una organización mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
+|28|TS03|Post user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero registrar a un nuevo usuario mediante una API
+Para visualizar los usuarios afiliados a nuestra aplicación|3|
+|29|TS04|Get user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero obtener la información de un usuario mediante una API
+Para mostrarla en la aplicación cuando se solicite.|3|
+|30|TS05|Post payment cards|Como desarrollador que trabaja en la aplicación de GreenhouseQuiero registrar la información de pago de las organizaciones mediante una API Para contar con la información para pagos futuros|3|
+|31|TS06|Get payment cards|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de pago de las organizacionesde mediante una API Para recibir los pagos en la aplicación cuando sea solicite.|3|
+|32|TS07|Get roles per user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los usuarios por sus roles mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|33|TS08|Get company by membership|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|34|TS09|Post crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva cosecha mediante una API Para mantener el registro de las cosechas|5|
+|35|TS10|Get crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las cosechas mediante una API Para mostrarla en la aplicación cuando se solicite.|5|
+|36|TS11|Get crops by grow phase|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los cultivos por cada fase mediante una API Para mostrarla en la aplicación cuando sea solicite.|5|
+|37|TS12|Get crop by user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de que usuarios realizan los registros de los cultivos una API Para mostrarla en la aplicación cuando sea solicite.|5|
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
@@ -4018,13 +4024,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
         <tr>
             <td>Sprint 4 Review Summary</td>
             <td>
-                Lorem ipsum
+                El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos.
             </td>
         </tr>
         <tr>
             <td>Sprint 4 Retrospective Summary</td>
             <td>
-                Lorem ipsum
+                <b>¿Qué funciona bien?</b> Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. <b> ¿Qué no salió bien o cómo se esperaba? </b> El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras <b> ¿Qué deberíamos intentar hacer a continuación? </b> Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. 
             </td>
         </tr>
         <tr>
@@ -4039,13 +4045,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
         <tr>
             <td>Sprint 4 Velocity</td>
             <td>
-                Lorem ipsum
+                33
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                Lorem ipsum
+                33
             </td>
         </tr>
     </tbody>
@@ -4437,9 +4443,9 @@ Entrevista de validación usuario técnico supervisor 01:
 
 Entrevista de validación usuario técnico supervisor 02:
 
-|**Entrevistado 02**|Jean Carlos del Águila|
+|**Entrevistado 02**|Giancarlo del Águila|
 | :-: | :- |
-|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283">|<p>El entrevistador se presentó e inició la sesión con Jean Carlos del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283">|<p>El entrevistador se presentó e inició la sesión con Giancarlo del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
 |Timing: 12:54 – 24:44|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=XUb3TX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NzguNTN9fQ%3D%3D) |
 
 Entrevista de validación usuario técnico supervisor 03:
@@ -4476,9 +4482,9 @@ Entrevista de validación usuario administrador 03:
 
 ##
 ## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
-## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+## <a name="_k1u2fyw1wr8p"></a>*Greenhouse* 
 
-Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web GreenHouse.
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Greenhouse.
 
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
