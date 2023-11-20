@@ -3972,8 +3972,8 @@ Repositorio Platform:
 <img alt="insight_1_open_platform" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291">
 <img alt="insight_2_open_platform" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa">
 
-<div id='5.2.3.'><h4> 5.4.1. Sprint 4.</h4></div>
-<div id='5.2.3.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+<div id='5.2.4.'><h4> 5.4.1. Sprint 4.</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
 
 El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
 
@@ -4046,7 +4046,7 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
     </tbody>
 </table>
 
-<div id='5.2.3.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
 
 Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
 
@@ -4137,8 +4137,250 @@ Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c
     </thead>
 </table>
 
-
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+<div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+
+<div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
+
+- US19:
+
+
+- US06:
+
+
+- TS12:
+
+
+- TS11:
+
+
+- TS12:
+
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+
+
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+Json server:
+
+<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255529-20d29e81-bdfb-4e94-bd2d-a967451e2101.png">
+<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255532-09b755f8-ecc8-4f5b-89c9-1671560a44b0.png">
+
+
+
+| Endpoint | Details |
+| - | - | 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="14">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+    </tbody>
+</table>
+
+- Web service images
+
+
+Link del repositorio:
+
+https://github.com/Integradis-OpenSource/greenhouse-platform
+
+- Web service commit details
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+
+<div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del cuarto sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application completa. Asimismo, se desplego el back-end completo.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+
+
+- Capturas de pantalla landing page:
+
+
+
+
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+
+
+- Capturas de pantalla de web application:
+
+
+
+Web Services back-end:
+
+
+Ultímo despligue del web service en Zeabur:
+
+
+Base de Dato en AWS RDS:
+
+
+
+- Capturas de pantalla de web application:
+
+<div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Galavis Du Bois, Alan Enrique|Desarrollo del back end e internacionalización del front end|
+|Seminario Garvín, Carlo Luca|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Espinoza Rodriguez, Nicolas Antonio|Desarrollo del back end, y mejora de componentes del front end|
+|Comettant Rubiños, Jessica Elizabeth|Desarrollo del back end, y creación de nuevos de componentes del front end|
+
+Repositorio Landing:
+
+
+
+Repositorio Web Application:
+
+
+
+Repositorio Platform:
+
 
 
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
