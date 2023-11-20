@@ -469,9 +469,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <head>
     <title>Tabla HTML</title>
     <style>
-       body {
-            font-family:"Zizou Slab Light";
-        }
         table {
             border-collapse: collapse;
             width: 100%;
@@ -482,27 +479,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             padding: 10px 25px 8px 25px;
             text-align: center;
             font-size: 12px;
-        }
-        ul{
-            text-align: justify;
-            padding: 10px 25px 10px 25px;
-        }
-        img {
-            width: 100px; 
-            height: auto; 
-            display: block;
-            margin: auto;
-            margin-top: 4px;
-        }
-        .sub{
-            font-weight: bold;
-        }
-        th{
-                background-color: #f2f2f2;
-        }
-        h1, h3 {
-            margin-bottom: 10px;
-            margin-top: 10px;
         }
     </style>
 </head>
@@ -4232,21 +4208,21 @@ Entrevista de validación usuario administrador 01:
 
 |**Entrevistado 01**|Rosalie|
 | :-: | :- |
-|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/8f3eb4a9-355f-4d90-8dd0-299e04cd1e33">|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012513-8f3eb4a9-355f-4d90-8dd0-299e04cd1e33.png">|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
 |Timing: 41:44 – 49:40|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=4AmhJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI1MDQuODh9fQ%3D%3D)|
 
 Entrevista de validación usuario administrador 02:
 
 |**Entrevistado 02**|Frank Du Bois|
 | :-: | :- |
-|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/a5dacb61-b61e-45a2-ad6e-adbdbcf618f6">|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012523-a5dacb61-b61e-45a2-ad6e-adbdbcf618f6.png">|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
 |Timing: 49:41 – 59:13|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=STEF2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI5ODQuNjV9fQ%3D%3D)|
 
 Entrevista de validación usuario administrador 03: 
 
 |**Entrevistado 03**|Julio Du Bois|
 | :-: | :- |
-|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d">|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012548-8fe57694-56e3-4fa2-8973-e5e03a0ca17d.png">|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
 |Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
