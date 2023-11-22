@@ -77,13 +77,15 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 **TP**
 
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |Nicolás Espinoza|Mejora del diagrama de clases. Avance de conclusiones|
 |Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
 |Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
 |Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
 
 **TB2**
 
@@ -93,13 +95,22 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.|
 |Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review.|
 |Jessica Comettant|Evaluación según heurísticas, análisis de entrevistas de validación|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+**TF**
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Corrección de diagramas C4.|
+|Alan Galavis|Sprint Planning 4, Sprint backlog|
+|Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review, Testing Suite Evidence for Sprint Review.|
+|Andres Soto| Execution Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
 
 **Github Collaboration Insights**
 
-Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
 
@@ -108,32 +119,6 @@ Los integrantes son:
 * Carlo Seminario (CarloLSG)
 * Jessica Comettant (Mei0202)
 * Andrés Soto (asotito231)
-
-**TB1**
-
-![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
-![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
-![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
-![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
-
-**TP, TB2**
-
-<img src="./Imagenes/commit_graph_tb2.png">
-<img src="./Imagenes/commit_graph_individual_tb2.png">
-
-En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
-
-**TB1**
-
-![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
-
-**TP, TB2**
-
-<img src="./Imagenes/commit_graph_individual_tb2.png">
-
-Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
-
-**TB1**
 
 Se explican las ramas más prominentes:
 
@@ -144,9 +129,21 @@ Se explican las ramas más prominentes:
 
 ![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
 
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+
+**TB1**
+
+![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
+![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
+![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
+![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
+
+![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+
 **TP, TB2**
 
-**feature-sprint2**: Esta rama incluye los artefactos relacionados al sprint 2 en el informe.
+<img src="./Imagenes/commit_graph_tb2.png">
+<img src="./Imagenes/commit_graph_individual_tb2.png">
 
 <img src="./Imagenes/network_graph_tb2.png">
 
