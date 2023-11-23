@@ -4217,7 +4217,7 @@ Web Service:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="14">Crops</td>
+            <td rowspan="15">Crops</td>
         </tr>
         <tr>
             <td>POST</td>
@@ -4265,6 +4265,11 @@ Web Service:
             <td>api/v1/crops/{cropId}/formulas</td>
         </tr>
         <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/end_phase</td>
+        </tr>
+        <tr>
             <td>GET</td>
             <td>{cropId}</td>
             <td>api/v1/crops/{cropId}/bunker</td>
@@ -4298,6 +4303,12 @@ Web Service:
             <td>api/v1/companies/{companyId}</td>
         </tr>
         <tr>
+            <td>Roles</td>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/roles</td>
+        </tr>
+        <tr>
             <td rowspan="4">Employees</td>
         </tr>
         <tr>
@@ -4315,11 +4326,45 @@ Web Service:
             <td>{companyId}</td>
             <td>api/v1/employees/{companyId}</td>
         </tr>
+        <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/authentication/sign-up</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/authentication/sign-in</td>
+        </tr>
     </tbody>
 </table>
 
 - Web service images
-
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089533-19c7ff7d-4cee-4b72-a52d-6f98a04a024e.png" alt="endphase">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089536-6ff2dfc4-1151-4bd3-97df-dc94f0911fbb.png" alt="aut2">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089537-f30aa6a4-cf85-4733-a6e9-adbc590e1bd7.png" alt="aut1">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089538-bf770f86-49e1-4c05-b889-0507f0f63f7f.png" alt="roles">
 
 Link del repositorio:
 
@@ -4343,7 +4388,17 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 
 - Capturas de pantalla landing page:
-
+<img alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394624-ebd77824-5daf-4123-a501-c3ce549c830d.png">
+<img alt="2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394623-b3175297-907d-496c-bd6a-1a43e39e0bd1.png">
+<img alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394622-73626ab9-0884-40cc-a167-99988f37eb38.png">
+<img alt="4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394620-23a28e78-843f-4af9-86c1-1fee5a3bf995.png">
+<img alt="5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394619-f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc.png">
+<img alt="team" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285090976-63f18e68-f19d-428b-8737-1a5aecb87490.png">
+<img alt="videos_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280393892-7ca15624-c3ae-412c-b844-5fdef23d8ef2.png">
+<img alt="9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394632-e4b25aa3-eb8a-475f-9144-fd1e395c7876.png">
+<img alt="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394631-0545ec66-30c7-46db-81ac-2ee4e83ffd83.png">
+<img alt="11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394630-a8622e6a-9704-4925-8cbe-6d3f705f0e7e.png">
+<img alt="12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394627-ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a.png">
 
 
 
@@ -4351,23 +4406,78 @@ Web Application front-end:
 
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
-
+<img alt="open_deployment" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274519-4c16b805-113c-4be6-bfc6-c406e829545d.png">
 
 - Capturas de pantalla de web application:
-
+<img alt="open_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113308-fb79df29-db36-4df2-a6d8-709f028e10ca.png">
+<img alt="open_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113304-64cc6e4a-bfe6-457e-b3b8-fb5e3e825fe6.png">
+<img alt="open_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273282-f812e91d-94f1-43df-b754-fa9967ea942f.png">
+<img alt="open_usuario" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273288-e1112957-6bc0-4c87-a6d6-eed576737f9d.png">
+<img alt="open_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273298-309a2c22-50cc-49ab-8820-a97e728c18c4.png">
+<img alt="open_estats" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113309-1a3a481a-5c8b-44ad-bc3e-622e0f10e707.png">
+<img alt="open_process" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273304-06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6.png">
+<img alt="open_process_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274027-033948f3-895a-4ac6-8235-2db7637ec008.png">
+<img alt="open_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273320-fbdef7bd-2179-4080-a717-16cf82b61346.png">
+<img alt="open_stock_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273330-2645ec04-1f12-4a28-acf7-59477d89b774.png">
+<img alt="open_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273345-01593b4f-c84a-4959-9200-8f3bbd6e29b5.png">
+<img alt="open_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273354-00c29a01-470c-40a0-9853-4033b8906d8e.png">
+<img alt="open_preparation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273362-56f34718-867c-4a7b-bf48-88a3c5070c6e.png">
+<img alt="open_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273370-09e2acea-2f2c-471f-a3c1-9f58c5f370b1.png">
+<img alt="open_bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273384-ef03571e-7e88-4cb6-8be4-0f52211bc43b.png">
+<img alt="open_bunker_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273397-a75dc280-39a1-4118-91b8-a6e808013f8c.png">
+<img alt="open_bunker_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273417-c2095c6d-a345-4db6-8e40-248b8b0cf923.png">
+<img alt="open_tunnel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/c4aa9ef8-1bfa-4b53-8530-a076e275f880">
+<img alt="open_tunnel_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6a3fd374-1bc8-4b13-ba85-1011dd7d77c6">
+<img alt="open_tunnel_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/70261d71-53e7-4d8f-a694-8752cc47b366">
+<img alt="open_incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/eb479689-457e-43e9-a8ea-75be160232cb">
+<img alt="open_incubation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/64995a3c-5d4c-4681-84ac-3389c6436a8e">
+<img alt="open_incubation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/ff4784c6-fa1d-49dc-8ccc-e16aa115300a">
+<img alt="open_casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/1fb317ee-baf8-4210-a03d-e86bfe79dc87">
+<img alt="open_casing_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/8294f6da-ddd7-4e12-ac30-95ec559af5de">
+<img alt="open_casing_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/046f26df-782d-4b2f-8eb4-89c11c557dff">
+<img alt="open_induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/93b5b741-be15-43e7-9d40-ba4ba1837794">
+<img alt="open_induction_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/caa50500-1286-4062-8919-02cf5d94e9b0">
+<img alt="open_induction_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/a07dc436-da48-4032-bd40-75654a3b6111">
+<img alt="open_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6f7aa9b3-d157-49ea-a729-deeb795b4e6b">
+<img alt="open_harvest_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/987f8fc9-ac6f-4ed6-83c7-49958894e997">
+<img alt="open_harvest_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360">
+<img alt="open_complete" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee">
 
 
 Web Services back-end:
 
 
 Ultímo despligue del web service en Zeabur:
-
+<img alt="Screenshot 2023-11-03 at 1 32 50 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a">
 
 Base de Dato en AWS RDS:
+<img alt="Screenshot 2023-11-03 at 1 36 32 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/b6c2a18d-193c-4f06-a201-49902e948423">
 
 
 
 - Capturas de pantalla de web application:
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089533-19c7ff7d-4cee-4b72-a52d-6f98a04a024e.png" alt="endphase">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089536-6ff2dfc4-1151-4bd3-97df-dc94f0911fbb.png" alt="aut2">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089537-f30aa6a4-cf85-4733-a6e9-adbc590e1bd7.png" alt="aut1">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089538-bf770f86-49e1-4c05-b889-0507f0f63f7f.png" alt="roles">
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -4377,11 +4487,11 @@ Base de Dato en AWS RDS:
 |Galavis Du Bois, Alan Enrique|Desarrollo del back end e internacionalización del front end|
 |Seminario Garvín, Carlo Luca|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
 |Espinoza Rodriguez, Nicolas Antonio|Desarrollo del back end, y mejora de componentes del front end|
-|Comettant Rubiños, Jessica Elizabeth|Desarrollo del back end, y creación de nuevos de componentes del front end|
 
 Repositorio Landing:
 
-
+![landingI1](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108342-0077b94b-e501-4974-bd7d-5a3f1d410279.png)
+![landingI2](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108337-c2cabd81-5580-4402-8f90-8f90ec3b2476.png)
 
 Repositorio Web Application:
 
@@ -4389,7 +4499,8 @@ Repositorio Web Application:
 
 Repositorio Platform:
 
-
+![landing1](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108348-b386038c-a6f4-43bf-b01d-8934c7359986.png)
+![landing2](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108345-202917d9-e0d3-4f01-9525-e0d78d71dceb.png)
 
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
