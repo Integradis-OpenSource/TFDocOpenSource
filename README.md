@@ -21,7 +21,6 @@ width=50%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-|Comettant Rubiños, Jessica Elizabeth|U20211C009|
 |Espinoza Rodriguez, Nicolas Antonio|U202110278|
 |Galavis Du Bois, Alan Enrique|U202110223|
 |Seminario Garbin, Carlo Luca|U20211A475|
@@ -57,6 +56,8 @@ width=50%"/>
 |3.2|20/10/2023|Comettant|Elaboración de análisis según heurísticas|
 |3.3|1/11/2023|Galavis| Elaboración de video about the team y about the product|
 |3.4|1/11/2023|Comettant| Análisis de entrevistas de validación|
+|4.1|18/11/2023|Galavis| Mejora y repuntuación del product backlog|
+|4.2|18/11/2023|Galavis| Sprint planning 4, sprint backlog 4|
 
 ## Project Report Collaboration Insights
 
@@ -76,13 +77,15 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 **TP**
 
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |Nicolás Espinoza|Mejora del diagrama de clases. Avance de conclusiones|
 |Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
 |Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
 |Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
 
 **TB2**
 
@@ -92,13 +95,22 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.|
 |Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review.|
 |Jessica Comettant|Evaluación según heurísticas, análisis de entrevistas de validación|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+**TF**
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Corrección de diagramas C4.|
+|Alan Galavis|Sprint Planning 4, Sprint backlog|
+|Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review, Testing Suite Evidence for Sprint Review.|
+|Andres Soto| Execution Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
 
 **Github Collaboration Insights**
 
-Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
 
@@ -107,32 +119,6 @@ Los integrantes son:
 * Carlo Seminario (CarloLSG)
 * Jessica Comettant (Mei0202)
 * Andrés Soto (asotito231)
-
-**TB1**
-
-![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
-![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
-![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
-![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
-
-**TP, TB2**
-
-<img src="./Imagenes/commit_graph_tb2.png">
-<img src="./Imagenes/commit_graph_individual_tb2.png">
-
-En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
-
-**TB1**
-
-![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
-
-**TP, TB2**
-
-<img src="./Imagenes/commit_graph_individual_tb2.png">
-
-Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
-
-**TB1**
 
 Se explican las ramas más prominentes:
 
@@ -143,9 +129,21 @@ Se explican las ramas más prominentes:
 
 ![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
 
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+
+**TB1**
+
+![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
+![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
+![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
+![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
+
+![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+
 **TP, TB2**
 
-**feature-sprint2**: Esta rama incluye los artefactos relacionados al sprint 2 en el informe.
+<img src="./Imagenes/commit_graph_tb2.png">
+<img src="./Imagenes/commit_graph_individual_tb2.png">
 
 <img src="./Imagenes/network_graph_tb2.png">
 
@@ -162,8 +160,8 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación. <br> TB2: Realicé avances en el back-end de la aplicación web. Los endpoints creados se encuentran debidamente documentados gracias al uso de la herramienta de swagger-ui.<br> **Andrés Soto** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente. Asimismo, arreglo los user stories correspondientes al landing page, y los incluyo en el Trello<br> TB2: Contribui con la elaboracion del back end y desarrollo del front end de manera que se pueda realizar un avance significativo y bajo los criterios establecidos, manteniendo en cuenta los deseos del cliente.<br> **Carlo Luca Seminario** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> TB2: Realicé commits para tanto la landing page, como el front end web application y web services, además de documentar el despliegue de los web services para contar endpoints para el siguiente sprint. <br> **Alan Galavis** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> TP: Mejoré la precisión de los criterios de aceptación con el objetivo de que los demás miembros del equipo y las partes interesadas puedan comprenderlas con facilidad. Adicionalmente, me apoyé de la herramienta Trello para transcribir las user stories y tasks previamente redactadas en el documento, para que de esta manera, los stakeholders y developers puedan observar el progreso de elaboración de las funcionalidades del proyecto. <br> TB2: Contribuí a redactar las instrucciones para desplegar el backend de la aplicación elaborada, es to con el objetivo de que futuros developers puedan comprender y replicar el despliegue por su cuenta. <br> **Jessica Comettant** <br> TB1: El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TB2: Desarrollo de apartados Diseño de entrevistas, Registro de Entrevistas y Evaluación según Heurísticas para validación de funcionalidades de la aplicación y landing page. Colaboración dentro del backend de la aplicación y desarrollo de vistas correspondientes al frontend |Se logro realizar un trabajo sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> TB2: Gracias a las entrevistas de validación, fue posible analizar las historias de usuario técnicas, dado que se obtuvo información acerca de los puntos que resultan ser los más relevantes para el usuario final y la forma en la cual usará la aplicación.  <br> **Andrés Soto** <br> TB1: Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. De la mismas forma trabajo en el figma diseñando la landing page y su versión responsive al igual que la versión responsive de la aplicación web.<br> TP: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page<br> TB2: Realizo el sprint backlog del sprint 3, ademas de organizar sprint en trello para la documentacion de avances y organizacion de entregables.<br>  **Carlo Luca Seminario** <br> TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br>TB2: Realicé entrevistas de validación para presentar el avance del proyecto al público objetivo para así lograr una retroalimentación activa y poder priorizar los requisitos según lo indicado por el cliente. <br> **Alan Galavis** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> TP: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. <br> TB2: Realicé entrevistas de validación con los usuarios para conocer su experiencia relacionada con la aplicación, a través de la cual fue posible comunicar el estado de desarrollo actual del proyecto y se recibió retroalimentación relacionada con la satisfacción del cliente con la propuesta <br>**Jessica Comettant** <br> TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. <br> TB2: Desarrollo de Evaluación según Heurísticas para validación de funcionalidades de la aplicación y landing page. Las conclusiones se comunicaron dentro de la documentación del proyecto. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo completo. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nicolás Espinoza** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> TP: En la entrega TP se explica de forma detallada el desarrollo del informe en la sección de collaboration insights. Es importante para los stakeholders internos del proyecto conocer el desempeño del equipo en la elaboración de su documentación. <br> TB2: Realicé avances en el back-end de la aplicación web. Los endpoints creados se encuentran debidamente documentados gracias al uso de la herramienta de swagger-ui.<br> **Andrés Soto** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente. Asimismo, arreglo los user stories correspondientes al landing page, y los incluyo en el Trello<br> TB2: Contribui con la elaboracion del back end y desarrollo del front end de manera que se pueda realizar un avance significativo y bajo los criterios establecidos, manteniendo en cuenta los deseos del cliente.<br> TF: Se encargo de desarrolloar la sección de sign in, sign up, y sign out. Asismo que estas fueran funcionales <br> **Carlo Luca Seminario** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> TB2: Realicé commits para tanto la landing page, como el front end web application y web services, además de documentar el despliegue de los web services para contar endpoints para el siguiente sprint. <br> **Alan Galavis** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> TP: Mejoré la precisión de los criterios de aceptación con el objetivo de que los demás miembros del equipo y las partes interesadas puedan comprenderlas con facilidad. Adicionalmente, me apoyé de la herramienta Trello para transcribir las user stories y tasks previamente redactadas en el documento, para que de esta manera, los stakeholders y developers puedan observar el progreso de elaboración de las funcionalidades del proyecto. <br> TB2: Contribuí a redactar las instrucciones para desplegar el backend de la aplicación elaborada, es to con el objetivo de que futuros developers puedan comprender y replicar el despliegue por su cuenta.<br> TF: La elaboración del presente documento permitió evidenciar la comunicación efectiva escrita por parte de todos los integrantes del equipo. Personalmente, utilicé medios de comunicación tales como WhatsApp, Discord e incluso los mismos mensajes de los commits de GitHub para transmitir mi avance. De la misma manera, utilicé estos medios para comunicar los obstáculos que encontré y solicitar ayuda al equipo en caso de necesitarlos. Finalmente, este documento presenta actas de reunión redactadas, las cuales fueron de utilidad para conocer y comunicar los acuerdos de objetivos a alcanzar|Se logró realizar un trabajo sobresaliente, pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nicolás Espinoza** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> TP: En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. <br> TB2: Gracias a las entrevistas de validación, fue posible analizar las historias de usuario técnicas, dado que se obtuvo información acerca de los puntos que resultan ser los más relevantes para el usuario final y la forma en la cual usará la aplicación.  <br> **Andrés Soto** <br> TB1: Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. De la mismas forma trabajo en el figma diseñando la landing page y su versión responsive al igual que la versión responsive de la aplicación web.<br> TP: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page<br> TB2: Realizo el sprint backlog del sprint 3, ademas de organizar sprint en trello para la documentacion de avances y organizacion de entregables.<br> TF: Se elaboro parte de la sección de sprint 4, asi como actualizar secciones del documento<br> **Carlo Luca Seminario** <br> TB1: A lo hora de realizar el trabajo se tuvo que mantener un constate contacto con nuestros segmento objetivo para poder delimitar correctamente nuestra solución, asímismo mantener una buena comunicación y organización mediante reuniones. <br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br>TB2: Realicé entrevistas de validación para presentar el avance del proyecto al público objetivo para así lograr una retroalimentación activa y poder priorizar los requisitos según lo indicado por el cliente. <br> **Alan Galavis** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario realizar exposiciones grabadas dentro de las cuales se expresan los requisitos del proyecto, cómo estos fueron implementados y cuál fue el ciclo de vida del desarrollo del software a elaborar. <br> TP: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. <br> TB2: Realicé entrevistas de validación con los usuarios para conocer su experiencia relacionada con la aplicación, a través de la cual fue posible comunicar el estado de desarrollo actual del proyecto y se recibió retroalimentación relacionada con la satisfacción del cliente con la propuesta <br> TF:  |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 
@@ -261,14 +259,23 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
 5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
 5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+5.2.4. [Sprint 4.](#5.2.4.)<br>
+5.2.4.1. [Sprint Planning 4.](#5.2.4.1.)<br>
+5.2.4.2. [Sprint Backlog 4.](#5.2.4.2.)<br>
+5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.)<br>
+5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.)<br>
+5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.)<br>
+5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
 5.3. [Validation Interviews.](#5.3.)<br>
 5.3.1.[Diseño de Entrevistas.](#5.3.1.)<br>
 5.3.2.[Registro de Entrevistas.](#5.3.2.)<br>
 5.3.3.[Evaluaciones según Heurísticas.](#5.3.3.)<br>
 5.4. [Video About-the-Product](#5.4.)<br>
-6. [**Conclusiones.**](6.)<br>
-7. [**Bibliografía.**](7.)<br>
-8. [**Anexos.**](8.)<br>
+6. [**Conclusiones.**](#6.)<br>
+7. [**Bibliografía.**](#7.)<br>
+8. [**Anexos.**](#8.)<br>
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
@@ -296,7 +303,6 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 | Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png')|
 Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y buscando soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y de empresas.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
-Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 19 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el quinto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://hackmd.io/_uploads/HkXOtvkCh.png)
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -469,9 +475,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <head>
     <title>Tabla HTML</title>
     <style>
-       body {
-            font-family:"Zizou Slab Light";
-        }
         table {
             border-collapse: collapse;
             width: 100%;
@@ -482,27 +485,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             padding: 10px 25px 8px 25px;
             text-align: center;
             font-size: 12px;
-        }
-        ul{
-            text-align: justify;
-            padding: 10px 25px 10px 25px;
-        }
-        img {
-            width: 100px; 
-            height: auto; 
-            display: block;
-            margin: auto;
-            margin-top: 4px;
-        }
-        .sub{
-            font-weight: bold;
-        }
-        th{
-                background-color: #f2f2f2;
-        }
-        h1, h3 {
-            margin-bottom: 10px;
-            margin-top: 10px;
         }
     </style>
 </head>
@@ -515,7 +497,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
             <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
         </tr>
-        <!-- Filas restantes (13 filas) -->
         <tr>
             <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
                 en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
@@ -564,7 +545,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
                 </ul>                
             </td>      
         </tr>
-        <!----->
         <tr>
             <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
             <td class="sub" >Mercado Objetivo</td>
@@ -605,7 +585,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
                 </ul>
             </td>
         </tr>
-        <!----->
         <tr>
             <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
             <td class="sub">Productos & Servicios</td>
@@ -636,7 +615,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             <td>Solo plataforma web</td>
             <td>Plataforma web y aplicación móvil</td>        
         </tr>
-        <!----->
         <tr>
             <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
             <td class="sub">Fortalezas</td>
@@ -1083,19 +1061,25 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 |20|US21|Visualizar perfil del usuario|**Como** técnico supervisor / administrador **Quiero** acceder al perfil de un usuario en específico **Para** ver la información asociada al trabajador seleccionado|2|
 |21|US04|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de mi fábrica|3|
 |22|US05|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta y comiencen a utilizar la aplicación Greenhouse|3|
-|23|US06|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|5|
-|24|US22|Eliminar trabajador|**Como** administrador **Quiero** eliminar a los trabajadores que ya no formen parte del equipo **Para** actualizar la estructura de la empresa|2|
-|25|US23|Eliminar cuenta de empresa|**Como** administrador **Quiero** eliminar la cuenta de mi empresa **Para** dejar de usar los servicios ofrecidos por Greenhouse|5|
-|26|TS01|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** registrar a una nueva organización mediante una API  **Para** visualizar las organizaciones afiliadas a nuestra aplicación|3|
-|27|TS02|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de una organización mediante una API  **Para** mostrarla en la aplicación cuando se solicite.|3|
-|28|TS03|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse**Quiero** registrar la información de pago de las organizaciones mediante una API  **Para** contar con la información para pagos futuros|3|
-|29|TS04|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de pago de las organizacionesde mediante una API  **Para**  recibir los pagos en la aplicación cuando sea solicite.|3|
-|30|TS05|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|31|TS06|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|32|TS07|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** registrar a una nueva cosecha mediante una API **Para** mantener el registro de las cosechas|5|
-|33|TS08|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de las cosechas mediante una API **Para** mostrarla en la aplicación cuando se solicite.|5|
-|34|TS09|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse  **Quiero** obtener la información de los cultivos por cada fase mediante una API  **Para** mostrarla en la aplicación cuando sea solicite.|5|
-|35|TS10|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API **Para** mostrarla en la aplicación cuando sea solicite.|5|
+|23|US06|Iniciar sesión|Como administrador / técnico supervisor Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación Greenhouse|5|
+|24|US22|Eliminar trabajador|Como administrador Quiero eliminar a los trabajadores que ya no formen parte del equipo Para actualizar la estructura de la empresa|2|
+|25|US23|Eliminar cuenta de empresa|Como administrador Quiero eliminar la cuenta de mi empresa Para dejar de usar los servicios ofrecidos por Greenhouse|5|
+|26|TS01|Post company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva organización mediante una API Para visualizar las organizaciones afiliadas a nuestra aplicación|3|
+|27|TS02|Get company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de una organización mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
+|28|TS03|Post user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero registrar a un nuevo usuario mediante una API
+Para visualizar los usuarios afiliados a nuestra aplicación|3|
+|29|TS04|Get user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero obtener la información de un usuario mediante una API
+Para mostrarla en la aplicación cuando se solicite.|3|
+|30|TS05|Post payment cards|Como desarrollador que trabaja en la aplicación de GreenhouseQuiero registrar la información de pago de las organizaciones mediante una API Para contar con la información para pagos futuros|3|
+|31|TS06|Get payment cards|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de pago de las organizacionesde mediante una API Para recibir los pagos en la aplicación cuando sea solicite.|3|
+|32|TS07|Get roles per user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los usuarios por sus roles mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|33|TS08|Get company by membership|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|34|TS09|Post crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva cosecha mediante una API Para mantener el registro de las cosechas|5|
+|35|TS10|Get crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las cosechas mediante una API Para mostrarla en la aplicación cuando se solicite.|5|
+|36|TS11|Get crops by grow phase|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los cultivos por cada fase mediante una API Para mostrarla en la aplicación cuando sea solicite.|5|
+|37|TS12|Get crop by user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de que usuarios realizan los registros de los cultivos una API Para mostrarla en la aplicación cuando sea solicite.|5|
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
@@ -2033,62 +2017,62 @@ Base de Datos:
 
 Iniciar sesión en Amazon Web Services (AWS), del cuál utilizaremos 2 recursos RDS y EC2. En primer lugar, acceder a EC2, más específicamente a Security Groups que se encuentra en Network & Security.
 
-![Screenshot 2023-11-02 at 7 37 16 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/16dc8375-d63b-4e72-af60-4e1d8d6e75c4)
+<img alt="Screenshot 2023-11-02 at 7 37 16 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279984766-16dc8375-d63b-4e72-af60-4e1d8d6e75c4.png">
 
 Aquí crearemos un inbound rule para permitir el tráfico de datos como se muestra a continuación.
-![Screenshot 2023-11-01 at 4 06 39 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7e98f1e4-f74f-45b3-932c-c2a03ad8924c)
+<img alt="Screenshot 2023-11-01 at 4 06 39 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279985781-7e98f1e4-f74f-45b3-932c-c2a03ad8924c.png">
 
-![Screenshot 2023-11-01 at 4 06 47 PM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/b24d5d4d-7955-4cce-aef7-b7228629b70f) 
+<img alt="Screenshot 2023-11-01 at 4 06 47 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279986060-b24d5d4d-7955-4cce-aef7-b7228629b70f.png">
 
 Una vez se tiene el inbound rule para asignar a la base de datos, vamos a crear la base de datos en este caso de MySQL, para ello se debe ingresar al service RDS con las siguientes configuraciones, en el cuál se selecciona el motor de base de datos y su versión.
 
-![Screenshot 2023-11-02 at 7 42 44 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/dde7ed7b-2e92-4fb1-8c65-42a150b20fea) 
+<img alt="Screenshot 2023-11-02 at 7 42 44 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279988529-dde7ed7b-2e92-4fb1-8c65-42a150b20fea.png"> 
 
-![Screenshot 2023-11-02 at 7 43 04 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d5e24040-1af6-4d80-b21b-c203625636e4) 
+<img alt="Screenshot 2023-11-02 at 7 43 04 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279988660-d5e24040-1af6-4d80-b21b-c203625636e4.png"> 
 
 Luego en la parte de settings se configura el nombre de la base de datos, el usuario y la contraseña, en ese orden.
 
-![Screenshot 2023-11-02 at 7 46 23 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0fa3b391-e6f3-4500-b614-1c7c4a62756c) 
+<img alt="Screenshot 2023-11-02 at 7 46 23 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279989002-0fa3b391-e6f3-4500-b614-1c7c4a62756c.png">
 
 Luego las demás configuraciones se mantienen igual hasta llegar a la sección “Connectivity” se debe cambiar tanto el Public access a yes para asignarle una IP pública a la base de datos. Además de luego asignar el security group previamente creado en la opción Existing VPC security groups.
 
-![Screenshot 2023-11-02 at 7 49 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4670ec1a-0598-4fb2-aa8c-827c320bb9de)
+<img alt="Screenshot 2023-11-02 at 7 49 49 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279991476-4670ec1a-0598-4fb2-aa8c-827c320bb9de.png">
 
-![Screenshot 2023-11-02 at 7 52 02 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/55d15169-915b-4d55-8928-1e1564751270)
+<img alt="Screenshot 2023-11-02 at 7 52 02 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279991483-55d15169-915b-4d55-8928-1e1564751270.png">
 
 Terminada la configuración se da click en el botón de create database y se espera a que está tenga su status como available y con ello ya tenemos la información necesaria para configurar nuestro connection string. Ya contamos con tanto el usuario como la contraseña de lo que habíamos configurado previamente y dentro de nuestra base de datos se encuentran el endpoint y el puerto.
 
-![Screenshot 2023-11-02 at 7 58 49 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/79cc8dc6-5a3b-4f89-9f4d-d6f27e646324)
+<img alt="Screenshot 2023-11-02 at 7 58 49 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/279994399-79cc8dc6-5a3b-4f89-9f4d-d6f27e646324.png">
  
 
 Web service:
 Luego para el web service se utilizó Zeabur el cuál tienes que iniciar sesión con Github de modo que podamos obtener una integración continúa y cada vez que se haga un commit a la rama principal se hará un nuevo deployment de forma automática, por lo que igual que se hizo con Netlify para el front end web application se deberá brindar los permisos del repositorio a Zeabur. Una vez iniciada sesión en Zeabur va a tener un botón que dice create project y seleccione una región.
-![Screenshot 2023-11-02 at 8 20 59 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/7fce4dec-c2d5-4af2-8223-629d806e805c) 
+<img alt="Screenshot 2023-11-02 at 8 20 59 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280001816-7fce4dec-c2d5-4af2-8223-629d806e805c.png">
 
-![Screenshot 2023-11-02 at 8 22 21 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/f8f31a98-4a23-4f24-b1e6-51d0a1410de7) 
+<img alt="Screenshot 2023-11-02 at 8 22 21 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280002582-f8f31a98-4a23-4f24-b1e6-51d0a1410de7.png"> 
 
 Luego para lograr la integración continua se deberá ingresar a “add service” 
-![Screenshot 2023-11-02 at 8 23 31 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ad1b1264-2933-4c73-97b4-9670322b1c31) 
+<img alt="Screenshot 2023-11-02 at 8 23 31 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280002703-ad1b1264-2933-4c73-97b4-9670322b1c31.png"> 
 
 Luego se selecciona el service type que en este caso será Git:
-![Screenshot 2023-11-02 at 8 26 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9f5ae221-0597-4ebc-8b69-1bcb87270c5e)
+<img alt="Screenshot 2023-11-02 at 8 26 52 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280003743-9f5ae221-0597-4ebc-8b69-1bcb87270c5e.png">
 Luego si ya se han concedido los permisos se selecciona el repositorio.
 
-![Screenshot 2023-11-02 at 8 28 52 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4b005bbb-b6eb-4fea-8091-23c91a993934) 
+<img alt="Screenshot 2023-11-02 at 8 28 52 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280004007-4b005bbb-b6eb-4fea-8091-23c91a993934.png"> 
 
 Se selecciona la branch sobre la cuál se va a realizar el despliegue.
 
-![Screenshot 2023-11-02 at 8 29 54 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2823a7b5-7220-4efd-a44f-f930bfdc4769)
+<img alt="Screenshot 2023-11-02 at 8 29 54 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280004380-2823a7b5-7220-4efd-a44f-f930bfdc4769.png">
 
 El service se empezará a desplegar pero también es necesario ir a la sección de domains y se selecciona “Generate Domain” 
 
-![Screenshot 2023-11-02 at 8 30 11 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/00a35f86-0788-4450-b859-2539898aba84) 
+<img alt="Screenshot 2023-11-02 at 8 30 11 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280005073-00a35f86-0788-4450-b859-2539898aba84.png"> 
 
 Finalmente se espera a que se realice el despliegue y se evidencia como está en ejecución y el dominio generado para acceder al despliegue.
 
-![Screenshot 2023-11-02 at 8 32 36 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/217953ba-0409-44b4-9543-b9656782e582)
+<img alt="Screenshot 2023-11-02 at 8 32 36 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280005339-217953ba-0409-44b4-9543-b9656782e582.png">
 
-![Screenshot 2023-11-02 at 8 32 48 AM](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/07c73026-c561-47f8-8bcb-47bf4b569f0d)
+<img alt="Screenshot 2023-11-02 at 8 32 48 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/280005344-07c73026-c561-47f8-8bcb-47bf4b569f0d.png">
 
 Enlace para acceder al web service: [https://greenhouse.zeabur.app/swagger-ui/index.html](https://greenhouse.zeabur.app/swagger-ui/index.html)
 
@@ -2107,7 +2091,7 @@ Enlace para acceder al web service: [https://greenhouse.zeabur.app/swagger-ui/in
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
 
 
-![Trello Sprint 1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/ae574662-9296-473d-8180-0d0fd877fa4b)
+<img alt="Trello Sprint 1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266572484-ae574662-9296-473d-8180-0d0fd877fa4b.png">
 
 Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308ea03c7f900a33150458/sprint
 
@@ -2271,19 +2255,19 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 
     En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
 
-    ![Planes_evidencia_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/5824d5ed-aa2f-4e88-bc4c-3b0a9d82c6ae)
+    <img alt="Planes_evidencia_sprint_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266572340-5824d5ed-aa2f-4e88-bc4c-3b0a9d82c6ae.png">
 
 2. Sección contacto
 
     En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
 
-    ![contacto_evidencia_sprnt_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/e5039b46-2ade-492c-b2b6-7ca16dd87f57)
+    <img alt="contacto_evidencia_sprnt_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266572192-e5039b46-2ade-492c-b2b6-7ca16dd87f57.png">
 
 3. Sección FAQ
 
     En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
 
-    ![FAQ_evidencia_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/fa813024-cbf6-4a1a-9e2b-e7f4fbd1fa24)
+    <img alt="FAQ_evidencia_sprint_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266572105-fa813024-cbf6-4a1a-9e2b-e7f4fbd1fa24.png">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -2293,15 +2277,15 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
 
-![evidence_landing_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/be648854-f4f2-46b1-bd1d-b42994976afb)
+<img alt="evidence_landing_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571868-be648854-f4f2-46b1-bd1d-b42994976afb.png">
 
-![evidence_landing_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/dee5a041-185c-4192-a33d-dabdb2f1f2b5)
+<img alt="evidence_landing_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571873-dee5a041-185c-4192-a33d-dabdb2f1f2b5.png">
 
-![evidence_landing_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/56380040-ad49-4b7d-a0e6-66eb9053e208)
+<img alt="evidence_landing_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571877-56380040-ad49-4b7d-a0e6-66eb9053e208.png">
 
-![evidence_landing_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/35092a52-5cd8-40fe-a2c1-675929729c54)
+<img alt="evidence_landing_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571880-35092a52-5cd8-40fe-a2c1-675929729c54.png">
 
-![evidence_landing_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/aac28476-8aca-4c65-9b0e-b7df9dedb35d)
+<img alt="evidence_landing_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571883-aac28476-8aca-4c65-9b0e-b7df9dedb35d.png">
 
 Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
 
@@ -2315,9 +2299,9 @@ Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integr
 |Espinoza Rodriguez, Nicolas Antonio|Implementación de la sección learn|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección footer y colaboradores|
 
-![evidencia_grupal_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/30489a86-6695-4361-b54f-f778458c3e80)
+<img alt="evidencia_grupal_github_sprint_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571735-30489a86-6695-4361-b54f-f778458c3e80.png">
 
-![evidencia_individual_github_sprint_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/6446f195-3716-4573-aab6-e3721c2e19eb)
+<img alt="evidencia_individual_github_sprint_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266571736-6446f195-3716-4573-aab6-e3721c2e19eb.png">
 
 
 <div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
@@ -2338,7 +2322,7 @@ El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolv
 
 En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+<img alt="Trello Sprint 2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270829129-8da6f60b-229e-4e98-8f60-e13c8ae70be4.png">
 
 Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
 
@@ -2820,41 +2804,54 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
 - US01:
-![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
+<img alt="Landing_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848466-c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf.png">
+
 - US02:
-![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
-![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
-![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
+<img alt="Landing_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848482-37d2a42a-a593-46d2-8bcf-823cf32ecdeb.png">
+<img alt="Landing_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848480-b3c33257-db49-4dfb-8434-1ee2c1d3e25a.png">
+<img alt="Landing_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848479-7e2c8d23-720b-424d-bf80-adc6e88befbd.png">
+
 - US03:
-![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
+<img alt="Landing_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848482-37d2a42a-a593-46d2-8bcf-823cf32ecdeb.png">
+
 - US09:
-![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
-![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
+<img alt="stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851145-7a0f0bf1-6507-43d3-8fc0-b41de726ea81.png">
+<img alt="stock_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851144-2428272c-0f16-4124-aec5-64f31867b422.png">
+
 - US10:
-![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
-![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
+<img alt="preparation_area" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851141-508e36b6-281f-4513-9053-cdbb39bf94a7.png">
+<img alt="preparation_area_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851139-b71e8a0d-5f67-4b9d-a190-7f6538906b3e.png">
+
 - US11:
-![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
-![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
+<img alt="bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851136-ae808f72-5d0e-4b5b-acbd-c22374fcea67.png">
+<img alt="bunker_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851134-b74a32eb-ec54-48e6-be7e-502cf5db2e5a.png">
+
 - US12:
-![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
-![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
+<img alt="tunel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851132-9c38fce5-4133-441a-ab77-415a29797b9b.png">
+<img alt="tunel_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851131-7b30c8e4-385e-40d8-a63e-acf31f36ad7e.png">
+
 - US13:
-![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
-![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
+<img alt="incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851127-87589688-a604-4650-a568-fdf24d49fb8c.png">
+<img alt="incubation_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851124-f95863b1-875f-4dc8-93d1-d91b8d3d4152.png">
+
 - US14:
-![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
-![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
+<img alt="casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851119-41c99426-8f3e-423f-90ad-ed5db937f47b.png">
+<img alt="casing_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851118-f0d95b18-3239-4be1-8ee0-c3356f9d3808.png">
+
 - US15:
-![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
-![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
+<img alt="induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851114-370de214-67fc-414f-9f7a-2b1c4ba7cd3a.png">
+<img alt="induction_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851111-c3d0bfbe-4306-4470-b9a6-5acb8b78478a.png">
+
 - US16:
-![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
-![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
+<img alt="harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851106-859fd609-f9bf-4ab7-bd49-6002c10bf645.png">
+<img alt="harvest_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851101-3ce395c7-c599-4562-a145-0f9f965cf51a.png">
+
 - US20:
-![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
+<img alt="Organization" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851151-e87ac1d9-c192-4d54-abb5-279b60e34032.png">
+
 - US21:
-![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
+<img alt="Profile" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851150-580816d9-0499-44e2-bcaa-12c41dd47be0.png">
+
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 Para el sprint 2 únicamente se planificó que el sprint abarcaría únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse).
@@ -2884,60 +2881,60 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
-![deployment_landing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3e406d58-1bf4-486a-897f-a2e64616902d)
+<img alt="deployment_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270853853-3e406d58-1bf4-486a-897f-a2e64616902d.png">
 
 - Capturas de pantalla landing page:
 
-![Landing_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/59a49cb5-e22d-471d-98f3-fbf506e2425a)
-![Landing_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/37d2a42a-a593-46d2-8bcf-823cf32ecdeb)
-![Landing_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b3c33257-db49-4dfb-8434-1ee2c1d3e25a)
-![Landing_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7e2c8d23-720b-424d-bf80-adc6e88befbd)
-![Landing_5](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06d27957-9a1e-4c0e-a5d6-7162015771fb)
-![Landing_6](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/617ba3b1-c0f5-48bb-9adc-029ae12d51ab)
-![Landing_7](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e3b2c196-e66c-4e34-b840-b3de0b8e9396)
-![Landing_8](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf)
-![Landing_9](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5f457c37-0579-4306-b211-d17e6f1ae5c3)
-![Landing_10](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e5294dea-9692-4abb-abbd-1093e3099571)
-![Landing_11](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2936a5ed-e39e-488d-b1b0-c521c421ab8f)
+<img alt="Landing_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848485-59a49cb5-e22d-471d-98f3-fbf506e2425a.png">
+<img alt="Landing_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848482-37d2a42a-a593-46d2-8bcf-823cf32ecdeb.png">
+<img alt="Landing_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848480-b3c33257-db49-4dfb-8434-1ee2c1d3e25a.png">
+<img alt="Landing_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848479-7e2c8d23-720b-424d-bf80-adc6e88befbd.png">
+<img alt="Landing_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848475-06d27957-9a1e-4c0e-a5d6-7162015771fb.png">
+<img alt="Landing_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848471-617ba3b1-c0f5-48bb-9adc-029ae12d51ab.png">
+<img alt="Landing_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848468-e3b2c196-e66c-4e34-b840-b3de0b8e9396.png">
+<img alt="Landing_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848466-c98f9f5f-a93a-498b-a91e-5ff9b4bd5bdf.png">
+<img alt="Landing_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848462-5f457c37-0579-4306-b211-d17e6f1ae5c3.png">
+<img alt="Landing_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848490-e5294dea-9692-4abb-abbd-1093e3099571.png">
+<img alt="Landing_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270848489-2936a5ed-e39e-488d-b1b0-c521c421ab8f.png">
 
 Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
 
-![deployment_web_app](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/abf4d6b0-e86d-4cdd-a7d3-44a77461ced0)
+<img alt="deployment_web_app" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270853857-abf4d6b0-e86d-4cdd-a7d3-44a77461ced0.png">
 
 - Capturas de pantalla de web application:
 
-![dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5b83b93e-1353-4a98-9753-17dfeb7af3b5)
-![Organization](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e87ac1d9-c192-4d54-abb5-279b60e34032)
-![Profile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/580816d9-0499-44e2-bcaa-12c41dd47be0)
-![start_harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1e7d1fec-08f6-4551-83d4-83c7ac82595c)
-![start_harvest_popup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f1d60045-1265-4091-9273-4e50aa382dd0)
-![stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7a0f0bf1-6507-43d3-8fc0-b41de726ea81)
-![stock_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2428272c-0f16-4124-aec5-64f31867b422)
-![stock_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5bf549e5-1d3c-4cbb-8099-6a09b403c6c4)
-![preparation_area](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/508e36b6-281f-4513-9053-cdbb39bf94a7)
-![preparation_area_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b71e8a0d-5f67-4b9d-a190-7f6538906b3e)
-![preparation_area_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a323393d-6fb4-4163-8355-21fd3f155f64)
-![bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ae808f72-5d0e-4b5b-acbd-c22374fcea67)
-![bunker_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b74a32eb-ec54-48e6-be7e-502cf5db2e5a)
-![bunker_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dba83376-705b-439f-93b8-18603793f654)
-![tunel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9c38fce5-4133-441a-ab77-415a29797b9b)
-![tunel_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7b30c8e4-385e-40d8-a63e-acf31f36ad7e)
-![tunel_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/81b190f5-fc0a-4727-a37b-d5c57e308583)
-![incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/87589688-a604-4650-a568-fdf24d49fb8c)
-![incubation_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f95863b1-875f-4dc8-93d1-d91b8d3d4152)
-![incubation_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b0fadc01-f363-4a7a-91ee-3a0a3bb3f990)
-![casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/41c99426-8f3e-423f-90ad-ed5db937f47b)
-![casing_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f0d95b18-3239-4be1-8ee0-c3356f9d3808)
-![casing_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/64199433-4a15-4562-bbf7-bd2aed06f021)
-![induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/370de214-67fc-414f-9f7a-2b1c4ba7cd3a)
-![induction_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c3d0bfbe-4306-4470-b9a6-5acb8b78478a)
-![induction_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/04698ac6-0e7c-44ee-8b5b-1a9082dae683)
-![harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/859fd609-f9bf-4ab7-bd49-6002c10bf645)
-![harvest_popup_newrecord](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3ce395c7-c599-4562-a145-0f9f965cf51a)
-![harvest_popup_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/373540e4-3675-4567-a090-62b44b716b93)
-![finish_crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/912e0a08-2d6a-4065-868d-fadc24afba34)
+<img alt="dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851446-5b83b93e-1353-4a98-9753-17dfeb7af3b5.png">
+<img alt="Organization" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851151-e87ac1d9-c192-4d54-abb5-279b60e34032.png">
+<img alt="Profile" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851150-580816d9-0499-44e2-bcaa-12c41dd47be0.png">
+<img alt="start_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851147-1e7d1fec-08f6-4551-83d4-83c7ac82595c.png">
+<img alt="start_harvest_popup" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851146-f1d60045-1265-4091-9273-4e50aa382dd0.png">
+<img alt="stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851145-7a0f0bf1-6507-43d3-8fc0-b41de726ea81.png">
+<img alt="stock_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851144-2428272c-0f16-4124-aec5-64f31867b422.png">
+<img alt="stock_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851144-2428272c-0f16-4124-aec5-64f31867b422.png">
+<img alt="preparation_area" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851141-508e36b6-281f-4513-9053-cdbb39bf94a7.png">
+<img alt="preparation_area_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851139-b71e8a0d-5f67-4b9d-a190-7f6538906b3e.png">
+<img alt="preparation_area_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851138-a323393d-6fb4-4163-8355-21fd3f155f64.png">
+<img alt="bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851136-ae808f72-5d0e-4b5b-acbd-c22374fcea67.png">
+<img alt="bunker_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851134-b74a32eb-ec54-48e6-be7e-502cf5db2e5a.png">
+<img alt="bunker_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851133-dba83376-705b-439f-93b8-18603793f654.png">
+<img alt="tunel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851132-9c38fce5-4133-441a-ab77-415a29797b9b.png">
+<img alt="tunel_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851131-7b30c8e4-385e-40d8-a63e-acf31f36ad7e.png">
+<img alt="tunel_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851128-81b190f5-fc0a-4727-a37b-d5c57e308583.png">
+<img alt="incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851127-87589688-a604-4650-a568-fdf24d49fb8c.png">
+<img alt="incubation_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851124-f95863b1-875f-4dc8-93d1-d91b8d3d4152.png">
+<img alt="incubation_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851121-b0fadc01-f363-4a7a-91ee-3a0a3bb3f990.png">
+<img alt="casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851119-41c99426-8f3e-423f-90ad-ed5db937f47b.png">
+<img alt="casing_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851118-f0d95b18-3239-4be1-8ee0-c3356f9d3808.png">
+<img alt="casing_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851116-64199433-4a15-4562-bbf7-bd2aed06f021.png">
+<img alt="induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851114-370de214-67fc-414f-9f7a-2b1c4ba7cd3a.png">
+<img alt="induction_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851111-c3d0bfbe-4306-4470-b9a6-5acb8b78478a.png">
+<img alt="induction_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851109-04698ac6-0e7c-44ee-8b5b-1a9082dae683.png">
+<img alt="harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851106-859fd609-f9bf-4ab7-bd49-6002c10bf645.png">
+<img alt="harvest_popup_newrecord" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851101-3ce395c7-c599-4562-a145-0f9f965cf51a.png">
+<img alt="harvest_popup_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851154-373540e4-3675-4567-a090-62b44b716b93.png">
+<img alt="finish_crop" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270851152-912e0a08-2d6a-4065-868d-fadc24afba34.png">
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -2949,17 +2946,18 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 |Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
 |Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
 
-Repositorio Landing:
+Repositorio Landing
 
-![evidencia_grupal_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9fee1c78-fa0d-45b5-b8eb-301fe418ed9c)
+<img alt="evidencia_grupal_landing_github_sprint_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270833457-9fee1c78-fa0d-45b5-b8eb-301fe418ed9c.png">
 
-![evidencia_indidual_landing_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ade1b9ff-9af8-45a2-a12b-a307d85367a1)
+<img alt="evidencia_individual_landing_github_sprint_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270833460-ade1b9ff-9af8-45a2-a12b-a307d85367a1.png">
 
-Repositorio Web Application:
+Repositorio Web Application
 
-![evidencia_grupal_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ba00f6fd-ae26-43d3-bdb3-82c6667ee1f5)
+<img alt="evidencia_grupal_webapp_github_sprint_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270833459-ba00f6fd-ae26-43d3-bdb3-82c6667ee1f5.png">
 
-![evidencia_individual_webapp_github_sprint_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/74d37005-b7c1-4e7a-b990-ed8412d65b0b)
+<img alt="evidencia_individual_webapp_github_sprint_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270833458-74d37005-b7c1-4e7a-b990-ed8412d65b0b.png">
+
 
 
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
@@ -3040,7 +3038,7 @@ El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolv
 
 En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
 
-![Trello sprint 3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/412b0bb2-51ca-417c-8eda-57d1ae27472f)
+<img alt="Trello sprint 3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280183122-412b0bb2-51ca-417c-8eda-57d1ae27472f.png">
 
 Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
 
@@ -3561,38 +3559,49 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
 
 - US04:
-![open_register](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7c82518d-1a4d-422b-bfbd-a4291561e534)
+<img alt="open_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273274-7c82518d-1a4d-422b-bfbd-a4291561e534.png">
+
 - US06:
-![open_login](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1a5b41ff-8f16-4f81-ad44-01335248e605)
+<img alt="open_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273266-1a5b41ff-8f16-4f81-ad44-01335248e605.png">
+
 - US07:
-![open_process_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/033948f3-895a-4ac6-8235-2db7637ec008)
+<img alt="open_process_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274027-033948f3-895a-4ac6-8235-2db7637ec008.png">
+
 - US08:
-![open_process](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6)
+<img alt="open_process" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273304-06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6.png">
+
 - US20:
-![open_company](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/309a2c22-50cc-49ab-8820-a97e728c18c4)
+<img alt="open_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273298-309a2c22-50cc-49ab-8820-a97e728c18c4.png">
+
 - US21:
-![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
+<img alt="open_usuario" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273288-e1112957-6bc0-4c87-a6d6-eed576737f9d.png">
+
 - TS01:
-![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+
 - TS03:
-![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+
 - TS04:
-![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
-![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
-![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
-![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
-![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+
 - TS06:
-![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+
 - TS07:
-![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
-![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+
 - TS08:
-![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
-![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
-![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
-![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
-![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
 
 Enlace para visualizar el video de explicación de los logros del Sprint: 
 
@@ -3605,8 +3614,10 @@ Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end
 
 Json server:
 
-![JSON1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/20d29e81-bdfb-4e94-bd2d-a967451e2101)
-![JSON2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/09b755f8-ecc8-4f5b-89c9-1671560a44b0)
+<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255529-20d29e81-bdfb-4e94-bd2d-a967451e2101.png">
+<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255532-09b755f8-ecc8-4f5b-89c9-1671560a44b0.png">
+
+
 
 | Endpoint | Details |
 | - | - | 
@@ -3734,25 +3745,24 @@ Web Service:
 </table>
 
 - Web service images
-
-![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
-![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
-![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
-![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
-![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
-![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
-![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
-![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
-![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
-![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
-![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
-![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
-![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
-![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
-![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
-![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
-![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
-![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
 
 Link del repositorio:
 
@@ -3860,92 +3870,91 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 - Capturas de pantalla landing page:
 
-![1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ebd77824-5daf-4123-a501-c3ce549c830d)
-![2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b3175297-907d-496c-bd6a-1a43e39e0bd1)
-![3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/73626ab9-0884-40cc-a167-99988f37eb38)
-![4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/23a28e78-843f-4af9-86c1-1fee5a3bf995)
-![5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc)
-![6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7641c270-8818-4c1a-abb3-2c612816cefc)
-![7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e2ab2cd9-a0fc-4db7-9848-fa14db6f7ce6)
-![videos_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7ca15624-c3ae-412c-b844-5fdef23d8ef2)
-![9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e4b25aa3-eb8a-475f-9144-fd1e395c7876)
-![10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0545ec66-30c7-46db-81ac-2ee4e83ffd83)
-![11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/a8622e6a-9704-4925-8cbe-6d3f705f0e7e)
-![12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a)
+<img alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394624-ebd77824-5daf-4123-a501-c3ce549c830d.png">
+<img alt="2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394623-b3175297-907d-496c-bd6a-1a43e39e0bd1.png">
+<img alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394622-73626ab9-0884-40cc-a167-99988f37eb38.png">
+<img alt="4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394620-23a28e78-843f-4af9-86c1-1fee5a3bf995.png">
+<img alt="5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394619-f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc.png">
+<img alt="6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394615-7641c270-8818-4c1a-abb3-2c612816cefc.png">
+<img alt="7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394634-e2ab2cd9-a0fc-4db7-9848-fa14db6f7ce6.png">
+<img alt="videos_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280393892-7ca15624-c3ae-412c-b844-5fdef23d8ef2.png">
+<img alt="9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394632-e4b25aa3-eb8a-475f-9144-fd1e395c7876.png">
+<img alt="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394631-0545ec66-30c7-46db-81ac-2ee4e83ffd83.png">
+<img alt="11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394630-a8622e6a-9704-4925-8cbe-6d3f705f0e7e.png">
+<img alt="12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394627-ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a.png">
 
 
 Web Application front-end:
 
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
-![open_deployment](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4c16b805-113c-4be6-bfc6-c406e829545d)
+<img alt="open_deployment" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274519-4c16b805-113c-4be6-bfc6-c406e829545d.png">
 
 - Capturas de pantalla de web application:
 
-![open_login](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1a5b41ff-8f16-4f81-ad44-01335248e605)
-![open_register](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/7c82518d-1a4d-422b-bfbd-a4291561e534)
-![open_dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/f812e91d-94f1-43df-b754-fa9967ea942f)
-![open_usuario](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e1112957-6bc0-4c87-a6d6-eed576737f9d)
-![open_company](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/309a2c22-50cc-49ab-8820-a97e728c18c4)
-![open_process](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6)
-![open_process_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/033948f3-895a-4ac6-8235-2db7637ec008)
-![open_stock](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fbdef7bd-2179-4080-a717-16cf82b61346)
-![open_stock_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/2645ec04-1f12-4a28-acf7-59477d89b774)
-![open_stock_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/01593b4f-c84a-4959-9200-8f3bbd6e29b5)
-![open_preparation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/00c29a01-470c-40a0-9853-4033b8906d8e)
-![open_preparation_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/56f34718-867c-4a7b-bf48-88a3c5070c6e)
-![open_preparation_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/09e2acea-2f2c-471f-a3c1-9f58c5f370b1)
-![open_bunker](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ef03571e-7e88-4cb6-8be4-0f52211bc43b)
-![open_bunker_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a75dc280-39a1-4118-91b8-a6e808013f8c)
-![open_bunker_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c2095c6d-a345-4db6-8e40-248b8b0cf923)
-![open_tunnel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c4aa9ef8-1bfa-4b53-8530-a076e275f880)
-![open_tunnel_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/6a3fd374-1bc8-4b13-ba85-1011dd7d77c6)
-![open_tunnel_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/70261d71-53e7-4d8f-a694-8752cc47b366)
-![open_incubation](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/eb479689-457e-43e9-a8ea-75be160232cb)
-![open_incubation_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/64995a3c-5d4c-4681-84ac-3389c6436a8e)
-![open_incubation_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ff4784c6-fa1d-49dc-8ccc-e16aa115300a)
-![open_casing](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/1fb317ee-baf8-4210-a03d-e86bfe79dc87)
-![open_casing_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8294f6da-ddd7-4e12-ac30-95ec559af5de)
-![open_casing_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/046f26df-782d-4b2f-8eb4-89c11c557dff)
-![open_induction](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/93b5b741-be15-43e7-9d40-ba4ba1837794)
-![open_induction_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/caa50500-1286-4062-8919-02cf5d94e9b0)
-![open_induction_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/a07dc436-da48-4032-bd40-75654a3b6111)
-![open_harvest](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/6f7aa9b3-d157-49ea-a729-deeb795b4e6b)
-![open_harvest_record](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/987f8fc9-ac6f-4ed6-83c7-49958894e997)
-![open_harvest_warning](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360)
-![open_complete](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee)
+<img alt="open_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273266-1a5b41ff-8f16-4f81-ad44-01335248e605.png">
+<img alt="open_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273274-7c82518d-1a4d-422b-bfbd-a4291561e534.png">
+<img alt="open_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273282-f812e91d-94f1-43df-b754-fa9967ea942f.png">
+<img alt="open_usuario" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273288-e1112957-6bc0-4c87-a6d6-eed576737f9d.png">
+<img alt="open_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273298-309a2c22-50cc-49ab-8820-a97e728c18c4.png">
+<img alt="open_process" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273304-06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6.png">
+<img alt="open_process_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274027-033948f3-895a-4ac6-8235-2db7637ec008.png">
+<img alt="open_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273320-fbdef7bd-2179-4080-a717-16cf82b61346.png">
+<img alt="open_stock_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273330-2645ec04-1f12-4a28-acf7-59477d89b774.png">
+<img alt="open_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273345-01593b4f-c84a-4959-9200-8f3bbd6e29b5.png">
+<img alt="open_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273354-00c29a01-470c-40a0-9853-4033b8906d8e.png">
+<img alt="open_preparation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273362-56f34718-867c-4a7b-bf48-88a3c5070c6e.png">
+<img alt="open_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273370-09e2acea-2f2c-471f-a3c1-9f58c5f370b1.png">
+<img alt="open_bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273384-ef03571e-7e88-4cb6-8be4-0f52211bc43b.png">
+<img alt="open_bunker_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273397-a75dc280-39a1-4118-91b8-a6e808013f8c.png">
+<img alt="open_bunker_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273417-c2095c6d-a345-4db6-8e40-248b8b0cf923.png">
+<img alt="open_tunnel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/c4aa9ef8-1bfa-4b53-8530-a076e275f880">
+<img alt="open_tunnel_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6a3fd374-1bc8-4b13-ba85-1011dd7d77c6">
+<img alt="open_tunnel_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/70261d71-53e7-4d8f-a694-8752cc47b366">
+<img alt="open_incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/eb479689-457e-43e9-a8ea-75be160232cb">
+<img alt="open_incubation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/64995a3c-5d4c-4681-84ac-3389c6436a8e">
+<img alt="open_incubation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/ff4784c6-fa1d-49dc-8ccc-e16aa115300a">
+<img alt="open_casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/1fb317ee-baf8-4210-a03d-e86bfe79dc87">
+<img alt="open_casing_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/8294f6da-ddd7-4e12-ac30-95ec559af5de">
+<img alt="open_casing_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/046f26df-782d-4b2f-8eb4-89c11c557dff">
+<img alt="open_induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/93b5b741-be15-43e7-9d40-ba4ba1837794">
+<img alt="open_induction_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/caa50500-1286-4062-8919-02cf5d94e9b0">
+<img alt="open_induction_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/a07dc436-da48-4032-bd40-75654a3b6111">
+<img alt="open_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6f7aa9b3-d157-49ea-a729-deeb795b4e6b">
+<img alt="open_harvest_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/987f8fc9-ac6f-4ed6-83c7-49958894e997">
+<img alt="open_harvest_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360">
+<img alt="open_complete" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee">
 
 Web Services back-end:
 
 
 Ultímo despligue del web service en Zeabur:
-![Screenshot 2023-11-03 at 1 32 50 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a)
+<img alt="Screenshot 2023-11-03 at 1 32 50 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a">
 
 Base de Dato en AWS RDS:
-![Screenshot 2023-11-03 at 1 36 32 AM](https://github.com/Integradis-OpenSource/greenhouse-platform/assets/103552798/b6c2a18d-193c-4f06-a201-49902e948423)
+<img alt="Screenshot 2023-11-03 at 1 36 32 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/b6c2a18d-193c-4f06-a201-49902e948423">
 
 
 - Capturas de pantalla de web application:
 
-![Screenshot_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d712c816-3749-40e4-a6fb-7d4dfe3ccf17)
-![Screenshot_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44f38ea3-f8ab-47a5-8c9d-5978f8924195)
-![Screenshot_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9495500b-6539-4e3c-9a49-b59af12cef92)
-![Screenshot_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8419b1dc-1c86-4839-8baf-2958265d5a6d)
-![Screenshot_5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1bad45c-7667-427c-8523-106321f5a5f0)
-![Screenshot_6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f867ca30-2181-4e08-9176-196fc4dcdc04)
-![Screenshot_7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7c70195-f0e4-44dd-8e05-06d4f9413ea2)
-![Screenshot_8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d1657263-36a6-411b-9477-775168368fe4)
-![Screenshot_9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9b64db5f-d6bc-4b84-a964-14b52e595cfa)
-![Screenshot_10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f337f360-463e-443d-904a-07c8a26bea73)
-![Screenshot_11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d75cef08-93fe-45f7-bf8a-883133869463)
-![Screenshot_12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bd03bafa-6208-4528-b037-195dc66d21e0)
-![Screenshot_13](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7c70f717-7845-454d-aa5e-c35e3158c48a)
-![Screenshot_14](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d)
-![Screenshot_15](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c6e600c0-3fbc-4bab-afdb-2d4c4673bc98)
-![Screenshot_16](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5fe6358f-844a-490b-bf91-870627d9dd9a)
-![Screenshot_17](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cc7ee50d-1e49-4689-9d38-186b203fdc9c)
-![Screenshot_18](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/84b8e064-1811-452e-8e0c-e4a082176de9)
-
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
 <div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
 |Alumno|Actividad|
@@ -3958,18 +3967,655 @@ Base de Dato en AWS RDS:
 
 Repositorio Landing:
 
-![insight_1_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b69c7b1b-2cef-41a3-b19e-6d4ace78f7c8)
-![insight_2_open_landing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/329b9e30-6ed8-444a-9c5d-6bf7879d6009)
+<img alt="insight_1_open_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/b69c7b1b-2cef-41a3-b19e-6d4ace78f7c8">
+<img alt="insight_2_open_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/329b9e30-6ed8-444a-9c5d-6bf7879d6009">
 
 Repositorio Web Application:
 
-![insight_1_open](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/3f3b791f-1790-428e-b051-4b1314e0f956)
-![insight_2_open](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/b084e5de-bafb-44ec-94a8-61735d98632a)
+<img alt="insight_1_open" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/3f3b791f-1790-428e-b051-4b1314e0f956">
+<img alt="insight_2_open" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/b084e5de-bafb-44ec-94a8-61735d98632a">
 
 Repositorio Platform:
 
-![insight_1_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291)
-![insight_2_open_platform](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa)
+<img alt="insight_1_open_platform" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/7a826987-30db-4f8f-89e6-8b77e55e1291">
+<img alt="insight_2_open_platform" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/523437e9-60ad-4bcd-8103-f7e77c1519fa">
+
+<div id='5.2.4.'><h4> 5.4.1. Sprint 4.</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+
+El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-11-06</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alan Galavis</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Nicolás Espinoza, Alan Galavis, Andrés Soto, Carlo Seminario
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                <b>¿Qué funciona bien?</b> Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. <b> ¿Qué no salió bien o cómo se esperaba? </b> El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras <b> ¿Qué deberíamos intentar hacer a continuación? </b> Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Elaborar la sección "Reportes estadísticos", conectar la aplicación con un API de terceros para enviar invitaciones por correo electrónico a los trabajadores, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                33
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                33
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+
+Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
+
+<img alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284130167-7e4a95d0-1486-4cb0-8302-f780d774762b.png">
+
+Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c2188d8af1c2B931F0F/sprint-4
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US19</td>
+        <td rowspan="1">Visualizar reportes estadísticos</td>
+        <td>TK47</td>
+        <td>Crear componente gráfico de líneas</td>
+        <td>Importar las dependencias necesarias para crear un componente gráfico de líneas que permita visualizar un reporte estadístico del estado actual de las naves</td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+    <tr>
+        <td rowspan="2">US06</td>
+        <td rowspan="2">Iniciar sesión</td>
+        <td>TK48</td>
+        <td>Autenticar al usuario</td>
+        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TK49</td>
+        <td>Mostrar información correspondiente al usuario autenticado</td>
+        <td>Asegurar que el usuario que haya iniciado sesión visualice la información asociada a su cuenta</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+        <tr>
+        <td rowspan="1">TS10</td>
+        <td rowspan="1">Get crop</td>
+        <td>TK50</td>
+        <td>Crear endpoint para obtener un cultivo</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    </tr>
+        <tr>
+        <td rowspan="1">TS11</td>
+        <td rowspan="1">Get crop by grow phase</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo a la fase en la que se encuentran</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la fase en la que se encuentre, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1">TS12</td>
+        <td rowspan="1">Get crop by user</td>
+        <td>TK52</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Nicolás Espinoza</td>
+        <td>Done</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|a0d9c4b|feat(crops-in-progress): Added localization to section||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7a0c2f3|feat(roles): added role enumeration and entity||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|184f8b6|feat(users): added user entity||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|47a0d04|feat(roles): added commands, queries, services and repository for role domain.||14/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|ec14b90|feat(invite-employee-dialog): Added invite employee email service||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|715df65|feat(users): added user domain services.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|62c9c8f|feat(roles): added role command service implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|48eef27|feat(roles): added role query service implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f51d251|feat(roles): added role seeding at application ready event||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8bada42|chore(iam): added spring boot starter security dependency||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9b3358|feat(iam): implemented password hashing service.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e954e9f|feat(iam): created token service implementation class.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|199afb5|chore(iam): added additional jwt dependencies||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|dad2e6e|feat(hashing): implemented BCryptHashingService interface||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a8f857d|chore(iam): added variables to TokenServiceImpl and configuration parameters||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00bff26|feat(tokens): added methods to TokenServiceImplementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ab8e7a|feat(tokens): implemented missing methods from TokenServiceImpl||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0f1a252|feat(sfs): added user details implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|359443f|feat(sfs): added username password authentication token builder||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c646ec2|feat(sfs): added authorization request pipeline classes.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|218601f|feat(sfs): added security configuration class.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|218601f|docs: added security configuration to openAPi documentation.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2c14636|feat(iam): implemented interface layer for authentication.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e7dab83|feat(iam): implemented interface layer for roles and users.||15/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|8ee629c|feat: updated services and models with the deployed Greenhouse.API.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|833bac9|chore: change the endpoints to the corresponding API endpoints for each step.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|dc83fc1|chore: change the endpoints to the corresponding API endpoints for get and post.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|ca79a22|chore: change the endpoints to show the active crops for a company.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|44cfbea|chore: when creating a new crop the API create a new one.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|ce76792|chore: The dashboard shows the data Backend needs to show the date.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|3e5597a|Merge: First approach to connect the Back-end with the Front-end.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|dc96868|feat: Invited employee now gets added to db.json||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|95db634|feat(statistical-reports): Added line-chart component to statistical reports||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|3e61468|feat: added log-in.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|edbfd3f|chore: update security dependencies.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|37c9b82|chore: disable CORS.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e2afbe6|chore: accept CORS origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|300297f|chore: accept CORS origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9907fb0|chore: added class for Cors configuration.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d9bcb32|chore: added specific allowed origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0a9dcdc|chore: added deployed web service connection for crops endpoint.||17/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8fb9d5f|chore: updated allowed origins and security for api/v1/crops.||17/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9c3b46d|feat: Added localization to dialogs and stepper contents||18/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|5f4db6d|feat: Added localization to process table and dashboard table||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f15b65f|feat(crop): implemented end crop phase command in controller||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c87abf6|feat(crop entry): implemented day, date and time to resource||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b7f31ef|fix(crop entry): fixed formatted time||18/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|60d1473|chore(crop): added end phase endpoint||19/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|df009fc|fix: missing , form the merge||19/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9b1520c|fix(crop entry): added auto-generated average thermocouple.||19/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|9474e68|chore: Sign up is now functional.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|d708ff4|chore: updated the format of the data.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|832a0cf|chore: updated the format of the data and its now displayed on the dashboard-table.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|d07a2c6|chore: updated the endpoints to the deployed back-end.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|7f0b58b|chore: fixed naming conventions for I18n.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|2c2985e|fix: maximumWaring budget error on the deploy changed 1mb to 2mb.||20/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|63001fd|fix: updated the command resources, by eliminating unnecessary resources.||20/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|01ccf0d|feat(toolbar): added changing format and redirection of logo according to endpoints||21/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|cbe7f3f|feat: Added about the product and about the team videos||21/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|5e71932|fix: Fixed image naming convention||21/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|d215d60|fix: Updated about the team and about the product texts||21/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|010fbdc|feat: Added privacy policy||21/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|4ee6bd1|fix: Fixed missing bold text||21/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|0289ff8|fix: Fixed DDD of project||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|b726abf|fix: Fixed toolbar z-index||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|27c180b|fix: Renamed method from onRowSelect to onRowSelected||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|98384e4|chore: User and company profiles extract info from database||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f36dd42|chore: sign in now gets the Data displayed of the corresponding employee.||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|f270e90|fix: created a separated USER_ID key on the storage.||22/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b3c926e|chore: allowed access to employees and companies endpoint||22/11/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd|Integradis-OpenSource/Greenhouse_FrontEnd|68d6277|fix: The user logged is now displayed correctly.||23/11/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|Integradis-OpenSource/LandingPage|514e228|fix: changed source to webapp||23/11/2023|
+
+
+
+
+<div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+
+
+<div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
+
+- US19:
+<img alt="open_estats" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113309-1a3a481a-5c8b-44ad-bc3e-622e0f10e707.png">
+
+
+- US06:
+<img alt="open_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113308-fb79df29-db36-4df2-a6d8-709f028e10ca.png">
+<img alt="open_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113304-64cc6e4a-bfe6-457e-b3b8-fb5e3e825fe6.png">
+
+
+- TS12:
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+
+
+- TS11:
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+
+
+- TS12:
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+
+
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+Json server:
+
+<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255529-20d29e81-bdfb-4e94-bd2d-a967451e2101.png">
+<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255532-09b755f8-ecc8-4f5b-89c9-1671560a44b0.png">
+
+
+
+| Endpoint | Details |
+| - | - | 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="15">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/end_phase</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td>Roles</td>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/roles</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/authentication/sign-up</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/authentication/sign-in</td>
+        </tr>
+    </tbody>
+</table>
+
+- Web service images
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089533-19c7ff7d-4cee-4b72-a52d-6f98a04a024e.png" alt="endphase">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089536-6ff2dfc4-1151-4bd3-97df-dc94f0911fbb.png" alt="aut2">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089537-f30aa6a4-cf85-4733-a6e9-adbc590e1bd7.png" alt="aut1">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089538-bf770f86-49e1-4c05-b889-0507f0f63f7f.png" alt="roles">
+
+Link del repositorio:
+
+https://github.com/Integradis-OpenSource/greenhouse-platform
+
+- Web service commit details
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|7a0c2f3|feat(roles): added role enumeration and entity||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|184f8b6|feat(users): added user entity||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|47a0d04|feat(roles): added commands, queries, services and repository for role domain.||14/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|715df65|feat(users): added user domain services.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|62c9c8f|feat(roles): added role command service implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|48eef27|feat(roles): added role query service implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f51d251|feat(roles): added role seeding at application ready event||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8bada42|chore(iam): added spring boot starter security dependency||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b9b3358|feat(iam): implemented password hashing service.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e954e9f|feat(iam): created token service implementation class.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|199afb5|chore(iam): added additional jwt dependencies||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|dad2e6e|feat(hashing): implemented BCryptHashingService interface||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|a8f857d|chore(iam): added variables to TokenServiceImpl and configuration parameters||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|00bff26|feat(tokens): added methods to TokenServiceImplementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|1ab8e7a|feat(tokens): implemented missing methods from TokenServiceImpl||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|0f1a252|feat(sfs): added user details implementation||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|359443f|feat(sfs): added username password authentication token builder||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c646ec2|feat(sfs): added authorization request pipeline classes.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|218601f|feat(sfs): added security configuration class.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|218601f|docs: added security configuration to openAPi documentation.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|2c14636|feat(iam): implemented interface layer for authentication.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e7dab83|feat(iam): implemented interface layer for roles and users.||15/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|edbfd3f|chore: update security dependencies.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|37c9b82|chore: disable CORS.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|e2afbe6|chore: accept CORS origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|300297f|chore: accept CORS origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9907fb0|chore: added class for Cors configuration.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|d9bcb32|chore: added specific allowed origins.||16/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|8fb9d5f|chore: updated allowed origins and security for api/v1/crops.||17/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|f15b65f|feat(crop): implemented end crop phase command in controller||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|c87abf6|feat(crop entry): implemented day, date and time to resource||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b7f31ef|fix(crop entry): fixed formatted time||18/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|9b1520c|fix(crop entry): added auto-generated average thermocouple.||19/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|63001fd|fix: updated the command resources, by eliminating unnecessary resources.||20/11/2023|
+|https://github.com/Integradis-OpenSource/greenhouse-platform|Integradis-OpenSource/greenhouse-platform|b3c926e|chore: allowed access to employees and companies endpoint||22/11/2023|
+
+
+<div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del cuarto sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application completa. Asimismo, se desplego el back-end completo.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+
+
+- Capturas de pantalla landing page:
+<img alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394624-ebd77824-5daf-4123-a501-c3ce549c830d.png">
+<img alt="2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394623-b3175297-907d-496c-bd6a-1a43e39e0bd1.png">
+<img alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394622-73626ab9-0884-40cc-a167-99988f37eb38.png">
+<img alt="4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394620-23a28e78-843f-4af9-86c1-1fee5a3bf995.png">
+<img alt="5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394619-f37fc4f1-8b01-45c9-ab1c-20eba5f5a1bc.png">
+<img alt="team" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285090976-63f18e68-f19d-428b-8737-1a5aecb87490.png">
+<img alt="videos_landing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280393892-7ca15624-c3ae-412c-b844-5fdef23d8ef2.png">
+<img alt="9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394632-e4b25aa3-eb8a-475f-9144-fd1e395c7876.png">
+<img alt="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394631-0545ec66-30c7-46db-81ac-2ee4e83ffd83.png">
+<img alt="11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394630-a8622e6a-9704-4925-8cbe-6d3f705f0e7e.png">
+<img alt="12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280394627-ea7f99a1-f2ac-48a1-99e2-2a2c1635ce4a.png">
+
+
+
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+<img alt="open_deployment" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274519-4c16b805-113c-4be6-bfc6-c406e829545d.png">
+
+- Capturas de pantalla de web application:
+<img alt="open_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113308-fb79df29-db36-4df2-a6d8-709f028e10ca.png">
+<img alt="open_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113304-64cc6e4a-bfe6-457e-b3b8-fb5e3e825fe6.png">
+<img alt="open_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273282-f812e91d-94f1-43df-b754-fa9967ea942f.png">
+<img alt="open_usuario" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273288-e1112957-6bc0-4c87-a6d6-eed576737f9d.png">
+<img alt="open_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273298-309a2c22-50cc-49ab-8820-a97e728c18c4.png">
+<img alt="open_estats" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285113309-1a3a481a-5c8b-44ad-bc3e-622e0f10e707.png">
+<img alt="open_process" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273304-06f3f8fc-ac1a-4a86-bc1a-9b3f62e2f6b6.png">
+<img alt="open_process_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279274027-033948f3-895a-4ac6-8235-2db7637ec008.png">
+<img alt="open_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273320-fbdef7bd-2179-4080-a717-16cf82b61346.png">
+<img alt="open_stock_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273330-2645ec04-1f12-4a28-acf7-59477d89b774.png">
+<img alt="open_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273345-01593b4f-c84a-4959-9200-8f3bbd6e29b5.png">
+<img alt="open_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273354-00c29a01-470c-40a0-9853-4033b8906d8e.png">
+<img alt="open_preparation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273362-56f34718-867c-4a7b-bf48-88a3c5070c6e.png">
+<img alt="open_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273370-09e2acea-2f2c-471f-a3c1-9f58c5f370b1.png">
+<img alt="open_bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273384-ef03571e-7e88-4cb6-8be4-0f52211bc43b.png">
+<img alt="open_bunker_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273397-a75dc280-39a1-4118-91b8-a6e808013f8c.png">
+<img alt="open_bunker_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279273417-c2095c6d-a345-4db6-8e40-248b8b0cf923.png">
+<img alt="open_tunnel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/c4aa9ef8-1bfa-4b53-8530-a076e275f880">
+<img alt="open_tunnel_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6a3fd374-1bc8-4b13-ba85-1011dd7d77c6">
+<img alt="open_tunnel_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/70261d71-53e7-4d8f-a694-8752cc47b366">
+<img alt="open_incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/eb479689-457e-43e9-a8ea-75be160232cb">
+<img alt="open_incubation_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/64995a3c-5d4c-4681-84ac-3389c6436a8e">
+<img alt="open_incubation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/ff4784c6-fa1d-49dc-8ccc-e16aa115300a">
+<img alt="open_casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/1fb317ee-baf8-4210-a03d-e86bfe79dc87">
+<img alt="open_casing_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/8294f6da-ddd7-4e12-ac30-95ec559af5de">
+<img alt="open_casing_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/046f26df-782d-4b2f-8eb4-89c11c557dff">
+<img alt="open_induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/93b5b741-be15-43e7-9d40-ba4ba1837794">
+<img alt="open_induction_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/caa50500-1286-4062-8919-02cf5d94e9b0">
+<img alt="open_induction_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/a07dc436-da48-4032-bd40-75654a3b6111">
+<img alt="open_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/6f7aa9b3-d157-49ea-a729-deeb795b4e6b">
+<img alt="open_harvest_record" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/987f8fc9-ac6f-4ed6-83c7-49958894e997">
+<img alt="open_harvest_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/fe9f7a05-5c70-4118-9be5-eac2a6c4a360">
+<img alt="open_complete" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/4ed25863-4ecd-47d5-acd8-bcd652ea4bee">
+
+
+Web Services back-end:
+
+
+Ultímo despligue del web service en Zeabur:
+<img alt="Screenshot 2023-11-03 at 1 32 50 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/75fce90a-9b85-4d97-bf51-155d366a3e8a">
+
+Base de Dato en AWS RDS:
+<img alt="Screenshot 2023-11-03 at 1 36 32 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/b6c2a18d-193c-4f06-a201-49902e948423">
+
+
+
+- Capturas de pantalla de web application:
+<img alt="Screenshot_1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395121-d712c816-3749-40e4-a6fb-7d4dfe3ccf17.png">
+<img alt="Screenshot_2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395131-44f38ea3-f8ab-47a5-8c9d-5978f8924195.png">
+<img alt="Screenshot_3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395151-9495500b-6539-4e3c-9a49-b59af12cef92.png">
+<img alt="Screenshot_4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395165-8419b1dc-1c86-4839-8baf-2958265d5a6d.png">
+<img alt="Screenshot_5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395187-c1bad45c-7667-427c-8523-106321f5a5f0.png">
+<img alt="Screenshot_6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395202-f867ca30-2181-4e08-9176-196fc4dcdc04.png">
+<img alt="Screenshot_7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395213-b7c70195-f0e4-44dd-8e05-06d4f9413ea2.png">
+<img alt="Screenshot_8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395220-d1657263-36a6-411b-9477-775168368fe4.png">
+<img alt="Screenshot_9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395254-9b64db5f-d6bc-4b84-a964-14b52e595cfa.png">
+<img alt="Screenshot_10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395275-f337f360-463e-443d-904a-07c8a26bea73.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089533-19c7ff7d-4cee-4b72-a52d-6f98a04a024e.png" alt="endphase">
+<img alt="Screenshot_11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395283-d75cef08-93fe-45f7-bf8a-883133869463.png">
+<img alt="Screenshot_12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395290-bd03bafa-6208-4528-b037-195dc66d21e0.png">
+<img alt="Screenshot_13" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395296-7c70f717-7845-454d-aa5e-c35e3158c48a.png">
+<img alt="Screenshot_14" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/24531ea6-d2c5-41f8-b414-3f4b6dd4995d">
+<img alt="Screenshot_15" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395307-24531ea6-d2c5-41f8-b414-3f4b6dd4995d.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089536-6ff2dfc4-1151-4bd3-97df-dc94f0911fbb.png" alt="aut2">
+<img alt="Screenshot_16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395318-5fe6358f-844a-490b-bf91-870627d9dd9a.png">
+<img alt="Screenshot_17" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395326-cc7ee50d-1e49-4689-9d38-186b203fdc9c.png">
+<img alt="Screenshot_18" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280395341-84b8e064-1811-452e-8e0c-e4a082176de9.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089537-f30aa6a4-cf85-4733-a6e9-adbc590e1bd7.png" alt="aut1">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285089538-bf770f86-49e1-4c05-b889-0507f0f63f7f.png" alt="roles">
+
+<div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Galavis Du Bois, Alan Enrique|Desarrollo del back end e internacionalización del front end|
+|Seminario Garvín, Carlo Luca|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Espinoza Rodriguez, Nicolas Antonio|Desarrollo del back end, y mejora de componentes del front end|
+
+Repositorio Landing:
+
+![landingI1](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108342-0077b94b-e501-4974-bd7d-5a3f1d410279.png)
+![landingI2](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108337-c2cabd81-5580-4402-8f90-8f90ec3b2476.png)
+
+Repositorio Web Application:
+
+
+
+Repositorio Platform:
+
+![landing1](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108348-b386038c-a6f4-43bf-b01d-8934c7359986.png)
+![landing2](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285108345-202917d9-e0d3-4f01-9525-e0d78d71dceb.png)
 
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
@@ -4015,21 +4661,21 @@ Entrevista de validación usuario técnico supervisor 01:
 
 |**Entrevistado 01**|Carlos Castillo|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b53b1043-b204-47ef-bd52-e4190c7467e5)|<p>Durante la entrevista de validación, Carlos Castillo, en su rol de supervisor técnico, evaluó la aplicación web GreenHouse. Al inicio, destacó la elección de colores en el diseño de la interfaz. Luego procedió a examinar la facilidad de acceso y la presentación clara de la información esencial. Castillo también revisó la navegación intuitiva entre las diversas secciones, la sencillez del proceso de inicio de sesión, la posibilidad de cambiar el idioma, así como la creación y gestión de datos en tablas. Inspeccionó, igualmente, el acceso a los perfiles de usuario y empresa.</p><p></p><p>Las funcionalidades revisadas coinciden con los user goals identificados anteriormente. Castillo afirmó la efectividad de estos elementos, destacando la buena comprensión y presentación de los componentes de la aplicación. En conclusión, estableció que GreenHouse cumple con su propósito funcional y aborda de manera efectiva las cuestiones planteadas al principio.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 001" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/b53b1043-b204-47ef-bd52-e4190c7467e5">|<p>Durante la entrevista de validación, Carlos Castillo, en su rol de supervisor técnico, evaluó la aplicación web GreenHouse. Al inicio, destacó la elección de colores en el diseño de la interfaz. Luego procedió a examinar la facilidad de acceso y la presentación clara de la información esencial. Castillo también revisó la navegación intuitiva entre las diversas secciones, la sencillez del proceso de inicio de sesión, la posibilidad de cambiar el idioma, así como la creación y gestión de datos en tablas. Inspeccionó, igualmente, el acceso a los perfiles de usuario y empresa.</p><p></p><p>Las funcionalidades revisadas coinciden con los user goals identificados anteriormente. Castillo afirmó la efectividad de estos elementos, destacando la buena comprensión y presentación de los componentes de la aplicación. En conclusión, estableció que GreenHouse cumple con su propósito funcional y aborda de manera efectiva las cuestiones planteadas al principio.</p>|
 |Timing: 0:04 – 12:53|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=PARBMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc3NS45M319)|
 
 Entrevista de validación usuario técnico supervisor 02:
 
-|**Entrevistado 02**|Jean Carlos del Águila|
+|**Entrevistado 02**|Giancarlo del Águila|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283)|<p>El entrevistador se presentó e inició la sesión con Jean Carlos del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283">|<p>El entrevistador se presentó e inició la sesión con Giancarlo del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
 |Timing: 12:54 – 24:44|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=XUb3TX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NzguNTN9fQ%3D%3D) |
 
 Entrevista de validación usuario técnico supervisor 03:
 
 |**Entrevistado 03**|Kevin|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/4948da55-f6d3-429c-b9ef-d02e9f3e3bae)|<p>Durante la entrevista técnica, Kevin examinó el panel de control de la aplicación, verificó el proceso de inicio de sesión y analizó la estructura del landing page para validar los user goals. Posteriormente, sugirió que se debería permitir la eliminación o edición de datos erróneos en el registro de cultivos, adaptándose a las distintas fases de producción.</p><p></p><p>Kevin también señaló la necesidad de mejorar la interfaz del perfil de usuario. Puntualizó que los supervisores técnicos carecen de las funciones para alterar la información o suprimir cuentas, competencias que corresponden exclusivamente a los administradores. Además, recomendó la asignación de permisos de edición en el registro de usuarios basándose en el rol específico que desempeñan en el proceso productivo.</p><p></p><p>Para concluir, Kevin destacó que la interfaz de usuario es intuitiva, simple y adaptativa. Confirmó que el diseño se mantiene consistente en la versión móvil de la aplicación.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 003" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/4948da55-f6d3-429c-b9ef-d02e9f3e3bae">|<p>Durante la entrevista técnica, Kevin examinó el panel de control de la aplicación, verificó el proceso de inicio de sesión y analizó la estructura del landing page para validar los user goals. Posteriormente, sugirió que se debería permitir la eliminación o edición de datos erróneos en el registro de cultivos, adaptándose a las distintas fases de producción.</p><p></p><p>Kevin también señaló la necesidad de mejorar la interfaz del perfil de usuario. Puntualizó que los supervisores técnicos carecen de las funciones para alterar la información o suprimir cuentas, competencias que corresponden exclusivamente a los administradores. Además, recomendó la asignación de permisos de edición en el registro de usuarios basándose en el rol específico que desempeñan en el proceso productivo.</p><p></p><p>Para concluir, Kevin destacó que la interfaz de usuario es intuitiva, simple y adaptativa. Confirmó que el diseño se mantiene consistente en la versión móvil de la aplicación.</p>|
 |Timing: 24:48 – 41:41|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=8Zj1Ea&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0ODQuODd9fQ%3D%3D)|
 
 **Segundo segmento objetivo ( administrador):**
@@ -4038,30 +4684,30 @@ Entrevista de validación usuario administrador 01:
 
 |**Entrevistado 01**|Rosalie|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8f3eb4a9-355f-4d90-8dd0-299e04cd1e33)|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012513-8f3eb4a9-355f-4d90-8dd0-299e04cd1e33.png">|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
 |Timing: 41:44 – 49:40|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=4AmhJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI1MDQuODh9fQ%3D%3D)|
 
 Entrevista de validación usuario administrador 02:
 
 |**Entrevistado 02**|Frank Du Bois|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/a5dacb61-b61e-45a2-ad6e-adbdbcf618f6)|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012523-a5dacb61-b61e-45a2-ad6e-adbdbcf618f6.png">|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
 |Timing: 49:41 – 59:13|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=STEF2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI5ODQuNjV9fQ%3D%3D)|
 
 Entrevista de validación usuario administrador 03: 
 
 |**Entrevistado 03**|Julio Du Bois|
 | :-: | :- |
-|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d)|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
+|<img alt="Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/280012548-8fe57694-56e3-4fa2-8973-e5e03a0ca17d.png">|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
 |Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
 ##
 ## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
-## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+## <a name="_k1u2fyw1wr8p"></a>*Greenhouse* 
 
-Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web GreenHouse.
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Greenhouse.
 
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
@@ -4146,7 +4792,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Descripción del problema:** La ubicación de la sección "About the Team" por encima del producto en un landing page puede ser problemática desde una perspectiva de arquitectura de la información y usabilidad. Por lo general, en un landing page, se espera que la información más relevante y crucial para los usuarios, como la descripción del producto o servicio, esté ubicada en la parte superior de la página. La sección "About the Team" generalmente no es la información más relevante para los visitantes que llegan a la página en busca de información sobre el producto o servicio.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2109a95d-e921-497a-a792-497d7a7a579c)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 001" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278890908-2109a95d-e921-497a-a792-497d7a7a579c.png">
 
 **Recomendación:** Para mejorar la usabilidad y la eficacia de la página, se recomienda reorganizar la página de manera que la información principal del producto esté en la parte superior y sea lo primero que los visitantes perciban. Luego, la información sobre el equipo podría estar ubicada más abajo en la página o en una sección separada. 
 
@@ -4160,7 +4806,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Descripción del problema:** Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han cometido un error.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2b7820e4-26b8-4633-9627-1095bd20898c)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 002" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278890935-2b7820e4-26b8-4633-9627-1095bd20898c.png">
 
 **Recomendación:** Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.
 
@@ -4174,7 +4820,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Descripción del problema:** Cuando un usuario hace clic en un botón con etiqueta "Start", se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1ab2ebfd-3693-4422-91ff-e51fb6911991)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 003" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278890960-1ab2ebfd-3693-4422-91ff-e51fb6911991.png">
 
 **Recomendación:** Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones "Start", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta "Start" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Start".
 
@@ -4200,7 +4846,7 @@ El problema identificado es que en la sección "Benefits" de la página web, la 
 
 Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas, y si se ve opacada por la iconografía, la comunicación efectiva de estos beneficios se ve comprometida.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b17080a8-b107-4f06-a37a-a02e4291cf31)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 004" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278890977-b17080a8-b107-4f06-a37a-a02e4291cf31.png">
 
 **Recomendación:**
 
@@ -4224,7 +4870,7 @@ El diseño centrado en el usuario implica satisfacer las necesidades y expectati
 
 El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/d98ce6ef-c81b-41d0-82c8-c8ded2bf92c3)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 005" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278890997-d98ce6ef-c81b-41d0-82c8-c8ded2bf92c3.png">
 
 **Recomendación:**
 
@@ -4247,7 +4893,8 @@ La falta de información precisa sobre las funcionalidades de los planes de susc
 
 El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el sitio web. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/6880c712-6ef3-4ab3-82ed-fe95f67f7ecd)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 006" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891017-6880c712-6ef3-4ab3-82ed-fe95f67f7ecd.png">
+
 
 **Recomendación:**
 
@@ -4269,7 +4916,7 @@ La falta de funcionalidad en el formulario de contacto va en contra de esta heur
 
 El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 007](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/69c593b5-a7fd-4938-94ce-c00d905e20d0)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 007" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891027-69c593b5-a7fd-4938-94ce-c00d905e20d0.png">
 
 **Recomendación:**
 
@@ -4289,7 +4936,7 @@ El tamaño inapropiado y excesivamente amplio de los botones "Start" viola el pr
 
 El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 008](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f6c92277-2b1c-4684-b81e-f1b35882c112)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 008" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891031-f6c92277-2b1c-4684-b81e-f1b35882c112.png">
 
 **Recomendación:**
 
@@ -4309,7 +4956,8 @@ El espaciado inadecuado entre las secciones de la barra de navegación puede afe
 
 El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 009](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/e009f6ff-0e63-4aa0-857e-a0404adf955f)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 009" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891055-e009f6ff-0e63-4aa0-857e-a0404adf955f.png">
+
 
 **Recomendación:**
 
@@ -4329,7 +4977,7 @@ El tamaño impreciso de la sección que contiene la misión, visión y valores d
 
 El problema identificado se relaciona con el tamaño impreciso de la sección que integra la misión, visión y valores en la página web. El tamaño inadecuado de esta sección afecta negativamente la organización y presentación de la información, lo que puede llevar a una experiencia de usuario confusa o desequilibrada
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 010](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/889f733c-3ae5-4371-9d4d-9fd1a15cf5ff)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 010" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891057-889f733c-3ae5-4371-9d4d-9fd1a15cf5ff.png">
 
 **Recomendación:**
 
@@ -4349,7 +4997,8 @@ La estética y el diseño minimalista son importantes para una buena usabilidad.
 
 El problema identificado se refiere al hecho de que la iconografía e imágenes en las secciones "About the team" y "Benefits" sobresalen del margen de las tarjetas en la página web. Esta superposición afecta negativamente la presentación de la información al crear una apariencia visual desordenada y poco organizada.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 011](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/320c9a4f-9d12-4cc5-b4fd-1162d0bce838)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 011" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891060-320c9a4f-9d12-4cc5-b4fd-1162d0bce838.png">
+
 
 **Recomendación:**
 
@@ -4369,7 +5018,7 @@ La falta de interacción en la sección "Contact" al redireccionar el correo con
 
 El problema identificado se relaciona con la falta de interacción en la sección "Contact" ubicada en el footer de la página web. En particular, al hacer clic en esta sección, no se activa ninguna acción de redirección al correo del startup con Gmail, lo que impide a los usuarios contactar al startup de manera efectiva. La carencia de interacción y la ausencia de retroalimentación visual indicativa de que la acción se ha completado con éxito dificultan la usabilidad de la página en términos de acceso al correo de contacto.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 012](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/22b7e954-10ae-45f5-aee8-223e25351328)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 012" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891117-22b7e954-10ae-45f5-aee8-223e25351328.png">
 
 **Recomendación:**
 
@@ -4391,7 +5040,7 @@ El problema identificado se refiere a la falta de internacionalización en el t�
 
 La falta de internacionalización no cumple con las necesidades de usuarios multilingües y no ofrece flexibilidad en la navegación, lo que puede resultar en una experiencia de usuario menos efectiva y satisfactoria en términos de accesibilidad a la información en diferentes idiomas.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 013](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/966afe1c-886b-4fcd-ae50-3e108d927539)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 013" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891144-966afe1c-886b-4fcd-ae50-3e108d927539.png">
 
 Recomendación:
 
@@ -4433,7 +5082,7 @@ La heurística de "Estética y diseño minimalista" se ve afectada por el espaci
 
 El problema identificado se relaciona con el espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación. El espacio insuficiente o desigual entre estos elementos afecta la presentación visual de la información y crea una apariencia desordenada, lo que puede dificultar la identificación y comprensión de ambos elementos. Este problema puede afectar negativamente la estética general de la aplicación y dificultar la interacción del usuario con estos componentes.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 014](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bcff52c8-6bef-4228-91bb-7a3de03c2d06)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 014" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891884-bcff52c8-6bef-4228-91bb-7a3de03c2d06.png">
 
 **Recomendación:**
 
@@ -4455,7 +5104,8 @@ Usability - Prevenir errores: La heurística "Prevenir errores" implica proporci
 
 El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 015](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/c75c4b93-48de-4b03-8c31-6f5779001aa4)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 015" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891890-c75c4b93-48de-4b03-8c31-6f5779001aa4.png">
+
 
 **Recomendación:**
 
@@ -4475,7 +5125,7 @@ La heurística "Consistencia y estándares" se ve comprometida, ya que los usuar
 
 El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 016](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/bd458bb0-89be-43f2-a575-ba31ddbdc338)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 016" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891894-bd458bb0-89be-43f2-a575-ba31ddbdc338.png">
 
 **Recomendación:**
 
@@ -4495,7 +5145,7 @@ La falta de control y libertad del usuario es evidente en este problema, ya que 
 
 El problema identificado se refiere a la falta de interactividad en el botón "Invitar trabajadores" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 017](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/2a5751d4-b169-45fb-9477-d0b2ebda73de)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 017" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891899-2a5751d4-b169-45fb-9477-d0b2ebda73de.png">
 
 **Recomendación:**
 
@@ -4515,7 +5165,7 @@ La ausencia de un componente que permita a los usuarios regresar al dashboard y 
 
 El problema identificado se relaciona con la ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad mientras están dentro de una de las secciones principales del dashboard de la aplicación. Esta carencia limita la libertad y el control del usuario en su navegación, lo que puede resultar en una experiencia frustrante y poco eficiente.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 018](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/1c0c4f59-c430-4274-a831-e1e265aadc50)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 018" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278891912-1c0c4f59-c430-4274-a831-e1e265aadc50.png">
 
 **Recomendación:**
 
@@ -4535,7 +5185,7 @@ La incapacidad de exportar el historial afecta la "Flexibilidad y eficiencia de 
 
 El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 019](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/39e522fa-e932-4392-963e-7556967ffdce)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 019" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892027-39e522fa-e932-4392-963e-7556967ffdce.png">
 
 **Recomendación:**
 
@@ -4555,7 +5205,7 @@ La confusión sobre qué componente despliega el perfil del usuario o de la empr
 
 El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de cultivos o procesos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 020](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/f27eb8e1-6b57-472f-9074-5d71c0cceb52)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 020" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892031-f27eb8e1-6b57-472f-9074-5d71c0cceb52.png">
 
 **Recomendación:**
 
@@ -4575,7 +5225,7 @@ La heurística "Prevención de errores" se ve afectada, ya que la falta de una f
 
 El problema identificado se relaciona con la inexistencia de la funcionalidad "recuperar contraseña" dentro del formulario de inicio de sesión. Los usuarios que olviden su contraseña no tienen una forma clara de restablecerla, lo que puede resultar en bloqueos de cuentas y una experiencia frustrante.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 021](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/0059c9fc-2d04-4de6-83d1-0bb45fa234ad)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 021" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892034-0059c9fc-2d04-4de6-83d1-0bb45fa234ad.png">
 
 **Recomendación:**
 
@@ -4595,7 +5245,7 @@ La ausencia de funcionalidad de filtrado de búsqueda afecta esta heurística, y
 
 El problema identificado se refiere a la ausencia de la funcionalidad de filtrado de búsqueda relacionada con "Buscar Trabajadores" en la aplicación. A pesar de contar con un botón de búsqueda y una caja de texto donde los usuarios pueden ingresar el nombre del trabajador que desean buscar, la funcionalidad de búsqueda no está habilitada o no funciona correctamente.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 022](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/fa274aff-092b-457c-8ae0-6d15458401cd)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 022" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892036-fa274aff-092b-457c-8ae0-6d15458401cd.png">
 
 **Recomendación:**
 
@@ -4615,7 +5265,7 @@ El problema se relaciona con esta heurística, ya que los usuarios técnicos sup
 
 El problema identificado se refiere a la concesión de permisos para el registro de cultivos y procesos en todas las fases, incluso si el rol del técnico supervisor no implica la introducción de datos en todas las fases del proceso. En otras palabras, los usuarios con el rol de técnico supervisor tienen acceso a todas las fases de registro de cultivos, a pesar de que su función se limita a una de las fases. Esta discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios crea una inconsistencia en la aplicación y puede llevar a la confusión, el uso ineficiente y la posibilidad de errores en el registro de datos.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 023](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/91832fa4-2ef3-477a-a23b-47115e2568f6)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 023" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892039-91832fa4-2ef3-477a-a23b-47115e2568f6.png">
 
 **Recomendación:**
 Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
@@ -4634,7 +5284,7 @@ La incapacidad de modificar o eliminar información de cultivos y procesos previ
 
 El problema identificado se refiere a la incapacidad de modificar o eliminar la información de los cultivos y procesos previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de los cultivos y procesos registrados.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 024](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/81826bf6-25a3-4f62-8448-7ad939f0a312)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 024" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892152-81826bf6-25a3-4f62-8448-7ad939f0a312.png">
 
 **Recomendación:**
 Para abordar la discrepancia entre los permisos otorgados y las responsabilidades reales de los usuarios, se recomienda ajustar la asignación de permisos de manera coherente con las funciones y fases en las que cada usuario debe operar. Esto garantizará que los técnicos supervisores solo tengan acceso a las fases relevantes para sus roles, lo que reducirá la confusión y posibles errores en el registro de datos.
@@ -4653,7 +5303,7 @@ La ausencia de un indicador que indique la cantidad de miembros de la empresa en
 
 El problema identificado se refiere a la ausencia de un indicador o campo de entrada que permita señalar la cantidad de miembros de una empresa en el formulario de "Registrar Empresa". El administrador que completa este formulario no tiene la capacidad de indicar cuántos miembros serán registrados en la empresa, lo que limita la visibilidad del estado del sistema en cuanto a la cantidad de miembros en la empresa. Esta falta de visibilidad puede generar confusión y dificultades en la gestión de la información relacionada con la empresa en el sistema.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 025](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b7509bfb-8b3d-4b13-9c91-18ce44e82352)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 025" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892159-b7509bfb-8b3d-4b13-9c91-18ce44e82352.png">
 
 **Recomendación:**
 Para abordar el problema, se recomienda la incorporación de un campo de entrada en el formulario que permita al administrador ingresar la cantidad de miembros que serán registrados en la empresa. Este campo debe ser claro y estar acompañado de una explicación que indique su propósito, garantizando así que el administrador pueda especificar la cantidad de miembros de manera precisa. Además, se debe implementar una validación para asegurarse de que el número de miembros ingresado sea coherente y preciso. 
@@ -4689,7 +5339,7 @@ La sección "Trabajadores" que sobresale dentro de la vista de perfil de la empr
 
 El problema identificado se refiere a la sección "Trabajadores," presentada en forma de tarjeta (card), que sobresale de manera inapropiada dentro de la vista de perfil de la empresa. Esta disposición inadecuada de la información causa que la sección "Trabajadores" llame excesivamente la atención y desentone con el diseño general de la vista de perfil de la empresa, lo que afecta la estética y la armonía visual de la interfaz de usuario. Esto puede influir negativamente en la percepción estética de la aplicación y en la experiencia del usuario.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 026](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/28d3af8d-571d-4f0f-a1c6-73a00ef442ae)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 026" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892163-28d3af8d-571d-4f0f-a1c6-73a00ef442ae.png">
 
 **Recomendación:**
 
@@ -4709,7 +5359,7 @@ La incapacidad para retornar a una fase anterior después de dar "END PHASE" afe
 
 El problema identificado se refiere a la incapacidad de la aplicación para permitir a los usuarios retornar a una fase anterior después de haber dado "END PHASE" (finalizar fase). Esta limitación significa que una vez que un usuario ha finalizado una fase, no tiene la opción de regresar o corregir una acción anterior, lo que puede ser problemático si se comete un error o se necesita modificar el proceso. La falta de esta funcionalidad afecta la capacidad de los usuarios para recuperarse de acciones no deseadas y puede generar frustración al no poder revertir o modificar el flujo del proceso.
 
-![Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 027](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/ad77ef93-a783-49e1-a476-d64243ba2e8f)
+<img alt="Aspose Words 5b50917b-f6f3-4255-9723-f8b7e4965d92 027" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/278892168-ad77ef93-a783-49e1-a476-d64243ba2e8f.png">
 
 **Recomendación:**
 
