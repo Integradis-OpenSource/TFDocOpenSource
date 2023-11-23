@@ -1241,13 +1241,13 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 
 En primer lugar, se presenta la landing page vista desde el desktop web browser. Esta incluye secciones de relevancia para el usuario, las cuales presentan información relacionada con los beneficios que obtendrá mediante el producto, los planes de pago disponibles, los perfiles de los integrantes del equipo y la misión, visión y valores de la startup. Adicionalmente, en esta sección podrá encontrar un apartado que responde las preguntas frecuentes de los usuarios, y un formulario a través del cual los usuarios tendrán la posibilidad de contactarse con los developers de la aplicación a través de un mensaje por correo electrónico.
 
-![Landing_Page_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/bfaa93a2-8ff6-4156-af0b-315abcac5698)
+![Landing_Page_Wireframe](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137534-bfaa93a2-8ff6-4156-af0b-315abcac5698.png)
 
 ##### Landing Page para Mobile Web Browser
 
 A continuación, se presenta la landing page vista desde el mobile web browser. Esta incluye los mismos contenidos que el diseño desktop web browser, pero adaptados a las dimensiones del dispositivo móvil. Elaborar una landing page responsive resulta de valor para los usuarios puesto que les permite ingresar desde cualquier dispositivo y obtener la misma información sin inconvenientes.
 
-![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/ab8157c4-73b6-4979-9612-309894563550)
+![Landing_Page_Mobile_Wireframe](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137542-ab8157c4-73b6-4979-9612-309894563550.png)
 
 <div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
 
@@ -1256,7 +1256,7 @@ A continuación, se presenta la landing page vista desde el mobile web browser. 
 
 El wireframe de la vista desktop web browser de la landing page resultó de utilidad para diagramar la organización de los elementos. A partir del esquema definido, se procedió a elaborar la landing page mock-up, la cual cuenta con los mismos contenidos explicados anteriormente. En la siguiente imagen se evidencia cómo se aplicó la paleta de colores primarios y secundarios, al igual que la tipografía definida anteriormente. 
 
-![Landing_Page_ES_Mockup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/4ad842b7-864f-451e-9512-6d8f4c72a3a3)
+![Landing_Page_ES_Mockup](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137551-4ad842b7-864f-451e-9512-6d8f4c72a3a3.png)
 
 ###### Landing Page para Mobile Web Browser
 
@@ -1268,11 +1268,11 @@ A su vez, el mock-up para la landing page desde la vista mobile web browser cont
 ###### Landing Page para Desktop Web Browser
 
 Para incrementar la accesibilidad de la información, el equipo contempló necesario implementar el cambio de idiomas dentro de la landing page. Es por ello que se presentan evidencias en forma de imágenes de la versión en español e inglés de la vista desktop web browser.
-![Landing_Page_EN_Mockup](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/c0a9f0ae-aa14-496c-ae6d-1db7fa742e53)
+![Landing_Page_EN_Mockup](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137556-99cadded-da53-41af-9c38-8212f305a677.png)
 
 ##### Landing Page para Mobile Web Browser
 De la misma manera, se presenta la imagen de la landing page para mobile web browser en inglés.
-![Landing_Page_EN_Mockup_Mobile](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/9ff9ee0a-5b57-4411-a3c8-f3fda929e34d)
+![Landing_Page_EN_Mockup_Mobile](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137566-9ff9ee0a-5b57-4411-a3c8-f3fda929e34d.png)
 
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
@@ -1283,120 +1283,128 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ##### Web Application para Desktop Web Browser
 ###### Iniciar sesión
 La siguiente imagen evidencia el wireframe de la sección de “inicio de sesión” desde la vista desktop web browser. En ella, los usuarios deberán ingresar las credenciales necesarias para poder acceder a la aplicación, siempre y cuando posean con una cuenta previamente creada.
-![WebApp_Desktop_Wireframe_EN_Login](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Log_In_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Login](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Log_In_Wireframe_EN.png)
 ###### Crear cuenta
 La siguiente imagen presenta la sección de “registro de empresa”, a través de la cual los administradores podrán remitir a la aplicación la información necesaria para crear una cuenta, y de esta manera poder comenzar a gozar los beneficios ofrecidos por Greenhouse.
-![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Registrar_Empresa_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Registrar_Empresa_Wireframe_EN.png)
 ###### Elegir plan de pago
 La siguiente imagen presenta la sección “Elegir plan de pago”, la cual despliega las categorías de planes disponibles en la plataforma. Los tres planes están diseñados para adaptarse a las necesidades de las empresas acorde al número de trabajadores, cosechas al año y presupuesto.
-![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Elegir_Plan_Wireframe_EN.png)
 ###### Pasarela de pagos
 La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las empresas son dirigidas a un formulario para seleccionar y registrar su método de pago. Esta sección también muestra el monto correspondiente al plan elegido. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando la suscripción y fecha de registro.
-![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Pagar_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png)
 ###### Mi perfil
 La sección titulada “Mi perfil” solicita al usuario que complete información en cinco categorías para registrar sus datos. Adicionalmente, la categoría cuenta no requiere ingresar información, en su lugar, ofrece la opción de eliminar cuenta en caso el usuario desee abandonar la plataforma.
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Perfil_Wireframe_EN.png)
 ###### Perfil de trabajador (Vista administrador)
 La siguiente imagen muestra el “Perfil de trabajador (Vista administrador)”, donde se visualiza el perfil de un trabajador ya inscrito desde el punto de vista del administrador. A diferencia de la sección previa, en la categoría cuenta está la opción de retirar a un trabajador del sistema en caso ya no forme parte del equipo.
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png)
 ###### Mi empresa (Vista de administrador)
-La sección titulada “Mi empresa (vista administrador)” muestra tres categorías vinculadas a la empresa registrada por el administrador. A diferencia de las secciones anteriores, esta presenta la categoría Organización con la opción eliminar organización en caso se desee retirar a la empresa de la plataforma. 
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+La sección titulada “Mi empresa (vista administrador)” muestra tres categorías vinculadas a la empresa registrada por el administrador. A diferencia de las secciones anteriores, esta presenta la categoría Organización con la opción eliminar organización en caso se desee retirar a la empresa de la plataforma.
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Wireframe_EN.png)
 ###### Mi empresa (Vista de técnico supervisor)
 La siguiente imagen muestra la sección: “Mi empresa (vista de técnico supervisor)” donde se visualiza dos categorías relacionadas a la empresa registrada. Al contrario de la vista administrador, esta no contiene una categoría con una opción que permita eliminar la empresa.
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png)
 ###### Panel de control (Dashboard)
-El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+El dashboard de la aplicación representa la vista de mayor relevancia para los administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Dashboard_Wireframes_EN.png)
 ###### Reportes estadísticos
-La siguiente imágen presenta los reportes estadísticos que ofrece la aplicación Greenhouse. Concretamente, cabe destacar el estado actual de las naves, los insumos utilizados para elaborar los cultivos, el número de registros por cosecha. Estos gráficos contienen un botón etiquetado como "Compartir", el cual permite exportar la información.
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+La siguiente imagen presenta los reportes estadísticos que ofrece la aplicación Greenhouse. Concretamente, cabe destacar el estado actual de las naves, los insumos utilizados para elaborar los cultivos, el número de registros por cosecha. Estos gráficos contienen un botón etiquetado como "Compartir", el cual permite exportar la información.
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png)
 ###### Crear cultivo
 La siguiente imagen presenta una lista de los cultivos que se encuentran en progreso. Adicionalmente, esta vista incluye un botón que, tras ser oprimido, mostrará una ventana emergente que solicitará al usuario confirmar su intención de crear un nuevo cultivo. Una vez oprimido, el cultivo será registrado en la base de datos y el usuario podrá comenzar a registrar los procesos.
-![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png)
 ###### Elegir plan de pago
 La siguiente imagen presenta la sección “Elegir plan de pago”, la cual despliega las categorías de planes disponibles en la plataforma. Los tres planes están diseñados para adaptarse a las necesidades de las empresas acorde al número de trabajadores, cosechas al año y presupuesto. 
-![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Elegir_Plan_Wireframe_EN.png)
 ###### Pasarela de pagos
 La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las empresas son dirigidas a un formulario para seleccionar y registrar su método de pago. Esta sección también muestra el monto correspondiente al plan elegido. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando la suscripción y fecha de registro.
-![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Pagar_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png)
 ###### Mi perfil
 La sección titulada “Mi perfil” solicita al usuario que complete información en cinco categorías para registrar sus datos. Adicionalmente, la categoría cuenta no requiere ingresar información, en su lugar, ofrece la opción de eliminar cuenta en caso el usuario desee abandonar la plataforma.
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Perfil_Wireframe_EN.png)
 ###### Perfil de trabajador
 La siguiente imagen muestra el “Perfil de trabajador (Vista administrador)”, donde se visualiza el perfil de un trabajador ya inscrito desde el punto de vista del administrador. A diferencia de la sección previa, en la categoría cuenta está la opción de retirar a un trabajador del sistema en caso ya no forme parte del equipo.
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png)
 ###### Mi empresa (Vista de administrador)
 La sección titulada “Mi empresa (vista administrador)” muestra tres categorías vinculadas a la empresa registrada por el administrador. A diferencia de las secciones anteriores, esta presenta la categoría Organización con la opción eliminar organización en caso se desee retirar a la empresa de la plataforma. 
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Wireframe_EN.png)
 ###### Mi empresa (Vista de técnico supervisor)
 La siguiente imagen muestra la sección: “Mi empresa (vista de técnico supervisor)” donde se visualiza dos categorías relacionadas a la empresa registrada. Al contrario de la vista administrador, esta no contiene una categoría con una opción que permita eliminar la empresa.
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png)
 ###### Panel de control (Dashboard)
-El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+El dashboard de la aplicación representa la vista de mayor relevancia para los administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Dashboard_Wireframes_EN.png)
 ###### Reportes estadísticos
-La siguiente imágen presenta los reportes estadísticos que ofrece la aplicación Greenhouse. Concretamente, cabe destacar el estado actual de las naves, los insumos utilizados para elaborar los cultivos, el número de registros por cosecha. Estos gráficos contienen un botón etiquetado como "Compartir", el cual permite exportar la información.
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+La siguiente imagen presenta los reportes estadísticos que ofrece la aplicación Greenhouse. Concretamente, cabe destacar el estado actual de las naves, los insumos utilizados para elaborar los cultivos, el número de registros por cosecha. Estos gráficos contienen un botón etiquetado como "Compartir", el cual permite exportar la información.
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png)
+
 ###### Cultivos en progreso
 La siguiente imagen presenta una lista de los cultivos que se encuentran en progreso. Adicionalmente, se muestra la fecha de creación y la fase actual de cada cultivo en progreso.
-![Cultivos_En_Progreso_EN_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/553bbbf1-866a-4a96-98c9-342e1c234f6a)
+![Cultivos_En_Progreso_EN_Wireframe](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/553bbbf1-866a-4a96-98c9-342e1c234f6a)
 
 ###### Crear cultivo
 Esta vista incluye un botón que, tras ser oprimido, mostrará una ventana emergente que solicitará al usuario confirmar su intención de crear un nuevo cultivo. Una vez oprimido, el cultivo será registrado en la base de datos y el usuario podrá comenzar a registrar los procesos.
-![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png)
+
 ###### Fases 0, 1, 2, 3 y 4
 A continuación, se presenta la vista de las fases del cultivo de champiñones, concretamente las fases 0 (Insumos), 1 (Patio), 2 (Búnker), 3 (Túnel), 4.1 (Incubación), 4.2 (Cobertura), 4.3 (Inducción) y 4.4 (Cosecha). En esta, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Fases](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Wireframe_EN.png)
+
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. 
-![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Empty_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Empty_Wireframe_EN.png)
+
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos.
-![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Fin_Wireframe_EN.png)
 ###### Finalizar cultivo
-Una vez que el usuario oprima el botón “Completar fase” dentro de la última etapa del cultivo de champiñones (En este caso, la fase 4.4), se visualizará la siguient ventana emergente, la cual anuncia al usuario que el cultivo ha finalizado y ha sido archivado en el histórico de cultivos.
-![WebApp_Desktop_Wireframe_EN_End_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+Una vez que el usuario oprima el botón “Completar fase” dentro de la última etapa del cultivo de champiñones (En este caso, la fase 4.4), se visualizará la siguiente ventana emergente, la cual anuncia al usuario que el cultivo ha finalizado y ha sido archivado en el histórico de cultivos.
+![WebApp_Desktop_Wireframe_EN_End_Harvesting](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png)
+
 ###### Histórico de cultivos
 Dentro de la sección “Histórico de cultivos”, los usuarios podrán visualizar una tabla con todas las siembras registradas dentro de la aplicación Greenhouse.
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png)
 
 ##### Web Application para Mobile Web Browser
 ###### Panel de control (Dashboard)
-El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
-![Wireframe_WebApp_Mobile_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_panel_control.png?raw=true)
+El dashboard de la aplicación representa la vista de mayor relevancia para los administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
+![Wireframe_WebApp_Mobile_EN_Dashboard](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_panel_control.png)
+
 ###### Registrar proceso
 Los usuarios podrán registrar un proceso al oprimir el botón que dice "Crear nuevo registro". Seguidamente, se mostrará una ventana emergente que solicitará ingresar la información correspondiente a la etapa actual.
-![Wireframe_WebApp_Mobile_EN_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_registro_procesos.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Process](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_registro_procesos.png)
+
 ###### Fase 0
 A continuación, se presenta la vista de la “Fase 0”, también denominada como “Fase Insumos”. En esta, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![Wireframe_WebApp_Mobile_EN_Fase0](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase0](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_1.png)
 ###### Fase 1
 La siguiente imagen corresponde a la vista de la “Fase 1”, también denominada como “Fase Patio”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![Wireframe_fase_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f848e8ad-8075-4c1f-81e4-70275d4f10b8)
+![Wireframe_fase_1](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579112-f848e8ad-8075-4c1f-81e4-70275d4f10b8.png)
 ###### Fase 2
 La siguiente imagen corresponde a la vista de la “Fase 2”, también denominada como “Fase Búnker”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Wireframe_fase_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/bcc1a805-4452-4e23-99c9-394922655062)
+![Wireframe_fase_2](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579117-bcc1a805-4452-4e23-99c9-394922655062.png)
 ###### Fase 3
 La siguiente imagen corresponde a la vista de la “Fase 3”, también denominada como “Fase Túnel”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Wireframe_fase_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/6687da25-4dc9-4fa5-ae5a-0df3eab4c2b1)
+![Wireframe_fase_3](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579121-6687da25-4dc9-4fa5-ae5a-0df3eab4c2b1.png)
 ###### Fase 4.1
 La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Wireframe_fase_4 1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d2fb8806-983b-4877-b381-a9aa45923dc8)
+![Wireframe_fase_4 1](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579124-d2fb8806-983b-4877-b381-a9aa45923dc8.png)
 ###### Fase 4.2
 La siguiente imagen corresponde a la vista de la “Fase 4.2”, también denominada como “Fase Cobertura”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Wireframe_fase_4 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b8d376c1-1199-4027-b22b-d14d4a6be2c4)
+![Wireframe_fase_4 2](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579132-b8d376c1-1199-4027-b22b-d14d4a6be2c4.png)
 ###### Fase 4.3
 La siguiente imagen corresponde a la vista de la “Fase 4.3”, también denominada como “Fase Inducción”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.  
-![Wireframe_Fase_4 3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/2919f0f1-4de1-4508-bbf8-816c0628aab0)
+![Wireframe_Fase_4 3](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266579139-2919f0f1-4de1-4508-bbf8-816c0628aab0.png)
 ###### Fase 4.4
 La siguiente imagen corresponde a la vista de la “Fase 4.4”, también denominada como “Fase Cosecha”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.  
-![Wireframe_WebApp_Mobile_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.4.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase4.4](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_4.4.png)
+
 ###### Finalizar fase
 Al finalizar una fase, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Wireframe_WebApp_Mobile_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_finalizar_fases.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fin](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_finalizar_fases.png)
 
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
@@ -1405,33 +1413,33 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 ##### User Goal: Registrar empresa
 User persona: Administradores y Técnicos supervisores.
 Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
-![Wireflow_Registrar_Empresa_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7d5bd3fe-e6de-4a9a-871d-ac14d21866c6)
+![Wireflow_Registrar_Empresa_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578921-7d5bd3fe-e6de-4a9a-871d-ac14d21866c6.png)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
 Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
-![Wireflow_Log_In_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/db2b4887-915e-40d7-be69-4c488e02eaa1)
+![Wireflow_Log_In_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578894-db2b4887-915e-40d7-be69-4c488e02eaa1.png)
 
 ##### User Goal: Navegar por el dashboard
 User persona: Administradores.
 Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
-![Wireflow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/0778d869-ccb6-46d2-85ae-28a5be693a54)
+![Wireflow_Dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578817-0778d869-ccb6-46d2-85ae-28a5be693a54.png)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
 Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
-![Wireflow_Nuevo_Cultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/1389c5d2-bfdc-4a50-83df-7c43c16bc0d9)
+![Wireflow_Nuevo_Cultivo](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578760-1389c5d2-bfdc-4a50-83df-7c43c16bc0d9.png)
 
 
 ##### User Goal: Registrar procesos
 User persona: Técnicos supervisores.
 Explicación del flujo: En primer lugar, el usuario debe de elegir un cultivo activo de la lista presente en la sección "Process Log". A continuación, deberá ingresar oprimir el botón situado en la parte inferior del stepper que indica "Crear nuevo registro". Una vez oprimido, se desplegará un "dialog" con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria. Cabe destacar que el presente flujo sienta las bases de el registro de procesos en cada una de las 8 fases existentes.
-![Wireflow_Fase](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ce055cdd-50e0-467d-be9c-ed6819e40463)
+![Wireflow_Fase](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578647-ce055cdd-50e0-467d-be9c-ed6819e40463.png)
 
 
 ##### User Goal: Ver registro pasado
 User persona: Administradores.
-![Wireflow_Ver_Registro_Pasado](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02887a4b-aec2-4798-ae27-79d7ba15e99a)
+![Wireflow_Ver_Registro_Pasado](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578516-02887a4b-aec2-4798-ae27-79d7ba15e99a.png)
 
 <div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
 
@@ -1439,167 +1447,167 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ##### Web Application para Desktop Web Browser
 ###### Iniciar sesión
 La siguiente imagen evidencia la sección de “inicio de sesión”, donde los usuarios deberán ingresar las credenciales necesarias para poder acceder a la aplicación, siempre y cuando posean con una cuenta previamente creada.
-![Log_In_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/abe9c9d7-7712-4466-940c-7da230466c8d)
+![Log_In_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578113-abe9c9d7-7712-4466-940c-7da230466c8d.png)
 ###### Crear cuenta
 La siguiente imagen presenta la sección de “registro de empresa”, a través de la cual los administradores podrán remitir a la aplicación la información necesaria para crear una cuenta, y de esta manera poder comenzar a gozar los beneficios ofrecidos por Greenhouse.
-![Registrar_Empresa_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d8be3be0-238f-446f-8117-0988eb12aeb4)
+![Registrar_Empresa_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578235-d8be3be0-238f-446f-8117-0988eb12aeb4.png)
 ###### Elegir plan de pago
 La siguiente imagen presenta la sección “Elegir plan de pago”, la cual despliega las categorías de planes disponibles en la plataforma. Los tres planes están diseñados para adaptarse a las necesidades de las empresas acorde al número de trabajadores, cosechas al año y presupuesto.
-![Elegir_Plan_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/3a743552-52cc-436e-a7f2-05c0350a7ff0)
+![Elegir_Plan_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266578178-3a743552-52cc-436e-a7f2-05c0350a7ff0.png)
 ###### Pasarela de pagos
 La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las empresas son dirigidas a un formulario para seleccionar y registrar su método de pago. Esta sección también muestra el monto correspondiente al plan elegido. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando la suscripción y fecha de registro.
-![Pagar_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/eefca927-0acc-4c42-8d87-13b3ec8af816)
-![Confirmar_Pago_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/68b94e1e-5055-4d72-b408-831e161a2fd3)
+![Pagar_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577720-eefca927-0acc-4c42-8d87-13b3ec8af816.png)
+![Confirmar_Pago_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577736-68b94e1e-5055-4d72-b408-831e161a2fd3.png)
 ###### Mi perfil
 La sección titulada “Mi perfil” solicita al usuario que complete información en cinco categorías para registrar sus datos. Adicionalmente, la categoría cuenta no requiere ingresar información, en su lugar, ofrece la opción de eliminar cuenta en caso el usuario desee abandonar la plataforma.
-![Mi_Perfil_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4b2dfe4d-a54b-4eee-a6de-c7f0cb502ee3)
+![Mi_Perfil_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577756-4b2dfe4d-a54b-4eee-a6de-c7f0cb502ee3.png)
 ###### Perfil de trabajador (Vista administrador)
 La siguiente imagen muestra el “Perfil de trabajador (Vista administrador)”, donde se visualiza el perfil de un trabajador ya inscrito desde el punto de vista del administrador. A diferencia de la sección previa, en la categoría cuenta está la opción de retirar a un trabajador del sistema en caso ya no forme parte del equipo.
-![Cuenta_Trabajador_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/13124dfb-146e-41b5-9166-5dc865e2d2fa)
+![Cuenta_Trabajador_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577745-13124dfb-146e-41b5-9166-5dc865e2d2fa.png)
 ###### Mi empresa (Vista de administrador)
 La sección titulada “Mi empresa (vista administrador)” muestra tres categorías vinculadas a la empresa registrada por el administrador. A diferencia de las secciones anteriores, esta presenta la categoría Organización con la opción eliminar organización en caso se desee retirar a la empresa de la plataforma. 
-![Mi_Empresa_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/8e4d4727-363c-4312-9064-4403a752d06b)
+![Mi_Empresa_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577753-8e4d4727-363c-4312-9064-4403a752d06b.png)
 ###### Mi empresa (Vista de técnico supervisor)
 La siguiente imagen muestra la sección: “Mi empresa (vista de técnico supervisor)” donde se visualiza dos categorías relacionadas a la empresa registrada. Al contrario de la vista administrador, esta no contiene una categoría con una opción que permita eliminar la empresa.
-![Mi_Empresa_Vista_Trabajador_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f4c0bfe5-8f66-4a17-949d-23812223cf76)
+![Mi_Empresa_Vista_Trabajador_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577340-f4c0bfe5-8f66-4a17-949d-23812223cf76.png)
 
 ###### Panel de control (Dashboard)
 El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
-![Dashboard_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5ae06d1e-baab-474d-87ac-45532ac140d3)
+![Dashboard_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577352-5ae06d1e-baab-474d-87ac-45532ac140d3.png)
 
 ###### Reportes estadísticos
 La siguiente imágen presenta los reportes estadísticos que ofrece la aplicación Greenhouse. Concretamente, cabe destacar el estado actual de las naves, los insumos utilizados para elaborar los cultivos, el número de registros por cosecha. Estos gráficos contienen un botón etiquetado como "Compartir", el cual permite exportar la información.
-![Reportes_Estadisticos_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c96e8b64-0d2c-493c-b39d-649b61393ea4)
+![Reportes_Estadisticos_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577346-c96e8b64-0d2c-493c-b39d-649b61393ea4.png)
 
 ###### Crear cultivo
 La siguiente imagen presenta una lista de los cultivos que se encuentran en progreso. Adicionalmente, esta vista incluye un botón que, tras ser oprimido, mostrará una ventana emergente que solicitará al usuario confirmar su intención de crear un nuevo cultivo. Una vez oprimido, el cultivo será registrado en la base de datos y el usuario podrá comenzar a registrar los procesos.
-![Crear_Cultivo_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f85e023b-70ef-4e5d-a3aa-5eb107f59ee3)
-![Cultivos_En_Progreso_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/07eed0f5-a516-499c-b609-c4f6a14af2e9)
+![Crear_Cultivo_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577144-f85e023b-70ef-4e5d-a3aa-5eb107f59ee3.png)
+![Cultivos_En_Progreso_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266577147-07eed0f5-a516-499c-b609-c4f6a14af2e9.png)
 
 ###### Fase 0 Insumos
 A continuación, se presenta la vista de la “Fase 0”, también denominada como “Fase Insumos”. En esta, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Fase_0_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9fdc4baf-bee0-4e9e-80af-c30b4cc55698)
+![Fase_0_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576975-9fdc4baf-bee0-4e9e-80af-c30b4cc55698.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación.
-![Fase_0_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f6140061-b8d1-4df3-b52e-8cc561553705)
+![Fase_0_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576978-f6140061-b8d1-4df3-b52e-8cc561553705.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos.
-![Fase_0_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a6398aab-8493-49be-b1f2-865adb41ef58)
+![Fase_0_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576983-a6398aab-8493-49be-b1f2-865adb41ef58.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_0_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c5a12eca-3e65-461f-b69a-55e3598b8ed3)
+![Fase_0_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576979-c5a12eca-3e65-461f-b69a-55e3598b8ed3.png)
 
 ###### Fase 1 Patio
 La siguiente imagen corresponde a la vista de la “Fase 1”, también denominada como “Fase Patio”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![Fase_1_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/930e517b-4dfb-4f5b-a78b-17a83f751a5a)
+![Fase_1_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576798-930e517b-4dfb-4f5b-a78b-17a83f751a5a.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación.
-![Fase_1_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/6792cdf0-c7e9-489b-8539-5b4bee0b3229)
+![Fase_1_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576790-6792cdf0-c7e9-489b-8539-5b4bee0b3229.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. 
-![Fase_1_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a39497e9-368f-4485-861a-609a797eb353)
+![Fase_1_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576805-a39497e9-368f-4485-861a-609a797eb353.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_1_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/71f6404b-3420-4702-9330-3c6154636894)
+![Fase_1_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576801-71f6404b-3420-4702-9330-3c6154636894.png)
 
 ###### Fase 2 Búnker
 La siguiente imagen corresponde a la vista de la “Fase 2”, también denominada como “Fase Búnker”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![Fase_2_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ade30c41-cdcd-4dfb-b0be-be0fc21219e9)
+![Fase_2_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576572-ade30c41-cdcd-4dfb-b0be-be0fc21219e9.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación.
-![Fase_2_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/6ae0f6b6-a0ff-44f0-baa1-c8940364dd80)
+![Fase_2_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576565-6ae0f6b6-a0ff-44f0-baa1-c8940364dd80.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. 
-![Fase_2_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f260bebc-f16d-4162-bdde-0628d9c12d56)
+![Fase_2_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576578-f260bebc-f16d-4162-bdde-0628d9c12d56.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_2_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/3bf6a8b0-6cd4-4272-a874-e8b0cc420afb)
+![Fase_2_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576573-3bf6a8b0-6cd4-4272-a874-e8b0cc420afb.png)
 
 ###### Fase 3 Túnel
 La siguiente imagen corresponde a la vista de la “Fase 3”, también denominada como “Fase Túnel”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. 
-![Fase_3_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/0cc80515-3dfc-4e7f-a3e4-134c067900c1)
+![Fase_3_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576397-0cc80515-3dfc-4e7f-a3e4-134c067900c1.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación.
-![Fase_3_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ab8ee5da-147e-4b1c-9248-82c3e94e0be8)
+![Fase_3_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576394-ab8ee5da-147e-4b1c-9248-82c3e94e0be8.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos.
-![Fase_3_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/eb20ee6d-ed0e-482a-8114-e2dfb4bef6df)
+![Fase_3_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576407-eb20ee6d-ed0e-482a-8114-e2dfb4bef6df.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_3_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/04f7c098-ad7e-443a-bdde-b189e0664d09)
+![Fase_3_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576400-04f7c098-ad7e-443a-bdde-b189e0664d09.png)
 
 ###### Fase 4.1 Incubación
 La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.  
-![Fase_4-1_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/29a94309-2f4f-4cbd-9481-13cd1ef47692)
+![Fase_4-1_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576214-29a94309-2f4f-4cbd-9481-13cd1ef47692.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. 
-![Fase_4-1_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b0a9d01e-56d9-4be5-aad1-0c19f4f737a9)
+![Fase_4-1_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576210-b0a9d01e-56d9-4be5-aad1-0c19f4f737a9.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. 
-![Fase_4-1_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f0246f1f-8785-4f49-a1dc-fc601c7c4e47)
+![Fase_4-1_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576219-f0246f1f-8785-4f49-a1dc-fc601c7c4e47.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_4-1_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/26b59bed-2878-4edc-9c8e-7c2070d9936c)
+![Fase_4-1_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266576218-26b59bed-2878-4edc-9c8e-7c2070d9936c.png)
 
 ###### Fase 4.2 Cobertura
 La siguiente imagen corresponde a la vista de la “Fase 4.2”, también denominada como “Fase Cobertura”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Fase_4-2_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/891a4014-eb77-415a-8c2a-c3b09036e3f9)
+![Fase_4-2_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575954-891a4014-eb77-415a-8c2a-c3b09036e3f9.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. 
-![Fase_4-2_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/77be30c2-ee01-4e41-8202-ee8c5539be04)
+![Fase_4-2_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575950-77be30c2-ee01-4e41-8202-ee8c5539be04.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. 
-![Fase_4-2_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/803684eb-6708-42bd-a841-f54e66bd2822)
+![Fase_4-2_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575942-803684eb-6708-42bd-a841-f54e66bd2822.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_4-2_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c35f19f1-e5ed-42fb-a14b-a069e6e2bfbe)
+![Fase_4-2_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575959-c35f19f1-e5ed-42fb-a14b-a069e6e2bfbe.png)
 
 ###### Fase 4.3 Inducción
 La siguiente imagen corresponde a la vista de la “Fase 4.3”, también denominada como “Fase Inducción”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.  
-![Fase_4-3_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5389f0b8-21fc-4db2-bab3-18bc31288f42)
+![Fase_4-3_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575708-5389f0b8-21fc-4db2-bab3-18bc31288f42.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. 
-![Fase_4-3_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/672d38b3-c8fb-4483-b425-aabed63f6515)
+![Fase_4-3_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575832-672d38b3-c8fb-4483-b425-aabed63f6515.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. 
-![Fase_4-3_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/e73dd26a-5d8d-4be0-aa85-6147fefe2ed5)
+![Fase_4-3_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575780-e73dd26a-5d8d-4be0-aa85-6147fefe2ed5.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que esta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_4-3_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/fa55d1fd-80cf-4e07-8f5d-3078da3905e8)
+![Fase_4-3_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575655-fa55d1fd-80cf-4e07-8f5d-3078da3905e8.png)
 
 ###### Fase 4.4 Cosecha
 La siguiente imagen corresponde a la vista de la “Fase 4.4”, también denominada como “Fase Cosecha”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual.
-![Fase_4-4_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5b408621-a2b8-4425-914d-a000feb54a8e)
+![Fase_4-4_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575422-5b408621-a2b8-4425-914d-a000feb54a8e.png)
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. 
-![Fase_4-4_Empty_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c79d8b55-2ef7-4abd-8038-2dcb207e7788)
+![Fase_4-4_Empty_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575477-3a252339-a741-40ff-8153-54e4c575788b.png)
 Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos.
-![Fase_4-4_Nuevo_Registro_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/3a252339-a741-40ff-8153-54e4c575788b)
+![Fase_4-4_Nuevo_Registro_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575477-3a252339-a741-40ff-8153-54e4c575788b.png)
 El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Fase_4-4_Fin_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/57f0506b-5437-4eaf-a51e-b04658fec4a4)
+![Fase_4-4_Fin_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575369-57f0506b-5437-4eaf-a51e-b04658fec4a4.png)
 
 ###### Finalizar cultivo
 Una vez que el usuario oprima el botón “Completar fase” dentro de la última etapa del cultivo de champiñones (En este caso, la fase 4.4), se visualizará la siguient ventana emergente, la cual anuncia al usuario que el cultivo ha finalizado y ha sido archivado en el histórico de cultivos.
-![Finalizar_Cultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/019f0572-4b9a-42ae-bd50-e97d6710ac8f)
+![Finalizar_Cultivo](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575201-019f0572-4b9a-42ae-bd50-e97d6710ac8f.png)
 ###### Histórico de cultivos
-![Archivo_Cosechas_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7d3d309c-3ce7-4164-a082-d8d958af4a3b)
-![Archivo_Cosechas_Detalle_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b8cc1001-3dd4-4714-bac0-d0cd2a7dfaf6)
+![Archivo_Cosechas_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575128-7d3d309c-3ce7-4164-a082-d8d958af4a3b.png)
+![Archivo_Cosechas_Detalle_EN](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575066-b8cc1001-3dd4-4714-bac0-d0cd2a7dfaf6.png)
 
 
 ##### Web Application para Mobile Web Browser
 ###### Panel de control (Dashboard)
 El dashboard de la aplicación representa la vista de mayor relevancia para los  administradores. En esta sección, los usuarios podrán visualizar los últimos registros realizados, los gráficos estadísticos exportados recientemente, y navegar a las secciones "Cultivos en progreso", "Mi organización", "Reportes estadísticos" y "Archivo de cultivos".
-![Mockup_panel_control](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c2bb4f1a-14dc-4637-9d7d-80f4b6919b3e)
-![Mockup_registro_procesos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79702904-32ac-4b0a-b9d0-d0fa7c745de6)
+![Mockup_panel_control](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266575002-c2bb4f1a-14dc-4637-9d7d-80f4b6919b3e.png)
+![Mockup_registro_procesos](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574897-79702904-32ac-4b0a-b9d0-d0fa7c745de6.jpg)
 
 ###### Fase 1
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d421a792-21af-4a4f-94f4-672f2ca480cd)
+![Mockup_fase_1](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574783-d421a792-21af-4a4f-94f4-672f2ca480cd.png)
 
 ###### Fase 2
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/81d43e7e-fcbb-4b59-bb1e-5cbf68792c8b)
+![Mockup_fase_2](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574722-81d43e7e-fcbb-4b59-bb1e-5cbf68792c8b.png)
 ###### Fase 3
 En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/e28d453f-925d-4578-8ebf-fd209456fc89)
+![Mockup_fase_3](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574665-e28d453f-925d-4578-8ebf-fd209456fc89.png)
 
 ###### Fase 4.1
 La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. La siguiente imagen corresponde a la vista de la “Fase 4.1”, también denominada como “Fase Incubación”. En esta, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_4.1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4cc74c89-2f8c-45c0-8527-9a2336b8d56a)
+![Mockup_fase_4.1](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574584-4cc74c89-2f8c-45c0-8527-9a2336b8d56a.png)
 
 ###### Fase 4.2
 La siguiente imagen corresponde a la vista de la “Fase 4.2”, también denominada como “Fase Cobertura”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_4.2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ae7e1472-a2c3-4144-ad54-499027690cf1)
+![Mockup_fase_4.2](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574500-ae7e1472-a2c3-4144-ad54-499027690cf1.png)
 
 ###### Fase 4.3
 La siguiente imagen corresponde a la vista de la “Fase 4.3”, también denominada como “Fase Inducción”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_4.3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/432aee51-80f2-4fc6-90b2-0046486e8071)
+![Mockup_fase_4.3](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574445-432aee51-80f2-4fc6-90b2-0046486e8071.png)
 
 ###### Fase 4.4
 La siguiente imagen corresponde a la vista de la “Fase 4.4”, también denominada como “Fase Cosecha”. En esta, al igual que la fase anterior, los usuarios encontrarán una tabla con los registros creados para la etapa actual. En caso de que no se encuentren registros existentes, se mostrará un mensaje indicando dicha situación. Dentro de esta sección, el usuario visualizará dos botones, uno de ellos permite la creación de un nuevo registro. Tras oprimirlo, los usuarios observarán una ventana emergente que solicitará ingresar la información necesaria, y luego de oprimir el botón “Guardar”, el sistema almacenará el registro en la base de datos. El segundo botón permite a los técnicos supervisores finalizar la fase actual y continuar a la siguiente. Tras presionarlo, se mostrará una ventana emergente que solicitará al usuario confirmar su intención de finalizar la fase, advirtiendo que una vez que ésta culmine, no tendrá la posibilidad de agregar nuevos registros para la etapa en cuestión.
-![Mockup_fase_4.4](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f61dc816-600f-4ef9-ba09-77a83a84375e)
+![Mockup_fase_4.4](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574370-f61dc816-600f-4ef9-ba09-77a83a84375e.png)
 
 ###### Finalizar fases
 Una vez que el usuario oprima el botón “Completar fase” dentro de la última etapa del cultivo de champiñones (En este caso, la fase 4.4), se visualizará la siguient ventana emergente, la cual anuncia al usuario que el cultivo ha finalizado y ha sido archivado en el histórico de cultivos.
-![Mockup_finalizar_fases](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/904cffe1-8c81-4556-bbef-910272815e47)
+![Mockup_finalizar_fases](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266574223-904cffe1-8c81-4556-bbef-910272815e47.png)
 
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
@@ -1609,67 +1617,67 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 User persona: Administradores.
 
 Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
-![User_Flow_Registrarse](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/247aba44-8e59-4ee2-bf17-53e84e9220d7)
+![User_Flow_Registrarse](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573941-247aba44-8e59-4ee2-bf17-53e84e9220d7.png)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
-![User_Flow_LogIn](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5265545e-c457-4073-8c16-0c8750ff2bfe)
+![User_Flow_LogIn](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573874-5265545e-c457-4073-8c16-0c8750ff2bfe.png)
 
 ##### User Goal: Ver perfil
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
-![User_Flow_Ver_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/99e90a0e-ce5b-4450-aef5-bfb066f6b50c)
+![User_Flow_Ver_Perfil](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573807-99e90a0e-ce5b-4450-aef5-bfb066f6b50c.png)
 
 ##### User Goal: Ver empresa
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard. 
-![User_Flow_Ver_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/fb3a3b25-b145-43ef-a984-8d353d183972)
+![User_Flow_Ver_Empresa](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573738-fb3a3b25-b145-43ef-a984-8d353d183972.png)
 
 ##### User Goal: Navegar a través del dashboard
 User persona: Administradores.
 
 Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
-![User_Flow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/46716073-8837-4485-b66f-9c567b60ea27)
+![User_Flow_Dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573675-46716073-8837-4485-b66f-9c567b60ea27.png)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
 
 Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
-![User_Flow_Nuevo_Cultivo](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/c32ca90b-15b4-4c7c-b910-c263378550bf)
+![User_Flow_Nuevo_Cultivo](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573380-c32ca90b-15b4-4c7c-b910-c263378550bf.png)
 
 ##### User Goal: Documentar Fase 0
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
-![User_Flow_Fase_0](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/81c56b75-1899-46b1-b08f-cbe63a5f4fdf)
+![User_Flow_Fase_0](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573323-81c56b75-1899-46b1-b08f-cbe63a5f4fdf.png)
 
 ##### User Goal: Documentar Fase 1
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
-![User_Flow_Fase_1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/7089b1b9-9886-4c46-be60-4034b904c343)
+![User_Flow_Fase_1](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573268-7089b1b9-9886-4c46-be60-4034b904c343.png)
 
 ##### User Goal: Documentar Fase 2
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
-![User_Flow_Fase_2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/b0a30106-f1b6-42b1-b028-65b53031ed0b)
+![User_Flow_Fase_2](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573197-b0a30106-f1b6-42b1-b028-65b53031ed0b.png)
 
 ##### User Goal: Documentar Fase 3
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
-![User_Flow_Fase_3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/a6461e29-816b-48da-ae19-d396e4aa59b1)
+![User_Flow_Fase_3](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573123-a6461e29-816b-48da-ae19-d396e4aa59b1.png)
 
 ##### User Goal: Documentar Fase 4
 User persona: Técnicos supervisores.
 
 Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
-![User_Flow_Fase_4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/e1b6d205-baa0-478a-ada4-4ffc16852b36)
+![User_Flow_Fase_4](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266573054-e1b6d205-baa0-478a-ada4-4ffc16852b36.png)
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
 
@@ -1681,7 +1689,7 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
-![Web_Applications_Prototyping](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Web_Applications_Prototyping.png?raw=true)
+![Web_Applications_Prototyping](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Web_Applications_Prototyping.png)
 
 Enlace para acceder al video de explicación del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/Ed0o47tYWx1Aq8iCPDuzPnoBpgV_bDWctRdBohtmb2l6_A?e=VkRyxf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
