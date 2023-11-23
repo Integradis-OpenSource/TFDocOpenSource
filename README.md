@@ -4260,7 +4260,7 @@ En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la we
 
 Enlace para visualizar el video de explicación de los logros del Sprint: 
 
-[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXkeNOZkw6JNpoifpGS8WlMBBYWy9yKeYG-hPexeoL8BIQ?e=brUkru&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXkeNOZkw6JNpoifpGS8WlMBBYWy9yKeYG-hPexeoL8BIQ?e=FihJqA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)]([https://youtu.be/FG3MVppHkyg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EXkeNOZkw6JNpoifpGS8WlMBBYWy9yKeYG-hPexeoL8BIQ?e=FihJqA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
