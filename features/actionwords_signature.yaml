@@ -1,179 +1,432 @@
 ---
-- name: el visitante tenga una consulta o comentario relacionado con la aplicación
-  uid: 2465e907-8527-4ad2-81c6-6951a5f9f4e4
+- name: que el usuario desee crear una cuenta en la aplicación Greenhouse
+  uid: d62f0747-4005-4dd9-a5dd-d59cf4119baf
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: redacte un mensaje y adjunte una dirección de correo electronico para contactar
-    a los desarrolladores
-  uid: 29460178-0d8e-45b3-913d-00bfa7403e21
+- name: ingrese las credenciales de una cuenta inexistente en la base de datos Greenhouse
+    and haya ingresado una contraseña que cumple con todos los requisitos de seguridad
+    and haya aceptado los términos y condiciones de uso
+  uid: e2027593-1fa3-46fc-8ca1-7439c727965b
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el sistema remitirá la consulta a los desarrolladores
-  uid: ff0be0cc-70b5-4f80-8511-2352eda89679
+- name: se procederá con el cobro para usar la aplicación
+  uid: 957f3d50-5f47-4c4d-83df-20ca4d35f2f6
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el visitante se encuentre dentro de la landing page
-  uid: 3ffd668b-51de-4b1c-b731-08069cbb7d05
+- name: ingrese una dirección de correo electrónico o contraseña que no cumplen con
+    los requisitos especificados
+  uid: f104da35-a7e8-4f1a-8530-ad8155f9c3a7
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: navegue a través de las diversas secciones
-  uid: c8739c34-b92e-4b62-8982-126906869a11
+- name: se le denegará la operación
+  uid: e6e60d2d-a9ef-4d53-8339-6cf7d63f4d18
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: podrá encontrar información clara y concisa que me permita entender de inmediato
-    el propósito principal del software
-  uid: c52391df-9a03-4d30-af07-5e33e83a295e
+- name: que el usuario desee adquirir alguno de los planes de suscripción a la aplicación
+  uid: 83c92be9-a51a-414b-9ccf-e3941f5ec3e3
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el usuario desee comenzar a utilizar la aplicación
-  uid: 649b5062-4a59-404a-bd24-d4d022a91fe2
+- name: ingrese correctamente las credenciales necesarias para efectuar el pago
+  uid: 2d268087-07c4-4903-998f-f6b9d5cdb703
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese a la landing page y seleccione la opción que permite el acceso al
-    software elaborado
-  uid: 35521810-1588-4df9-b040-5395f3e0a8ed
+- name: el sistema creará la cuenta bajo el plan elegido
+  uid: cd669402-35dc-412f-8ce4-60a743800ef4
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: deberá ser redirigido a la página desplegada
-  uid: 42fa30aa-a348-433a-a1be-e4972d91ee54
+- name: ingrese alguna credencial necesaria para efectuar el pago de manera incorrecta
+  uid: a26cbc53-3d7f-4ad6-b417-189e6399154f
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese a la landing page y seleccione la opción que permite el acceso al
-    software elaborado y ocurra un error en el proceso de redirección o el servidor
-    de la aplicación no responde
-  uid: 8f0ef8cf-ddf3-4e32-ac88-7ca0ca7db031
+- name: el sistema solicitará reingresar la información
+  uid: 85086568-e109-4f9b-9331-10a096ba84b9
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el usuario deberá obtener un mensaje de error generado
-  uid: 9c881d6e-51ec-4443-9a6c-4630f6e097ed
+- name: que el usuario posee una cuenta en la aplicación Greenhouse y desee iniciar
+    sesión
+  uid: f8a77f0b-f3c9-4649-b3b6-dbbea1236f72
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico o supervisor le corresponda realizar un registro preiódico durante
-    la fase 0
-  uid: 30e1a520-7c1e-41ef-b1b3-4301b78d717d
+- name: ingrese las credenciales necesarias correctamente
+  uid: a73fbd4f-2068-438f-ad8e-fcd12cec8644
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese la información asociada a los insumos a utilizar
-  uid: ecba0ea2-a7d6-4555-a4cd-719012eac84e
+- name: el sistema permitirá el acceso a la aplicación
+  uid: 99d77581-7eb2-4db6-96b2-961f244d3ec3
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el sistema guardará el reporte en la base de datos
-  uid: e1cd1040-1db3-47f2-8dcb-fa1c867da1d8
+- name: que el usuario posee una cuenta en la aplicación Greenhouse y desea iniciar
+    sesión
+  uid: 170ec2c7-17a7-49ed-a4b5-5d647e84a5db
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico durante
-    la fase 0
-  uid: 84d22e46-998c-467b-9b89-dd08fbef8cc2
+- name: ingrese alguna credencial de manera incorrecta
+  uid: d2e06737-9b2c-43fb-b058-bba32561929e
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: no ingrese toda la información obligatoria solicitada dentro de un registro
-  uid: 92bc3aac-7ec3-43e6-9a9d-ba3667c9beb9
+- name: el sistema denegará la solicitud
+  uid: 3eea9c6d-35d1-4ade-9b39-10e78f9209b3
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el sistema rechazará la operación y solicitará completar campos restantes
-  uid: ca6df1b6-5e56-49db-90a3-57904ec799c1
+- name: que el técnico supervisor desea comenzar una nueva siembra
+  uid: 81ea432b-f06e-474b-8b4c-b83b9d2f921d
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un tecnico supervisor le corresponde realizar un registro periódico sobre
-    mezcla de insumos durante la fase de "p1"
-  uid: 04d7ff8d-d9b8-424c-a385-b3f835677ebd
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese las actividades realizadas en el patio
-  uid: 887bd4c2-3bb9-4607-b206-c75823c3caa6
+- name: confirme su intención
+  uid: 4a0e16ab-f5af-4bba-a0f8-3946d8929858
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la mezcla de insumos durante la fase "p1"
-  uid: f036ad55-3f18-41cf-8a80-c7fdfde96e9d
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el sistema rechazará la operación y solicitará completar los campos restantes
-  uid: b257e59a-9c50-47e0-972c-40dde88d656b
+- name: el id y fecha de creación del cultivo serán almacenados en la base de datos
+    de la aplicación
+  uid: 5a490e89-9ab8-41e8-a58e-fb0b7f0feddc
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la colección del compost durante la fase "p1"
-  uid: dd61ed59-7bc1-436c-85d9-85af9e1da6a1
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese la infromación asociada al estado del compost en cocción dentro del
-    búnker
-  uid: 0f099ffb-1ace-40a9-baf2-cc187a034cde
+- name: que el técnico supervisor haya intentado crear una nueva siembra
+  uid: a1258099-6462-4332-bcc5-0630607112cb
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la cocción del compost durante la fase "p1"
-  uid: fa8015cb-58b7-4d44-8bf6-e12b513eb817
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la pasteurización, enfriamiento y acondicionamiento del compost durante la fase
-    de "p1"
-  uid: 66bab903-9dd2-41dc-9902-ecad7653dc72
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese la información asociada al estado del compost dentro del túnel de
-    pasteurización
-  uid: ad7f29bb-0d63-4269-a93a-2ba85ba1f8c6
+- name: cancele la operación
+  uid: fb0493b0-d8fa-4ec7-b3ee-5eb0889cade1
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la incubación del champiñón durante la fase "p1"
-  uid: 1dda947c-df67-475d-bd8d-eda12d9ff1ea
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese la información asociada al estado actual del cultivo dentro de las
-    naves
-  uid: b61cdd1d-bed6-4d66-8fc3-176ecbce167f
+- name: el sistema revertirá la operación y cancelará la creación de un nuevo cultivo
+  uid: ca91836a-994f-4862-b890-d1d5d0d42cbd
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    la cobertura del micelio durante la fase "p1"
-  uid: 84b03d82-0aa2-41e4-a8e4-34ca09713322
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    el micelio inducido durante la fase "p1"
-  uid: 0c7aac01-2c57-4cba-9798-d62966ab8c33
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: a un técnico supervisor le corresponda realizar un registro periódico sobre
-    el estado final del cultivo de champiñones durante la fase "p1"
-  uid: 4b684de3-79ca-4f69-9642-dbecae654d23
-  parameters:
-  - name: p1
-  body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el usuario desee visualizar la información y estructura de la empresa
-  uid: 3cd0d3c9-5f13-47f7-af21-0271210b7276
+- name: que el técnico supervisor haya intentado comenzar una nueva siembra
+  uid: be97d175-fb66-4fa1-98b0-6d234f351b03
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese al perfil de la misma
-  uid: b94f8f98-139d-4813-9e28-7f16abb5732c
+- name: el sistema entre en un estado de error que imposibilite la creación
+  uid: 322fd419-71e6-4e49-8d32-65e1bf4a31d4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: cancelará la operación e indicará el error generado
+  uid: 4cf68403-eb09-47a5-8512-8c84ac425672
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que el técnico supervisor desea visualizar una siembra existente
+  uid: 9c5ab4ba-0136-47d5-8f3c-066131d1f7cd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: acceda a la lista de cultivos en curso
+  uid: 72d019b5-dad4-4466-b326-c81010ea9912
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema mostrará la información registrada para el cultivo seleccionado
+  uid: b9c06e4c-4463-40df-8c6d-7152680c8abd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: el sistema entre en un estado de error al intentar visualizar la lista de
+    cultivos en curso
+  uid: a1aa9364-5298-4c0b-9f90-fd997ff462f1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se indicará el error generado y se cancelará la operación
+  uid: e5f25d38-bdfe-4f44-b9b6-031bf99dc90b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que el usuario desee visualizar la información y estructura de la empresa
+  uid: 1c10fd07-c6e5-444c-8b01-62ec3f3731ed
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: ingrese al perfil de la empresa
+  uid: 2b2c66e4-198a-4471-a74e-8fc960e01421
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
 - name: obtendrá una lista con los datos de la empresa y los empleados registrados
-  uid: cad743b5-332c-405f-9ff8-89862d04f632
+  uid: b0e5a597-3f6b-42d4-b651-c8723c185a1c
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el usuario desee visualizar la información de un empleado
-  uid: f4848f2b-8bf7-4882-9e0f-8f90d44f42ad
+- name: que el usuario desee visualizar la información de un empleado
+  uid: 61612257-069f-4e1d-b96a-d05f89239737
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: ingrese al perfil del mismo
-  uid: e0488ace-b3cc-48ff-8236-dc4e3f144deb
+- name: ingrese al perfil del empleado
+  uid: f7442d53-9044-48f4-82a9-fafc31348d27
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
-- name: el obtendrá los datos de relevancia, tales como nombre, rol, empresa a la
-    cual pertenece, etc.
-  uid: c27b1f72-e83c-4849-980b-85cb305d76b9
+- name: obtendrá los datos de relevancia, tales como nombre, rol, empresa a la cual
+    pertenece, etc.
+  uid: 21bf3465-4956-4603-9b43-99a7a20f1f24
   parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que el endpoint "p1" se encuentra disponible
+  uid: 56570bd8-4b3d-421d-8e6a-102b36586df0
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores "p1", "p2", "p3", "p4", 5
+  uid: c1a7c126-bd3e-424d-85ab-c8a831d8abbd
+  parameters:
+  - name: p1
+  - name: p2
+  - name: p3
+  - name: p4
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se recibirá una respuesta con el estatus 200 and se incluye un recurso de
+    empleado en el contenido de la respuesta, con los valores "p1", "p2", "p3", "p4",
+    5
+  uid: f60cd053-69e7-419a-9129-40f7940a04c7
+  parameters:
+  - name: p1
+  - name: p2
+  - name: p3
+  - name: p4
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que un empleado con email "p1" ya se encuentra almacenado
+  uid: c3b88db0-8130-44fb-b7f0-7bbe647343a2
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se recibirá una respuesta con el estatus 500 and se incluye un mensaje en
+    el contenido de la respuesta con los valores "p1"
+  uid: db65c04a-cb56-4cca-96f6-fea3543ab8e3
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que una compañía con id 8 no se encuentra almacenada
+  uid: 4ef7709c-71d2-4e3e-b335-f5575d9a668e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores "p1", "p2", "p3", "p4", 8
+  uid: 6afb538f-ebe7-4d6c-9dfe-89e6f81af900
+  parameters:
+  - name: p1
+  - name: p2
+  - name: p3
+  - name: p4
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con el valor 5
+  uid: 26ebba65-e653-41e3-aa4d-6c7fea7070dd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se recibirá una respuesta con el estatus 200
+  uid: 7fd4ea6b-593e-4119-be44-e86b46e4d44e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de cultivo en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de inicio, 1, 5
+  uid: 419b4967-c690-4e51-83c7-1c078832c9c5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que una compañía con id 9 no se encuentra almacenada
+  uid: 70b933dd-c72a-47ec-b609-34182ec2df91
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con el valor 9
+  uid: 41627e4a-0454-4ef4-940c-027071a71c58
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se recibirá una respuesta con el estatus 400
+  uid: 1ed63c76-6164-4c92-8e1b-39c113862b84
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un mensaje en el contenido de la respuesta con los valores "p1"
+  uid: 79b96210-a36e-4e72-9f53-900c95a684ea
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de get es enviada al endpoint
+  uid: 295bc6fb-05c9-4583-ab8d-983668a8faa1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de empleados en el contenido de la respuesta, con la
+    lista de todos los empleados registrados en la base de datos
+  uid: 897be422-b46b-4d9e-99eb-920a6f65130d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen empleados registrados en la base de datos
+  uid: abd832f5-04f4-4d4a-9c0c-fcaa06054a95
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un mensaje en el contenido de la respuesta con el valor "p1"
+  uid: 2d3a70cd-a2df-469f-b1b0-2b864a61ee9f
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de cultivos en el contenido de la respuesta, con la
+    lista de todos los cultivos registrados en la base de datos
+  uid: a11a6ee9-5dfe-4b2b-91fd-9d6dc85cfbb3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de formulas en el contenido de la respuesta, con la
+    lista de todos los registros de la fase formula registrados en la base de datos
+  uid: 74ed26c9-ecf6-4d59-871b-e961fb8ec2bc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen registros de formulas en la base de datos
+  uid: 8aed598a-3eb8-4182-8be1-612e27ad089c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de formulas en el contenido de la respuesta, con la
+    lista de todos los registros de la fase preparation area registrados en la base
+    de datos
+  uid: 00233146-0259-4de9-92bf-ce775cc3edf0
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen registros de preparation area en la base de datos
+  uid: be8a5fbb-f055-434e-b090-221634a90be6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de formulas en el contenido de la respuesta, con la
+    lista de todos los registros de la fase bunker registrados en la base de datos
+  uid: 935b6ebc-f074-498b-8013-aba73978bd37
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen registros de bunker en la base de datos
+  uid: d9105046-01e9-456b-90c0-873b5154793b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de formulas en el contenido de la respuesta, con la
+    lista de todos los registros de la fase tunnel registrados en la base de datos
+  uid: a0e8d9b2-2335-4e0d-b8da-83dda6317ff2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen registros de tunnel en la base de datos
+  uid: 9f7360a6-7ed0-4285-94d4-7ea8ccd06459
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de grow rooms en el contenido de la respuesta, con la
+    lista de todos los registros de las fases relacionadas con grow room registrados
+    en la base de datos
+  uid: 82f67602-63a7-4ad7-acd4-83287c0dbfc8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que no existen registros de las fases de grow room en la base de datos
+  uid: 50f57142-a190-4509-b928-e48feaecdca5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 200, 150, 450, 300, 100,
+    250, 400, 200, 5, 2
+  uid: b8cb2128-18e4-463b-8f57-0b39e9d50702
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de registro en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de registro, 200, 150, 450, 300, 100, 250,
+    400, 200, 5, 2
+  uid: 0cb5122c-0d10-47d1-9875-d7e0fad1f67d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que un cultivo con id 7 no se encuentra almacenado
+  uid: 4a75088a-97fe-476d-95cc-002208e6cac3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 300, 50, 350, 200, 400, 150,
+    300, 100, 7, 2
+  uid: f5709824-759a-46e8-9f16-c53470114d12
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: que un empleado con id 10 no se encuentra almacenado
+  uid: be68bc39-f755-4581-8381-a31922e91501
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 200, 150, 250, 200, 500,
+    150, 300, 50, 5, 10
+  uid: 79e79b90-35e5-42e6-a7b8-c34d918a72b2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores "p1", 30, "p2", 5, 2
+  uid: ad8aee0a-ebba-4a4d-9a75-f8cefbd0a867
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de registro en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de registro, "p1", 30, "p2", 5, 2
+  uid: 5446dd0d-8423-4633-a2b9-c931b9cf47d0
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores "p1", 30, "p2", 7, 2
+  uid: a4872f58-0bfe-4a53-a611-209cfb97f96c
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores "p1", 31, "p2", 5, 10
+  uid: 5b6d3ee5-f7a3-4afb-a5c4-90e4175e79fb
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 525, 481, 490, 498.67, 50,
+    "p1", 5, 2
+  uid: f66a0d5c-549f-4c1d-9db6-e53b6702f38b
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de registro en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de registro, 525, 481, 490, 498.67, 50,
+    "p1", 5, 2
+  uid: 75816277-7379-41c3-926f-91fc2f8232ea
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 524, 485, 484, 498.33, 50,
+    "p1", 7, 2
+  uid: 0d56446f-7ef1-42b1-9385-6378030c9cbf
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 525, 486, 484, 498.67, 50,
+    "p1", 5, 10
+  uid: ddd01a15-33b4-49cf-86cf-bde3463cf3a1
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 545, 543, 500, 513.33, 16,
+    50, 30, 62, "p1", 5, 2
+  uid: f1ed636e-e745-47fd-9ac0-bf8f1202f639
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de registro en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de registro, 545, 543, 500, 513.33, 16,
+    50, 30, 62, "p1", 5, 2
+  uid: d3e084ef-5ed6-40c4-b527-b7867bed4ca1
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 543, 493, 497, 511, 18, 50,
+    30, 62, "p1", 7, 2
+  uid: 7bfc9de4-e452-407a-994d-90ab10df87fb
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 545, 543, 500, 513.33, 30,
+    50, 30, 62, "p1", 5, 10
+  uid: 4e50cf1f-6539-4cfc-b740-9b778abf94b3
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 4, 22.0, 23-24, 2192, 92,
+    20.0, "p1", "p2", 5, 2
+  uid: 7f4c6e03-368c-4f6f-8a90-6e143bfa3f3c
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: se incluye un recurso de registro en el contenido de la respuesta, con los
+    valores de la fecha actual como fecha de registro, 4, 22.0, 23-24, 2192, 92, 20.0,
+    "p1", "p2", 5, 2
+  uid: cbc0ed79-812b-49f6-b292-705efde5afce
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 4, 22.0, 23-24, 2192, 92,
+    20.0, "p1", "p2", 7, 2
+  uid: b1183bfd-3179-4d87-8700-c6b55f692331
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: una solicitud de post es enviada con los valores 4, 22.0, 23-24, 2192, 92,
+    20.0, "p1", "p2", 5, 10
+  uid: 8c171b3c-d943-410c-a3c4-eb28f0b1a337
+  parameters:
+  - name: p1
+  - name: p2
   body_hash: d41d8cd98f00b204e9800998ecf8427e

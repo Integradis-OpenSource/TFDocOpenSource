@@ -6,169 +6,164 @@ import io.cucumber.java.en.*;
 public class StepDefinitions {
     public Actionwords actionwords = new Actionwords();
 
-    @Given("el visitante tenga una consulta o comentario relacionado con la aplicación")
-    public void elVisitanteTengaUnaConsultaOComentarioRelacionadoConLaAplicacion() {
-        actionwords.elVisitanteTengaUnaConsultaOComentarioRelacionadoConLaAplicacion();
+    @Given("que el usuario desee crear una cuenta en la aplicación Greenhouse")
+    public void queElUsuarioDeseeCrearUnaCuentaEnLaAplicacionGreenhouse() {
+        actionwords.queElUsuarioDeseeCrearUnaCuentaEnLaAplicacionGreenhouse();
     }
 
-    @When("redacte un mensaje y adjunte una dirección de correo electronico para contactar a los desarrolladores")
-    public void redacteUnMensajeYAdjunteUnaDireccionDeCorreoElectronicoParaContactarALosDesarrolladores() {
-        actionwords.redacteUnMensajeYAdjunteUnaDireccionDeCorreoElectronicoParaContactarALosDesarrolladores();
+    @When("ingrese las credenciales de una cuenta inexistente en la base de datos Greenhouse and haya ingresado una contraseña que cumple con todos los requisitos de seguridad and haya aceptado los términos y condiciones de uso")
+    public void ingreseLasCredencialesDeUnaCuentaInexistenteEnLaBaseDeDatosGreenhouseAndHayaIngresadoUnaContrasenaQueCumpleConTodosLosRequisitosDeSeguridadAndHayaAceptadoLosTerminosYCondicionesDeUso() {
+        actionwords.ingreseLasCredencialesDeUnaCuentaInexistenteEnLaBaseDeDatosGreenhouseAndHayaIngresadoUnaContrasenaQueCumpleConTodosLosRequisitosDeSeguridadAndHayaAceptadoLosTerminosYCondicionesDeUso();
     }
 
-    @Then("el sistema remitirá la consulta a los desarrolladores")
-    public void elSistemaRemitiraLaConsultaALosDesarrolladores() {
-        actionwords.elSistemaRemitiraLaConsultaALosDesarrolladores();
+    @Then("se procederá con el cobro para usar la aplicación")
+    public void seProcederaConElCobroParaUsarLaAplicacion() {
+        actionwords.seProcederaConElCobroParaUsarLaAplicacion();
     }
 
-    @Given("el visitante se encuentre dentro de la landing page")
-    public void elVisitanteSeEncuentreDentroDeLaLandingPage() {
-        actionwords.elVisitanteSeEncuentreDentroDeLaLandingPage();
+    @When("ingrese una dirección de correo electrónico o contraseña que no cumplen con los requisitos especificados")
+    public void ingreseUnaDireccionDeCorreoElectronicoOContrasenaQueNoCumplenConLosRequisitosEspecificados() {
+        actionwords.ingreseUnaDireccionDeCorreoElectronicoOContrasenaQueNoCumplenConLosRequisitosEspecificados();
     }
 
-    @When("navegue a través de las diversas secciones")
-    public void navegueATravesDeLasDiversasSecciones() {
-        actionwords.navegueATravesDeLasDiversasSecciones();
+    @Then("se le denegará la operación")
+    public void seLeDenegaraLaOperacion() {
+        actionwords.seLeDenegaraLaOperacion();
     }
 
-    @Then("podrá encontrar información clara y concisa que me permita entender de inmediato el propósito principal del software")
-    public void podraEncontrarInformacionClaraYConcisaQueMePermitaEntenderDeInmediatoElPropositoPrincipalDelSoftware() {
-        actionwords.podraEncontrarInformacionClaraYConcisaQueMePermitaEntenderDeInmediatoElPropositoPrincipalDelSoftware();
+    @Given("que el usuario desee adquirir alguno de los planes de suscripción a la aplicación")
+    public void queElUsuarioDeseeAdquirirAlgunoDeLosPlanesDeSuscripcionALaAplicacion() {
+        actionwords.queElUsuarioDeseeAdquirirAlgunoDeLosPlanesDeSuscripcionALaAplicacion();
     }
 
-    @Given("el usuario desee comenzar a utilizar la aplicación")
-    public void elUsuarioDeseeComenzarAUtilizarLaAplicacion() {
-        actionwords.elUsuarioDeseeComenzarAUtilizarLaAplicacion();
+    @When("ingrese correctamente las credenciales necesarias para efectuar el pago")
+    public void ingreseCorrectamenteLasCredencialesNecesariasParaEfectuarElPago() {
+        actionwords.ingreseCorrectamenteLasCredencialesNecesariasParaEfectuarElPago();
     }
 
-    @When("ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado")
-    public void ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaborado() {
-        actionwords.ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaborado();
+    @Then("el sistema creará la cuenta bajo el plan elegido")
+    public void elSistemaCrearaLaCuentaBajoElPlanElegido() {
+        actionwords.elSistemaCrearaLaCuentaBajoElPlanElegido();
     }
 
-    @Then("deberá ser redirigido a la página desplegada")
-    public void deberaSerRedirigidoALaPaginaDesplegada() {
-        actionwords.deberaSerRedirigidoALaPaginaDesplegada();
+    @When("ingrese alguna credencial necesaria para efectuar el pago de manera incorrecta")
+    public void ingreseAlgunaCredencialNecesariaParaEfectuarElPagoDeManeraIncorrecta() {
+        actionwords.ingreseAlgunaCredencialNecesariaParaEfectuarElPagoDeManeraIncorrecta();
     }
 
-    @When("ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección o el servidor de la aplicación no responde")
-    public void ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaboradoYOcurraUnErrorEnElProcesoDeRedireccionOElServidorDeLaAplicacionNoResponde() {
-        actionwords.ingreseALaLandingPageYSeleccioneLaOpcionQuePermiteElAccesoAlSoftwareElaboradoYOcurraUnErrorEnElProcesoDeRedireccionOElServidorDeLaAplicacionNoResponde();
+    @Then("el sistema solicitará reingresar la información")
+    public void elSistemaSolicitaraReingresarLaInformacion() {
+        actionwords.elSistemaSolicitaraReingresarLaInformacion();
     }
 
-    @Then("el usuario deberá obtener un mensaje de error generado")
-    public void elUsuarioDeberaObtenerUnMensajeDeErrorGenerado() {
-        actionwords.elUsuarioDeberaObtenerUnMensajeDeErrorGenerado();
+    @Given("que el usuario posee una cuenta en la aplicación Greenhouse y desee iniciar sesión")
+    public void queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseeIniciarSesion() {
+        actionwords.queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseeIniciarSesion();
     }
 
-    @Given("a un técnico o supervisor le corresponda realizar un registro preiódico durante la fase 0")
-    public void aUnTecnicoOSupervisorLeCorrespondaRealizarUnRegistroPreiodicoDuranteLaFase0() {
-        actionwords.aUnTecnicoOSupervisorLeCorrespondaRealizarUnRegistroPreiodicoDuranteLaFase0();
+    @When("ingrese las credenciales necesarias correctamente")
+    public void ingreseLasCredencialesNecesariasCorrectamente() {
+        actionwords.ingreseLasCredencialesNecesariasCorrectamente();
     }
 
-    @When("ingrese la información asociada a los insumos a utilizar")
-    public void ingreseLaInformacionAsociadaALosInsumosAUtilizar() {
-        actionwords.ingreseLaInformacionAsociadaALosInsumosAUtilizar();
+    @Then("el sistema permitirá el acceso a la aplicación")
+    public void elSistemaPermitiraElAccesoALaAplicacion() {
+        actionwords.elSistemaPermitiraElAccesoALaAplicacion();
     }
 
-    @Then("el sistema guardará el reporte en la base de datos")
-    public void elSistemaGuardaraElReporteEnLaBaseDeDatos() {
-        actionwords.elSistemaGuardaraElReporteEnLaBaseDeDatos();
+    @Given("que el usuario posee una cuenta en la aplicación Greenhouse y desea iniciar sesión")
+    public void queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseaIniciarSesion() {
+        actionwords.queElUsuarioPoseeUnaCuentaEnLaAplicacionGreenhouseYDeseaIniciarSesion();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico durante la fase 0")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoDuranteLaFase0() {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoDuranteLaFase0();
+    @When("ingrese alguna credencial de manera incorrecta")
+    public void ingreseAlgunaCredencialDeManeraIncorrecta() {
+        actionwords.ingreseAlgunaCredencialDeManeraIncorrecta();
     }
 
-    @When("no ingrese toda la información obligatoria solicitada dentro de un registro")
-    public void noIngreseTodaLaInformacionObligatoriaSolicitadaDentroDeUnRegistro() {
-        actionwords.noIngreseTodaLaInformacionObligatoriaSolicitadaDentroDeUnRegistro();
+    @Then("el sistema denegará la solicitud")
+    public void elSistemaDenegaraLaSolicitud() {
+        actionwords.elSistemaDenegaraLaSolicitud();
     }
 
-    @Then("el sistema rechazará la operación y solicitará completar campos restantes")
-    public void elSistemaRechazaraLaOperacionYSolicitaraCompletarCamposRestantes() {
-        actionwords.elSistemaRechazaraLaOperacionYSolicitaraCompletarCamposRestantes();
+    @Given("que el técnico supervisor desea comenzar una nueva siembra")
+    public void queElTecnicoSupervisorDeseaComenzarUnaNuevaSiembra() {
+        actionwords.queElTecnicoSupervisorDeseaComenzarUnaNuevaSiembra();
     }
 
-    @Given("a un tecnico supervisor le corresponde realizar un registro periódico sobre mezcla de insumos durante la fase de {string}")
-    public void aUnTecnicoSupervisorLeCorrespondeRealizarUnRegistroPeriodicoSobreMezclaDeInsumosDuranteLaFaseDeP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondeRealizarUnRegistroPeriodicoSobreMezclaDeInsumosDuranteLaFaseDeP1(p1);
+    @When("confirme su intención")
+    public void confirmeSuIntencion() {
+        actionwords.confirmeSuIntencion();
     }
 
-    @When("ingrese las actividades realizadas en el patio")
-    public void ingreseLasActividadesRealizadasEnElPatio() {
-        actionwords.ingreseLasActividadesRealizadasEnElPatio();
+    @Then("el id y fecha de creación del cultivo serán almacenados en la base de datos de la aplicación")
+    public void elIdYFechaDeCreacionDelCultivoSeranAlmacenadosEnLaBaseDeDatosDeLaAplicacion() {
+        actionwords.elIdYFechaDeCreacionDelCultivoSeranAlmacenadosEnLaBaseDeDatosDeLaAplicacion();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la mezcla de insumos durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaMezclaDeInsumosDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaMezclaDeInsumosDuranteLaFaseP1(p1);
+    @Given("que el técnico supervisor haya intentado crear una nueva siembra")
+    public void queElTecnicoSupervisorHayaIntentadoCrearUnaNuevaSiembra() {
+        actionwords.queElTecnicoSupervisorHayaIntentadoCrearUnaNuevaSiembra();
     }
 
-    @Then("el sistema rechazará la operación y solicitará completar los campos restantes")
-    public void elSistemaRechazaraLaOperacionYSolicitaraCompletarLosCamposRestantes() {
-        actionwords.elSistemaRechazaraLaOperacionYSolicitaraCompletarLosCamposRestantes();
+    @When("cancele la operación")
+    public void canceleLaOperacion() {
+        actionwords.canceleLaOperacion();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la colección del compost durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaColeccionDelCompostDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaColeccionDelCompostDuranteLaFaseP1(p1);
+    @Then("el sistema revertirá la operación y cancelará la creación de un nuevo cultivo")
+    public void elSistemaRevertiraLaOperacionYCancelaraLaCreacionDeUnNuevoCultivo() {
+        actionwords.elSistemaRevertiraLaOperacionYCancelaraLaCreacionDeUnNuevoCultivo();
     }
 
-    @When("ingrese la infromación asociada al estado del compost en cocción dentro del búnker")
-    public void ingreseLaInfromacionAsociadaAlEstadoDelCompostEnCoccionDentroDelBunker() {
-        actionwords.ingreseLaInfromacionAsociadaAlEstadoDelCompostEnCoccionDentroDelBunker();
+    @Given("que el técnico supervisor haya intentado comenzar una nueva siembra")
+    public void queElTecnicoSupervisorHayaIntentadoComenzarUnaNuevaSiembra() {
+        actionwords.queElTecnicoSupervisorHayaIntentadoComenzarUnaNuevaSiembra();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la cocción del compost durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoccionDelCompostDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoccionDelCompostDuranteLaFaseP1(p1);
+    @When("el sistema entre en un estado de error que imposibilite la creación")
+    public void elSistemaEntreEnUnEstadoDeErrorQueImposibiliteLaCreacion() {
+        actionwords.elSistemaEntreEnUnEstadoDeErrorQueImposibiliteLaCreacion();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la pasteurización, enfriamiento y acondicionamiento del compost durante la fase de {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaPasteurizacionEnfriamientoYAcondicionamientoDelCompostDuranteLaFaseDeP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaPasteurizacionEnfriamientoYAcondicionamientoDelCompostDuranteLaFaseDeP1(p1);
+    @Then("cancelará la operación e indicará el error generado")
+    public void cancelaraLaOperacionEIndicaraElErrorGenerado() {
+        actionwords.cancelaraLaOperacionEIndicaraElErrorGenerado();
     }
 
-    @When("ingrese la información asociada al estado del compost dentro del túnel de pasteurización")
-    public void ingreseLaInformacionAsociadaAlEstadoDelCompostDentroDelTunelDePasteurizacion() {
-        actionwords.ingreseLaInformacionAsociadaAlEstadoDelCompostDentroDelTunelDePasteurizacion();
+    @Given("que el técnico supervisor desea visualizar una siembra existente")
+    public void queElTecnicoSupervisorDeseaVisualizarUnaSiembraExistente() {
+        actionwords.queElTecnicoSupervisorDeseaVisualizarUnaSiembraExistente();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la incubación del champiñón durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaIncubacionDelChampinonDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaIncubacionDelChampinonDuranteLaFaseP1(p1);
+    @When("acceda a la lista de cultivos en curso")
+    public void accedaALaListaDeCultivosEnCurso() {
+        actionwords.accedaALaListaDeCultivosEnCurso();
     }
 
-    @When("ingrese la información asociada al estado actual del cultivo dentro de las naves")
-    public void ingreseLaInformacionAsociadaAlEstadoActualDelCultivoDentroDeLasNaves() {
-        actionwords.ingreseLaInformacionAsociadaAlEstadoActualDelCultivoDentroDeLasNaves();
+    @Then("el sistema mostrará la información registrada para el cultivo seleccionado")
+    public void elSistemaMostraraLaInformacionRegistradaParaElCultivoSeleccionado() {
+        actionwords.elSistemaMostraraLaInformacionRegistradaParaElCultivoSeleccionado();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre la cobertura del micelio durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoberturaDelMicelioDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreLaCoberturaDelMicelioDuranteLaFaseP1(p1);
+    @When("el sistema entre en un estado de error al intentar visualizar la lista de cultivos en curso")
+    public void elSistemaEntreEnUnEstadoDeErrorAlIntentarVisualizarLaListaDeCultivosEnCurso() {
+        actionwords.elSistemaEntreEnUnEstadoDeErrorAlIntentarVisualizarLaListaDeCultivosEnCurso();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre el micelio inducido durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElMicelioInducidoDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElMicelioInducidoDuranteLaFaseP1(p1);
+    @Then("se indicará el error generado y se cancelará la operación")
+    public void seIndicaraElErrorGeneradoYSeCancelaraLaOperacion() {
+        actionwords.seIndicaraElErrorGeneradoYSeCancelaraLaOperacion();
     }
 
-    @Given("a un técnico supervisor le corresponda realizar un registro periódico sobre el estado final del cultivo de champiñones durante la fase {string}")
-    public void aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElEstadoFinalDelCultivoDeChampinonesDuranteLaFaseP1(String p1) {
-        actionwords.aUnTecnicoSupervisorLeCorrespondaRealizarUnRegistroPeriodicoSobreElEstadoFinalDelCultivoDeChampinonesDuranteLaFaseP1(p1);
+    @Given("que el usuario desee visualizar la información y estructura de la empresa")
+    public void queElUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa() {
+        actionwords.queElUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa();
     }
 
-    @Given("el usuario desee visualizar la información y estructura de la empresa")
-    public void elUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa() {
-        actionwords.elUsuarioDeseeVisualizarLaInformacionYEstructuraDeLaEmpresa();
-    }
-
-    @When("ingrese al perfil de la misma")
-    public void ingreseAlPerfilDeLaMisma() {
-        actionwords.ingreseAlPerfilDeLaMisma();
+    @When("ingrese al perfil de la empresa")
+    public void ingreseAlPerfilDeLaEmpresa() {
+        actionwords.ingreseAlPerfilDeLaEmpresa();
     }
 
     @Then("obtendrá una lista con los datos de la empresa y los empleados registrados")
@@ -176,18 +171,273 @@ public class StepDefinitions {
         actionwords.obtendraUnaListaConLosDatosDeLaEmpresaYLosEmpleadosRegistrados();
     }
 
-    @Given("el usuario desee visualizar la información de un empleado")
-    public void elUsuarioDeseeVisualizarLaInformacionDeUnEmpleado() {
-        actionwords.elUsuarioDeseeVisualizarLaInformacionDeUnEmpleado();
+    @Given("que el usuario desee visualizar la información de un empleado")
+    public void queElUsuarioDeseeVisualizarLaInformacionDeUnEmpleado() {
+        actionwords.queElUsuarioDeseeVisualizarLaInformacionDeUnEmpleado();
     }
 
-    @When("ingrese al perfil del mismo")
-    public void ingreseAlPerfilDelMismo() {
-        actionwords.ingreseAlPerfilDelMismo();
+    @When("ingrese al perfil del empleado")
+    public void ingreseAlPerfilDelEmpleado() {
+        actionwords.ingreseAlPerfilDelEmpleado();
     }
 
-    @Then("el obtendrá los datos de relevancia, tales como nombre, rol, empresa a la cual pertenece, etc\\.")
-    public void elObtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc() {
-        actionwords.elObtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc();
+    @Then("obtendrá los datos de relevancia, tales como nombre, rol, empresa a la cual pertenece, etc\\.")
+    public void obtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc() {
+        actionwords.obtendraLosDatosDeRelevanciaTalesComoNombreRolEmpresaALaCualPerteneceEtc();
+    }
+
+    @Given("que el endpoint {string} se encuentra disponible")
+    public void queElEndpointP1SeEncuentraDisponible(String p1) {
+        actionwords.queElEndpointP1SeEncuentraDisponible(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores {string}, {string}, {string}, {string}, 5")
+    public void unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P45(String p1, String p2, String p3, String p4) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P45(p1, p2, p3, p4);
+    }
+
+    @Then("se recibirá una respuesta con el estatus 200 and se incluye un recurso de empleado en el contenido de la respuesta, con los valores {string}, {string}, {string}, {string}, 5")
+    public void seRecibiraUnaRespuestaConElEstatus200AndSeIncluyeUnRecursoDeEmpleadoEnElContenidoDeLaRespuestaConLosValoresP1P2P3P45(String p1, String p2, String p3, String p4) {
+        actionwords.seRecibiraUnaRespuestaConElEstatus200AndSeIncluyeUnRecursoDeEmpleadoEnElContenidoDeLaRespuestaConLosValoresP1P2P3P45(p1, p2, p3, p4);
+    }
+
+    @Given("que un empleado con email {string} ya se encuentra almacenado")
+    public void queUnEmpleadoConEmailP1YaSeEncuentraAlmacenado(String p1) {
+        actionwords.queUnEmpleadoConEmailP1YaSeEncuentraAlmacenado(p1);
+    }
+
+    @Then("se recibirá una respuesta con el estatus 500 and se incluye un mensaje en el contenido de la respuesta con los valores {string}")
+    public void seRecibiraUnaRespuestaConElEstatus500AndSeIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(String p1) {
+        actionwords.seRecibiraUnaRespuestaConElEstatus500AndSeIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(p1);
+    }
+
+    @Given("que una compañía con id 8 no se encuentra almacenada")
+    public void queUnaCompaniaConId8NoSeEncuentraAlmacenada() {
+        actionwords.queUnaCompaniaConId8NoSeEncuentraAlmacenada();
+    }
+
+    @When("una solicitud de post es enviada con los valores {string}, {string}, {string}, {string}, 8")
+    public void unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P48(String p1, String p2, String p3, String p4) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValoresP1P2P3P48(p1, p2, p3, p4);
+    }
+
+    @When("una solicitud de post es enviada con el valor 5")
+    public void unaSolicitudDePostEsEnviadaConElValor5() {
+        actionwords.unaSolicitudDePostEsEnviadaConElValor5();
+    }
+
+    @Then("se recibirá una respuesta con el estatus 200")
+    public void seRecibiraUnaRespuestaConElEstatus200() {
+        actionwords.seRecibiraUnaRespuestaConElEstatus200();
+    }
+
+    @Then("se incluye un recurso de cultivo en el contenido de la respuesta, con los valores de la fecha actual como fecha de inicio, 1, 5")
+    public void seIncluyeUnRecursoDeCultivoEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeInicio15() {
+        actionwords.seIncluyeUnRecursoDeCultivoEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeInicio15();
+    }
+
+    @Given("que una compañía con id 9 no se encuentra almacenada")
+    public void queUnaCompaniaConId9NoSeEncuentraAlmacenada() {
+        actionwords.queUnaCompaniaConId9NoSeEncuentraAlmacenada();
+    }
+
+    @When("una solicitud de post es enviada con el valor 9")
+    public void unaSolicitudDePostEsEnviadaConElValor9() {
+        actionwords.unaSolicitudDePostEsEnviadaConElValor9();
+    }
+
+    @Then("se recibirá una respuesta con el estatus 400")
+    public void seRecibiraUnaRespuestaConElEstatus400() {
+        actionwords.seRecibiraUnaRespuestaConElEstatus400();
+    }
+
+    @Then("se incluye un mensaje en el contenido de la respuesta con los valores {string}")
+    public void seIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(String p1) {
+        actionwords.seIncluyeUnMensajeEnElContenidoDeLaRespuestaConLosValoresP1(p1);
+    }
+
+    @When("una solicitud de get es enviada al endpoint")
+    public void unaSolicitudDeGetEsEnviadaAlEndpoint() {
+        actionwords.unaSolicitudDeGetEsEnviadaAlEndpoint();
+    }
+
+    @Then("se incluye un recurso de empleados en el contenido de la respuesta, con la lista de todos los empleados registrados en la base de datos")
+    public void seIncluyeUnRecursoDeEmpleadosEnElContenidoDeLaRespuestaConLaListaDeTodosLosEmpleadosRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeEmpleadosEnElContenidoDeLaRespuestaConLaListaDeTodosLosEmpleadosRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen empleados registrados en la base de datos")
+    public void queNoExistenEmpleadosRegistradosEnLaBaseDeDatos() {
+        actionwords.queNoExistenEmpleadosRegistradosEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un mensaje en el contenido de la respuesta con el valor {string}")
+    public void seIncluyeUnMensajeEnElContenidoDeLaRespuestaConElValorP1(String p1) {
+        actionwords.seIncluyeUnMensajeEnElContenidoDeLaRespuestaConElValorP1(p1);
+    }
+
+    @Then("se incluye un recurso de cultivos en el contenido de la respuesta, con la lista de todos los cultivos registrados en la base de datos")
+    public void seIncluyeUnRecursoDeCultivosEnElContenidoDeLaRespuestaConLaListaDeTodosLosCultivosRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeCultivosEnElContenidoDeLaRespuestaConLaListaDeTodosLosCultivosRegistradosEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un recurso de formulas en el contenido de la respuesta, con la lista de todos los registros de la fase formula registrados en la base de datos")
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseFormulaRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseFormulaRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen registros de formulas en la base de datos")
+    public void queNoExistenRegistrosDeFormulasEnLaBaseDeDatos() {
+        actionwords.queNoExistenRegistrosDeFormulasEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un recurso de formulas en el contenido de la respuesta, con la lista de todos los registros de la fase preparation area registrados en la base de datos")
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFasePreparationAreaRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFasePreparationAreaRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen registros de preparation area en la base de datos")
+    public void queNoExistenRegistrosDePreparationAreaEnLaBaseDeDatos() {
+        actionwords.queNoExistenRegistrosDePreparationAreaEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un recurso de formulas en el contenido de la respuesta, con la lista de todos los registros de la fase bunker registrados en la base de datos")
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseBunkerRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseBunkerRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen registros de bunker en la base de datos")
+    public void queNoExistenRegistrosDeBunkerEnLaBaseDeDatos() {
+        actionwords.queNoExistenRegistrosDeBunkerEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un recurso de formulas en el contenido de la respuesta, con la lista de todos los registros de la fase tunnel registrados en la base de datos")
+    public void seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseTunnelRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeFormulasEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLaFaseTunnelRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen registros de tunnel en la base de datos")
+    public void queNoExistenRegistrosDeTunnelEnLaBaseDeDatos() {
+        actionwords.queNoExistenRegistrosDeTunnelEnLaBaseDeDatos();
+    }
+
+    @Then("se incluye un recurso de grow rooms en el contenido de la respuesta, con la lista de todos los registros de las fases relacionadas con grow room registrados en la base de datos")
+    public void seIncluyeUnRecursoDeGrowRoomsEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLasFasesRelacionadasConGrowRoomRegistradosEnLaBaseDeDatos() {
+        actionwords.seIncluyeUnRecursoDeGrowRoomsEnElContenidoDeLaRespuestaConLaListaDeTodosLosRegistrosDeLasFasesRelacionadasConGrowRoomRegistradosEnLaBaseDeDatos();
+    }
+
+    @Given("que no existen registros de las fases de grow room en la base de datos")
+    public void queNoExistenRegistrosDeLasFasesDeGrowRoomEnLaBaseDeDatos() {
+        actionwords.queNoExistenRegistrosDeLasFasesDeGrowRoomEnLaBaseDeDatos();
+    }
+
+    @When("una solicitud de post es enviada con los valores 200, 150, 450, 300, 100, 250, 400, 200, 5, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores20015045030010025040020052() {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores20015045030010025040020052();
+    }
+
+    @Then("se incluye un recurso de registro en el contenido de la respuesta, con los valores de la fecha actual como fecha de registro, 200, 150, 450, 300, 100, 250, 400, 200, 5, 2")
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro20015045030010025040020052() {
+        actionwords.seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro20015045030010025040020052();
+    }
+
+    @Given("que un cultivo con id 7 no se encuentra almacenado")
+    public void queUnCultivoConId7NoSeEncuentraAlmacenado() {
+        actionwords.queUnCultivoConId7NoSeEncuentraAlmacenado();
+    }
+
+    @When("una solicitud de post es enviada con los valores 300, 50, 350, 200, 400, 150, 300, 100, 7, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores3005035020040015030010072() {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores3005035020040015030010072();
+    }
+
+    @Given("que un empleado con id 10 no se encuentra almacenado")
+    public void queUnEmpleadoConId10NoSeEncuentraAlmacenado() {
+        actionwords.queUnEmpleadoConId10NoSeEncuentraAlmacenado();
+    }
+
+    @When("una solicitud de post es enviada con los valores 200, 150, 250, 200, 500, 150, 300, 50, 5, 10")
+    public void unaSolicitudDePostEsEnviadaConLosValores20015025020050015030050510() {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores20015025020050015030050510();
+    }
+
+    @When("una solicitud de post es enviada con los valores {string}, 30, {string}, 5, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValoresP130P252(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValoresP130P252(p1, p2);
+    }
+
+    @Then("se incluye un recurso de registro en el contenido de la respuesta, con los valores de la fecha actual como fecha de registro, {string}, 30, {string}, 5, 2")
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistroP130P252(String p1, String p2) {
+        actionwords.seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistroP130P252(p1, p2);
+    }
+
+    @When("una solicitud de post es enviada con los valores {string}, 30, {string}, 7, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValoresP130P272(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValoresP130P272(p1, p2);
+    }
+
+    @When("una solicitud de post es enviada con los valores {string}, 31, {string}, 5, 10")
+    public void unaSolicitudDePostEsEnviadaConLosValoresP131P2510(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValoresP131P2510(p1, p2);
+    }
+
+    @When("una solicitud de post es enviada con los valores 525, 481, 490, 498\\.67, 50, {string}, 5, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores5254814904986750P152(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores5254814904986750P152(p1);
+    }
+
+    @Then("se incluye un recurso de registro en el contenido de la respuesta, con los valores de la fecha actual como fecha de registro, 525, 481, 490, 498\\.67, 50, {string}, 5, 2")
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5254814904986750P152(String p1) {
+        actionwords.seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5254814904986750P152(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 524, 485, 484, 498\\.33, 50, {string}, 7, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores5244854844983350P172(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores5244854844983350P172(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 525, 486, 484, 498\\.67, 50, {string}, 5, 10")
+    public void unaSolicitudDePostEsEnviadaConLosValores5254864844986750P1510(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores5254864844986750P1510(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 545, 543, 500, 513\\.33, 16, 50, 30, 62, {string}, 5, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores5455435005133316503062P152(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores5455435005133316503062P152(p1);
+    }
+
+    @Then("se incluye un recurso de registro en el contenido de la respuesta, con los valores de la fecha actual como fecha de registro, 545, 543, 500, 513\\.33, 16, 50, 30, 62, {string}, 5, 2")
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5455435005133316503062P152(String p1) {
+        actionwords.seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro5455435005133316503062P152(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 543, 493, 497, 511, 18, 50, 30, 62, {string}, 7, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores54349349751118503062P172(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores54349349751118503062P172(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 545, 543, 500, 513\\.33, 30, 50, 30, 62, {string}, 5, 10")
+    public void unaSolicitudDePostEsEnviadaConLosValores5455435005133330503062P1510(String p1) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores5455435005133330503062P1510(p1);
+    }
+
+    @When("una solicitud de post es enviada con los valores 4, 22\\.0, 23-24, 2192, 92, 20\\.0, {string}, {string}, 5, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P252(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P252(p1, p2);
+    }
+
+    @Then("se incluye un recurso de registro en el contenido de la respuesta, con los valores de la fecha actual como fecha de registro, 4, 22\\.0, 23-24, 2192, 92, 20\\.0, {string}, {string}, 5, 2")
+    public void seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro42202324219292200P1P252(String p1, String p2) {
+        actionwords.seIncluyeUnRecursoDeRegistroEnElContenidoDeLaRespuestaConLosValoresDeLaFechaActualComoFechaDeRegistro42202324219292200P1P252(p1, p2);
+    }
+
+    @When("una solicitud de post es enviada con los valores 4, 22\\.0, 23-24, 2192, 92, 20\\.0, {string}, {string}, 7, 2")
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P272(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P272(p1, p2);
+    }
+
+    @When("una solicitud de post es enviada con los valores 4, 22\\.0, 23-24, 2192, 92, 20\\.0, {string}, {string}, 5, 10")
+    public void unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P2510(String p1, String p2) {
+        actionwords.unaSolicitudDePostEsEnviadaConLosValores42202324219292200P1P2510(p1, p2);
     }
 }
