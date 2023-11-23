@@ -4239,8 +4239,11 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|Integradis-OpenSource/greenhouse-platform|"master"|feat(testing)|added user and company repository persistence tests|22/11/2023|
 
+<img src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/feature/sprint4/Imagenes/testing_evidence_continue.png">
 
+<img src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/feature/sprint4/Imagenes/testing_evidence.png">
 
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
