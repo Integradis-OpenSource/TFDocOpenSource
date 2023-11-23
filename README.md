@@ -4618,7 +4618,8 @@ Repositorio Landing:
 
 Repositorio Web Application:
 
-
+![insightO](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285141824-6ecce0c6-16b3-4bc6-bcbc-25f6f4c2ad53.png)
+![insight=2](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285141829-027e2e4a-2269-476f-8eff-5b9fe4a17bc5.png)
 
 Repositorio Platform:
 
